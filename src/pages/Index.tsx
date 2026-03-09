@@ -9,9 +9,6 @@ export default function Index() {
 
   return (
     <main id="main-content">
-      {/* Newsletter hero banner */}
-      <NewsletterForm variant="hero" />
-
       {/* Hero article */}
       <section className="container py-8 md:py-12" aria-label="Artikulli kryesor">
         <HeroArticle article={heroArticle} />
@@ -29,6 +26,11 @@ export default function Index() {
         </div>
       </section>
 
+      {/* Inline newsletter */}
+      <section className="container pb-8 md:pb-12">
+        <NewsletterForm variant="inline" />
+      </section>
+
       {/* Albanian women profiles */}
       <AlbanianWomenSection />
 
@@ -44,10 +46,6 @@ export default function Index() {
         </div>
       </section>
 
-      {/* Inline newsletter */}
-      <section className="container pb-12 md:pb-16">
-        <NewsletterForm variant="inline" />
-      </section>
     </main>
   );
 }
