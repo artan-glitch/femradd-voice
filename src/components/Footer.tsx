@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { Instagram } from "lucide-react";
-import NewsletterForm from "./NewsletterForm";
 
 export default function Footer() {
   return (
@@ -42,11 +41,15 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Newsletter */}
+          {/* Links */}
           <div>
-            <h3 className="font-serif text-lg font-semibold mb-4">Abonohu</h3>
-            <p className="text-sm opacity-70 mb-4">Merr lajmet më të mira për gratë shqiptare çdo javë.</p>
-            <NewsletterForm variant="footer" />
+            <h3 className="font-serif text-lg font-semibold mb-4">Më shumë</h3>
+            <ul className="space-y-2 text-sm opacity-70">
+              <li><Link to="/rreth-nesh" className="hover:opacity-100 transition-opacity">Rreth Nesh</Link></li>
+              <li><a href="https://instagram.com/femradd" target="_blank" rel="noopener noreferrer" className="hover:opacity-100 transition-opacity">Instagram</a></li>
+              <li><a href="https://tiktok.com/@femradd" target="_blank" rel="noopener noreferrer" className="hover:opacity-100 transition-opacity">TikTok</a></li>
+              <li><a href="https://facebook.com/femradd" target="_blank" rel="noopener noreferrer" className="hover:opacity-100 transition-opacity">Facebook</a></li>
+            </ul>
           </div>
         </div>
 

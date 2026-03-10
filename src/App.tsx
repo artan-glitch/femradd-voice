@@ -4,7 +4,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import StickyNewsletter from "@/components/StickyNewsletter";
+
 import Index from "./pages/Index";
 import ArticlePage from "./pages/ArticlePage";
 import CategoryPage from "./pages/CategoryPage";
@@ -32,7 +32,6 @@ const App = () => (
           <Route path="*" element={<NotFound />} />
         </Routes>
         <Footer />
-        <StickyNewsletter />
       </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>
