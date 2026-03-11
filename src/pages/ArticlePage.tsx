@@ -1,30 +1,86 @@
+import { useState, useEffect, useCallback, useRef } from "react";
 import { useParams, Link } from "react-router-dom";
-import { getArticleBySlug, getRelatedArticles, getAdjacentArticles, categoryColors } from "@/data/articles";
+import { getArticleBySlug, getRelatedArticles, categoryColors } from "@/data/articles";
+import { formatDateAlbanian } from "@/lib/utils";
+import { Calendar, RefreshCw } from "lucide-react";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ArticleCard from "@/components/ArticleCard";
 import NotFound from "./NotFound";
 import ReadingProgressBar from "@/components/ReadingProgressBar";
 import TableOfContents from "@/components/TableOfContents";
 import AuthorBio from "@/components/AuthorBio";
-import ArticleNav from "@/components/ArticleNav";
+
 import BackToTop from "@/components/BackToTop";
 import ShareButtons from "@/components/ShareButtons";
 import ArticleTags from "@/components/ArticleTags";
 import ArticleHead from "@/components/ArticleHead";
+import ImageLightbox from "@/components/ImageLightbox";
+import FontSizeToggle from "@/components/FontSizeToggle";
+import ArticleReaction from "@/components/ArticleReaction";
+import ArticleFAQ from "@/components/ArticleFAQ";
+
+type FontSize = "normal" | "large" | "x-large";
+
+const fontSizeClass: Record<FontSize, string> = {
+  normal: "",
+  large: "text-lg md:text-xl [&>p]:text-lg [&>p]:md:text-xl",
+  "x-large": "text-xl md:text-2xl [&>p]:text-xl [&>p]:md:text-2xl",
+};
 
 export default function ArticlePage() {
   const { slug } = useParams<{ slug: string }>();
   const article = slug ? getArticleBySlug(slug) : undefined;
+  const articleRef = useRef<HTMLElement>(null);
+
+  // Lightbox state
+  const [lightboxSrc, setLightboxSrc] = useState<string | null>(null);
+  const [lightboxAlt, setLightboxAlt] = useState("");
+
+  // Font size state
+  const [fontSize, setFontSize] = useState<FontSize>(() => {
+    const saved = localStorage.getItem("article-font-size");
+    return (saved as FontSize) || "normal";
+  });
+
+  const handleFontSize = useCallback((size: FontSize) => {
+    setFontSize(size);
+    localStorage.setItem("article-font-size", size);
+  }, []);
+
+  // Add click handlers to article body images for lightbox
+  useEffect(() => {
+    const el = articleRef.current;
+    if (!el) return;
+
+    const images = el.querySelectorAll("img");
+    const handler = (e: Event) => {
+      const img = e.currentTarget as HTMLImageElement;
+      setLightboxSrc(img.src);
+      setLightboxAlt(img.alt || "");
+    };
+
+    images.forEach((img) => {
+      img.style.cursor = "zoom-in";
+      if (img.loading !== "lazy") img.loading = "lazy";
+      img.addEventListener("click", handler);
+    });
+
+    return () => {
+      images.forEach((img) => img.removeEventListener("click", handler));
+    };
+  }, [article?.content]);
 
   if (!article) return <NotFound />;
 
   const related = getRelatedArticles(article.id, 3);
-  const { prev, next } = getAdjacentArticles(article.id);
   const pageUrl = `https://femradd.com/artikull/${article.slug}`;
+  const isUpdated = article.modifiedAt !== article.publishedAt;
 
+  // Article JSON-LD
   const articleJsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
+    mainEntityOfPage: { "@type": "WebPage", "@id": pageUrl },
     headline: article.title,
     description: article.excerpt,
     image: article.image,
@@ -32,9 +88,14 @@ export default function ArticlePage() {
     dateModified: article.modifiedAt,
     inLanguage: "sq",
     articleSection: article.categoryLabel,
+    wordCount: article.content.replace(/<[^>]*>/g, "").split(/\s+/).length,
     author: {
       "@type": "Person",
       name: article.author.name,
+      url: `https://femradd.com/autore/${article.author.slug}`,
+      ...(article.author.socials?.length && {
+        sameAs: article.author.socials.map((s) => s.url),
+      }),
     },
     publisher: {
       "@type": "Organization",
@@ -42,6 +103,22 @@ export default function ArticlePage() {
       url: "https://femradd.com",
     },
   };
+
+  // FAQ JSON-LD (only if article has FAQs)
+  const faqJsonLd = article.faqs?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: article.faqs.map((faq) => ({
+          "@type": "Question",
+          name: faq.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: faq.answer,
+          },
+        })),
+      }
+    : null;
 
   return (
     <main id="main-content">
@@ -56,10 +133,23 @@ export default function ArticlePage() {
       />
       <ReadingProgressBar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} />
+      {faqJsonLd && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+      )}
 
-      {/* Full article layout — single grid so header + body share the same left edge */}
-      <div className="container max-w-5xl pt-8 md:pt-12">
-        <div className="lg:grid lg:grid-cols-[1fr_220px] lg:gap-10">
+      {/* Lightbox */}
+      <ImageLightbox src={lightboxSrc} alt={lightboxAlt} onClose={() => setLightboxSrc(null)} />
+
+      {/* Full article layout */}
+      <div className="container max-w-5xl xl:max-w-6xl pt-8 md:pt-12">
+        <div className="lg:grid lg:grid-cols-[1fr_220px] xl:grid-cols-[48px_1fr_220px] lg:gap-8 xl:gap-10">
+          {/* Sticky share sidebar — xl only */}
+          <div className="hidden xl:block" aria-label="Ndaj artikullin">
+            <div className="sticky top-24 flex flex-col gap-2 pt-[420px]">
+              <ShareButtons title={article.title} url={pageUrl} variant="vertical" />
+            </div>
+          </div>
+
           {/* Main content column */}
           <div className="max-w-3xl">
             {/* Featured image */}
@@ -88,16 +178,31 @@ export default function ArticlePage() {
               {article.title}
             </h1>
 
-            <div className="flex items-center gap-4 mb-8 pb-8 border-b border-border">
+            <div className="flex flex-wrap items-center gap-4 mb-8 pb-8 border-b border-border">
               <Link to={`/autore/${article.author.slug}`} className="flex items-center gap-3">
-                <img src={article.author.avatar} alt={article.author.name} className="w-10 h-10 rounded-full object-cover" width={40} height={40} />
+                <img src={article.author.avatar} alt={article.author.name} loading="lazy" className="w-10 h-10 rounded-full object-cover" width={40} height={40} />
                 <div>
                   <p className="text-sm font-semibold text-foreground">{article.author.name}</p>
-                  <p className="text-xs text-muted-foreground">{article.publishedAt} · {article.readingTime} min lexim</p>
+                  <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground mt-0.5">
+                    <span className="inline-flex items-center gap-1">
+                      <Calendar className="w-3 h-3" />
+                      {formatDateAlbanian(article.publishedAt)}
+                    </span>
+                    {isUpdated && (
+                      <span className="inline-flex items-center gap-1">
+                        <RefreshCw className="w-3 h-3" />
+                        Përditësuar {formatDateAlbanian(article.modifiedAt)}
+                      </span>
+                    )}
+                    <span>· {article.readingTime} min lexim</span>
+                  </div>
                 </div>
               </Link>
-              <div className="ml-auto">
-                <ShareButtons title={article.title} url={pageUrl} />
+              <div className="flex items-center gap-2 ml-auto">
+                <FontSizeToggle size={fontSize} onChange={handleFontSize} />
+                <div className="xl:hidden">
+                  <ShareButtons title={article.title} url={pageUrl} />
+                </div>
               </div>
             </div>
 
@@ -107,18 +212,30 @@ export default function ArticlePage() {
             </div>
 
             <article
-              className="prose prose-lg max-w-none prose-headings:font-serif prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-a:text-primary prose-h2:mt-12 prose-h2:mb-4 prose-h3:mt-8 prose-h3:mb-3 prose-img:rounded-xl prose-img:my-8"
+              ref={articleRef}
+              className={`prose prose-lg max-w-none prose-headings:font-serif prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-strong:text-foreground prose-a:text-primary prose-blockquote:text-muted-foreground prose-li:text-muted-foreground prose-hr:border-border prose-h2:mt-12 prose-h2:mb-4 prose-h3:mt-8 prose-h3:mb-3 prose-img:rounded-xl prose-img:my-8 ${fontSizeClass[fontSize]}`}
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
+
+            {/* Bottom share */}
+            <div className="flex items-center gap-4 mt-10 pt-6 border-t border-border">
+              <span className="text-sm text-muted-foreground font-medium">Ndaj artikullin:</span>
+              <ShareButtons title={article.title} url={pageUrl} />
+            </div>
 
             {/* Tags */}
             <ArticleTags category={article.category} />
 
+            {/* Was this helpful? */}
+            <ArticleReaction articleId={article.id} />
+
+            {/* FAQ section */}
+            {article.faqs && <ArticleFAQ faqs={article.faqs} />}
+
             {/* Author bio */}
             <AuthorBio author={article.author} />
 
-            {/* Previous / Next */}
-            <ArticleNav prev={prev} next={next} />
+
           </div>
 
           {/* Sidebar ToC — desktop only */}

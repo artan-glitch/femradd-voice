@@ -5,9 +5,10 @@ interface Props {
   description: string;
   url: string;
   type?: string;
+  image?: string;
 }
 
-export default function PageHead({ title, description, url, type = "website" }: Props) {
+export default function PageHead({ title, description, url, type = "website", image }: Props) {
   useEffect(() => {
     document.title = `${title} — FemraDD`;
 
@@ -40,16 +41,22 @@ export default function PageHead({ title, description, url, type = "website" }: 
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
+    if (image) {
+      setMeta("property", "og:image", image);
+    }
 
     // Twitter
-    setMeta("name", "twitter:card", "summary");
+    setMeta("name", "twitter:card", image ? "summary_large_image" : "summary");
     setMeta("name", "twitter:title", title);
     setMeta("name", "twitter:description", description);
+    if (image) {
+      setMeta("name", "twitter:image", image);
+    }
 
     return () => {
       document.title = "FemraDD — Zëri i Gruas Shqiptare";
     };
-  }, [title, description, url, type]);
+  }, [title, description, url, type, image]);
 
   return null;
 }

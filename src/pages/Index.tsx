@@ -1,6 +1,7 @@
 import { articles } from "@/data/articles";
 import HeroArticle from "@/components/HeroArticle";
 import ArticleCard from "@/components/ArticleCard";
+import NewsletterForm from "@/components/NewsletterForm";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";
 
@@ -38,6 +39,13 @@ export default function Index() {
         </div>
       </section>
 
+      {/* Newsletter */}
+      <section className="container pb-8 md:pb-12">
+        <FadeIn>
+          <NewsletterForm variant="inline" />
+        </FadeIn>
+      </section>
+
       {/* More articles */}
       <section className="container pb-8 md:pb-12" aria-label="Më shumë artikuj">
         <FadeIn>
@@ -53,6 +61,9 @@ export default function Index() {
           ))}
         </div>
       </section>
+
+      {/* Hero newsletter CTA */}
+      <NewsletterForm variant="hero" />
 
     </main>
   );

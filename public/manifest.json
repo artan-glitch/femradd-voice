@@ -1,0 +1,22 @@
+{
+  "name": "FemraDD — Zëri i Gruas Shqiptare",
+  "short_name": "FemraDD",
+  "description": "Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F3EE",
+  "theme_color": "#C86B4A",
+  "lang": "sq",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

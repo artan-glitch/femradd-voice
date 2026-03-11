@@ -1,3 +1,5 @@
+import heroImg from "@/assets/hero-about.jpg";
+import cultureImg from "@/assets/article-culture.jpg";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";
@@ -20,6 +22,17 @@ export default function About() {
         url="https://femradd.com/rreth-nesh"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+
+      {/* Hero image */}
+      <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">
+        <img
+          src={heroImg}
+          alt="FemraDD — Zëri i Gruas Shqiptare"
+          className="w-full h-full object-cover"
+          width={1200}
+          height={400}
+        />
+      </div>
 
       <div className="container max-w-3xl py-8 md:py-12">
         <Breadcrumbs
@@ -54,6 +67,23 @@ export default function About() {
             <p>
               Nga kultura te dashuria, nga karriera te argëtimi — ne mbulojmë temat që kanë rëndësi për jetën tënde. Pa gjykime, pa klishe, pa filtra.
             </p>
+          </FadeIn>
+
+          {/* Inline image */}
+          <FadeIn>
+            <figure className="my-8">
+              <img
+                src={cultureImg}
+                alt="Ekipi i FemraDD në punë"
+                className="w-full rounded-xl object-cover aspect-[16/9]"
+                loading="lazy"
+                width={800}
+                height={450}
+              />
+              <figcaption className="text-center text-sm text-muted-foreground mt-3">
+                Ekipi ynë editorial — të përkushtuara ndaj gazetarisë cilësore shqiptare.
+              </figcaption>
+            </figure>
           </FadeIn>
 
           <FadeIn>

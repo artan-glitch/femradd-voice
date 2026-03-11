@@ -49,6 +49,7 @@ export default function AuthorPage() {
             <img
               src={author.avatar}
               alt={author.name}
+              loading="lazy"
               width={96}
               height={96}
               className="w-24 h-24 rounded-full object-cover ring-2 ring-primary/20 ring-offset-4 ring-offset-background"

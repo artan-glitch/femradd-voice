@@ -1,12 +1,14 @@
 import { useState } from "react";
 import { Share2, Facebook, Twitter, Link as LinkIcon, Check } from "lucide-react";
+import { toast } from "sonner";
 
 interface Props {
   title: string;
   url?: string;
+  variant?: "horizontal" | "vertical";
 }
 
-export default function ShareButtons({ title, url }: Props) {
+export default function ShareButtons({ title, url, variant = "horizontal" }: Props) {
   const [copied, setCopied] = useState(false);
   const pageUrl = url || window.location.href;
 
@@ -32,6 +34,7 @@ export default function ShareButtons({ title, url }: Props) {
     try {
       await navigator.clipboard.writeText(pageUrl);
       setCopied(true);
+      toast.success("Linku u kopjua!");
       setTimeout(() => setCopied(false), 2000);
     } catch {}
   };
@@ -39,7 +42,7 @@ export default function ShareButtons({ title, url }: Props) {
   const btnClass = "p-2 rounded-full hover:bg-muted transition-colors text-muted-foreground hover:text-foreground";
 
   return (
-    <div className="flex gap-1.5">
+    <div className={variant === "vertical" ? "flex flex-col gap-1.5" : "flex gap-1.5"}>
       <button onClick={shareNative} aria-label="Ndaj" className={btnClass} title="Ndaj">
         <Share2 className="w-4 h-4" />
       </button>

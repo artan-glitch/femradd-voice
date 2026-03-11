@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F7F3EE"/>
+  <rect x="0" y="560" width="1200" height="70" fill="#C86B4A"/>
+  <text x="600" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="72">
+    <tspan font-style="italic" font-weight="500" fill="#1E2536">Femra</tspan><tspan font-style="normal" font-weight="700" fill="#C86B4A">DD</tspan>
+  </text>
+  <text x="600" y="340" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#7A7468">
+    Zëri i Gruas Shqiptare
+  </text>
+  <text x="600" y="390" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" fill="#9A9488">
+    Kulturë · Dashuri · Lifestyle · Argëtim
+  </text>
+  <text x="600" y="600" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#F7F3EE">
+    femradd.com
+  </text>
+</svg>

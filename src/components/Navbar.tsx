@@ -4,6 +4,7 @@ import { Menu, X, Search } from "lucide-react";
 import { categoryLabels } from "@/data/articles";
 import SearchModal from "@/components/SearchModal";
 import ThemeToggle from "@/components/ThemeToggle";
+import Logo from "@/components/Logo";
 
 const navCategories = [
   { slug: "kulture", label: categoryLabels.kulture },
@@ -51,13 +52,7 @@ export default function Navbar() {
       >
         <div className="container flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
-          <Link
-            to="/"
-            className="font-serif text-2xl md:text-3xl font-bold tracking-tight text-foreground"
-            aria-label="FemraDD — Kthehu në faqen kryesore"
-          >
-            Femra<span className="text-primary">DD</span>
-          </Link>
+          <Logo size="text-2xl md:text-3xl" />
 
           {/* Desktop Nav */}
           <div className="hidden lg:flex items-center gap-6">
@@ -102,6 +97,8 @@ export default function Navbar() {
             <ThemeToggle />
             <button
               aria-label={open ? "Mbyll menunë" : "Hap menunë"}
+              aria-expanded={open}
+              aria-controls="mobile-menu"
               className="p-2 text-foreground"
               onClick={() => setOpen(!open)}
             >
@@ -112,7 +109,7 @@ export default function Navbar() {
 
         {/* Mobile menu */}
         {open && (
-          <div className="lg:hidden border-t border-border bg-background animate-fade-in">
+          <div id="mobile-menu" role="navigation" aria-label="Navigimi për celularë" className="lg:hidden border-t border-border bg-background animate-fade-in">
             <div className="container py-4 flex flex-col gap-3">
               {navCategories.map((cat) => (
                 <Link

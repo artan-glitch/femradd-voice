@@ -11,6 +11,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://femradd.com/kontakt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://femradd.com/redaksia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://femradd.com/privatesia</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://femradd.com/kushtet</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://femradd.com/kategori/kulture</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

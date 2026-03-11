@@ -76,7 +76,7 @@ export default function SearchModal({ open, onClose }: Props) {
   if (!open) return null;
 
   return (
-    <div className="fixed inset-0 z-[60]" role="dialog" aria-modal="true" aria-label="Kërko artikuj">
+    <div className="fixed inset-0 z-[60]" role="dialog" aria-modal="true" aria-labelledby="search-modal-title">
       {/* Backdrop */}
       <div className="absolute inset-0 bg-foreground/40 backdrop-blur-sm" onClick={onClose} />
 
@@ -85,14 +85,18 @@ export default function SearchModal({ open, onClose }: Props) {
         {/* Search input */}
         <div className="flex items-center gap-3 px-5 py-4 border-b border-border">
           <Search className="w-5 h-5 text-muted-foreground shrink-0" />
+          <label id="search-modal-title" htmlFor="search-input" className="sr-only">Kërko artikuj</label>
           <input
             ref={inputRef}
+            id="search-input"
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={onKeyDown}
             placeholder="Kërko artikuj, tema, autorë..."
             className="flex-1 bg-transparent outline-none text-foreground placeholder:text-muted-foreground text-base"
+            aria-autocomplete="list"
+            aria-controls="search-results"
           />
           <button onClick={onClose} className="p-1 rounded hover:bg-muted transition-colors" aria-label="Mbyll">
             <X className="w-4 h-4 text-muted-foreground" />
@@ -100,7 +104,7 @@ export default function SearchModal({ open, onClose }: Props) {
         </div>
 
         {/* Results */}
-        <div className="max-h-[50vh] overflow-y-auto">
+        <div id="search-results" className="max-h-[50vh] overflow-y-auto" role="listbox" aria-live="polite">
           {query.trim().length < 2 ? (
             <div className="px-5 py-8 text-center text-sm text-muted-foreground">
               Shkruaj të paktën 2 shkronja për të kërkuar...
@@ -122,6 +126,9 @@ export default function SearchModal({ open, onClose }: Props) {
                     <img
                       src={article.image}
                       alt=""
+                      loading="lazy"
+                      width={56}
+                      height={40}
                       className="w-14 h-10 rounded-lg object-cover shrink-0 mt-0.5"
                     />
                     <div className="min-w-0 flex-1">

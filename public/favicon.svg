@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
   <rect width="48" height="48" rx="10" fill="#c0623e"/>
-  <text x="24" y="33" font-family="Georgia, serif" font-weight="700" font-size="22" fill="#f7f3ef" text-anchor="middle">fDD</text>
+  <text x="10" y="34" font-family="Georgia, serif" font-style="italic" font-weight="500" font-size="24" fill="#f7f3ef">f</text>
+  <text x="22" y="34" font-family="Georgia, serif" font-weight="700" font-size="22" fill="#f7f3ef">D</text>
 </svg>
