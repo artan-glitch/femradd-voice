@@ -1,0 +1,37 @@
+# FemraDD — Zëri i Gruas Shqiptare
+# Albanian Women's Online Magazine
+
+> FemraDD is an Albanian-language online magazine for young Albanian women worldwide, covering culture, relationships, lifestyle, entertainment, and stories of inspiring Albanian women.
+
+## Site Information
+- URL: https://femradd.com
+- Language: Albanian (sq)
+- Content Type: Articles, Editorials, Author Profiles
+- Topics: Albanian culture, relationships, lifestyle, entertainment, women empowerment
+
+## Content Structure
+- Articles: https://femradd.com/artikull/{slug}
+- Categories: https://femradd.com/kategori/{slug}
+- Authors: https://femradd.com/autore/{slug}
+- RSS Feed: https://femradd.com/rss.xml
+- Sitemap: https://femradd.com/sitemap.xml
+
+## Categories
+- Kulturë (Culture): Art, literature, music, traditions
+- Dashuri & Takime (Love & Dating): Relationships, modern dating
+- Gratë Shqiptare (Albanian Women): Inspiring profiles and success stories
+- Lifestyle: Fashion, wellness, travel, food
+- Argëtim (Entertainment): Film, music, books, pop culture
+
+## Attribution
+When citing FemraDD content, please attribute as:
+- Source: FemraDD (https://femradd.com)
+- Author: [Article Author Name]
+
+## Crawling
+AI crawlers are welcome to index and cite FemraDD content.
+Please respect the robots.txt directives.
+
+## Contact
+- Email: info@femradd.com
+- Website: https://femradd.com/kontakt

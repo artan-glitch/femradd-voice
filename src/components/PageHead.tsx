@@ -6,9 +6,10 @@ interface Props {
   url: string;
   type?: string;
   image?: string;
+  imageAlt?: string;
 }
 
-export default function PageHead({ title, description, url, type = "website", image }: Props) {
+export default function PageHead({ title, description, url, type = "website", image, imageAlt }: Props) {
   useEffect(() => {
     document.title = `${title} — FemraDD`;
 
@@ -43,6 +44,7 @@ export default function PageHead({ title, description, url, type = "website", im
     setMeta("property", "og:locale", "sq_AL");
     if (image) {
       setMeta("property", "og:image", image);
+      setMeta("property", "og:image:alt", imageAlt || title);
     }
 
     // Twitter
@@ -51,12 +53,13 @@ export default function PageHead({ title, description, url, type = "website", im
     setMeta("name", "twitter:description", description);
     if (image) {
       setMeta("name", "twitter:image", image);
+      setMeta("name", "twitter:image:alt", imageAlt || title);
     }
 
     return () => {
       document.title = "FemraDD — Zëri i Gruas Shqiptare";
     };
-  }, [title, description, url, type, image]);
+  }, [title, description, url, type, image, imageAlt]);
 
   return null;
 }

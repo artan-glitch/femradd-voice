@@ -89,10 +89,16 @@ export default function ArticlePage() {
     inLanguage: "sq",
     articleSection: article.categoryLabel,
     wordCount: article.content.replace(/<[^>]*>/g, "").split(/\s+/).length,
+    about: {
+      "@type": "Thing",
+      name: article.categoryLabel,
+    },
+    keywords: [article.categoryLabel, "FemraDD", "shqiptare"],
     author: {
       "@type": "Person",
       name: article.author.name,
       url: `https://femradd.com/autore/${article.author.slug}`,
+      image: article.author.avatar,
       ...(article.author.socials?.length && {
         sameAs: article.author.socials.map((s) => s.url),
       }),
@@ -101,6 +107,10 @@ export default function ArticlePage() {
       "@type": "Organization",
       name: "FemraDD",
       url: "https://femradd.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://femradd.com/logo.png",
+      },
     },
   };
 
@@ -126,10 +136,12 @@ export default function ArticlePage() {
         title={article.title}
         description={article.excerpt}
         image={article.image}
+        imageAlt={article.title}
         url={pageUrl}
         publishedAt={article.publishedAt}
         modifiedAt={article.modifiedAt}
         author={article.author.name}
+        section={article.categoryLabel}
       />
       <ReadingProgressBar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} />

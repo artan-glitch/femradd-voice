@@ -4,13 +4,15 @@ interface Props {
   title: string;
   description: string;
   image: string;
+  imageAlt?: string;
   url: string;
   publishedAt: string;
   modifiedAt: string;
   author: string;
+  section?: string;
 }
 
-export default function ArticleHead({ title, description, image, url, publishedAt, modifiedAt, author }: Props) {
+export default function ArticleHead({ title, description, image, imageAlt, url, publishedAt, modifiedAt, author, section }: Props) {
   useEffect(() => {
     // Title
     document.title = `${title} — FemraDD`;
@@ -50,17 +52,27 @@ export default function ArticleHead({ title, description, image, url, publishedA
     setMeta("property", "article:published_time", publishedAt);
     setMeta("property", "article:modified_time", modifiedAt);
     setMeta("property", "article:author", author);
+    if (section) {
+      setMeta("property", "article:section", section);
+      setMeta("property", "article:tag", section);
+    }
+    if (imageAlt) {
+      setMeta("property", "og:image:alt", imageAlt);
+    }
 
     // Twitter
     setMeta("name", "twitter:card", "summary_large_image");
     setMeta("name", "twitter:title", title);
     setMeta("name", "twitter:description", description);
     setMeta("name", "twitter:image", image);
+    if (imageAlt) {
+      setMeta("name", "twitter:image:alt", imageAlt);
+    }
 
     return () => {
       document.title = "FemraDD — Zëri i Gruas Shqiptare";
     };
-  }, [title, description, image, url, publishedAt, modifiedAt, author]);
+  }, [title, description, image, imageAlt, url, publishedAt, modifiedAt, author, section]);
 
   return null;
 }
