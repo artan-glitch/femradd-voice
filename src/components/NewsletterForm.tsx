@@ -20,12 +20,12 @@ export default function NewsletterForm({ variant = "inline" }: Props) {
 
   if (variant === "hero") {
     return (
-      <section id="newsletter" className="bg-primary text-primary-foreground" aria-label="Abonohu në newsletter">
+      <section id="newsletter" className="bg-primary text-white" aria-label="Abonohu në newsletter">
         <div className="container py-10 md:py-14 text-center">
           <h2 className="font-serif text-2xl md:text-3xl font-bold mb-3">
             Lajmet më të mira për gratë shqiptare
           </h2>
-          <p className="text-sm md:text-base opacity-80 mb-6 max-w-lg mx-auto">
+          <p className="text-sm md:text-base text-white/80 mb-6 max-w-lg mx-auto">
             Çdo javë në inbox-in tënd — kulturë, dashuri, lifestyle dhe frymëzim.
           </p>
           <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
@@ -36,12 +36,12 @@ export default function NewsletterForm({ variant = "inline" }: Props) {
               placeholder="email@shembull.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              className="flex-1 px-4 py-3 rounded-full bg-primary-foreground/10 border border-primary-foreground/20 text-primary-foreground placeholder:text-primary-foreground/50 focus:outline-none focus:ring-2 focus:ring-primary-foreground/30 text-sm"
+              className="flex-1 px-4 py-3 rounded-full bg-white/10 border border-white/20 text-white placeholder:text-white/50 focus:outline-none focus:ring-2 focus:ring-white/30 text-sm"
               required
             />
             <button
               type="submit"
-              className="px-6 py-3 rounded-full bg-foreground text-background font-semibold text-sm hover:opacity-90 transition-opacity whitespace-nowrap"
+              className="px-6 py-3 rounded-full bg-white text-primary font-semibold text-sm hover:opacity-90 transition-opacity whitespace-nowrap"
             >
               Abonohu tani
             </button>
