@@ -31,7 +31,7 @@ export default function AuthorBio({ author }: { author: Author }) {
       </Link>
       <div>
         <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">Shkruar nga</p>
-        <Link to={`/autore/${author.slug}`} className="font-serif font-semibold text-foreground hover:text-primary transition-colors">
+        <Link to={`/autore/${author.slug}`} className="font-semibold text-foreground hover:text-primary transition-colors">
           {author.name}
         </Link>
         <p className="text-sm text-muted-foreground mt-1 leading-relaxed">{author.bio}</p>

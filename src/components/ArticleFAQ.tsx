@@ -19,7 +19,7 @@ export default function ArticleFAQ({ faqs }: Props) {
 
   return (
     <section className="my-10" aria-label="Pyetjet e shpeshta">
-      <h2 className="font-serif text-2xl font-bold text-foreground mb-6">Pyetjet e Shpeshta</h2>
+      <h2 className="text-2xl font-bold text-foreground mb-6">Pyetjet e Shpeshta</h2>
       <div className="space-y-3">
         {faqs.map((faq, i) => (
           <div key={i} className="border border-border rounded-xl overflow-hidden">

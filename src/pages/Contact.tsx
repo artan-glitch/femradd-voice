@@ -84,7 +84,7 @@ export default function Contact() {
         />
 
         <FadeIn>
-          <h1 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-4">
+          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
             Kontakt
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed mb-6">
@@ -128,7 +128,7 @@ export default function Contact() {
         {/* Contact form */}
         <FadeIn>
           <div className="bg-card rounded-xl p-6 md:p-8 shadow-card mb-12">
-            <h2 className="font-serif text-2xl font-bold text-foreground mb-2">
+            <h2 className="text-2xl font-bold text-foreground mb-2">
               Na shkruani
             </h2>
             <p className="text-muted-foreground text-sm mb-6">
@@ -140,7 +140,7 @@ export default function Contact() {
                 <div className="w-14 h-14 rounded-full bg-green-100 dark:bg-green-900/30 flex items-center justify-center mb-4">
                   <CheckCircle className="w-7 h-7 text-green-600 dark:text-green-400" />
                 </div>
-                <h3 className="font-serif text-xl font-bold text-foreground mb-2">
+                <h3 className="text-xl font-bold text-foreground mb-2">
                   Mesazhi u dërgua!
                 </h3>
                 <p className="text-muted-foreground text-sm max-w-sm">
@@ -250,12 +250,12 @@ export default function Contact() {
         {/* Additional info */}
         <FadeIn>
           <div className="space-y-6 text-muted-foreground leading-relaxed">
-            <h2 className="font-serif text-2xl font-bold text-foreground">Bashkëpunime</h2>
+            <h2 className="text-2xl font-bold text-foreground">Bashkëpunime</h2>
             <p>
               Jeni gazetare, shkrimtare, ose krijuese përmbajtjeje? Ne gjithmonë kërkojmë zëra të rinj dhe perspektiva autentike. Plotësoni formularin më lart me punën tuaj dhe do t'ju kontaktojmë.
             </p>
 
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">Reklamim</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">Reklamim</h2>
             <p>
               Për mundësi reklamimi dhe partneritete, na shkruani përmes formularit më lart me detajet e propozimit tuaj.
             </p>

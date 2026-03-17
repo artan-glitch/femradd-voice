@@ -82,7 +82,7 @@ export default function CategoryPage() {
                 {articles.length} artikuj
               </span>
             </div>
-            <h1 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-4">
+            <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
               {label}
             </h1>
             {description && (
@@ -118,7 +118,7 @@ export default function CategoryPage() {
                     <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[featured.category]} inline-block mb-4 self-start`}>
                       {featured.categoryLabel}
                     </span>
-                    <h2 className="font-serif text-2xl md:text-3xl font-bold text-foreground leading-tight mb-3 group-hover:text-primary transition-colors">
+                    <h2 className="text-2xl md:text-3xl font-bold text-foreground leading-tight mb-3 group-hover:text-primary transition-colors">
                       {featured.title}
                     </h2>
                     <p className="text-muted-foreground leading-relaxed mb-4 line-clamp-3">

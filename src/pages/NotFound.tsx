@@ -11,10 +11,10 @@ export default function NotFound() {
     <main id="main-content" className="min-h-[60vh]">
       <div className="container max-w-3xl py-16 md:py-24 text-center">
         {/* Big 404 */}
-        <p className="font-serif text-8xl md:text-9xl font-bold text-primary/20 mb-2 select-none">
+        <p className="text-8xl md:text-9xl font-bold text-primary/20 mb-2 select-none">
           404
         </p>
-        <h1 className="font-serif text-3xl md:text-4xl font-bold text-foreground mb-4">
+        <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
           Faqja nuk u gjet
         </h1>
         <p className="text-muted-foreground text-lg leading-relaxed mb-8 max-w-md mx-auto">
@@ -42,7 +42,7 @@ export default function NotFound() {
 
       {/* Suggested articles */}
       <section className="container pb-12 md:pb-16" aria-label="Artikuj të sugjeruar">
-        <h2 className="font-serif text-2xl md:text-3xl font-bold text-foreground mb-8 text-center">
+        <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8 text-center">
           Ndoshta ju intereson
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">

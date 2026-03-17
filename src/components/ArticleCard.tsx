@@ -28,7 +28,7 @@ export default function ArticleCard({ article }: Props) {
           <span className="text-xs text-muted-foreground">{article.readingTime} min lexim</span>
         </div>
         <Link to={`/artikull/${article.slug}`}>
-          <h3 className="font-serif text-lg font-bold leading-snug text-foreground group-hover:text-primary transition-colors mb-2 line-clamp-2">
+          <h3 className="text-lg font-bold leading-snug text-foreground group-hover:text-primary transition-colors mb-2 line-clamp-2">
             {article.title}
           </h3>
         </Link>

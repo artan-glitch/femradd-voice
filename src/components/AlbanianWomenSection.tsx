@@ -4,7 +4,7 @@ export default function AlbanianWomenSection() {
   return (
     <section aria-label="Gratë Shqiptare" className="py-12 md:py-16">
       <div className="container">
-        <h2 className="font-serif text-2xl md:text-3xl font-bold text-foreground mb-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
           Gratë Shqiptare
         </h2>
         <div className="flex gap-6 md:gap-8 overflow-x-auto pb-4 -mx-4 px-4 snap-x snap-mandatory scrollbar-none">

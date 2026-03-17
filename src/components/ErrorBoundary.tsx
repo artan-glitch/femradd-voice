@@ -23,7 +23,7 @@ export default class ErrorBoundary extends Component<Props, State> {
     if (this.state.hasError) {
       return (
         <main id="main-content" className="container max-w-2xl py-20 text-center">
-          <h1 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-4">
+          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
             Diçka shkoi keq
           </h1>
           <p className="text-muted-foreground text-lg mb-8 leading-relaxed">

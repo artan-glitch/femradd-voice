@@ -44,7 +44,7 @@ export default function Editorial() {
         />
 
         <FadeIn>
-          <h1 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-4">
+          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
             Redaksia
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed mb-12 max-w-2xl">
@@ -70,7 +70,7 @@ export default function Editorial() {
                     className="w-28 h-28 rounded-full object-cover ring-2 ring-primary/20 ring-offset-4 ring-offset-card shrink-0"
                   />
                   <div className="flex-1">
-                    <h2 className="font-serif text-xl md:text-2xl font-bold text-foreground group-hover:text-primary transition-colors mb-2">
+                    <h2 className="text-xl md:text-2xl font-bold text-foreground group-hover:text-primary transition-colors mb-2">
                       {author.name}
                     </h2>
                     <p className="text-muted-foreground leading-relaxed mb-3">
@@ -88,7 +88,7 @@ export default function Editorial() {
 
         <FadeIn>
           <div className="mt-16 bg-card rounded-xl p-8 shadow-card text-center">
-            <h2 className="font-serif text-2xl font-bold text-foreground mb-3">
+            <h2 className="text-2xl font-bold text-foreground mb-3">
               Dëshiron të shkruash për ne?
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6 max-w-lg mx-auto">

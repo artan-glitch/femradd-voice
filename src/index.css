@@ -42,7 +42,7 @@
     --charcoal: 220 20% 14%;
     --warm-gray: 36 10% 60%;
 
-    --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --font-serif: 'DM Sans', system-ui, -apple-system, sans-serif;
     --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
 
     --shadow-card: 0 2px 8px -2px hsl(220 20% 14% / 0.06), 0 4px 16px -4px hsl(220 20% 14% / 0.04);

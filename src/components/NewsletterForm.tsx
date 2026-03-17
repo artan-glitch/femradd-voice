@@ -22,7 +22,7 @@ export default function NewsletterForm({ variant = "inline" }: Props) {
     return (
       <section id="newsletter" className="bg-primary text-white" aria-label="Abonohu në newsletter">
         <div className="container py-10 md:py-14 text-center">
-          <h2 className="font-serif text-2xl md:text-3xl font-bold mb-3">
+          <h2 className="text-2xl md:text-3xl font-bold mb-3">
             Lajmet më të mira për gratë shqiptare
           </h2>
           <p className="text-sm md:text-base text-white/80 mb-6 max-w-lg mx-auto">
@@ -100,7 +100,7 @@ export default function NewsletterForm({ variant = "inline" }: Props) {
   // inline
   return (
     <section className="bg-muted rounded-2xl p-8 md:p-12 text-center" aria-label="Abonohu në newsletter">
-      <h2 className="font-serif text-2xl md:text-3xl font-bold mb-3 text-foreground">
+      <h2 className="text-2xl md:text-3xl font-bold mb-3 text-foreground">
         Mos humb asnjë artikull
       </h2>
       <p className="text-sm text-muted-foreground mb-6 max-w-md mx-auto">

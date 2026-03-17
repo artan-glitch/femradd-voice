@@ -184,7 +184,7 @@ export default function ArticlePage() {
               {article.categoryLabel}
             </span>
 
-            <h1 className="font-serif text-3xl md:text-5xl font-bold leading-tight text-foreground mb-4">
+            <h1 className="text-3xl md:text-5xl font-bold leading-tight text-foreground mb-4">
               {article.title}
             </h1>
 
@@ -221,7 +221,7 @@ export default function ArticlePage() {
 
             <article
               ref={articleRef}
-              className={`prose prose-lg max-w-none prose-headings:font-serif prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-strong:text-foreground prose-a:text-primary prose-blockquote:text-muted-foreground prose-li:text-muted-foreground prose-hr:border-border prose-h2:mt-12 prose-h2:mb-4 prose-h3:mt-8 prose-h3:mb-3 prose-img:rounded-xl prose-img:my-8 ${fontSizeClass[fontSize]}`}
+              className={`prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-strong:text-foreground prose-a:text-primary prose-blockquote:text-muted-foreground prose-li:text-muted-foreground prose-hr:border-border prose-h2:mt-12 prose-h2:mb-4 prose-h3:mt-8 prose-h3:mb-3 prose-img:rounded-xl prose-img:my-8 ${fontSizeClass[fontSize]}`}
               dangerouslySetInnerHTML={{ __html: article.content }}
             />
 
@@ -255,7 +255,7 @@ export default function ArticlePage() {
 
       {/* Related articles */}
       <section className="container pb-12 md:pb-16" aria-label="Lexo gjithashtu">
-        <h2 className="font-serif text-2xl md:text-3xl font-bold text-foreground mb-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
           Lexo Gjithashtu
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">

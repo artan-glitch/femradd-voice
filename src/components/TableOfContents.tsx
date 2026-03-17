@@ -71,7 +71,7 @@ export default function TableOfContents({ contentHtml, variant = "inline" }: Pro
     >
       <div className="flex items-center gap-2 mb-3">
         <List className="w-4 h-4 text-primary" />
-        <span className="font-serif font-semibold text-sm text-foreground">Përmbajtja</span>
+        <span className="font-semibold text-sm text-foreground">Përmbajtja</span>
       </div>
       <ol className="space-y-0.5">
         {items.map((item) => (

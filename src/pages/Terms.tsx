@@ -32,7 +32,7 @@ export default function Terms() {
         />
 
         <FadeIn>
-          <h1 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-2">
+          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-2">
             Kushtet e Përdorimit
           </h1>
           <p className="text-sm text-muted-foreground mb-8">
@@ -48,14 +48,14 @@ export default function Terms() {
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">1. Përmbajtja</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">1. Përmbajtja</h2>
             <p>
               E gjithë përmbajtja në FemraDD — duke përfshirë artikujt, imazhet, dizajnin dhe logon — janë pronësi intelektuale e FemraDD ose autorëve përkatës. Përmbajtja ofrohet vetëm për përdorim personal dhe jo-komercial.
             </p>
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">2. Përdorimi i lejuar</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">2. Përdorimi i lejuar</h2>
             <p>Ju mund të:</p>
             <ul className="list-disc pl-6 space-y-2 mt-3">
               <li>Lexoni dhe ndani artikujt me lidhje direkte</li>
@@ -65,7 +65,7 @@ export default function Terms() {
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">3. Përdorimi i ndaluar</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">3. Përdorimi i ndaluar</h2>
             <p>Nuk lejohet:</p>
             <ul className="list-disc pl-6 space-y-2 mt-3">
               <li>Kopjimi, ripublikimi, ose shpërndarja e përmbajtjes pa lejen tonë</li>
@@ -76,28 +76,28 @@ export default function Terms() {
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">4. Mohimi i përgjegjësisë</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">4. Mohimi i përgjegjësisë</h2>
             <p>
               Përmbajtja në FemraDD ofrohet "siç është" për qëllime informuese dhe argëtuese. Ne nuk garantojmë saktësinë, plotësinë, ose aktualitetin e informacionit. Artikujt nuk përbëjnë këshillë profesionale mjekësore, ligjore, ose financiare.
             </p>
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">5. Lidhjet e jashtme</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">5. Lidhjet e jashtme</h2>
             <p>
               FemraDD mund të përfshijë lidhje drejt faqeve të tjera. Ne nuk jemi përgjegjës për përmbajtjen ose praktikat e faqeve të jashtme.
             </p>
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">6. Ndryshimet</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">6. Ndryshimet</h2>
             <p>
               Ne rezervojmë të drejtën të ndryshojmë këto kushte në çdo kohë. Ndryshimet hyjnë në fuqi menjëherë pas publikimit në këtë faqe. Vazhdimi i përdorimit pas ndryshimeve përbën pranimin tuaj.
             </p>
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">7. Kontakti</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">7. Kontakti</h2>
             <p>
               Për pyetje rreth këtyre kushteve, na shkruani përmes{" "}
               <a href="/kontakt" className="text-primary hover:underline">faqes sonë të kontaktit</a>.

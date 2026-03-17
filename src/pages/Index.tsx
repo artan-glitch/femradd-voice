@@ -26,7 +26,7 @@ export default function Index() {
       {/* Latest articles */}
       <section className="container pb-8 md:pb-12" aria-label="Artikujt e fundit">
         <FadeIn>
-          <h2 className="font-serif text-2xl md:text-3xl font-bold text-foreground mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
             Artikujt e Fundit
           </h2>
         </FadeIn>
@@ -42,7 +42,7 @@ export default function Index() {
       {/* More articles */}
       <section className="container pb-8 md:pb-12" aria-label="Më shumë artikuj">
         <FadeIn>
-          <h2 className="font-serif text-2xl md:text-3xl font-bold text-foreground mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
             Zbulo Më Shumë
           </h2>
         </FadeIn>

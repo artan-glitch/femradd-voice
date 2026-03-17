@@ -34,7 +34,7 @@ export default function HeroArticle({ article }: Props) {
           <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[article.category]} inline-block mb-3`}>
             {article.categoryLabel}
           </span>
-          <h1 className="font-serif text-2xl md:text-4xl lg:text-5xl font-bold text-white leading-tight mb-3 max-w-3xl drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
+          <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-white leading-tight mb-3 max-w-3xl drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
             {article.title}
           </h1>
           <p className="text-sm md:text-base text-white/90 max-w-2xl leading-relaxed hidden sm:block drop-shadow-[0_1px_2px_rgba(0,0,0,0.5)]">

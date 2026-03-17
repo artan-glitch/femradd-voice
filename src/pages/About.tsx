@@ -43,7 +43,7 @@ export default function About() {
         />
 
         <FadeIn>
-          <h1 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-6">
+          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-6">
             Rreth Nesh
           </h1>
         </FadeIn>
@@ -56,7 +56,7 @@ export default function About() {
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">Misioni ynë</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">Misioni ynë</h2>
           </FadeIn>
           <FadeIn>
             <p>
@@ -87,7 +87,7 @@ export default function About() {
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">Çfarë na bën të ndryshme</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">Çfarë na bën të ndryshme</h2>
           </FadeIn>
           <FadeIn>
             <ul className="list-disc pl-6 space-y-2">
@@ -99,7 +99,7 @@ export default function About() {
           </FadeIn>
 
           <FadeIn>
-            <h2 className="font-serif text-2xl font-bold text-foreground pt-4">Bashkohu me ne</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">Bashkohu me ne</h2>
           </FadeIn>
           <FadeIn>
             <p>

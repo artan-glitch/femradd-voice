@@ -39,7 +39,7 @@ export default function Footer() {
 
           {/* Categories */}
           <div>
-            <h3 className="font-serif text-lg font-semibold mb-4">Kategoritë</h3>
+            <h3 className="text-lg font-semibold mb-4">Kategoritë</h3>
             <ul className="space-y-2 text-sm opacity-70">
               <li><Link to="/kategori/kulture" className="hover:opacity-100 hover:font-semibold transition-all">Kulturë</Link></li>
               <li><Link to="/kategori/dashuri" className="hover:opacity-100 hover:font-semibold transition-all">Dashuri & Takime</Link></li>
@@ -51,7 +51,7 @@ export default function Footer() {
 
           {/* Links */}
           <div>
-            <h3 className="font-serif text-lg font-semibold mb-4">Faqet</h3>
+            <h3 className="text-lg font-semibold mb-4">Faqet</h3>
             <ul className="space-y-2 text-sm opacity-70">
               <li><Link to="/rreth-nesh" className="hover:opacity-100 hover:font-semibold transition-all">Rreth Nesh</Link></li>
               <li><Link to="/redaksia" className="hover:opacity-100 hover:font-semibold transition-all">Redaksia</Link></li>
