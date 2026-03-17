@@ -74,8 +74,6 @@ export default function ArticlePage() {
 
   const related = getRelatedArticles(article.id, 3);
   const pageUrl = `https://femradd.com/artikull/${article.slug}`;
-  const isUpdated = article.modifiedAt !== article.publishedAt;
-
   // Article JSON-LD
   const articleJsonLd = {
     "@context": "https://schema.org",
@@ -200,12 +198,10 @@ export default function ArticlePage() {
                       <Calendar className="w-3 h-3" />
                       {formatDateAlbanian(article.publishedAt)}
                     </span>
-                    {isUpdated && (
-                      <span className="inline-flex items-center gap-1">
-                        <RefreshCw className="w-3 h-3" />
-                        Përditësuar {formatDateAlbanian(article.modifiedAt)}
-                      </span>
-                    )}
+                    <span className="inline-flex items-center gap-1">
+                      <RefreshCw className="w-3 h-3" />
+                      Përditësuar {formatDateAlbanian(article.modifiedAt)}
+                    </span>
                     <span>· {article.readingTime} min lexim</span>
                   </div>
                 </div>
