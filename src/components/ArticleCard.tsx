@@ -1,13 +1,15 @@
 import { Link } from "react-router-dom";
-import type { Article } from "@/data/articles";
-import { categoryColors } from "@/data/articles";
+import type { ArticleMeta } from "@/data/articles";
+import { categoryColors, resolveAuthor } from "@/data/articles";
 import { formatDateAlbanian } from "@/lib/utils";
 
 interface Props {
-  article: Article;
+  article: ArticleMeta;
 }
 
 export default function ArticleCard({ article }: Props) {
+  const author = resolveAuthor(article.authorSlug);
+
   return (
     <article className="group flex flex-col bg-card rounded-xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1">
       <Link to={`/artikull/${article.slug}`} className="block overflow-hidden aspect-[16/10]">
@@ -22,7 +24,7 @@ export default function ArticleCard({ article }: Props) {
       </Link>
       <div className="flex flex-col flex-1 p-5">
         <div className="flex items-center gap-2 mb-3">
-          <span className={`text-xs font-medium px-2.5 py-1 rounded-full ${categoryColors[article.category]}`}>
+          <span className={`text-xs font-medium px-2.5 py-1 rounded-full ${categoryColors[article.category] || "bg-gray-600 text-white"}`}>
             {article.categoryLabel}
           </span>
           <span className="text-xs text-muted-foreground">{article.readingTime} min lexim</span>
@@ -35,16 +37,16 @@ export default function ArticleCard({ article }: Props) {
         <p className="text-sm text-muted-foreground leading-relaxed line-clamp-2 mb-4 flex-1">
           {article.excerpt}
         </p>
-        <Link to={`/autore/${article.author.slug}`} className="flex items-center gap-2 mt-auto">
+        <Link to={`/autore/${author.slug}`} className="flex items-center gap-2 mt-auto">
           <img
-            src={article.author.avatar}
-            alt={article.author.name}
+            src={author.avatar}
+            alt={author.name}
             loading="lazy"
             width={28}
             height={28}
             className="w-7 h-7 rounded-full object-cover"
           />
-          <span className="text-xs font-medium text-muted-foreground">{article.author.name}</span>
+          <span className="text-xs font-medium text-muted-foreground">{author.name}</span>
           <span className="text-xs text-muted-foreground/60 ml-auto">{formatDateAlbanian(article.publishedAt)}</span>
         </Link>
       </div>

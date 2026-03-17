@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { useParams, Link } from "react-router-dom";
-import { getArticleBySlug, getRelatedArticles, categoryColors } from "@/data/articles";
+import { getArticleBySlug, getRelatedArticles, categoryColors, resolveAuthor, loadArticleContent } from "@/data/articles";
 import { formatDateAlbanian } from "@/lib/utils";
 import { Calendar, RefreshCw } from "lucide-react";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -32,6 +32,20 @@ export default function ArticlePage() {
   const article = slug ? getArticleBySlug(slug) : undefined;
   const articleRef = useRef<HTMLElement>(null);
 
+  // Async content loading
+  const [content, setContent] = useState<string>("");
+  const [contentLoading, setContentLoading] = useState(true);
+
+  useEffect(() => {
+    if (slug) {
+      setContentLoading(true);
+      loadArticleContent(slug).then((c) => {
+        setContent(c);
+        setContentLoading(false);
+      });
+    }
+  }, [slug]);
+
   // Lightbox state
   const [lightboxSrc, setLightboxSrc] = useState<string | null>(null);
   const [lightboxAlt, setLightboxAlt] = useState("");
@@ -50,7 +64,7 @@ export default function ArticlePage() {
   // Add click handlers to article body images for lightbox
   useEffect(() => {
     const el = articleRef.current;
-    if (!el) return;
+    if (!el || contentLoading) return;
 
     const images = el.querySelectorAll("img");
     const handler = (e: Event) => {
@@ -68,12 +82,36 @@ export default function ArticlePage() {
     return () => {
       images.forEach((img) => img.removeEventListener("click", handler));
     };
-  }, [article?.content]);
+  }, [content, contentLoading]);
 
   if (!article) return <NotFound />;
 
+  const author = resolveAuthor(article.authorSlug);
   const related = getRelatedArticles(article.id, 3);
   const pageUrl = `https://femradd.com/artikull/${article.slug}`;
+
+  // Detect English articles by checking if the title has mostly ASCII letters
+  const englishSlugs = new Set(["why-dating-apps-are-good", "what-is-a-real-date", "how-to-compliment-a-guy", "what-should-men-wear-on-a-first-date"]);
+  const articleLang = englishSlugs.has(article.slug) ? "en" : "sq";
+
+  // Build absolute image URL
+  const absoluteImage = article.image.startsWith("http")
+    ? article.image
+    : `https://femradd.com${article.image}`;
+
+  // Extract meaningful keywords from title + category
+  const titleWords = article.title
+    .split(/\s+/)
+    .filter((w) => w.length > 3)
+    .slice(0, 5);
+  const keywords = [
+    article.categoryLabel,
+    ...titleWords,
+    "FemraDD",
+    "shqiptare",
+    "gratë shqiptare",
+  ];
+
   // Article JSON-LD
   const articleJsonLd = {
     "@context": "https://schema.org",
@@ -81,24 +119,35 @@ export default function ArticlePage() {
     mainEntityOfPage: { "@type": "WebPage", "@id": pageUrl },
     headline: article.title,
     description: article.excerpt,
-    image: article.image,
+    image: {
+      "@type": "ImageObject",
+      url: absoluteImage,
+      width: 1200,
+      height: 600,
+    },
     datePublished: article.publishedAt,
     dateModified: article.modifiedAt,
-    inLanguage: "sq",
+    inLanguage: articleLang,
     articleSection: article.categoryLabel,
-    wordCount: article.content.replace(/<[^>]*>/g, "").split(/\s+/).length,
     about: {
       "@type": "Thing",
       name: article.categoryLabel,
     },
-    keywords: [article.categoryLabel, "FemraDD", "shqiptare"],
+    keywords,
+    wordCount: article.readingTime * 200,
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: [".prose h1", ".prose h2", ".prose p:first-of-type"],
+    },
     author: {
       "@type": "Person",
-      name: article.author.name,
-      url: `https://femradd.com/autore/${article.author.slug}`,
-      image: article.author.avatar,
-      ...(article.author.socials?.length && {
-        sameAs: article.author.socials.map((s) => s.url),
+      name: author.name,
+      url: `https://femradd.com/autore/${author.slug}`,
+      image: author.avatar?.startsWith("http")
+        ? author.avatar
+        : `https://femradd.com${author.avatar}`,
+      ...(author.socials?.length && {
+        sameAs: author.socials.map((s) => s.url),
       }),
     },
     publisher: {
@@ -107,9 +156,12 @@ export default function ArticlePage() {
       url: "https://femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/logo.png",
+        url: "https://femradd.com/og-image.png",
+        width: 1200,
+        height: 630,
       },
     },
+    isAccessibleForFree: true,
   };
 
   // FAQ JSON-LD (only if article has FAQs)
@@ -138,7 +190,7 @@ export default function ArticlePage() {
         url={pageUrl}
         publishedAt={article.publishedAt}
         modifiedAt={article.modifiedAt}
-        author={article.author.name}
+        author={author.name}
         section={article.categoryLabel}
       />
       <ReadingProgressBar />
@@ -180,7 +232,7 @@ export default function ArticlePage() {
               ]}
             />
 
-            <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[article.category]} inline-block mb-4`}>
+            <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[article.category] || "bg-gray-600 text-white"} inline-block mb-4`}>
               {article.categoryLabel}
             </span>
 
@@ -189,10 +241,10 @@ export default function ArticlePage() {
             </h1>
 
             <div className="flex flex-wrap items-center gap-4 mb-8 pb-8 border-b border-border">
-              <Link to={`/autore/${article.author.slug}`} className="flex items-center gap-3">
-                <img src={article.author.avatar} alt={article.author.name} loading="lazy" className="w-10 h-10 rounded-full object-cover" width={40} height={40} />
+              <Link to={`/autore/${author.slug}`} className="flex items-center gap-3">
+                <img src={author.avatar} alt={author.name} loading="lazy" className="w-10 h-10 rounded-full object-cover" width={40} height={40} />
                 <div>
-                  <p className="text-sm font-semibold text-foreground">{article.author.name}</p>
+                  <p className="text-sm font-semibold text-foreground">{author.name}</p>
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground mt-0.5">
                     <span className="inline-flex items-center gap-1">
                       <Calendar className="w-3 h-3" />
@@ -202,7 +254,7 @@ export default function ArticlePage() {
                       <RefreshCw className="w-3 h-3" />
                       Përditësuar {formatDateAlbanian(article.modifiedAt)}
                     </span>
-                    <span>· {article.readingTime} min lexim</span>
+                    <span>&middot; {article.readingTime} min lexim</span>
                   </div>
                 </div>
               </Link>
@@ -215,15 +267,25 @@ export default function ArticlePage() {
             </div>
 
             {/* Inline ToC — mobile only */}
-            <div className="lg:hidden">
-              <TableOfContents contentHtml={article.content} variant="inline" />
-            </div>
+            {!contentLoading && content && (
+              <div className="lg:hidden">
+                <TableOfContents contentHtml={content} variant="inline" />
+              </div>
+            )}
 
-            <article
-              ref={articleRef}
-              className={`prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-strong:text-foreground prose-a:text-primary prose-blockquote:text-muted-foreground prose-li:text-muted-foreground prose-hr:border-border prose-h2:mt-12 prose-h2:mb-4 prose-h3:mt-8 prose-h3:mb-3 prose-img:rounded-xl prose-img:my-8 ${fontSizeClass[fontSize]}`}
-              dangerouslySetInnerHTML={{ __html: article.content }}
-            />
+            {/* Article content */}
+            {contentLoading ? (
+              <div className="flex items-center justify-center py-20">
+                <div className="w-8 h-8 border-3 border-primary/30 border-t-primary rounded-full animate-spin" />
+              </div>
+            ) : (
+              <article
+                ref={articleRef}
+                lang={articleLang}
+                className={`prose prose-lg max-w-none prose-headings:text-foreground prose-p:text-muted-foreground prose-p:leading-relaxed prose-strong:text-foreground prose-a:text-primary prose-blockquote:text-muted-foreground prose-li:text-muted-foreground prose-hr:border-border prose-h2:mt-12 prose-h2:mb-4 prose-h3:mt-8 prose-h3:mb-3 prose-img:rounded-xl prose-img:my-8 ${fontSizeClass[fontSize]}`}
+                dangerouslySetInnerHTML={{ __html: content }}
+              />
+            )}
 
             {/* Bottom share */}
             <div className="flex items-center gap-4 mt-10 pt-6 border-t border-border">
@@ -241,15 +303,15 @@ export default function ArticlePage() {
             {article.faqs && <ArticleFAQ faqs={article.faqs} />}
 
             {/* Author bio */}
-            <AuthorBio author={article.author} />
-
-
+            <AuthorBio author={author} />
           </div>
 
           {/* Sidebar ToC — desktop only */}
-          <aside className="hidden lg:block">
-            <TableOfContents contentHtml={article.content} variant="sidebar" />
-          </aside>
+          {!contentLoading && content && (
+            <aside className="hidden lg:block">
+              <TableOfContents contentHtml={content} variant="sidebar" />
+            </aside>
+          )}
         </div>
       </div>
 

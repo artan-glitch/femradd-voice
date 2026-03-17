@@ -14,6 +14,10 @@ export default function AuthorPage() {
 
   const articles = getArticlesByAuthor(author.slug);
 
+  const absoluteAvatar = author.avatar?.startsWith("http")
+    ? author.avatar
+    : `https://femradd.com${author.avatar}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ProfilePage",
@@ -21,7 +25,17 @@ export default function AuthorPage() {
       "@type": "Person",
       name: author.name,
       description: author.bio,
-      image: author.avatar,
+      image: absoluteAvatar,
+      url: `https://femradd.com/autore/${author.slug}`,
+      jobTitle: "Autore & Gazetare",
+      worksFor: {
+        "@type": "Organization",
+        name: "FemraDD",
+        url: "https://femradd.com",
+      },
+      ...(author.socials?.length && {
+        sameAs: author.socials.map((s) => s.url),
+      }),
     },
     inLanguage: "sq",
     url: `https://femradd.com/autore/${author.slug}`,

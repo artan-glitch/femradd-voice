@@ -11,6 +11,8 @@ interface Props {
 }
 
 export default function Breadcrumbs({ items }: Props) {
+  // Build current page URL from window.location for the last breadcrumb
+  const currentPath = typeof window !== "undefined" ? window.location.pathname : "";
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -18,7 +20,9 @@ export default function Breadcrumbs({ items }: Props) {
       "@type": "ListItem",
       position: i + 1,
       name: item.label,
-      ...(item.href ? { item: `https://femradd.com${item.href}` } : {}),
+      item: item.href
+        ? `https://femradd.com${item.href}`
+        : `https://femradd.com${currentPath}`,
     })),
   };
 

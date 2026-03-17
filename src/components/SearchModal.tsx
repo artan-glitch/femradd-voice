@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import { Search, X } from "lucide-react";
-import { articles, categoryColors } from "@/data/articles";
+import { articles, categoryColors, resolveAuthor } from "@/data/articles";
 
 interface Props {
   open: boolean;
@@ -16,13 +16,14 @@ export default function SearchModal({ open, onClose }: Props) {
   const results = query.trim().length >= 2
     ? articles.filter((a) => {
         const q = query.toLowerCase();
+        const author = resolveAuthor(a.authorSlug);
         return (
           a.title.toLowerCase().includes(q) ||
           a.excerpt.toLowerCase().includes(q) ||
           a.categoryLabel.toLowerCase().includes(q) ||
-          a.author.name.toLowerCase().includes(q)
+          author.name.toLowerCase().includes(q)
         );
-      })
+      }).slice(0, 20)
     : [];
 
   const handleSelect = useCallback(
@@ -115,45 +116,48 @@ export default function SearchModal({ open, onClose }: Props) {
             </div>
           ) : (
             <ul className="py-2">
-              {results.map((article, i) => (
-                <li key={article.id}>
-                  <button
-                    onClick={() => handleSelect(article.slug)}
-                    className={`w-full flex items-start gap-4 px-5 py-3 text-left transition-colors ${
-                      i === activeIndex ? "bg-muted" : "hover:bg-muted/60"
-                    }`}
-                  >
-                    <img
-                      src={article.image}
-                      alt=""
-                      loading="lazy"
-                      width={56}
-                      height={40}
-                      className="w-14 h-10 rounded-lg object-cover shrink-0 mt-0.5"
-                    />
-                    <div className="min-w-0 flex-1">
-                      <p className="text-sm font-semibold text-foreground line-clamp-1">
-                        {article.title}
-                      </p>
-                      <div className="flex items-center gap-2 mt-1">
-                        <span className={`text-[10px] font-medium px-2 py-0.5 rounded-full ${categoryColors[article.category]}`}>
-                          {article.categoryLabel}
-                        </span>
-                        <span className="text-xs text-muted-foreground">
-                          {article.author.name}
-                        </span>
+              {results.map((article, i) => {
+                const author = resolveAuthor(article.authorSlug);
+                return (
+                  <li key={article.id}>
+                    <button
+                      onClick={() => handleSelect(article.slug)}
+                      className={`w-full flex items-start gap-4 px-5 py-3 text-left transition-colors ${
+                        i === activeIndex ? "bg-muted" : "hover:bg-muted/60"
+                      }`}
+                    >
+                      <img
+                        src={article.image}
+                        alt=""
+                        loading="lazy"
+                        width={56}
+                        height={40}
+                        className="w-14 h-10 rounded-lg object-cover shrink-0 mt-0.5"
+                      />
+                      <div className="min-w-0 flex-1">
+                        <p className="text-sm font-semibold text-foreground line-clamp-1">
+                          {article.title}
+                        </p>
+                        <div className="flex items-center gap-2 mt-1">
+                          <span className={`text-[10px] font-medium px-2 py-0.5 rounded-full ${categoryColors[article.category] || "bg-gray-600 text-white"}`}>
+                            {article.categoryLabel}
+                          </span>
+                          <span className="text-xs text-muted-foreground">
+                            {author.name}
+                          </span>
+                        </div>
                       </div>
-                    </div>
-                  </button>
-                </li>
-              ))}
+                    </button>
+                  </li>
+                );
+              })}
             </ul>
           )}
         </div>
 
         {/* Footer hint */}
         <div className="px-5 py-2.5 border-t border-border text-[11px] text-muted-foreground flex items-center gap-4">
-          <span><kbd className="px-1.5 py-0.5 bg-muted rounded text-[10px] font-mono">↑↓</kbd> navigim</span>
+          <span><kbd className="px-1.5 py-0.5 bg-muted rounded text-[10px] font-mono">&uarr;&darr;</kbd> navigim</span>
           <span><kbd className="px-1.5 py-0.5 bg-muted rounded text-[10px] font-mono">Enter</kbd> hap</span>
           <span><kbd className="px-1.5 py-0.5 bg-muted rounded text-[10px] font-mono">Esc</kbd> mbyll</span>
         </div>

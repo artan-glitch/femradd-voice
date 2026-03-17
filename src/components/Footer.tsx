@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import Logo from "@/components/Logo";
 import { Instagram, Facebook, Youtube } from "lucide-react";
+import { categories } from "@/data/articles";
 
 const socialLinks = [
   { label: "Instagram", href: "https://instagram.com/femradd", icon: Instagram },
@@ -41,11 +42,13 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Kategoritë</h3>
             <ul className="space-y-2 text-sm opacity-70">
-              <li><Link to="/kategori/kulture" className="hover:opacity-100 hover:font-semibold transition-all">Kulturë</Link></li>
-              <li><Link to="/kategori/dashuri" className="hover:opacity-100 hover:font-semibold transition-all">Dashuri & Takime</Link></li>
-              <li><Link to="/kategori/grate-shqiptare" className="hover:opacity-100 hover:font-semibold transition-all">Gratë Shqiptare</Link></li>
-              <li><Link to="/kategori/lifestyle" className="hover:opacity-100 hover:font-semibold transition-all">Lifestyle</Link></li>
-              <li><Link to="/kategori/argetim" className="hover:opacity-100 hover:font-semibold transition-all">Argëtim</Link></li>
+              {categories.slice(0, 8).map((cat) => (
+                <li key={cat.slug}>
+                  <Link to={`/kategori/${cat.slug}`} className="hover:opacity-100 hover:font-semibold transition-all">
+                    {cat.label}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
 
@@ -60,12 +63,10 @@ export default function Footer() {
               <li><Link to="/kushtet" className="hover:opacity-100 hover:font-semibold transition-all">Kushtet e Përdorimit</Link></li>
             </ul>
           </div>
-
-
         </div>
 
         <div className="border-t border-white/10 mt-10 pt-6 text-center text-xs opacity-50">
-          © {new Date().getFullYear()} FemraDD. Të gjitha të drejtat e rezervuara.
+          &copy; {new Date().getFullYear()} FemraDD. Të gjitha të drejtat e rezervuara.
         </div>
       </div>
     </footer>

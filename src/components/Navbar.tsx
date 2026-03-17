@@ -1,23 +1,16 @@
 import { useState, useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
-import { Menu, X, Search } from "lucide-react";
-import { categoryLabels } from "@/data/articles";
+import { Menu, X, Search, ChevronDown } from "lucide-react";
+import { navCategories, moreCategories } from "@/data/articles";
 import SearchModal from "@/components/SearchModal";
 import ThemeToggle from "@/components/ThemeToggle";
 import Logo from "@/components/Logo";
-
-const navCategories = [
-  { slug: "kulture", label: categoryLabels.kulture },
-  { slug: "dashuri", label: categoryLabels.dashuri },
-  { slug: "grate-shqiptare", label: categoryLabels["grate-shqiptare"] },
-  { slug: "lifestyle", label: categoryLabels.lifestyle },
-  { slug: "argetim", label: categoryLabels.argetim },
-];
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [moreOpen, setMoreOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 10);
@@ -36,6 +29,14 @@ export default function Navbar() {
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
   }, []);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    if (!moreOpen) return;
+    const onClick = () => setMoreOpen(false);
+    document.addEventListener("click", onClick);
+    return () => document.removeEventListener("click", onClick);
+  }, [moreOpen]);
 
   const closeSearch = useCallback(() => setSearchOpen(false), []);
 
@@ -65,6 +66,36 @@ export default function Navbar() {
                 {cat.label}
               </Link>
             ))}
+
+            {/* "Më shumë" dropdown */}
+            {moreCategories.length > 0 && (
+              <div className="relative">
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setMoreOpen(!moreOpen);
+                  }}
+                  className="flex items-center gap-1 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+                >
+                  Më shumë
+                  <ChevronDown className={`w-4 h-4 transition-transform ${moreOpen ? "rotate-180" : ""}`} />
+                </button>
+                {moreOpen && (
+                  <div className="absolute top-full right-0 mt-2 w-52 bg-background border border-border rounded-xl shadow-lg py-2 animate-fade-in z-50">
+                    {moreCategories.map((cat) => (
+                      <Link
+                        key={cat.slug}
+                        to={`/kategori/${cat.slug}`}
+                        onClick={() => setMoreOpen(false)}
+                        className="block px-4 py-2.5 text-sm text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+                      >
+                        {cat.label}
+                      </Link>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
           </div>
 
           {/* Desktop right */}
@@ -117,6 +148,16 @@ export default function Navbar() {
                   to={`/kategori/${cat.slug}`}
                   onClick={() => setOpen(false)}
                   className="text-base font-medium text-foreground py-2 border-b border-border last:border-0"
+                >
+                  {cat.label}
+                </Link>
+              ))}
+              {moreCategories.map((cat) => (
+                <Link
+                  key={cat.slug}
+                  to={`/kategori/${cat.slug}`}
+                  onClick={() => setOpen(false)}
+                  className="text-base font-medium text-muted-foreground py-2 border-b border-border last:border-0"
                 >
                   {cat.label}
                 </Link>

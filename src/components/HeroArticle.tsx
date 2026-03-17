@@ -1,14 +1,15 @@
 import { useRef, useEffect } from "react";
 import { Link } from "react-router-dom";
-import type { Article } from "@/data/articles";
-import { categoryColors } from "@/data/articles";
+import type { ArticleMeta } from "@/data/articles";
+import { categoryColors, resolveAuthor } from "@/data/articles";
 
 interface Props {
-  article: Article;
+  article: ArticleMeta;
 }
 
 export default function HeroArticle({ article }: Props) {
   const imgRef = useRef<HTMLImageElement>(null);
+  const author = resolveAuthor(article.authorSlug);
 
   // Set fetchpriority via ref to avoid React 18 prop warning
   useEffect(() => {
@@ -31,7 +32,7 @@ export default function HeroArticle({ article }: Props) {
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
         <div className="absolute bottom-0 left-0 right-0 p-6 md:p-10 lg:p-14">
-          <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[article.category]} inline-block mb-3`}>
+          <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[article.category] || "bg-gray-600 text-white"} inline-block mb-3`}>
             {article.categoryLabel}
           </span>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold text-white leading-tight mb-3 max-w-3xl drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
@@ -41,8 +42,8 @@ export default function HeroArticle({ article }: Props) {
             {article.excerpt}
           </p>
           <div className="flex items-center gap-3 mt-4 text-white/70 text-sm drop-shadow-[0_1px_2px_rgba(0,0,0,0.5)]">
-            <span>{article.author.name}</span>
-            <span>·</span>
+            <span>{author.name}</span>
+            <span>&middot;</span>
             <span>{article.readingTime} min lexim</span>
           </div>
         </div>

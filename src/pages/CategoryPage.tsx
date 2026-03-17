@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { getArticlesByCategory, categoryLabels, categoryColors, type Category } from "@/data/articles";
+import { getArticlesByCategory, categoryColors, getCategoryConfig, resolveAuthor } from "@/data/articles";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ArticleCard from "@/components/ArticleCard";
 import Pagination from "@/components/Pagination";
@@ -10,30 +10,18 @@ import NotFound from "./NotFound";
 
 const ARTICLES_PER_PAGE = 9;
 
-const categoryDescriptions: Record<Category, string> = {
-  kulture:
-    "Zbulo kulturën shqiptare përmes artikujve të thellë rreth artit, letërsisë, muzikës dhe traditave tona. Nga ngjarjet kulturore te analizat e tendencave të reja — gjithçka që frymëzon identitetin tonë.",
-  dashuri:
-    "Këshilla, histori reale dhe perspektiva moderne mbi dashurinë, marrëdhëniet dhe takimet. Sepse çdo grua meriton një hapësirë pa gjykime për të folur mbi zemrën.",
-  "grate-shqiptare":
-    "Profile frymëzuese të grave shqiptare që po bëjnë ndryshimin — në biznes, art, shkencë dhe jetën e përditshme. Histori suksesi dhe udhëtimesh që të motivojnë.",
-  lifestyle:
-    "Nga moda te mirëqenia, nga udhëtimet te ushqimi — artikuj praktikë dhe frymëzuese për jetën e përditshme të gruas moderne shqiptare.",
-  argetim:
-    "Filma, seriale, muzikë, libra dhe kultura pop — gjithçka për t'u argëtuar dhe për të qëndruar në hap me trendet e fundit të botës dhe ato shqiptare.",
-};
-
 export default function CategoryPage() {
   const { slug } = useParams<{ slug: string }>();
-  const category = slug as Category;
-  const label = categoryLabels[category];
+  const category = slug || "";
+  const config = getCategoryConfig(category);
   const [page, setPage] = useState(1);
 
-  if (!label) return <NotFound />;
+  if (!config) return <NotFound />;
 
+  const label = config.label;
+  const description = config.description;
   const articles = getArticlesByCategory(category);
   const [featured, ...rest] = articles;
-  const description = categoryDescriptions[category];
 
   const totalPages = Math.ceil(rest.length / ARTICLES_PER_PAGE);
   const paginatedArticles = rest.slice(
@@ -53,6 +41,25 @@ export default function CategoryPage() {
     description: description || `Artikuj rreth ${label} në FemraDD`,
     inLanguage: "sq",
     url: `https://femradd.com/kategori/${category}`,
+    publisher: {
+      "@type": "Organization",
+      name: "FemraDD",
+      url: "https://femradd.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://femradd.com/og-image.png",
+      },
+    },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: articles.length,
+      itemListElement: articles.slice(0, 20).map((a, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: a.title,
+        url: `https://femradd.com/artikull/${a.slug}`,
+      })),
+    },
   };
 
   return (
@@ -75,7 +82,7 @@ export default function CategoryPage() {
         <FadeIn>
           <div className="mb-10">
             <div className="flex items-center gap-3 mb-3">
-              <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[category]}`}>
+              <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[category] || "bg-gray-600 text-white"}`}>
                 {label}
               </span>
               <span className="text-sm text-muted-foreground">
@@ -124,19 +131,24 @@ export default function CategoryPage() {
                     <p className="text-muted-foreground leading-relaxed mb-4 line-clamp-3">
                       {featured.excerpt}
                     </p>
-                    <div className="flex items-center gap-3 text-sm text-muted-foreground">
-                      <img
-                        src={featured.author.avatar}
-                        alt={featured.author.name}
-                        loading="lazy"
-                        width={28}
-                        height={28}
-                        className="w-7 h-7 rounded-full object-cover"
-                      />
-                      <span className="font-medium">{featured.author.name}</span>
-                      <span>·</span>
-                      <span>{featured.readingTime} min lexim</span>
-                    </div>
+                    {(() => {
+                      const author = resolveAuthor(featured.authorSlug);
+                      return (
+                        <div className="flex items-center gap-3 text-sm text-muted-foreground">
+                          <img
+                            src={author.avatar}
+                            alt={author.name}
+                            loading="lazy"
+                            width={28}
+                            height={28}
+                            className="w-7 h-7 rounded-full object-cover"
+                          />
+                          <span className="font-medium">{author.name}</span>
+                          <span>·</span>
+                          <span>{featured.readingTime} min lexim</span>
+                        </div>
+                      );
+                    })()}
                   </div>
                 </Link>
               </FadeIn>

@@ -17,6 +17,9 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     // Title
     document.title = `${title} — FemraDD`;
 
+    // Ensure absolute image URL for social sharing
+    const absImage = image.startsWith("http") ? image : `https://femradd.com${image}`;
+
     // Helper to set/create meta tag
     const setMeta = (attr: string, key: string, content: string) => {
       let el = document.querySelector(`meta[${attr}="${key}"]`) as HTMLMetaElement | null;
@@ -45,7 +48,9 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     setMeta("property", "og:type", "article");
     setMeta("property", "og:title", title);
     setMeta("property", "og:description", description);
-    setMeta("property", "og:image", image);
+    setMeta("property", "og:image", absImage);
+    setMeta("property", "og:image:width", "1200");
+    setMeta("property", "og:image:height", "600");
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
@@ -64,7 +69,7 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     setMeta("name", "twitter:card", "summary_large_image");
     setMeta("name", "twitter:title", title);
     setMeta("name", "twitter:description", description);
-    setMeta("name", "twitter:image", image);
+    setMeta("name", "twitter:image", absImage);
     if (imageAlt) {
       setMeta("name", "twitter:image:alt", imageAlt);
     }

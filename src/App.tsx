@@ -19,6 +19,7 @@ const Contact = lazy(() => import("./pages/Contact"));
 const Privacy = lazy(() => import("./pages/Privacy"));
 const Terms = lazy(() => import("./pages/Terms"));
 const Editorial = lazy(() => import("./pages/Editorial"));
+const AllArticles = lazy(() => import("./pages/AllArticles"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -48,6 +49,7 @@ const App = () => (
               <Route path="/" element={<Index />} />
               <Route path="/artikull/:slug" element={<ArticlePage />} />
               <Route path="/kategori/:slug" element={<CategoryPage />} />
+              <Route path="/artikuj" element={<AllArticles />} />
               <Route path="/rreth-nesh" element={<About />} />
               <Route path="/autore/:slug" element={<AuthorPage />} />
               <Route path="/kontakt" element={<Contact />} />
