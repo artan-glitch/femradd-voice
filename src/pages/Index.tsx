@@ -39,13 +39,6 @@ export default function Index() {
         </div>
       </section>
 
-      {/* Newsletter */}
-      <section className="container pb-8 md:pb-12">
-        <FadeIn>
-          <NewsletterForm variant="inline" />
-        </FadeIn>
-      </section>
-
       {/* More articles */}
       <section className="container pb-8 md:pb-12" aria-label="Më shumë artikuj">
         <FadeIn>

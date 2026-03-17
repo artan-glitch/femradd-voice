@@ -24,7 +24,7 @@ export default function Logo({
   className = "",
 }: LogoProps) {
   const femraColor =
-    variant === "light" ? "text-primary-foreground" : "text-foreground";
+    variant === "light" ? "text-[hsl(36,33%,97%)]" : "text-foreground";
 
   const logoContent = (
     <span

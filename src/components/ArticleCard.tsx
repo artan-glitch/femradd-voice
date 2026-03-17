@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import type { Article } from "@/data/articles";
 import { categoryColors } from "@/data/articles";
+import { formatDateAlbanian } from "@/lib/utils";
 
 interface Props {
   article: Article;
@@ -44,6 +45,7 @@ export default function ArticleCard({ article }: Props) {
             className="w-7 h-7 rounded-full object-cover"
           />
           <span className="text-xs font-medium text-muted-foreground">{article.author.name}</span>
+          <span className="text-xs text-muted-foreground/60 ml-auto">{formatDateAlbanian(article.publishedAt)}</span>
         </Link>
       </div>
     </article>

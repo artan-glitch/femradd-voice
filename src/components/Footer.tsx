@@ -10,7 +10,7 @@ const socialLinks = [
 
 export default function Footer() {
   return (
-    <footer className="bg-foreground text-primary-foreground" role="contentinfo">
+    <footer className="bg-[hsl(220,20%,14%)] dark:bg-[hsl(220,18%,8%)] text-[hsl(36,33%,97%)]" role="contentinfo">
       <div className="container py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-12">
           {/* Brand */}
@@ -29,7 +29,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={label}
-                  className="w-9 h-9 rounded-full border border-primary-foreground/20 flex items-center justify-center opacity-60 hover:opacity-100 hover:border-primary-foreground/50 transition-all"
+                  className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center opacity-60 hover:opacity-100 hover:border-white/50 transition-all"
                 >
                   <Icon className="w-4 h-4" />
                 </a>
@@ -64,7 +64,7 @@ export default function Footer() {
 
         </div>
 
-        <div className="border-t border-primary-foreground/10 mt-10 pt-6 text-center text-xs opacity-50">
+        <div className="border-t border-white/10 mt-10 pt-6 text-center text-xs opacity-50">
           © {new Date().getFullYear()} FemraDD. Të gjitha të drejtat e rezervuara.
         </div>
       </div>
