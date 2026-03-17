@@ -39,7 +39,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2025-07-22",
-    "modifiedAt": "2025-07-22"
+    "modifiedAt": "2025-07-22",
+    "faqs": [{"question":"Si është moti në Kline?","answer":"Kline ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kline?","answer":"Periudha më e mirë për të vizituar Kline është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kline gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kline. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "2",
@@ -52,7 +53,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 6,
     "publishedAt": "2025-04-04",
-    "modifiedAt": "2025-04-04"
+    "modifiedAt": "2025-04-04",
+    "faqs": [{"question":"Çfarë është introversioni?","answer":"Introversioni është një tipar i personalitetit që e përshkruan një individ që fokusohet më shumë në botën e brendshme se sa në stimulimet e jashtme."},{"question":"Si lidhet karakteristikat kryesore të një introverti me zhvillimin personal?","answer":"Introvertët kanë disa veçori të dallueshme që i bëjnë të ndryshëm nga ekstrovertët. Këtu janë disa nga karakteristikat kryesore që ta kuptoni më mirë:"},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "3",
@@ -65,7 +67,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 6,
     "publishedAt": "2025-04-03",
-    "modifiedAt": "2025-04-03"
+    "modifiedAt": "2025-04-03",
+    "faqs": [{"question":"Takime në Tiranë : 8 ide për një takim të paharrueshëm?","answer":"Në përgjithësi, Tiranë është një qytet i bukur dhe i frytshëm për të planifikuar takime në Tiranë dhe një takim romantik, me shumë mundësi dhe aktivitete të ndryshme. Mund të krijoni një atmosferë të paharrueshme për partnerin tuaj."},{"question":"Cilat janë shenjat e një marrëdhënieje të shëndetshme?","answer":"Një marrëdhënie e shëndetshme karakterizohet nga besimi, respekti, komunikimi i hapur dhe mbështetja reciproke. Të dy partnerët ndihen të lirë të shprehin ndjenjat dhe nevojat e tyre pa frikë."},{"question":"Si ta kuptoj nëse dikush është i interesuar për mua?","answer":"Shenjat e interesimit përfshijnë kontaktin e shpeshtë, vëmendjen ndaj detajeve, gjuhën trupore të hapur dhe dëshirën për të kaluar kohë bashkë. Megjithatë, çdo person shprehet ndryshe, prandaj komunikimi i drejtpërdrejtë mbetet mënyra më e mirë."}]
   },
   {
     "id": "4",
@@ -78,7 +81,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2025-04-03",
-    "modifiedAt": "2025-04-03"
+    "modifiedAt": "2025-04-03",
+    "faqs": [{"question":"Çfarë përmban ky artikull rreth letërsisë shqipe?","answer":"A e dini cilat janë fjalët më të bukura shqipe? Gjuha shqipe është një nga më të lashtat dhe më të pasurat në botë. Ajo ka një thesaurus të pafund fjalësh që mbajnë një kuptim të thellë dhe një bukuri të veçantë."},{"question":"Pse është e rëndësishme letërsia shqipe?","answer":"Letërsia shqipe është pasqyrë e historisë, kulturës dhe identitetit tonë kombëtar. Përmes poezisë dhe prozës, shkrimtarët shqiptarë kanë ruajtur dhe pasuruar gjuhën, duke na lidhur me rrënjët tona."},{"question":"Cilët janë autorët më të njohur të letërsisë shqipe?","answer":"Ndër autorët më të njohur janë Naim Frashëri, Fan Noli, Ismail Kadare, Dritëro Agolli, Ali Podrimja dhe Martin Camaj. Secili ka kontribuar në mënyra unike në pasurinë e letërsisë shqipe."}]
   },
   {
     "id": "5",
@@ -91,7 +95,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2025-03-07",
-    "modifiedAt": "2025-03-07"
+    "modifiedAt": "2025-03-07",
+    "faqs": [{"question":"Çfarë dimë për mira murati: shqiptarja që po udhëheq revolucionin e ai?","answer":"Përtej yjeve të muzikës, gratë shqiptare po bëjnë histori edhe në teknologji. Mira Murati, ish-Kryeshefe e Teknologjisë dhe CEO e OpenAI, ka pasur një rol kyç në zhvillimin e inovacioneve të AI-së, përfshirë ChatGPT."},{"question":"Mbretëreshat e muzikës: Dua Lipa, Rita Ora & Bebe Rexha — çfarë duhet ditur?","answer":"Artistet me origjinë shqiptare kanë pushtuar industrinë muzikore globale. Lista vazhdon me emra si Era Istrefi, Dafina Zeqiri dhe Elvana Gjata, të cilat vazhdojnë të tërheqin miliona fansa globalisht."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "6",
@@ -104,7 +109,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë dimë për nita latifi biografia?","answer":"Në Maj te vitit 2012, Nita Latifi ka marre pjesë në Top Fest me “Merre Ose Leje”, qe pati një sukses të konsiderueshëm. Fillimisht u kualifikua në gjysmëfinale të festivalit për të kënduar live në natën e dytë dhe më pas për t’u kualifikuar në finale."},{"question":"Karriera — çfarë duhet ditur?","answer":"Më datë 15 Dhjetor 2017, Nita publikoi videoklipin “Vet”. Për pergatitjen është përkujdesur Mixey, qe doli te jete nje sukses. Nita ka publikuar edhe videoklipin e “Tequila”."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "7",
@@ -117,7 +123,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":"Liberta Spahiu u njihte fillimisht si modele, pastaj filloi karieren e saj televizive si moderatore."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "8",
@@ -130,7 +137,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë është Ramazani?","answer":"Ramazani është muaji i shenjtë i muslimanëve, i cili përfshin agjërimin nga agimi deri pas perëndimit të diellit nga miliona muslimanë në botë."},{"question":"Kuptimi i fjales Ramazan — çfarë duhet ditur?","answer":"Fjala Ramazan vjen nga arabishtja Ramaḍān që do të thotë vapë ose thatësirë. Nga kjo pikepamje, Ramazani nënkuptohet në tri mënyra:"},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "9",
@@ -143,7 +151,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Pse bëhet ndërrimi i orës?","answer":"Arsyeja kryesore se pse bëhet ndërrimi i orës është për të përdorur më shumë dritën e ditës. Midis marsit dhe tetorit, një orë e ditës merret hua nga mëngjesi dhe shtohet në fund të ditës."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "10",
@@ -156,7 +165,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë dimë për personi?","answer":"Dashuria është një pjesë e jetës për të cilën nuk mund të parashikojmë se kush është personi i duhur për ne, apo të bëjmë plane për të ardhmen. Ky është një aspekt jetësor i cili nuk është plotësisht në kontrollin tonë."},{"question":"Koha — çfarë duhet ditur?","answer":"Nëse po pret të lexosh një përgjigje të prerë se kur është koha e duhur për puthjen e parë, nuk do mund t’a gjesh këtu."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "11",
@@ -169,7 +179,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë Rëndësie ka Agjerimi në Islam?","answer":"Agjerimi gjatë Ramazanit është një nga praktikat më të rëndësishme fetare për muslimanët në të gjithë botën. Muaji paraqet kohën për reflektim shpirtëror, disiplinë dhe përmirësim të vetes."},{"question":"Përfitimet e Agjerimit — çfarë duhet ditur?","answer":"Edhe pse agjërimi gjatë këtij muaji mund të jetë sfidues, Ramazani paraqet një kohë të shpërblimit të madh."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "12",
@@ -182,7 +193,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë dimë për amos zaharia biografia?","answer":"Amos Zaharia, i njohur ndryshe si Amos Muji Zaharia, ka lindur në Tiranë, Shqipëri më 12 gusht 1987. Ai është një aktor i talentuar që ka një ndikim të rëndësishëm në industrinë e filmit shqiptar."},{"question":"Karriera e tij — çfarë duhet ditur?","answer":"Në moshën 19-vjeçare, Amos Zaharia mori një njohje të gjerë për rolin e tij si Gonit në filmin e shkurtër “Shënjtoria”, me regji të Eno Milkanit."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "13",
@@ -195,7 +207,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë dimë për natyra dhe kultura kosovare?","answer":"Kosova është shtëpia e peizazheve natyrore mahnitëse, nga pyjet e harlisur dhe kodrat e rrotulluara deri te malet e mbuluara me borë dhe liqenet blu kristal."},{"question":"Shijoni aktivitetet argëtuese — çfarë duhet ditur?","answer":"Kosova gjithashtu ofron shumë aktivitete për ata që duan të argëtohen gjatë pushimeve të tyre. Për ata që preferojnë pak eksitim në jetën e tyre, ka shumë aktivitete në natyrë si ski ose snowboard në dispozicion gjatë muajve të dimrit."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "14",
@@ -208,7 +221,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":"Arbana Osmani (lindur më 7 maj 1983) është një prezantuese televizive dhe personazh radiofonik shqiptar, e njohur më së shumti për prezantimin e Big Brother Albania."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "15",
@@ -221,7 +235,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":"Po kërkon thenie interesante? Ke ardhur në vendin e duhur."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "16",
@@ -234,7 +249,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë dimë për 3 mënyra si të shprehni dashurinë partnerit tuaj?","answer":"Në përgjithësi, ka shumë lloje të ndryshme fjalësh dashurie që mund të përdoren për të shprehur dashurinë e tyre. Çdo lloj fjalësh dashurie ka kuptimin e vet dhe mund të ndihmojë në ndërtimin e një lidhjeje dhe intimitet më të thellë mes partnerëve."},{"question":"Kur dhe sa shpesh duhet të thoni fjalë dashurie?","answer":"Si të siguroheni që fjalët e dashurisë janë autentike? Në përgjithësi, shprehja e fjalëve të dashurisë në një mënyrë autentike dhe personale është e rëndësishme për të ndërtuar një lidhje më të thellë midis partnerëve."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "17",
@@ -247,7 +263,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":"Olti Curri, opinionist i Big Brother VIP Kosova."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "18",
@@ -260,7 +277,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2024-10-16",
-    "modifiedAt": "2024-10-16"
+    "modifiedAt": "2024-10-16",
+    "faqs": [{"question":"Çfarë dimë për gjithçka që duhet të dini për big brother vip kosova 2023?","answer":"Gara për 200.000 euro në realityshow-n më të famshëm kosovar ka filluar. Në shtëpinë e monituruar 24/7 nga kamerat janë futur plotë 20 konkurentë. Këta konkurentë do të qëndrojnë të mbyllur në ambientet e shtëpisë së Big Brother për 100 ditë, pa asnjë kontakt me botën e jashtme."},{"question":"Big Talk, aty ku diskutohet gjithçka rreth Big Brother VIP Kosova — çfarë duhet ditur?","answer":"Edhe këtë edicion, ka një emision shoqërues krahas emisionit kryesor, ku me analistë, familjarë e fansa, diskutohen të gjitha detajet dhe zhvillimet në shtëpi mes banorëve."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "19",
@@ -273,7 +291,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-10-12",
-    "modifiedAt": "2024-10-12"
+    "modifiedAt": "2024-10-12",
+    "faqs": [{"question":"Çfarë dimë për diola dosti nutricioniste?","answer":"Krahas daljeve televizive, Diola Dosti ka qenë një edukatore e përkushtuar edhe në fushën e të ushqyerit. Ajo ka dhënë mësime në profilet e të ushqyerit në Universitetin e Shkencave Mjekësore."},{"question":"Karriera e saj — çfarë duhet ditur?","answer":"Ajo është anëtare e bordit të Akademisë Italiane të të Ushqyerit, ku bashkëpunon me nutricionistë dhe dietologë të tjerë kryesorë për të avancuar të kuptuarit e shkencës së të ushqyerit dhe për të promovuar praktikat e bazuara në prova në këtë fushë."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "20",
@@ -286,7 +305,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-10-12",
-    "modifiedAt": "2024-10-12"
+    "modifiedAt": "2024-10-12",
+    "faqs": [{"question":"Çfarë dimë për poezi per ditelindje per femije?","answer":"Disa nga këto poezi i dedikohen ditëlindjes së parë. Megjithatë, nëse ndonjëra ju pëlqen, lirisht mund ta ndryshoni pak dhe ta përshtasni me ditëlindjen e fëmijës suaj. Për cdo lloj poezie që kërkoni keni nga tre për secilën temë."},{"question":"Urime per ditelindje per femije 1 vjec — çfarë duhet ditur?","answer":"Një vjetori është një moshë shumë e veçantë,një moment historik për të qenë më të saktë.Jo më një foshnje, por ende një fëmijë,ende i çmuar dhe tepër i shtrenjtë."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "21",
@@ -299,7 +319,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-10-08",
-    "modifiedAt": "2024-10-08"
+    "modifiedAt": "2024-10-08",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":"Alaudin Hamiti do te jete moderator i ketij edicioni te Big Brother VIP Kosova. Ai e beri kete zyrtare ne rrjetin social Instagram permes nje postimi."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "22",
@@ -312,7 +333,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-10-01",
-    "modifiedAt": "2024-10-01"
+    "modifiedAt": "2024-10-01",
+    "faqs": [{"question":"Çfarë dimë për kalendari islam 2023 pdf?","answer":"Zmadhojeni foton e mëposhtme ose shkarkojeni atë për ta patur në telefonin tuaj dhe për të patur të disponueshme të gjitha oraret në cdo kohë. Kalendari i Ramazanit ose ndryshe Kalendari i Agjërimit është ndryshe nga Kalendari i Faljeve 2023 pdf që mund të gjeni online."},{"question":"Muaji I Ramazanit — çfarë duhet ditur?","answer":"Agjërimi i muajit të Ramazanit është një nga pesë shtyllat e Islamit. Muaji kalohet nga muslimanët duke agjëruar gjatë orëve të ditës nga agimi deri në perëndim të diellit."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "23",
@@ -325,7 +347,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-09-30",
-    "modifiedAt": "2024-09-30"
+    "modifiedAt": "2024-09-30",
+    "faqs": [{"question":"Çfarë dimë për sezoni ii i big brother vip albania?","answer":"Për shkak të vlerësimeve të kënaqshme të sezonit të parë, Top Channel njoftoi një sezon të dytë të Big Brother VIP, i cili do të nisë transmetimin në fillim të vitit 2023, pas përfundimit të Kupës së Botës FIFA 2022."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "24",
@@ -338,7 +361,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2024-09-30",
-    "modifiedAt": "2024-09-30"
+    "modifiedAt": "2024-09-30",
+    "faqs": [{"question":"Çfarë dimë për luiz ejlli biografia?","answer":"I lindur më 12 korrik 1985 në Shkodër të Shqipërisë, Luiz Ejlli e nisi rrugëtimin e tij muzikor që në moshë të re."},{"question":"Karriera — çfarë duhet ditur?","answer":"Momenti i zbulimit të Ejllit erdhi kur ai mori pjesë në një festival popullor të këngës në Tiranë të quajtur \"Ethet e se premtes\". Konkursi ishte një hit dhe Luiz Ejlli doli fitues, duke i hapur rrugën suksesit të tij në të ardhmen."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "25",
@@ -351,7 +375,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2024-09-30",
-    "modifiedAt": "2024-09-30"
+    "modifiedAt": "2024-09-30",
+    "faqs": [{"question":"Çfarë dimë për muzikë?","answer":"Fituesja e çmimit “Grammy”, Dua Lipa, jo vetëm që është e renditur në vend të parë në këtë kategori, por edhe në gjithë listën e këtij hulumtimi. Pas saj, rankohen këngëtaret e hiteve të shumta botërore, Rita Ora dhe Bebe Rexha."},{"question":"Aktrim — çfarë duhet ditur?","answer":"Në këtë kategori kryeson Eliza Dushku, aktorja e parë shqiptare e cila ka prekur Hollywood-in. Në vendin e 11 rankohet Elvana Gjata, e cilat njihet për suksesin e filmit ‘Dy gisht mjaltë’."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "26",
@@ -364,7 +389,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-09-30",
-    "modifiedAt": "2024-09-30"
+    "modifiedAt": "2024-09-30",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":"Femra moderne është ajo që është e pavarur, e aftë, dhe e vendosur për të arritur qëllimet e saj në jetë."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "27",
@@ -377,7 +403,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-09-30",
-    "modifiedAt": "2024-09-30"
+    "modifiedAt": "2024-09-30",
+    "faqs": [{"question":"Çfarë dimë për valle tropojane ose vallja e tropojës?","answer":"Vallja e Tropojës kërcehet më tepër në Malësi te Gjakovës, megjithatë është e përhapur në të gjithë Shqipërinë. Si valle është tepër e vecantë me një ritëm eksluziv të vetin. Meshkujt e kërcejnë këtë valle me forcë dhe dinamizën, ku përfshihet edhe spontaniteti gjatë valles."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "28",
@@ -390,7 +417,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2024-09-30",
-    "modifiedAt": "2024-09-30"
+    "modifiedAt": "2024-09-30",
+    "faqs": [{"question":"Çfarë dimë për e diela e pashkëve?","answer":"E diela e Pashkëve të krishtera është kremtimi më i rendsishem i tyre. Kishat katolike mbajnë gjithashtu ceremoni që rrotullohen rreth ndezjes së qiririt të Pashkëve, ose qiririt të madh në errësirë që simbolizon vdekjen dhe më pas ringjalljen e Jezusit."},{"question":"Rëndësia e Hënës së plotë të Pashkëve — çfarë duhet ditur?","answer":"Ndahet edhe në besimin katolik. Të dielën e Pashkëve, katolikët shpesh do të shikojnë lart nga qielli i natës. Do të vënë re hënën e plotë që përfaqëson dritën e Jezu Krishtit që kthehet nga vdekja pas ringjalljes së Tij."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "29",
@@ -403,7 +431,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për brunhilda?","answer":"Këto ishin disa emra per vajza që kemi përzgjedhur për ju. Na tregoni se cila ju pëlqen më tepër dhe nëse doni të tjera me të njëjtin shpjegim dhe stil."},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "30",
@@ -416,7 +445,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për efi dhedhes biografia?","answer":"Ky yll, Efi Dhedhes, ka rrëmbyer zemrat e shumë njerëzve me personalitetin e saj simpatik dhe pamjen mahnitëse, duke e bërë atë një ndikuese dhe modele shumë të kërkuar."},{"question":"Efi Dhedhes ne Big Brother VIP Albania — çfarë duhet ditur?","answer":"Efi pas Perputhen u shfaq edhe ne Reality Show-in me te famshem shqiptar, Big Brother VIP Albania. Edhe pse qendrimi i saj ne ate shtepi ishte me i vogel sa qe pritej, ajo mori pelqime shume te medha, dhe per publikun ajo doli fituese me karakterin, …"},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "31",
@@ -429,7 +459,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për valbona mema biografia?","answer":"E rritur në një mjedis që festonte trashëgiminë e pasur kulturore të vendit, Valbona u ekspozua ndaj muzikës që në moshë të vogël dhe u tërhoq nga fuqia e saj për të shprehur emocione dhe për të treguar histori."},{"question":"Karriera e saj — çfarë duhet ditur?","answer":"Valbona Mema ka publikuar më shumë se 8 albume, ku secili tregon shkathtësinë e saj si këngëtare dhe përkushtimin ndaj zanatit të saj. Këngët e saj variojnë nga baladat për dashurinë dhe familjen deri te këngët optimiste që festojnë gëzimet e jetës."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "32",
@@ -442,7 +473,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për dea mishel biografia?","answer":"Dea ka vazhduar të bëjë bujë në industri dhe ka dëshmuar se është një talent i gjithanshëm dhe dinamik. Ajo ka shërbyer si anëtare e jurisë për shfaqjen hit \"Ajo është në krye\", duke shfaqur aftësinë e saj për të vlerësuar dhe kritikuar performancat me mprehtësi dhe ndjeshmëri."},{"question":"Dea ne Big Brother VIP Albania — çfarë duhet ditur?","answer":"Dea Michel eshte edhe pjese e Reality Show-it me te famshem shqiptar Big Brother VIP Albania, ku me qilersine dhe qetsine e saj ka arritur te fitoje zemrat e publikut dhe votuesve te saj."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "33",
@@ -455,7 +487,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për kejvina kthella biografia?","answer":"Interesimi i Kejvina Kthellës për industrinë e televizionit filloi që në moshë të re dhe në këtë fushë ajo filloi të punonte që në adoleshencë."},{"question":"Kejvina në Big Brother VIP Albania — çfarë duhet ditur?","answer":"Përveç pjesëmarrjes në konkursin Miss Universe Albania, ajo ka fituar njohje edhe për paraqitjet e saj në reality show-n e njohur televiziv, Big Brother VIP Albania."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "34",
@@ -468,7 +501,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për olta gixhari biografia?","answer":"Olta ka lindur më 8 korrik 1986 në Durrës, Shqipëri. Ajo ka interpretuar në Teatrin Kombëtar të Tiranës në shfaqjet Filumena Marturano në vitin 2009 dhe Pamje nga ura në vitin 2007."},{"question":"Olta Gixhari Big Brother VIP Albania — çfarë duhet ditur?","answer":"Olta po merr nje perkrahje shume te madhe edhe ne Big Brother VIP Albania, ku aty njihet si nje nga protagonistet kryesor dhe si nje nder finalistet e ketij edicioni te dyte te BB VIP Albania."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "35",
@@ -481,7 +515,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për festat zyrtare në shqipëri?","answer":"Tabela e mësipërme tregon datat e sakta të festave në Shqipëri. Ka edhe festa të tjera të cilat nuk shënohen sepse cdo qytet në Shqipëri ka të vetat. Për shembull në Korcë festohet e bëhet ditë pushimi festa e Karnevaleve."},{"question":"Pse festohet secila prej festave?","answer":"Pushim zyrtar në Shqipëri nis me datat 1 dhe 2 Janar. Kjo sepse ato janë ditët e para të vitit pas festës së Vitit të Ri dhe u rezervohet vizitave familjare."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "36",
@@ -494,7 +529,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për mikela pupa biografia?","answer":"Prania e saj në emision e katapultoi shpejt atë si yll, dhe ajo u bë një nga protagonistet kryesore të programit."},{"question":"Karriera e saj — çfarë duhet ditur?","answer":"Mikela Pupa vazhdon të ketë një ndjekës të konsiderueshëm në llogaritë e saj në rrjetet sociale, ku ndan rregullisht përditësime për udhëtimet e saj, rutinat e saj dhe bashkëpunimet me kompani të ndryshme televizive dhe mediatike."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "37",
@@ -507,7 +543,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2024-09-29",
-    "modifiedAt": "2024-09-29"
+    "modifiedAt": "2024-09-29",
+    "faqs": [{"question":"Çfarë dimë për kiara tito biografia?","answer":"Ajo njihet më së shumti për punën e saj në rrjetet shqiptare Top Channel dhe Klan TV si moderatore dhe modele. Ajo mori pjesë në konkursin e kërcimit të realitetit Dance With Me Albania në vitin 2018. Ajo filloi të prezanoje Doctor Plastic, një shfaqje për kirurgjinë plastike."},{"question":"Pjesmarrja ne BB Albania — çfarë duhet ditur?","answer":"Kiara Tito është një personazh i njohur që fitoi popullaritet pas paraqitjes në reality show-n televiziv “Big Brother VIP Albania”. Ajo hyri në shtëpi si një konkurrente dhe shpejt u bë një nga individët më të përfolur në shfaqje."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "38",
@@ -520,7 +557,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2024-09-28",
-    "modifiedAt": "2024-09-28"
+    "modifiedAt": "2024-09-28",
+    "faqs": [{"question":"Çfarë dimë për mesazhe ngushëllimi:?","answer":"Jam i pikëlluar thellësisht për humbjen tuaj. Personi juaj i dashur do të kujtohet gjithmonë për dashurinë dhe përkushtimin që kishte ndaj jush. Në këto momente të vështira, ju nuk jeni vetëm. Unë jam këtu për ju dhe ju ofroj mbështetjen time të plotë."},{"question":"Mesazhe të shkurta ngushëllimi: — çfarë duhet ditur?","answer":"Sinqerisht ndihem të prekur për humbjen tuaj. Dëshirojmë forcë dhe durim për ju dhe familjen tuaj."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "39",
@@ -533,7 +571,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-22",
-    "modifiedAt": "2023-12-22"
+    "modifiedAt": "2023-12-22",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "40",
@@ -546,7 +585,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-21",
-    "modifiedAt": "2023-12-21"
+    "modifiedAt": "2023-12-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 21 dhjetor 2023?","answer":"Horoskopi ditor për 21 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "41",
@@ -559,7 +599,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-20",
-    "modifiedAt": "2023-12-20"
+    "modifiedAt": "2023-12-20",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 20 dhjetor 2023?","answer":"Horoskopi ditor për 20 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "42",
@@ -572,7 +613,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-19",
-    "modifiedAt": "2023-12-19"
+    "modifiedAt": "2023-12-19",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 19 dhjetor 2023?","answer":"Horoskopi ditor për 19 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "43",
@@ -585,7 +627,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-12-18",
-    "modifiedAt": "2023-12-18"
+    "modifiedAt": "2023-12-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "44",
@@ -598,7 +641,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-18",
-    "modifiedAt": "2023-12-18"
+    "modifiedAt": "2023-12-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 18 dhjetor 2023?","answer":"Horoskopi ditor për 18 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "45",
@@ -611,7 +655,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-15",
-    "modifiedAt": "2023-12-15"
+    "modifiedAt": "2023-12-15",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 15 dhjetor 2023?","answer":"Horoskopi ditor për 15 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "46",
@@ -624,7 +669,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-14",
-    "modifiedAt": "2023-12-14"
+    "modifiedAt": "2023-12-14",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 14 dhjetor 2023?","answer":"Horoskopi ditor për 14 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "47",
@@ -637,7 +683,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-13",
-    "modifiedAt": "2023-12-13"
+    "modifiedAt": "2023-12-13",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 13 dhjetor 2023?","answer":"Horoskopi ditor për 13 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "48",
@@ -650,7 +697,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-12",
-    "modifiedAt": "2023-12-12"
+    "modifiedAt": "2023-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 12 dhjetor 2023?","answer":"Horoskopi ditor për 12 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "49",
@@ -663,7 +711,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-11",
-    "modifiedAt": "2023-12-11"
+    "modifiedAt": "2023-12-11",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 11 dhjetor 2023?","answer":"Horoskopi ditor për 11 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "50",
@@ -676,7 +725,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-12-11",
-    "modifiedAt": "2023-12-11"
+    "modifiedAt": "2023-12-11",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën dhjetor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "51",
@@ -689,7 +739,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-08",
-    "modifiedAt": "2023-12-08"
+    "modifiedAt": "2023-12-08",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 08 dhjetor 2023?","answer":"Horoskopi ditor për 08 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "52",
@@ -702,7 +753,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-07",
-    "modifiedAt": "2023-12-07"
+    "modifiedAt": "2023-12-07",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 07 dhjetor 2023?","answer":"Horoskopi ditor për 07 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "53",
@@ -715,7 +767,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-06",
-    "modifiedAt": "2023-12-06"
+    "modifiedAt": "2023-12-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 06 dhjetor 2023?","answer":"Horoskopi ditor për 06 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "54",
@@ -728,7 +781,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-05",
-    "modifiedAt": "2023-12-05"
+    "modifiedAt": "2023-12-05",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 05 dhjetor 2023?","answer":"Horoskopi ditor për 05 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "55",
@@ -741,7 +795,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-12-04",
-    "modifiedAt": "2023-12-04"
+    "modifiedAt": "2023-12-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 04 dhjetor 2023?","answer":"Horoskopi ditor për 04 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "56",
@@ -754,7 +809,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-12-04",
-    "modifiedAt": "2023-12-04"
+    "modifiedAt": "2023-12-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën dhjetor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "57",
@@ -767,7 +823,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 10,
     "publishedAt": "2023-12-01",
-    "modifiedAt": "2023-12-01"
+    "modifiedAt": "2023-12-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi mujor?","answer":"Horoskopi mujor ofron një panoramë të detajuar të çdo shenje për gjithë muajin. Ai përfshin parashikime për karrierën, dashurinë, shëndetin dhe financat, duke ju ndihmuar të planifikoni muajin tuaj."},{"question":"Cilat shenja kanë muajin më të favorshëm?","answer":"Çdo muaj sjell energji të ndryshme për secilën shenjë. Disa shenja mund të përjetojnë rritje në karrierë, ndërsa të tjerat mund të kenë mundësi të mëdha në dashuri. Lexoni parashikimin e plotë për shenjën tuaj."},{"question":"Si dallon horoskopi mujor nga ai javor apo ditor?","answer":"Horoskopi mujor ofron një pamje strategjike afatgjatë, duke identifikuar tendencat kryesore të muajit. Ai është ideal për planifikim, ndërsa horoskopi javor dhe ditor ofrojnë detaje më specifike për periudha më të shkurtra."}]
   },
   {
     "id": "58",
@@ -780,7 +837,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-12-01",
-    "modifiedAt": "2023-12-01"
+    "modifiedAt": "2023-12-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 01 dhjetor 2023?","answer":"Horoskopi ditor për 01 dhjetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "59",
@@ -793,7 +851,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-30",
-    "modifiedAt": "2023-11-30"
+    "modifiedAt": "2023-11-30",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 30 nentor 2023?","answer":"Horoskopi ditor për 30 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "60",
@@ -806,7 +865,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-29",
-    "modifiedAt": "2023-11-29"
+    "modifiedAt": "2023-11-29",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 29 nentor 2023?","answer":"Horoskopi ditor për 29 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "61",
@@ -819,7 +879,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-27",
-    "modifiedAt": "2023-11-27"
+    "modifiedAt": "2023-11-27",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 27 nentor 2023?","answer":"Horoskopi ditor për 27 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "62",
@@ -832,7 +893,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-11-27",
-    "modifiedAt": "2023-11-27"
+    "modifiedAt": "2023-11-27",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën 03 dhjetor 2023?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "63",
@@ -845,7 +907,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-24",
-    "modifiedAt": "2023-11-24"
+    "modifiedAt": "2023-11-24",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 24 nentor 2023?","answer":"Horoskopi ditor për 24 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "64",
@@ -858,7 +921,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-23",
-    "modifiedAt": "2023-11-23"
+    "modifiedAt": "2023-11-23",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 23 nentor 2023?","answer":"Horoskopi ditor për 23 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "65",
@@ -871,7 +935,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-22",
-    "modifiedAt": "2023-11-22"
+    "modifiedAt": "2023-11-22",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 22 nentor 2023?","answer":"Horoskopi ditor për 22 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "66",
@@ -884,7 +949,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-21",
-    "modifiedAt": "2023-11-21"
+    "modifiedAt": "2023-11-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 20 nentor 2023?","answer":"Horoskopi ditor për 20 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "67",
@@ -897,7 +963,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-21",
-    "modifiedAt": "2023-11-21"
+    "modifiedAt": "2023-11-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 21 nentor 2023?","answer":"Horoskopi ditor për 21 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "68",
@@ -910,7 +977,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-11-20",
-    "modifiedAt": "2023-11-20"
+    "modifiedAt": "2023-11-20",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "69",
@@ -923,7 +991,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-07",
-    "modifiedAt": "2023-11-07"
+    "modifiedAt": "2023-11-07",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 07 nentor 2023?","answer":"Horoskopi ditor për 07 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "70",
@@ -936,7 +1005,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-06",
-    "modifiedAt": "2023-11-06"
+    "modifiedAt": "2023-11-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 06 nentor 2023?","answer":"Horoskopi ditor për 06 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "71",
@@ -949,7 +1019,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-11-03",
-    "modifiedAt": "2023-11-03"
+    "modifiedAt": "2023-11-03",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 03 nentor 2023?","answer":"Horoskopi ditor për 03 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "72",
@@ -962,7 +1033,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-11-02",
-    "modifiedAt": "2023-11-02"
+    "modifiedAt": "2023-11-02",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 02 nentor 2023?","answer":"Horoskopi ditor për 02 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "73",
@@ -975,7 +1047,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-11-01",
-    "modifiedAt": "2023-11-01"
+    "modifiedAt": "2023-11-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 01 nentor 2023?","answer":"Horoskopi ditor për 01 nentor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "74",
@@ -988,7 +1061,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 11,
     "publishedAt": "2023-11-01",
-    "modifiedAt": "2023-11-01"
+    "modifiedAt": "2023-11-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi mujor?","answer":"Horoskopi mujor ofron një panoramë të detajuar të çdo shenje për gjithë muajin. Ai përfshin parashikime për karrierën, dashurinë, shëndetin dhe financat, duke ju ndihmuar të planifikoni muajin tuaj."},{"question":"Cilat shenja kanë muajin më të favorshëm?","answer":"Çdo muaj sjell energji të ndryshme për secilën shenjë. Disa shenja mund të përjetojnë rritje në karrierë, ndërsa të tjerat mund të kenë mundësi të mëdha në dashuri. Lexoni parashikimin e plotë për shenjën tuaj."},{"question":"Si dallon horoskopi mujor nga ai javor apo ditor?","answer":"Horoskopi mujor ofron një pamje strategjike afatgjatë, duke identifikuar tendencat kryesore të muajit. Ai është ideal për planifikim, ndërsa horoskopi javor dhe ditor ofrojnë detaje më specifike për periudha më të shkurtra."}]
   },
   {
     "id": "75",
@@ -1001,7 +1075,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-31",
-    "modifiedAt": "2023-10-31"
+    "modifiedAt": "2023-10-31",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 31 tetor 2023?","answer":"Horoskopi ditor për 31 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "76",
@@ -1014,7 +1089,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-10-30",
-    "modifiedAt": "2023-10-30"
+    "modifiedAt": "2023-10-30",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 30 tetor 2023?","answer":"Horoskopi ditor për 30 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "77",
@@ -1027,7 +1103,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-23",
-    "modifiedAt": "2023-10-23"
+    "modifiedAt": "2023-10-23",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 23 tetor 2023?","answer":"Horoskopi ditor për 23 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "78",
@@ -1040,7 +1117,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-10-23",
-    "modifiedAt": "2023-10-23"
+    "modifiedAt": "2023-10-23",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën tetor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "79",
@@ -1053,7 +1131,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-20",
-    "modifiedAt": "2023-10-20"
+    "modifiedAt": "2023-10-20",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 20 tetor 2023?","answer":"Horoskopi ditor për 20 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "80",
@@ -1066,7 +1145,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-19",
-    "modifiedAt": "2023-10-19"
+    "modifiedAt": "2023-10-19",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 19 tetor 2023?","answer":"Horoskopi ditor për 19 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "81",
@@ -1079,7 +1159,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-18",
-    "modifiedAt": "2023-10-18"
+    "modifiedAt": "2023-10-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 18 tetor 2023?","answer":"Horoskopi ditor për 18 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "82",
@@ -1092,7 +1173,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-17",
-    "modifiedAt": "2023-10-17"
+    "modifiedAt": "2023-10-17",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 17 tetor 2023?","answer":"Horoskopi ditor për 17 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "83",
@@ -1105,7 +1187,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-10-16",
-    "modifiedAt": "2023-10-16"
+    "modifiedAt": "2023-10-16",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "84",
@@ -1118,7 +1201,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-16",
-    "modifiedAt": "2023-10-16"
+    "modifiedAt": "2023-10-16",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 16 tetor 2023?","answer":"Horoskopi ditor për 16 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "85",
@@ -1131,7 +1215,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-10-16",
-    "modifiedAt": "2023-10-16"
+    "modifiedAt": "2023-10-16",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën tetor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "86",
@@ -1144,7 +1229,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-13",
-    "modifiedAt": "2023-10-13"
+    "modifiedAt": "2023-10-13",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 13 tetor 2023?","answer":"Horoskopi ditor për 13 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "87",
@@ -1157,7 +1243,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-12",
-    "modifiedAt": "2023-10-12"
+    "modifiedAt": "2023-10-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 12 tetor 2023?","answer":"Horoskopi ditor për 12 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "88",
@@ -1170,7 +1257,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-11",
-    "modifiedAt": "2023-10-11"
+    "modifiedAt": "2023-10-11",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 11 tetor 2023?","answer":"Horoskopi ditor për 11 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "89",
@@ -1183,7 +1271,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-10",
-    "modifiedAt": "2023-10-10"
+    "modifiedAt": "2023-10-10",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 10 tetor 2023?","answer":"Horoskopi ditor për 10 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "90",
@@ -1196,7 +1285,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-09",
-    "modifiedAt": "2023-10-09"
+    "modifiedAt": "2023-10-09",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 09 tetor 2023?","answer":"Horoskopi ditor për 09 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "91",
@@ -1209,7 +1299,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-06",
-    "modifiedAt": "2023-10-06"
+    "modifiedAt": "2023-10-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 06 tetor 2023?","answer":"Horoskopi ditor për 06 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "92",
@@ -1222,7 +1313,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-05",
-    "modifiedAt": "2023-10-05"
+    "modifiedAt": "2023-10-05",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 05 tetor 2023?","answer":"Horoskopi ditor për 05 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "93",
@@ -1235,7 +1327,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 9,
     "publishedAt": "2023-10-04",
-    "modifiedAt": "2023-10-04"
+    "modifiedAt": "2023-10-04",
+    "faqs": [{"question":"What is an Overview of Dating Apps - What They Are and How They Work?","answer":"In today's fast-paced digital age, dating has undergone a profound transformation, with the emergence of dating apps like dua.com, revolutionizing the way people connect and find love."},{"question":"Why is why Dating Apps Are Good? Accessibility and Convenience important?","answer":"Dating apps have made it easier than ever to connect with potential partners. They are readily available on smartphones, making it possible to browse and interact with other singles at any time, from virtually anywhere."},{"question":"Where can I find more articles like this?","answer":"FemraDD publishes hundreds of articles on relationships, lifestyle, personal development and more. Browse our categories to find content that interests you."}]
   },
   {
     "id": "94",
@@ -1248,7 +1341,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-04",
-    "modifiedAt": "2023-10-04"
+    "modifiedAt": "2023-10-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 04 tetor 2023?","answer":"Horoskopi ditor për 04 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "95",
@@ -1261,7 +1355,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-03",
-    "modifiedAt": "2023-10-03"
+    "modifiedAt": "2023-10-03",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 03 tetor 2023?","answer":"Horoskopi ditor për 03 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "96",
@@ -1274,7 +1369,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 7,
     "publishedAt": "2023-10-02",
-    "modifiedAt": "2023-10-02"
+    "modifiedAt": "2023-10-02",
+    "faqs": [{"question":"What is 1. What is a real date? Historical Perspective?","answer":"Understanding the concept of a real date requires a glimpse into its historical roots. Throughout history, the purpose of dating has transformed, from arranged marriages to courtship rituals and now to modern dating, where individual preferences and choices play a significant rol…"},{"question":"Why is 2. Defining a Real Date important?","answer":"What is a real date? A real date is an occasion where two individuals meet with the intention of getting to know each other better in a more intimate setting."},{"question":"Where can I find more articles like this?","answer":"FemraDD publishes hundreds of articles on relationships, lifestyle, personal development and more. Browse our categories to find content that interests you."}]
   },
   {
     "id": "97",
@@ -1287,7 +1383,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-10-02",
-    "modifiedAt": "2023-10-02"
+    "modifiedAt": "2023-10-02",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 02 tetor 2023?","answer":"Horoskopi ditor për 02 tetor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "98",
@@ -1300,7 +1397,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-10-02",
-    "modifiedAt": "2023-10-02"
+    "modifiedAt": "2023-10-02",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën tetor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "99",
@@ -1313,7 +1411,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 12,
     "publishedAt": "2023-10-01",
-    "modifiedAt": "2023-10-01"
+    "modifiedAt": "2023-10-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi mujor për muajin tetor?","answer":"Horoskopi mujor i tetor ofron një panoramë të detajuar të çdo shenje për gjithë muajin. Ai përfshin parashikime për karrierën, dashurinë, shëndetin dhe financat, duke ju ndihmuar të planifikoni muajin tuaj."},{"question":"Cilat shenja kanë muajin më të favorshëm në tetor?","answer":"Çdo muaj sjell energji të ndryshme për secilën shenjë. Disa shenja mund të përjetojnë rritje në karrierë, ndërsa të tjerat mund të kenë mundësi të mëdha në dashuri. Lexoni parashikimin e plotë për shenjën tuaj."},{"question":"Si dallon horoskopi mujor nga ai javor apo ditor?","answer":"Horoskopi mujor ofron një pamje strategjike afatgjatë, duke identifikuar tendencat kryesore të muajit. Ai është ideal për planifikim, ndërsa horoskopi javor dhe ditor ofrojnë detaje më specifike për periudha më të shkurtra."}]
   },
   {
     "id": "100",
@@ -1326,7 +1425,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-29",
-    "modifiedAt": "2023-09-29"
+    "modifiedAt": "2023-09-29",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 29 shtator 2023?","answer":"Horoskopi ditor për 29 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "101",
@@ -1339,7 +1439,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-28",
-    "modifiedAt": "2023-09-28"
+    "modifiedAt": "2023-09-28",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 28 shtator 2023?","answer":"Horoskopi ditor për 28 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "102",
@@ -1352,7 +1453,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-27",
-    "modifiedAt": "2023-09-27"
+    "modifiedAt": "2023-09-27",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 27 shtator 2023?","answer":"Horoskopi ditor për 27 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "103",
@@ -1365,7 +1467,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-26",
-    "modifiedAt": "2023-09-26"
+    "modifiedAt": "2023-09-26",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 26 shtator 2023?","answer":"Horoskopi ditor për 26 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "104",
@@ -1378,7 +1481,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-25",
-    "modifiedAt": "2023-09-25"
+    "modifiedAt": "2023-09-25",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 22 shtator 2023?","answer":"Horoskopi ditor për 22 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "105",
@@ -1391,7 +1495,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-25",
-    "modifiedAt": "2023-09-25"
+    "modifiedAt": "2023-09-25",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 25 shtator 2023?","answer":"Horoskopi ditor për 25 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "106",
@@ -1404,7 +1509,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 10,
     "publishedAt": "2023-09-25",
-    "modifiedAt": "2023-09-25"
+    "modifiedAt": "2023-09-25",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën 01 tetor 2023?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "107",
@@ -1417,7 +1523,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-21",
-    "modifiedAt": "2023-09-21"
+    "modifiedAt": "2023-09-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 21 shtator 2023?","answer":"Horoskopi ditor për 21 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "108",
@@ -1430,7 +1537,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-20",
-    "modifiedAt": "2023-09-20"
+    "modifiedAt": "2023-09-20",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 20 shtator 2023?","answer":"Horoskopi ditor për 20 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "109",
@@ -1443,7 +1551,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-19",
-    "modifiedAt": "2023-09-19"
+    "modifiedAt": "2023-09-19",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 19 shtator 2023?","answer":"Horoskopi ditor për 19 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "110",
@@ -1456,7 +1565,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-18",
-    "modifiedAt": "2023-09-18"
+    "modifiedAt": "2023-09-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 18 shtator 2023?","answer":"Horoskopi ditor për 18 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "111",
@@ -1469,7 +1579,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-09-18",
-    "modifiedAt": "2023-09-18"
+    "modifiedAt": "2023-09-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën shtator?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "112",
@@ -1482,7 +1593,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-15",
-    "modifiedAt": "2023-09-15"
+    "modifiedAt": "2023-09-15",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 15 shtator 2023?","answer":"Horoskopi ditor për 15 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "113",
@@ -1495,7 +1607,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-14",
-    "modifiedAt": "2023-09-14"
+    "modifiedAt": "2023-09-14",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 14 shtator 2023?","answer":"Horoskopi ditor për 14 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "114",
@@ -1508,7 +1621,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-13",
-    "modifiedAt": "2023-09-13"
+    "modifiedAt": "2023-09-13",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 13 shtator 2023?","answer":"Horoskopi ditor për 13 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "115",
@@ -1521,7 +1635,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-12",
-    "modifiedAt": "2023-09-12"
+    "modifiedAt": "2023-09-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 12 shtator 2023?","answer":"Horoskopi ditor për 12 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "116",
@@ -1534,7 +1649,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 9,
     "publishedAt": "2023-09-11",
-    "modifiedAt": "2023-09-11"
+    "modifiedAt": "2023-09-11",
+    "faqs": [{"question":"What is be Specific?","answer":"Want to know the secret to really wowing a guy with your compliments? It's all about being specific, my dear friend. None of that generic \"you look great\" stuff. Nope, we're going for the gold here. Take the time to notice the little things, and you'll make his day."},{"question":"Why is keep it Real important?","answer":"Alright, ladies, let's talk compliments. We all know that those fake, flattering words just don't cut it. We're talking about the genuine stuff here - the compliments that come straight from your heart."},{"question":"Where can I find more articles like this?","answer":"FemraDD publishes hundreds of articles on relationships, lifestyle, personal development and more. Browse our categories to find content that interests you."}]
   },
   {
     "id": "117",
@@ -1547,7 +1663,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-11",
-    "modifiedAt": "2023-09-11"
+    "modifiedAt": "2023-09-11",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 11 shtator 2023?","answer":"Horoskopi ditor për 11 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "118",
@@ -1560,7 +1677,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 13,
     "publishedAt": "2023-09-11",
-    "modifiedAt": "2023-09-11"
+    "modifiedAt": "2023-09-11",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën shtator?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "119",
@@ -1573,7 +1691,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-08",
-    "modifiedAt": "2023-09-08"
+    "modifiedAt": "2023-09-08",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "120",
@@ -1586,7 +1705,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-07",
-    "modifiedAt": "2023-09-07"
+    "modifiedAt": "2023-09-07",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 07 shtator 2023?","answer":"Horoskopi ditor për 07 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "121",
@@ -1599,7 +1719,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-06",
-    "modifiedAt": "2023-09-06"
+    "modifiedAt": "2023-09-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 06 shtator 2023?","answer":"Horoskopi ditor për 06 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "122",
@@ -1612,7 +1733,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-05",
-    "modifiedAt": "2023-09-05"
+    "modifiedAt": "2023-09-05",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 05 shtator 2023?","answer":"Horoskopi ditor për 05 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "123",
@@ -1625,7 +1747,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-09-04",
-    "modifiedAt": "2023-09-04"
+    "modifiedAt": "2023-09-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "124",
@@ -1638,7 +1761,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-04",
-    "modifiedAt": "2023-09-04"
+    "modifiedAt": "2023-09-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 04 shtator 2023?","answer":"Horoskopi ditor për 04 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "125",
@@ -1651,7 +1775,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-04",
-    "modifiedAt": "2023-09-04"
+    "modifiedAt": "2023-09-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën shtator?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "126",
@@ -1664,7 +1789,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-09-01",
-    "modifiedAt": "2023-09-01"
+    "modifiedAt": "2023-09-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 01 shtator 2023?","answer":"Horoskopi ditor për 01 shtator 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "127",
@@ -1677,7 +1803,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 12,
     "publishedAt": "2023-09-01",
-    "modifiedAt": "2023-09-01"
+    "modifiedAt": "2023-09-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi mujor për muajin shtator?","answer":"Horoskopi mujor i shtator ofron një panoramë të detajuar të çdo shenje për gjithë muajin. Ai përfshin parashikime për karrierën, dashurinë, shëndetin dhe financat, duke ju ndihmuar të planifikoni muajin tuaj."},{"question":"Cilat shenja kanë muajin më të favorshëm në shtator?","answer":"Çdo muaj sjell energji të ndryshme për secilën shenjë. Disa shenja mund të përjetojnë rritje në karrierë, ndërsa të tjerat mund të kenë mundësi të mëdha në dashuri. Lexoni parashikimin e plotë për shenjën tuaj."},{"question":"Si dallon horoskopi mujor nga ai javor apo ditor?","answer":"Horoskopi mujor ofron një pamje strategjike afatgjatë, duke identifikuar tendencat kryesore të muajit. Ai është ideal për planifikim, ndërsa horoskopi javor dhe ditor ofrojnë detaje më specifike për periudha më të shkurtra."}]
   },
   {
     "id": "128",
@@ -1690,7 +1817,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-31",
-    "modifiedAt": "2023-08-31"
+    "modifiedAt": "2023-08-31",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 31 gusht 2023?","answer":"Horoskopi ditor për 31 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "129",
@@ -1703,7 +1831,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-30",
-    "modifiedAt": "2023-08-30"
+    "modifiedAt": "2023-08-30",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 30 gusht 2023?","answer":"Horoskopi ditor për 30 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "130",
@@ -1716,7 +1845,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-29",
-    "modifiedAt": "2023-08-29"
+    "modifiedAt": "2023-08-29",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 29 gusht 2023?","answer":"Horoskopi ditor për 29 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "131",
@@ -1729,7 +1859,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-28",
-    "modifiedAt": "2023-08-28"
+    "modifiedAt": "2023-08-28",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 28 gusht 2023?","answer":"Horoskopi ditor për 28 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "132",
@@ -1742,7 +1873,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-25",
-    "modifiedAt": "2023-08-25"
+    "modifiedAt": "2023-08-25",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 25 gusht 2023?","answer":"Horoskopi ditor për 25 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "133",
@@ -1755,7 +1887,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-24",
-    "modifiedAt": "2023-08-24"
+    "modifiedAt": "2023-08-24",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 24 gusht 2023?","answer":"Horoskopi ditor për 24 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "134",
@@ -1768,7 +1901,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-23",
-    "modifiedAt": "2023-08-23"
+    "modifiedAt": "2023-08-23",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 23 gusht 2023?","answer":"Horoskopi ditor për 23 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "135",
@@ -1781,7 +1915,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-08-22",
-    "modifiedAt": "2023-08-22"
+    "modifiedAt": "2023-08-22",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 22 gusht 2023?","answer":"Horoskopi ditor për 22 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "136",
@@ -1794,7 +1929,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-21",
-    "modifiedAt": "2023-08-21"
+    "modifiedAt": "2023-08-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 21 gusht 2023?","answer":"Horoskopi ditor për 21 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "137",
@@ -1807,7 +1943,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-08-21",
-    "modifiedAt": "2023-08-21"
+    "modifiedAt": "2023-08-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën gusht?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "138",
@@ -1820,7 +1957,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-18",
-    "modifiedAt": "2023-08-18"
+    "modifiedAt": "2023-08-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 18 gusht 2023?","answer":"Horoskopi ditor për 18 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "139",
@@ -1833,7 +1971,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-17",
-    "modifiedAt": "2023-08-17"
+    "modifiedAt": "2023-08-17",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 17 gusht 2023?","answer":"Horoskopi ditor për 17 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "140",
@@ -1846,7 +1985,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-16",
-    "modifiedAt": "2023-08-16"
+    "modifiedAt": "2023-08-16",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 16 gusht 2023?","answer":"Horoskopi ditor për 16 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "141",
@@ -1859,7 +1999,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 10,
     "publishedAt": "2023-08-14",
-    "modifiedAt": "2023-08-14"
+    "modifiedAt": "2023-08-14",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën gusht?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "142",
@@ -1872,7 +2013,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-08",
-    "modifiedAt": "2023-08-08"
+    "modifiedAt": "2023-08-08",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 08 gusht 2023?","answer":"Horoskopi ditor për 08 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "143",
@@ -1885,7 +2027,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 12,
     "publishedAt": "2023-08-07",
-    "modifiedAt": "2023-08-07"
+    "modifiedAt": "2023-08-07",
+    "faqs": [{"question":"Çfarë parashikon horoskopi mujor për muajin korrik?","answer":"Horoskopi mujor i korrik ofron një panoramë të detajuar të çdo shenje për gjithë muajin. Ai përfshin parashikime për karrierën, dashurinë, shëndetin dhe financat, duke ju ndihmuar të planifikoni muajin tuaj."},{"question":"Cilat shenja kanë muajin më të favorshëm në korrik?","answer":"Çdo muaj sjell energji të ndryshme për secilën shenjë. Disa shenja mund të përjetojnë rritje në karrierë, ndërsa të tjerat mund të kenë mundësi të mëdha në dashuri. Lexoni parashikimin e plotë për shenjën tuaj."},{"question":"Si dallon horoskopi mujor nga ai javor apo ditor?","answer":"Horoskopi mujor ofron një pamje strategjike afatgjatë, duke identifikuar tendencat kryesore të muajit. Ai është ideal për planifikim, ndërsa horoskopi javor dhe ditor ofrojnë detaje më specifike për periudha më të shkurtra."}]
   },
   {
     "id": "144",
@@ -1898,7 +2041,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-07",
-    "modifiedAt": "2023-08-07"
+    "modifiedAt": "2023-08-07",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 07 gusht 2023?","answer":"Horoskopi ditor për 07 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "145",
@@ -1911,7 +2055,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-04",
-    "modifiedAt": "2023-08-04"
+    "modifiedAt": "2023-08-04",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 04 gusht 2023?","answer":"Horoskopi ditor për 04 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "146",
@@ -1924,7 +2069,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-03",
-    "modifiedAt": "2023-08-03"
+    "modifiedAt": "2023-08-03",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 03 gusht 2023?","answer":"Horoskopi ditor për 03 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "147",
@@ -1937,7 +2083,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-02",
-    "modifiedAt": "2023-08-02"
+    "modifiedAt": "2023-08-02",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 02 gusht 2023?","answer":"Horoskopi ditor për 02 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "148",
@@ -1950,7 +2097,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2023-08-01",
-    "modifiedAt": "2023-08-01"
+    "modifiedAt": "2023-08-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën korrik?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "149",
@@ -1963,7 +2111,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-08-01",
-    "modifiedAt": "2023-08-01"
+    "modifiedAt": "2023-08-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 31 korrik 2023?","answer":"Horoskopi ditor për 31 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "150",
@@ -1976,7 +2125,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2023-08-01",
-    "modifiedAt": "2023-08-01"
+    "modifiedAt": "2023-08-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 01 gusht 2023?","answer":"Horoskopi ditor për 01 gusht 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "151",
@@ -1989,7 +2139,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 9,
     "publishedAt": "2023-08-01",
-    "modifiedAt": "2023-08-01"
+    "modifiedAt": "2023-08-01",
+    "faqs": [{"question":"Çfarë parashikon horoskopi mujor për muajin gusht?","answer":"Horoskopi mujor i gusht ofron një panoramë të detajuar të çdo shenje për gjithë muajin. Ai përfshin parashikime për karrierën, dashurinë, shëndetin dhe financat, duke ju ndihmuar të planifikoni muajin tuaj."},{"question":"Cilat shenja kanë muajin më të favorshëm në gusht?","answer":"Çdo muaj sjell energji të ndryshme për secilën shenjë. Disa shenja mund të përjetojnë rritje në karrierë, ndërsa të tjerat mund të kenë mundësi të mëdha në dashuri. Lexoni parashikimin e plotë për shenjën tuaj."},{"question":"Si dallon horoskopi mujor nga ai javor apo ditor?","answer":"Horoskopi mujor ofron një pamje strategjike afatgjatë, duke identifikuar tendencat kryesore të muajit. Ai është ideal për planifikim, ndërsa horoskopi javor dhe ditor ofrojnë detaje më specifike për periudha më të shkurtra."}]
   },
   {
     "id": "152",
@@ -2002,7 +2153,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2023-07-31",
-    "modifiedAt": "2023-07-31"
+    "modifiedAt": "2023-07-31",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën 06 gusht 2023?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "153",
@@ -2015,7 +2167,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-07-28",
-    "modifiedAt": "2023-07-28"
+    "modifiedAt": "2023-07-28",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 28 korrik 2023?","answer":"Horoskopi ditor për 28 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "154",
@@ -2028,7 +2181,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-27",
-    "modifiedAt": "2023-07-27"
+    "modifiedAt": "2023-07-27",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 27 korrik 2023?","answer":"Horoskopi ditor për 27 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "155",
@@ -2041,7 +2195,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-26",
-    "modifiedAt": "2023-07-26"
+    "modifiedAt": "2023-07-26",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 26  korrik 2023?","answer":"Horoskopi ditor për 26  korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "156",
@@ -2054,7 +2209,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-25",
-    "modifiedAt": "2023-07-25"
+    "modifiedAt": "2023-07-25",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 25 korrik 2023?","answer":"Horoskopi ditor për 25 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "157",
@@ -2067,7 +2223,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-24",
-    "modifiedAt": "2023-07-24"
+    "modifiedAt": "2023-07-24",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën korrik?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "158",
@@ -2080,7 +2237,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-24",
-    "modifiedAt": "2023-07-24"
+    "modifiedAt": "2023-07-24",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 21 korrik 2023?","answer":"Horoskopi ditor për 21 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "159",
@@ -2093,7 +2251,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-07-24",
-    "modifiedAt": "2023-07-24"
+    "modifiedAt": "2023-07-24",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 24 korrik 2023?","answer":"Horoskopi ditor për 24 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "160",
@@ -2106,7 +2265,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-21",
-    "modifiedAt": "2023-07-21"
+    "modifiedAt": "2023-07-21",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 20 korrik 2023?","answer":"Horoskopi ditor për 20 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "161",
@@ -2119,7 +2279,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-07-20",
-    "modifiedAt": "2023-07-20"
+    "modifiedAt": "2023-07-20",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 19 korrik 2023?","answer":"Horoskopi ditor për 19 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "162",
@@ -2132,7 +2293,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-19",
-    "modifiedAt": "2023-07-19"
+    "modifiedAt": "2023-07-19",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 18 korrik 2023?","answer":"Horoskopi ditor për 18 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "163",
@@ -2145,7 +2307,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-18",
-    "modifiedAt": "2023-07-18"
+    "modifiedAt": "2023-07-18",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 17 korrik 2023?","answer":"Horoskopi ditor për 17 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "164",
@@ -2158,7 +2321,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-07-17",
-    "modifiedAt": "2023-07-17"
+    "modifiedAt": "2023-07-17",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 14 korrik 2023?","answer":"Horoskopi ditor për 14 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "165",
@@ -2171,7 +2335,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-07-14",
-    "modifiedAt": "2023-07-14"
+    "modifiedAt": "2023-07-14",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 13 korrik 2023?","answer":"Horoskopi ditor për 13 korrik 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "166",
@@ -2184,7 +2349,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-06-12",
-    "modifiedAt": "2023-06-12"
+    "modifiedAt": "2023-06-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 09 Qershor 2023?","answer":"Horoskopi ditor për 09 Qershor 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "167",
@@ -2197,7 +2363,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-06-06",
-    "modifiedAt": "2023-06-06"
+    "modifiedAt": "2023-06-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 31 Maj 2023?","answer":"Horoskopi ditor për 31 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "168",
@@ -2210,7 +2377,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-06-06",
-    "modifiedAt": "2023-06-06"
+    "modifiedAt": "2023-06-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën 04 Qershor 2023?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "169",
@@ -2223,7 +2391,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2023-05-29",
-    "modifiedAt": "2023-05-29"
+    "modifiedAt": "2023-05-29",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 26 Maj 2023?","answer":"Horoskopi ditor për 26 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "170",
@@ -2236,7 +2405,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-05-29",
-    "modifiedAt": "2023-05-29"
+    "modifiedAt": "2023-05-29",
+    "faqs": [{"question":"Çfarë parashikon horoskopi javor për periudhën 28 Maj 2023?","answer":"Horoskopi javor ofron një pamje më të gjerë se horoskopi ditor, duke parashikuar tendencat kryesore për secilën shenjë gjatë gjithë javës. Ai përfshin aspekte të dashurisë, punës, financave dhe mirëqenies."},{"question":"Cila shenjë ka javën më të mirë sipas këtij horoskopi?","answer":"Çdo shenjë ka aspekte pozitive dhe sfiduese gjatë javës. Lexoni parashikimin e plotë për shenjën tuaj për të mësuar se si t'i shfrytëzoni mundësitë më të mira dhe të shmangni pengesat e mundshme."},{"question":"Sa shpesh duhet ta lexoj horoskopin javor?","answer":"Rekomandohet ta lexoni horoskopin javor në fillim të javës për të pasur një ide të përgjithshme, dhe ta rishikoni në mes të javës. Kjo ju ndihmon të planifikoni aktivitetet tuaja dhe të jeni më të vetëdijshëm."}]
   },
   {
     "id": "171",
@@ -2249,7 +2419,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-05-26",
-    "modifiedAt": "2023-05-26"
+    "modifiedAt": "2023-05-26",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 25 Maj 2023?","answer":"Horoskopi ditor për 25 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "172",
@@ -2262,7 +2433,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-05-25",
-    "modifiedAt": "2023-05-25"
+    "modifiedAt": "2023-05-25",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 24 Maj 2023?","answer":"Horoskopi ditor për 24 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "173",
@@ -2275,7 +2447,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-05-24",
-    "modifiedAt": "2023-05-24"
+    "modifiedAt": "2023-05-24",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 23 Maj 2023?","answer":"Horoskopi ditor për 23 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "174",
@@ -2288,7 +2461,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2023-05-22",
-    "modifiedAt": "2023-05-22"
+    "modifiedAt": "2023-05-22",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 19 Maj 2023?","answer":"Horoskopi ditor për 19 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "175",
@@ -2301,7 +2475,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-05-21",
-    "modifiedAt": "2023-05-21"
+    "modifiedAt": "2023-05-21",
+    "faqs": [{"question":"Çfarë dimë për zana e malit?","answer":"Zana e malit është krijesë mitologjike shqiptare me veti tepër origjinale autoktone. Kjo figurë mund të krahasohet më tepër me figura mitologjike të ngjashme ballkanike dhe malore të popullsive në gadishullin ballkanik."},{"question":"Shtojzovallet — çfarë duhet ditur?","answer":"Sqarim: Fotoja nuk është përfaqësim i saktë i shtojzovalleve, por i takon mitologjisë greke \"Hylas dhe Nimfat. Fatkeqsisht nuk kemi piktura që mund të japin përfytyrimin e shtojzovalleve tona. Ky mund të cilësohet përfytyrim i ngjashëm."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "176",
@@ -2314,7 +2489,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 9,
     "publishedAt": "2023-05-19",
-    "modifiedAt": "2023-05-19"
+    "modifiedAt": "2023-05-19",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor për datën 18 Maj 2023?","answer":"Horoskopi ditor për 18 Maj 2023 ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "177",
@@ -2327,7 +2503,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2023-04-24",
-    "modifiedAt": "2023-04-24"
+    "modifiedAt": "2023-04-24",
+    "faqs": [{"question":"Çfarë dimë për vajzat e kalonin vajzërinë duke përgatitur pajen?","answer":"Paja e nuses ishte pjesë e rëndëshme e kohës së rinisë së vajzave shqiptare. Ato qysh në rini mësohen nga gjyshet, nënat dhe të afërmet e tyre të çepin, të thurin dhe të çendisin."},{"question":"Si mund ta përmirësoj stilin tim të jetës?","answer":"Filloni me ndryshime të vogla por konsistente: ushqim i shëndetshëm, aktivitet fizik i rregullt, gjumë cilësor dhe kujdes për shëndetin mendor. Stilet e jetës më të mira ndërtohen hap pas hapi."},{"question":"Cilat janë trendet aktuale të lifestyle-it?","answer":"Trendet aktuale përfshijnë kujdesin ndaj mirëqenies mendore, modën e qëndrueshme, minimalizmin dhe jetesën e balancuar midis punës dhe jetës personale. Gjeni atë që funksionon për ju."}]
   },
   {
     "id": "178",
@@ -2340,7 +2517,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2023-04-17",
-    "modifiedAt": "2023-04-17"
+    "modifiedAt": "2023-04-17",
+    "faqs": [{"question":"Çfarë dimë për 5 interpretime të mundshme?","answer":"Ëndrrat janë të ndryshme dhe mund të kenë shumë interpretime në lidhje me çfarë do të thotë ajo për personin që e ëndërron atë."},{"question":"Fejesa në ëndërr me të dashurën\\in — çfarë duhet ditur?","answer":"Nëse e ëndërroni veten duke u fejuar me partnerin tuaj, ky është një tregues i mundshëm se jeni i/e lumtur dhe i/e kënaqur me marrëdhënien tuaj."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "179",
@@ -2353,7 +2531,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2023-04-17",
-    "modifiedAt": "2023-04-17"
+    "modifiedAt": "2023-04-17",
+    "faqs": [{"question":"Kush është Frizura per fejesa?","answer":"Frizura për fejesa: Në ditën e fejsës, frizura e duhur mund të ndryshojë tërësisht pamjen e nuses dhe siguron që së bashku me veshjen dhe make-up-in, ajo të duket e përsosur."},{"question":"Çfarë kontributi ka dhënë Frizura per fejesa?","answer":"Pasi të keni zgjedhur modelin perfekt të fejesës, dëshironi të siguroheni që të zgjasë dhe të duket mirë gjatë gjithë ditës. Këtu janë disa këshilla për t'u kujdesur dhe mirëmbajtur flokët tuaj:"},{"question":"Pse janë të rëndësishme historitë e grave shqiptare?","answer":"Historitë e grave shqiptare të suksesshme frymëzojnë brezat e rinj, sfidojnë stereotipat gjinore dhe tregojnë se me vendosmëri e punë të palodhur, çdo gjë është e mundshme. Ato përfaqësojnë modele pozitive për vajzat shqiptare kudo në botë."}]
   },
   {
     "id": "180",
@@ -2366,7 +2545,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2023-04-01",
-    "modifiedAt": "2026-01-19"
+    "modifiedAt": "2026-01-19",
+    "faqs": [{"question":"Kush është Krist Aliaj?","answer":"Rrugëtimi i Krist Aliajt për t'u bërë një artist i suksesshëm dhe një personazh i dashur publik ka qenë i jashtëzakonshëm."},{"question":"Çfarë kontributi ka dhënë Krist Aliaj?","answer":"Që në moshë të re, ai shfaqi një talent të natyrshëm për artin dhe një pasion të thellë për të shprehur përmes mediumeve të ndryshme."},{"question":"Pse janë të rëndësishme historitë e grave shqiptare?","answer":"Historitë e grave shqiptare të suksesshme frymëzojnë brezat e rinj, sfidojnë stereotipat gjinore dhe tregojnë se me vendosmëri e punë të palodhur, çdo gjë është e mundshme. Ato përfaqësojnë modele pozitive për vajzat shqiptare kudo në botë."}]
   },
   {
     "id": "181",
@@ -2379,7 +2559,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2023-03-30",
-    "modifiedAt": "2023-03-30"
+    "modifiedAt": "2023-03-30",
+    "faqs": [{"question":"Kush është Yll Limani?","answer":"Yll Limani është një kantautor dhe muzikant shqiptar që fitoi popullaritet në vendin e tij dhe në mbarë Evropën."},{"question":"Çfarë kontributi ka dhënë Yll Limani?","answer":"Në vitin 2012, në moshën 17-vjeçare, Yll Limani bëri audicionin për konkursin e këngës shqiptare “Top Fest” dhe fitoi konkursin me këngën e tij “Me jeto”. Kjo ishte një pikë kthese në karrierën e tij dhe i hapi mundësitë për të shfaqur talentin e tij në skena më të mëdha."},{"question":"Pse janë të rëndësishme historitë e grave shqiptare?","answer":"Historitë e grave shqiptare të suksesshme frymëzojnë brezat e rinj, sfidojnë stereotipat gjinore dhe tregojnë se me vendosmëri e punë të palodhur, çdo gjë është e mundshme. Ato përfaqësojnë modele pozitive për vajzat shqiptare kudo në botë."}]
   },
   {
     "id": "182",
@@ -2392,7 +2573,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 9,
     "publishedAt": "2023-01-26",
-    "modifiedAt": "2023-01-26"
+    "modifiedAt": "2023-01-26",
+    "faqs": [{"question":"Çfarë informacioni ofron ky artikull?","answer":""},{"question":"A ka informacione shtesë rreth kësaj teme?","answer":"Po, kjo temë ka shumë aspekte interesante. Rekomandojmë të lexoni artikuj të tjerë të lidhur në FemraDD për të pasur një pamje më të plotë dhe të detajuar."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "183",
@@ -2405,7 +2587,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 18,
     "publishedAt": "2023-01-11",
-    "modifiedAt": "2023-01-11"
+    "modifiedAt": "2023-01-11",
+    "faqs": [{"question":"Çfarë ofron fjalë të urta për burra dhe gra?","answer":"Gruaja e fut shejtanin në shishe! Gratë i përkushtohen Zotit kur nuk i hyjnë më në punë djallit!"},{"question":"Si lidhet fjalë të urta me mesazhe të forta me temën?","answer":"Bora është e bardhë, por e ndyjnë qentë! Dhe sikur deti kos të bëhet, për të varfrin nuk gjendet lugë!"},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "184",
@@ -2418,7 +2601,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2023-01-10",
-    "modifiedAt": "2023-01-10"
+    "modifiedAt": "2023-01-10",
+    "faqs": [{"question":"Çfarë dimë për ide për dhuratë për krishtlindje?","answer":"Pa marrë parasysh se kujt po i dhuroni, apo çfarë raporti keni me ta, kur bëhet fjalë për dhurata krishtlindjesh, ne e kemi zgjidhjen për ju! Ja disa ide dhuratash për krishtlindje! Një set për kujdesin ndaj vetes"},{"question":"Dhurata e krishtlindjeve për prindërit — çfarë duhet ditur?","answer":"Gëzoni personat më të dashur të zemrës. tuaj, ata që ju kanë dhënë gjithçka në jetë. Ndoshta nuk gjindet dhurata perfekte për personat që meritojnë gjithë të mirat, mirëpo ne kemi sjellë një listë me ide dhuratash që padyshim se do t'i gëzojnë."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "185",
@@ -2431,7 +2615,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 10,
     "publishedAt": "2022-12-14",
-    "modifiedAt": "2022-12-14"
+    "modifiedAt": "2022-12-14",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "186",
@@ -2444,7 +2629,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "187",
@@ -2457,7 +2643,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "188",
@@ -2470,7 +2657,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "189",
@@ -2483,7 +2671,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "190",
@@ -2496,7 +2685,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "191",
@@ -2509,7 +2699,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "192",
@@ -2522,7 +2713,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "193",
@@ -2535,7 +2727,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "194",
@@ -2548,7 +2741,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "195",
@@ -2561,7 +2755,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "196",
@@ -2574,7 +2769,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "197",
@@ -2587,7 +2783,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-12",
-    "modifiedAt": "2022-12-12"
+    "modifiedAt": "2022-12-12",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "198",
@@ -2600,7 +2797,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 7,
     "publishedAt": "2022-12-06",
-    "modifiedAt": "2022-12-06"
+    "modifiedAt": "2022-12-06",
+    "faqs": [{"question":"Çfarë ofron ja na erdhi viti i ri!?","answer":"Ja na erdhi Viti i Ri, sa jam i gëzuar, Porsi unë dhe cdo fëmijë, pret per ta festuar, Bora zbardhi tej për tej, fusha edhe male, Viti i Ri do të na gjej', me këngë e me valle."},{"question":"Si lidhet viti i ri me temën?","answer":"Fjala me e bukur thuhet ne ora dymbedhjete, gezuar Viti i Ri dhe nje lumturi e vertete. Dil ne dritare kerko nje deshire thuaj Zoti im per mua pak meshire."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "199",
@@ -2613,7 +2811,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2022-12-06",
-    "modifiedAt": "2022-12-06"
+    "modifiedAt": "2022-12-06",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "200",
@@ -2626,7 +2825,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 10,
     "publishedAt": "2022-12-05",
-    "modifiedAt": "2022-12-05"
+    "modifiedAt": "2022-12-05",
+    "faqs": [{"question":"Çfarë parashikon horoskopi ditor?","answer":"Horoskopi ditor ofron parashikime të detajuara për secilën shenjë të horoskopit, duke përfshirë dashurinë, karrierën dhe shëndetin. Lexoni parashikimin e plotë për shenjën tuaj për të zbuluar çfarë kanë yjet në plan për ju."},{"question":"Si mund ta përdor horoskopin ditor në jetën time?","answer":"Horoskopi ditor mund t'ju ndihmojë të përgatiteni për sfidat dhe mundësitë e ditës. Megjithatë, ai duhet përdorur si një udhëzues i përgjithshëm dhe jo si parashikim absolut. Përdoreni për reflektim personal dhe për të qenë më të vetëdijshëm."},{"question":"A janë parashikimet e horoskopit ditor të sakta?","answer":"Parashikimet astrologjike bazohen në pozicionet e planetëve dhe shenjat e zodiakut. Ato ofrojnë një perspektivë të përgjithshme dhe nuk janë parashikime shkencore. Shumë njerëz i gjejnë të dobishme për vetëreflektim dhe planifikim."}]
   },
   {
     "id": "201",
@@ -2639,7 +2839,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2022-12-05",
-    "modifiedAt": "2022-12-05"
+    "modifiedAt": "2022-12-05",
+    "faqs": [{"question":"Çfarë dimë për festat zyrtare në kosovë 2022?","answer":"01 Janar 2022 - Festa e Vitit të Ri 02 Janar 2022 - Festa e Vitit të Ri"},{"question":"Festat Zyrtare në Shqipëri 2022 — çfarë duhet ditur?","answer":"01 Janar 2022 - Festa e Vitit të Ri 02 Janar 2022 - Festa e Vitit të Ri"},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "202",
@@ -2652,7 +2853,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 11,
     "publishedAt": "2022-11-29",
-    "modifiedAt": "2022-11-29"
+    "modifiedAt": "2022-11-29",
+    "faqs": [{"question":"What is the first date look – Everything you need to know!?","answer":"What should men wear on a first date? Stop asking, and we'll help you. The first date is the most important moment in what can be a future relationship! Before going out on a first casual date, remember that the most important part is to be clean and to look clean! It doesn’t mat…"},{"question":"Why is never wear a suit and tie - Never important?","answer":"But what should men wear on a first date, then? We know but hear us out. Yes, we know that wearing a suit looks great, but in this case, it’s the biggest mistake you can make. A suit and tie, especially if it’s an office shirt and tie combination."},{"question":"Where can I find more articles like this?","answer":"FemraDD publishes hundreds of articles on relationships, lifestyle, personal development and more. Browse our categories to find content that interests you."}]
   },
   {
     "id": "203",
@@ -2665,7 +2867,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 9,
     "publishedAt": "2022-11-26",
-    "modifiedAt": "2022-11-26"
+    "modifiedAt": "2022-11-26",
+    "faqs": [{"question":"Çfarë ofron vjershat më të bukura per 28 nentorin?","answer":"Naim Frasheri, Sami Frasheri, Asdreni, Fishta, e shkrimtarë të tjerë, kanë shkruar poezi per 28 nentorin dhe diten e flamurit. Nuk shkruhet vetem për lule, për të bëmat e trimit, e male. Shkruhet për sakrificen, për flamurin kuq e zi e atdhedashurinë në përgjithsi."},{"question":"Si lidhet vjersha o malet e shqipërisë - naim frashëri me temën?","answer":"O malet’ e Shqipërisë e ju o lisat’ e gjatë! Fushat e gjëra me lule, q’u kam ndër mënt dit’ e natë!"},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "204",
@@ -2678,7 +2881,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kosove?","answer":"Kosove ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kosove?","answer":"Periudha më e mirë për të vizituar Kosove është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kosove gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kosove. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "205",
@@ -2691,7 +2895,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Drenas?","answer":"Drenas ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Drenas?","answer":"Periudha më e mirë për të vizituar Drenas është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Drenas gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Drenas. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "206",
@@ -2704,7 +2909,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Gjakove?","answer":"Gjakove ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Gjakove?","answer":"Periudha më e mirë për të vizituar Gjakove është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Gjakove gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Gjakove. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "207",
@@ -2717,7 +2923,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Istog?","answer":"Istog ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Istog?","answer":"Periudha më e mirë për të vizituar Istog është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Istog gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Istog. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "208",
@@ -2730,7 +2937,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kline?","answer":"Kline ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kline?","answer":"Periudha më e mirë për të vizituar Kline është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kline gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kline. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "209",
@@ -2743,7 +2951,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Malisheve?","answer":"Malisheve ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Malisheve?","answer":"Periudha më e mirë për të vizituar Malisheve është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Malisheve gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Malisheve. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "210",
@@ -2756,7 +2965,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Mitrovic?","answer":"Mitrovic ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Mitrovic?","answer":"Periudha më e mirë për të vizituar Mitrovic është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Mitrovic gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Mitrovic. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "211",
@@ -2769,7 +2979,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Peje?","answer":"Peje ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Peje?","answer":"Periudha më e mirë për të vizituar Peje është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Peje gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Peje. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "212",
@@ -2782,7 +2993,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Prizren?","answer":"Prizren ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Prizren?","answer":"Periudha më e mirë për të vizituar Prizren është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Prizren gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Prizren. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "213",
@@ -2795,7 +3007,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Skenderaj?","answer":"Skenderaj ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Skenderaj?","answer":"Periudha më e mirë për të vizituar Skenderaj është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Skenderaj gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Skenderaj. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "214",
@@ -2808,7 +3021,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Vushtrri?","answer":"Vushtrri ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Vushtrri?","answer":"Periudha më e mirë për të vizituar Vushtrri është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Vushtrri gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Vushtrri. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "215",
@@ -2821,7 +3035,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Prevalle?","answer":"Prevalle ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Prevalle?","answer":"Periudha më e mirë për të vizituar Prevalle është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Prevalle gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Prevalle. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "216",
@@ -2834,7 +3049,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 1,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Decan?","answer":"Decan ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Decan?","answer":"Periudha më e mirë për të vizituar Decan është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Decan gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Decan. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "217",
@@ -2847,7 +3063,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Berat?","answer":"Berat ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Berat?","answer":"Periudha më e mirë për të vizituar Berat është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Berat gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Berat. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "218",
@@ -2860,7 +3077,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Burrel?","answer":"Burrel ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Burrel?","answer":"Periudha më e mirë për të vizituar Burrel është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Burrel gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Burrel. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "219",
@@ -2873,7 +3091,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Delvine?","answer":"Delvine ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Delvine?","answer":"Periudha më e mirë për të vizituar Delvine është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Delvine gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Delvine. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "220",
@@ -2886,7 +3105,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Gjirokaster?","answer":"Gjirokaster ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Gjirokaster?","answer":"Periudha më e mirë për të vizituar Gjirokaster është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Gjirokaster gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Gjirokaster. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "221",
@@ -2899,7 +3119,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Diber?","answer":"Diber ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Diber?","answer":"Periudha më e mirë për të vizituar Diber është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Diber gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Diber. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "222",
@@ -2912,7 +3133,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kavaje?","answer":"Kavaje ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kavaje?","answer":"Periudha më e mirë për të vizituar Kavaje është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kavaje gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kavaje. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "223",
@@ -2925,7 +3147,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Korce?","answer":"Korce ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Korce?","answer":"Periudha më e mirë për të vizituar Korce është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Korce gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Korce. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "224",
@@ -2938,7 +3161,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Pogradec?","answer":"Pogradec ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Pogradec?","answer":"Periudha më e mirë për të vizituar Pogradec është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Pogradec gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Pogradec. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "225",
@@ -2951,7 +3175,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Ferizaj?","answer":"Ferizaj ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Ferizaj?","answer":"Periudha më e mirë për të vizituar Ferizaj është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Ferizaj gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Ferizaj. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "226",
@@ -2964,7 +3189,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Shqiperi?","answer":"Shqiperi ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Shqiperi?","answer":"Periudha më e mirë për të vizituar Shqiperi është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Shqiperi gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Shqiperi. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "227",
@@ -2977,7 +3203,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Maqedoni?","answer":"Maqedoni ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Maqedoni?","answer":"Periudha më e mirë për të vizituar Maqedoni është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Maqedoni gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Maqedoni. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "228",
@@ -2990,7 +3217,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Çfarë ofron moti në prishtinë - karakteristikat?","answer":"Edhe pse shtrirja nuk tregon afërsi me vargmalet ballkanike, moti në Prishtinë eshte i percaktuar kryesisht nga klima kontinentale. Kryeqyteti i Kosovës, Prishtina, shtrihet në veri-lindje të vendit dhe kufizohet me Lipjanin, Vushtrrin, Fushe Kosoven, Podujeven etj."},{"question":"Si lidhet karakteristikat me temën?","answer":"Moti në Prishtinë karakterizohet nga ndryshimet e menjëhershme brenda ditës. Në një ditë pranvere ju mund të merrni rrezet e diellit por edhe mund te ftoheni nga freskia e netëve. Reshjet janë të shpërndara në pothuajse gjithë vitin."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "229",
@@ -3003,7 +3231,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Brezovice?","answer":"Brezovice ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Brezovice?","answer":"Periudha më e mirë për të vizituar Brezovice është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Brezovice gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Brezovice. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "230",
@@ -3016,7 +3245,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Dragash?","answer":"Dragash ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Dragash?","answer":"Periudha më e mirë për të vizituar Dragash është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Dragash gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Dragash. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "231",
@@ -3029,7 +3259,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Fushe Kosove?","answer":"Fushe Kosove ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Fushe Kosove?","answer":"Periudha më e mirë për të vizituar Fushe Kosove është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Fushe Kosove gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Fushe Kosove. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "232",
@@ -3042,7 +3273,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Gjilan?","answer":"Gjilan ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Gjilan?","answer":"Periudha më e mirë për të vizituar Gjilan është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Gjilan gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Gjilan. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "233",
@@ -3055,7 +3287,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kamenice?","answer":"Kamenice ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kamenice?","answer":"Periudha më e mirë për të vizituar Kamenice është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kamenice gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kamenice. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "234",
@@ -3068,7 +3301,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Lipjan?","answer":"Lipjan ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Lipjan?","answer":"Periudha më e mirë për të vizituar Lipjan është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Lipjan gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Lipjan. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "235",
@@ -3081,7 +3315,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Novoberde?","answer":"Novoberde ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Novoberde?","answer":"Periudha më e mirë për të vizituar Novoberde është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Novoberde gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Novoberde. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "236",
@@ -3094,7 +3329,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Podujeve?","answer":"Podujeve ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Podujeve?","answer":"Periudha më e mirë për të vizituar Podujeve është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Podujeve gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Podujeve. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "237",
@@ -3107,7 +3343,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Rahovec?","answer":"Rahovec ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Rahovec?","answer":"Periudha më e mirë për të vizituar Rahovec është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Rahovec gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Rahovec. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "238",
@@ -3120,7 +3357,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Shtime?","answer":"Shtime ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Shtime?","answer":"Periudha më e mirë për të vizituar Shtime është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Shtime gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Shtime. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "239",
@@ -3133,7 +3371,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Suhareke?","answer":"Suhareke ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Suhareke?","answer":"Periudha më e mirë për të vizituar Suhareke është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Suhareke gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Suhareke. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "240",
@@ -3146,7 +3385,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Viti?","answer":"Viti ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Viti?","answer":"Periudha më e mirë për të vizituar Viti është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Viti gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Viti. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "241",
@@ -3159,7 +3399,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Çfarë ofron tirana?","answer":"Andaj varësisht se si ndryshojnë temperaturat, këto dy zona mbeten gjithnjë atraksion për t’u vizituar nga Tiranasit. Me një territor prej 502km2, Tirana lirisht mund të quhet vend me biodiversitet të madh. Zonat malore karakterizohen me liqene, ujëvara, kanione e shpella."},{"question":"Si lidhet temperaturat me temën?","answer":"Temperaturat zakonisht janë të larta, duke bërë që në dimër rrallëherë të bien nën 0C. Temperatura më e ulët mesatare shënohet gjatë janar 2C. Gjatë verës klima në Tiranë është goxha e nxehtë dhe me shumë diell."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "242",
@@ -3172,7 +3413,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Tetove?","answer":"Tetove ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Tetove?","answer":"Periudha më e mirë për të vizituar Tetove është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Tetove gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Tetove. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "243",
@@ -3185,7 +3427,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Divjake?","answer":"Divjake ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Divjake?","answer":"Periudha më e mirë për të vizituar Divjake është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Divjake gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Divjake. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "244",
@@ -3198,7 +3441,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Durres?","answer":"Durres ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Durres?","answer":"Periudha më e mirë për të vizituar Durres është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Durres gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Durres. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "245",
@@ -3211,7 +3455,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Struge?","answer":"Struge ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Struge?","answer":"Periudha më e mirë për të vizituar Struge është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Struge gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Struge. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "246",
@@ -3224,7 +3469,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Elbasan?","answer":"Elbasan ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Elbasan?","answer":"Periudha më e mirë për të vizituar Elbasan është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Elbasan gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Elbasan. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "247",
@@ -3237,7 +3483,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Resnje?","answer":"Resnje ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Resnje?","answer":"Periudha më e mirë për të vizituar Resnje është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Resnje gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Resnje. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "248",
@@ -3250,7 +3497,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Fier?","answer":"Fier ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Fier?","answer":"Periudha më e mirë për të vizituar Fier është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Fier gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Fier. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "249",
@@ -3263,7 +3511,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Oher?","answer":"Oher ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Oher?","answer":"Periudha më e mirë për të vizituar Oher është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Oher gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Oher. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "250",
@@ -3276,7 +3525,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kumanove?","answer":"Kumanove ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kumanove?","answer":"Periudha më e mirë për të vizituar Kumanove është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kumanove gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kumanove. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "251",
@@ -3289,7 +3539,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kamez?","answer":"Kamez ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kamez?","answer":"Periudha më e mirë për të vizituar Kamez është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kamez gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kamez. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "252",
@@ -3302,7 +3553,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Gostivar?","answer":"Gostivar ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Gostivar?","answer":"Periudha më e mirë për të vizituar Gostivar është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Gostivar gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Gostivar. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "253",
@@ -3315,7 +3567,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Shkup?","answer":"Shkup ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Shkup?","answer":"Periudha më e mirë për të vizituar Shkup është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Shkup gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Shkup. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "254",
@@ -3328,7 +3581,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Vlore?","answer":"Vlore ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Vlore?","answer":"Periudha më e mirë për të vizituar Vlore është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Vlore gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Vlore. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "255",
@@ -3341,7 +3595,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Ksamil?","answer":"Ksamil ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Ksamil?","answer":"Periudha më e mirë për të vizituar Ksamil është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Ksamil gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Ksamil. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "256",
@@ -3354,7 +3609,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Theth?","answer":"Theth ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Theth?","answer":"Periudha më e mirë për të vizituar Theth është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Theth gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Theth. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "257",
@@ -3367,7 +3623,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Kukes?","answer":"Kukes ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Kukes?","answer":"Periudha më e mirë për të vizituar Kukes është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Kukes gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Kukes. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "258",
@@ -3380,7 +3637,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Tepelene?","answer":"Tepelene ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Tepelene?","answer":"Periudha më e mirë për të vizituar Tepelene është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Tepelene gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Tepelene. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "259",
@@ -3393,7 +3651,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Lac?","answer":"Lac ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Lac?","answer":"Periudha më e mirë për të vizituar Lac është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Lac gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Lac. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "260",
@@ -3406,7 +3665,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Çfarë ofron moti në shkodër - karakteristikat?","answer":"Bashkia e Shkodrës është kryeqendra e rrethit dhe qarkut me po të njejtin emër. Që nga lashtësia Shkodra është konsideruar si një nga vendet me rëndësi të veçantë strategjike për shkak të liqenit, afërsisë si me malet ashtu edhe me detin dhe mundësisë për tu lidhur me të gjitha p…"},{"question":"Si lidhet shkodra me temën?","answer":"Historisë së kombit tonë Shkodra ia dha mbretëreshën e parë, Teutën. Që nga kohët e lashta është njohur si vend i vështirë për tu pushtuar dhe në këtë sigurisht që ka ndihmuar edhe relievi i gjithë zonës."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "261",
@@ -3419,7 +3679,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Lezhe?","answer":"Lezhe ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Lezhe?","answer":"Periudha më e mirë për të vizituar Lezhe është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Lezhe gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Lezhe. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "262",
@@ -3432,7 +3693,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Shengjin?","answer":"Shengjin ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Shengjin?","answer":"Periudha më e mirë për të vizituar Shengjin është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Shengjin gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Shengjin. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "263",
@@ -3445,7 +3707,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Permet?","answer":"Permet ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Permet?","answer":"Periudha më e mirë për të vizituar Permet është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Permet gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Permet. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "264",
@@ -3458,7 +3721,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Peshkopi?","answer":"Peshkopi ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Peshkopi?","answer":"Periudha më e mirë për të vizituar Peshkopi është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Peshkopi gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Peshkopi. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "265",
@@ -3471,7 +3735,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Selenice?","answer":"Selenice ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Selenice?","answer":"Periudha më e mirë për të vizituar Selenice është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Selenice gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Selenice. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "266",
@@ -3484,7 +3749,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Sarande?","answer":"Sarande ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Sarande?","answer":"Periudha më e mirë për të vizituar Sarande është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Sarande gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Sarande. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "267",
@@ -3497,7 +3763,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-24",
-    "modifiedAt": "2022-11-24"
+    "modifiedAt": "2022-11-24",
+    "faqs": [{"question":"Si është moti në Puke?","answer":"Puke ka klimë kryesisht kontinentale me katër stinë të dallueshme. Verërat janë të ngrohta me temperatura që arrijnë deri në 35°C, ndërsa dimrat janë të ftohtë me reshje bore. Pranvera dhe vjeshta janë stinët më të këndshme."},{"question":"Cila është periudha më e mirë për të vizituar Puke?","answer":"Periudha më e mirë për të vizituar Puke është nga maji deri në shtator, kur moti është i ngrohtë dhe me diell. Megjithatë, pranvera (prill-maj) dhe vjeshta (shtator-tetor) ofrojnë temperatura më të buta ideale për shëtitje."},{"question":"A bie borë në Puke gjatë dimrit?","answer":"Po, gjatë muajve të dimrit (dhjetor-shkurt) ka reshje bore në Puke. Temperaturat mund të zbresin nën zero, veçanërisht gjatë natës. Rekomandohet të visheni ngrohtë dhe të kontrolloni parashikimin e motit përpara udhëtimit."}]
   },
   {
     "id": "268",
@@ -3510,7 +3777,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj KTV live online?","answer":"KTV mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i KTV online?","answer":"Po, shikimi i KTV live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton KTV?","answer":"KTV transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "269",
@@ -3523,7 +3791,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj RTK live online?","answer":"RTK mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i RTK online?","answer":"Po, shikimi i RTK live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton RTK?","answer":"RTK transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "270",
@@ -3536,7 +3805,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj RTV21 live online?","answer":"RTV21 mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i RTV21 online?","answer":"Po, shikimi i RTV21 live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton RTV21?","answer":"RTV21 transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "271",
@@ -3549,7 +3819,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Çfarë ofron rreth klan kosova?","answer":"Klan Kosova është Kanal Televiziv në Kosovë, i themeluar në Dhjetor të vitit 2008. Për herë të parë u transmetua me 17 shkurt 2009, po në ditën e Pavarësisë së Kosovës. Klan Kosova, nga Komisioni i Pavarur për Media i Republikës së Kosovës eshte regjistruar dhe licensuar."},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "272",
@@ -3562,7 +3833,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj T7 live online?","answer":"T7 mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i T7 online?","answer":"Po, shikimi i T7 live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton T7?","answer":"T7 transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "273",
@@ -3575,7 +3847,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 1,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj ATV Kosova live online?","answer":"ATV Kosova mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i ATV Kosova online?","answer":"Po, shikimi i ATV Kosova live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton ATV Kosova?","answer":"ATV Kosova transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "274",
@@ -3588,7 +3861,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Kanal 10 live online?","answer":"Kanal 10 mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Kanal 10 online?","answer":"Po, shikimi i Kanal 10 live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Kanal 10?","answer":"Kanal 10 transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "275",
@@ -3601,7 +3875,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj TV Dukagjini live online?","answer":"TV Dukagjini mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i TV Dukagjini online?","answer":"Po, shikimi i TV Dukagjini live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton TV Dukagjini?","answer":"TV Dukagjini transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "276",
@@ -3614,7 +3889,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Kosova Press live online?","answer":"Kosova Press mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Kosova Press online?","answer":"Po, shikimi i Kosova Press live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Kosova Press?","answer":"Kosova Press transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "277",
@@ -3627,7 +3903,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj TV Klan live online?","answer":"TV Klan mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i TV Klan online?","answer":"Po, shikimi i TV Klan live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton TV Klan?","answer":"TV Klan transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "278",
@@ -3640,7 +3917,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Euro News Albania live online?","answer":"Euro News Albania mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Euro News Albania online?","answer":"Po, shikimi i Euro News Albania live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Euro News Albania?","answer":"Euro News Albania transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "279",
@@ -3653,7 +3931,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj News 24 Albania live online?","answer":"News 24 Albania mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i News 24 Albania online?","answer":"Po, shikimi i News 24 Albania live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton News 24 Albania?","answer":"News 24 Albania transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "280",
@@ -3666,7 +3945,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj ABC Albania live online?","answer":"ABC Albania mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i ABC Albania online?","answer":"Po, shikimi i ABC Albania live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton ABC Albania?","answer":"ABC Albania transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "281",
@@ -3679,7 +3959,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Ora News live online?","answer":"Ora News mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Ora News online?","answer":"Po, shikimi i Ora News live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Ora News?","answer":"Ora News transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "282",
@@ -3692,7 +3973,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Report TV live online?","answer":"Report TV mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Report TV online?","answer":"Po, shikimi i Report TV live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Report TV?","answer":"Report TV transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "283",
@@ -3705,7 +3987,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 6,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj RTSH live online?","answer":"RTSH mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i RTSH online?","answer":"Po, shikimi i RTSH live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton RTSH?","answer":"RTSH transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "284",
@@ -3718,7 +4001,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Top News live online?","answer":"Top News mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Top News online?","answer":"Po, shikimi i Top News live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Top News?","answer":"Top News transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "285",
@@ -3731,7 +4015,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Vizion Plus live online?","answer":"Vizion Plus mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Vizion Plus online?","answer":"Po, shikimi i Vizion Plus live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Vizion Plus?","answer":"Vizion Plus transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "286",
@@ -3744,7 +4029,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-11-22",
-    "modifiedAt": "2022-11-22"
+    "modifiedAt": "2022-11-22",
+    "faqs": [{"question":"Si mund ta shikoj Alsat M live online?","answer":"Alsat M mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Alsat M online?","answer":"Po, shikimi i Alsat M live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Alsat M?","answer":"Alsat M transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "287",
@@ -3757,7 +4043,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 8,
     "publishedAt": "2022-11-19",
-    "modifiedAt": "2022-11-19"
+    "modifiedAt": "2022-11-19",
+    "faqs": [{"question":"Çfarë ofron poezi per 28 nentorin 2022?","answer":"Ne më poshtë i kemi përzgjedhur disa poezi per 28 nentorin, vjersha dhe poezi për 28, dhe jo vetëm, poezi per mes të cilave mund ta festoni dhe ta shenjoni 28 nëntorin! Ju ftojmë t'i lexoni."},{"question":"Si lidhet hymni i flamurit - poezi nga fan noli me temën?","answer":"O Flamur gjak, o flamur shkabë, O vënd e vatr’ o nën’ e babë, Lagur me lot, djegur me flagë, Flamur i kuq, flamur i zi. Fortesë shkëmbi tmerr tirani, S’të trëmp Romani, as Venecjani, As Sërp Dushani, as Turk Sulltani, Flamur i math për Vegjëli"},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "288",
@@ -3770,7 +4057,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 5,
     "publishedAt": "2022-11-15",
-    "modifiedAt": "2022-11-15"
+    "modifiedAt": "2022-11-15",
+    "faqs": [{"question":"Çfarë këshilla lifestyle ofron ky artikull?","answer":"Kerkoni thenie per te dashurin? Ndërsa është më tipike për të dashurit t’i thonë gjëra romantike të dashurave, edhe djemtë e vlerësojnë kur dëgjojnë gjëra të ngjashme. Asnjëherë mos e nënvlerësoni se sa shumë mund t’ia ngrejë hurmorin një koment i bukur të dashurit tuaj."},{"question":"Si mund ta përmirësoj stilin tim të jetës?","answer":"Filloni me ndryshime të vogla por konsistente: ushqim i shëndetshëm, aktivitet fizik i rregullt, gjumë cilësor dhe kujdes për shëndetin mendor. Stilet e jetës më të mira ndërtohen hap pas hapi."},{"question":"Cilat janë trendet aktuale të lifestyle-it?","answer":"Trendet aktuale përfshijnë kujdesin ndaj mirëqenies mendore, modën e qëndrueshme, minimalizmin dhe jetesën e balancuar midis punës dhe jetës personale. Gjeni atë që funksionon për ju."}]
   },
   {
     "id": "289",
@@ -3783,7 +4071,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2022-11-15",
-    "modifiedAt": "2022-11-15"
+    "modifiedAt": "2022-11-15",
+    "faqs": [{"question":"Çfarë dimë për poezi dashurie te ndryshme?","answer":"Mund të shfaqë thellësinë e dashurisë por edhe esencën e ndjenjavë të përziera në të. Poezi dashurie të tilla mund të japin në pak vargje të gjithë pasionin, dëshirën, vuajtjen, trishtimin, xhelozinë dhe ndjeshmërinë që ke ndaj një personi."},{"question":"Si mund ta përmirësoj stilin tim të jetës?","answer":"Filloni me ndryshime të vogla por konsistente: ushqim i shëndetshëm, aktivitet fizik i rregullt, gjumë cilësor dhe kujdes për shëndetin mendor. Stilet e jetës më të mira ndërtohen hap pas hapi."},{"question":"Cilat janë trendet aktuale të lifestyle-it?","answer":"Trendet aktuale përfshijnë kujdesin ndaj mirëqenies mendore, modën e qëndrueshme, minimalizmin dhe jetesën e balancuar midis punës dhe jetës personale. Gjeni atë që funksionon për ju."}]
   },
   {
     "id": "290",
@@ -3796,7 +4085,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 5,
     "publishedAt": "2022-10-17",
-    "modifiedAt": "2022-10-17"
+    "modifiedAt": "2022-10-17",
+    "faqs": [{"question":"Çfarë ofron receta e suksesit për vitin 2022 dhe kurdoherë?","answer":"“Të ndjekësh kuriozitetin tuaj intelektual është më mirë sesa të ndjekësh paratë. Interneti ka zgjeruar masivisht hapësirën e karrierave të mundshme. Shumica e njerëzve ende nuk e kanë kuptuar këtë gjë."},{"question":"Si lidhet mbani mend. bota dëshiron t’ju caktojë një rol. dhe pasi ta pranoni atë rol, morët fund.” – robert greene me temën?","answer":"A keni pranuar rolin që shoqëria ju ka dhënë? Jeni i lirë? Dini se si të mendoni për veten dhe të merrni vendimet tuaja? Askush tjetër përeth jush nuk është i tillë. Jemi të sigurt se disa njerëz janë të lumtur që jetojnë në kuti të vogla."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "291",
@@ -3809,7 +4099,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2022-10-14",
-    "modifiedAt": "2022-10-14"
+    "modifiedAt": "2022-10-14",
+    "faqs": [{"question":"Çfarë ofron e tashmja është gjëja më e çmuar që kemi?","answer":"Sipas autorit Eckhart Tolle, momenti i tanishëm është gjëja më e çmuar që ne të gjithë kemi. Sipas tij, si njerëz ne jemi të prirur të fokusohemi pas shqeëstësimeve tjera. Për këtë arsye ne harrojmë të jetojmë në momentin e së tashmës."},{"question":"Si lidhet jini i panishëm në momentin që po e jetoni kjo është fuqia e së tashmës me temën?","answer":"Sa prej jush ju ndodh të jeni në një takim, mbledhje familjare apo akivitet, por mendja juaj nuk është aty? Shumë shpesh e humbim fillin në bisedën që po zhvillojmë."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "292",
@@ -3822,7 +4113,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2022-08-04",
-    "modifiedAt": "2022-08-04"
+    "modifiedAt": "2022-08-04",
+    "faqs": [{"question":"Çfarë ofron toskë dhe gegë – dialektet e gjuhës shqipe?","answer":"Lumi Shkumbin në Shqipëri e ndan vendin në dy zona dialektore. Dy dialekte kryesore të shqipes janë toskërishtja dhe gegërishtja. Shqipfolësit kuptohen mes vete, përkundër dallimeve të rëndësishme gjuhësore midis të dyjave. Për një të huaj kjo gjë mund të jetë pak më e vështirë."},{"question":"Si lidhet gramatika e gjuhës shqipe me temën?","answer":"Gramatika e gjuhës shqipe ndan disa veçori me gramatikën e gjuhëve të tjera ballkanike, si rumanishtja dhe greqishtja. Është mjaft komplekse. Ka tre gjini të emrave të shqipes. Mashkullore, femërore dhe asnjanëse janë dy numra: njëjës dhe shumës."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "293",
@@ -3835,7 +4127,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-07-29",
-    "modifiedAt": "2022-07-29"
+    "modifiedAt": "2022-07-29",
+    "faqs": [{"question":"Çfarë ofron poezi per mallin?","answer":"Ende zërin ta kujtojEnde unë të dashurojTi ishe jeta imeTi do të jesh Anjeza ime! Anjeza të lutem kthehu!Zemra pasqyrën e theu.Anjeza të duaDhe pse nuk je me mua!"},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "294",
@@ -3848,7 +4141,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-07-26",
-    "modifiedAt": "2022-07-26"
+    "modifiedAt": "2022-07-26",
+    "faqs": [{"question":"Çfarë do të gjeni në këtë artikull?","answer":"Ti ishe per mua e pamposhtur si Troja Troja që unë dot s'e pushtoja. Ti ishe per mua e pakuptueshme, Më e pakuptueshme se mbishkrimet etruske."},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "295",
@@ -3861,7 +4155,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-07-14",
-    "modifiedAt": "2022-07-14"
+    "modifiedAt": "2022-07-14",
+    "faqs": [{"question":"Çfarë ofron poezi dashurie?","answer":"Në faqen poezi dashurie ju mund të lexoni shumë krijime letrare që lidhen me dashurinë. Të klasifikuara në rubrika, këto poezi mund t’ju japin kënaqësi shiprtërore. Ato gjithashtu mund t’ju bëjnë të reflektoni edhe për ndienjat tuaja."},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "296",
@@ -3874,7 +4169,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2022-05-16",
-    "modifiedAt": "2022-05-16"
+    "modifiedAt": "2022-05-16",
+    "faqs": [{"question":"Çfarë është vlerësoni vetën tuaj?","answer":"Para se të zgjidhni karrierën e duhur, duhet të mësoni vetë. Keni parasysh vlerat, interesat, aftësitë tuaja. Të gjitha këto në kombinim me llojin tuaj të personalitetit, i bëjnë disa profesione më të përshtatshme për ju dhe disa të tjerët plotësisht të papërshtatshëm."},{"question":"Si lidhet shqyrtojeni listën që keni përpiluar me zhvillimin personal?","answer":"Edhe nëse jeni të pavendosur me siguri keni 34 opsione që ju tërheqin më shumë. Prandaj ka ardhur koha t’i shqyrtoni ato detajisht."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "297",
@@ -3887,7 +4183,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2022-04-19",
-    "modifiedAt": "2022-04-19"
+    "modifiedAt": "2022-04-19",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Gjipe?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Plazhi Gjipe ose plazhi më i veçuar i rajonit jugor është krijuar në një mënyrë shumë të veçantë nga natyra. Bregu i tij është formuar nga një përrua ."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "298",
@@ -3900,7 +4197,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2022-04-13",
-    "modifiedAt": "2022-04-13"
+    "modifiedAt": "2022-04-13",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Turizmi Malor ne Shqiperi?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Turizmi Malor në fshatin e fundit para se të arrini në burimin e lumit Valbona, është Rrogami. Ky i fundit është një fshat i largët i rrethuar nga pei."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "299",
@@ -3913,7 +4211,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 11,
     "publishedAt": "2022-03-18",
-    "modifiedAt": "2022-03-18"
+    "modifiedAt": "2022-03-18",
+    "faqs": [{"question":"Çfarë ofron prilli i thyer - ismail kadare?","answer":"I shkruar më 1978 dhe i botuar fillimisht më 1980 në një përmbledhje tregimesh e novelash \"Prilli i thyer\" e pa dritën e botimit si libër më vete shumë vite më vonë. Pas rënies së komunizmit."},{"question":"Si lidhet hana - elvira dones me temën?","answer":"Ngjarjet e romanit Hana të Elvira Dones duket sikur nuk shkojnë përtej asaj çka mund ta quajmë historia e një burrneshe. Historia e Hanës është një proces i dyfishtë transformimi i një qenieje njerëzore diku në Malësinë e Veriut."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "300",
@@ -3926,7 +4225,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2022-01-07",
-    "modifiedAt": "2022-01-07"
+    "modifiedAt": "2022-01-07",
+    "faqs": [{"question":"Çfarë është lëvdatat e parakohshme e bëjnë të vështirë realizimin e synimit?","answer":"Hulumtimi më i njohur për ndarjen e synimeve është kryer nga Peter Gollwitzer i NYU. Në vitin 2009, Gollwitzer dhe kolegët e tij publikuan studime që sugjeronin se akti i thjeshtë i ndarjes së synimit me publikun sjell mosplotësimin e tij."},{"question":"Si lidhet lavdërimi i “personit” më tepër se “procesi” i punës, ul motivimin me zhvillimin personal?","answer":"Një tjetër studim u krye nga Reed College, ku studiuesit klasifikuan tipet e vlerësimeve që merrni. Sipas këtij studimi, studentët u vendosën përballë një pyetësori për të treguar synimet e tyre."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "301",
@@ -3939,7 +4239,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2021-12-24",
-    "modifiedAt": "2021-12-24"
+    "modifiedAt": "2021-12-24",
+    "faqs": [{"question":"Çfarë është vit te sukseshem? caktoni prioritetet?","answer":"Këtë vit përqendrohuni më shumë në cilësi. Vendosni synime për vitin e ardhshëm dhe krijoni rezolucione që mund të realizoni në të vërtetë. Lërni anash disa qe janë në listën tuaj tash e shumë vite, e për të cilat nuk po shfaqni interesim më."},{"question":"Si lidhet ndryshoni rutinën tuaj me zhvillimin personal?","answer":"Përcaktohuni këtë vit për një rutinë që lejon momente për reflektim, pushim dhe të qenit plotësisht të pranishëm. Thjeshtoni orarin tuaj për të krijuar kohë për familje, udhëtime por edhe të shtuna dembele. Kjo gjë do t'ju ndihmojë juve shumë!"},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "302",
@@ -3952,7 +4253,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-12-02",
-    "modifiedAt": "2021-12-02"
+    "modifiedAt": "2021-12-02",
+    "faqs": [{"question":"Çfarë ofron në rini shoqëria është qendra e botës?","answer":"Në vitet e rinisë shumica i kanë shokët që nga fëmijëria, ose kanë shokë nga shkollla apo më vonë. Në vitet e rinise gijthçka sillet rreth grupeve shoqërore. Rreth shokëve e shoqeve të ngushta.Për arsyen e thjeshtë sepse të gjitha gjërat lidhen me ta."},{"question":"Si lidhet dashuria është lezeti i rinisë me temën?","answer":"Këtë e dinë të gjithë. Dashuria romantike lind edhe lulëzon në rini. Lirisht mund të themi se atëherë ajo është më e pastërta. Më e pandikuara dhe totalisht pa interes. Ajo e ndryshon përgjithmonë jetën dhe pikëpamjen e njeriut."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "303",
@@ -3965,7 +4267,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2021-12-01",
-    "modifiedAt": "2021-12-01"
+    "modifiedAt": "2021-12-01",
+    "faqs": [{"question":"Çfarë dimë për amarda toska & ermal mamaqi?","answer":"Çifti më i njohur në Shqipëri dhe jo vetëm. Fillimet e tyre kanë qënë modeste derisa kanë ngjitur shkallët e suksesit një e nga një."},{"question":"Shkurte Fejza & Hajrush Behluli — çfarë duhet ditur?","answer":"Këngëtarja e njohur e muzikës popullore Shkurte Fejza dhe bashkëshorti i saj Hajrush Behluli janë vërtet një çift për t’u patur zili. 40 vjet martesë të lumtur dhe me fëmijë tashmë të rritur.Të dy janë figura shumë të njohura."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "304",
@@ -3978,7 +4281,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-11-17",
-    "modifiedAt": "2021-11-17"
+    "modifiedAt": "2021-11-17",
+    "faqs": [{"question":"Çfarë është buzëqeshni?","answer":"Ju keni tendencë të buzëqeshni kur jeni të lumtur. Por në fakt kjo është një rrugë dy kahëshe. Ne buzëqeshim sepse jemi të lumtur dhe buzëqeshja bën që truri të çlirojë dopaminë, gjë që na bën më të lumtur."},{"question":"Si lidhet ushtroni me zhvillimin personal?","answer":"Ushtrimet nuk janë vetëm për trupin tuaj. Ushtrimet e rregullta mund të ndihmojnë në uljen e stresit, ndjenjat e ankthit dhe simptomat e depresionit ndërsa rrit vetëvlerësimin dhe lumturinë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "305",
@@ -3991,7 +4295,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-11-11",
-    "modifiedAt": "2021-11-11"
+    "modifiedAt": "2021-11-11",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Kruja?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Pazari i vjetër, një xhevahir ku artizanët vendas shesin produktet e tyre të bëra me teknika të trashëguara brez pas brezi. Zona e Kalasë strehon Muze."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "306",
@@ -4004,7 +4309,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-11-08",
-    "modifiedAt": "2021-11-08"
+    "modifiedAt": "2021-11-08",
+    "faqs": [{"question":"Çfarë është mjaft e angazhuat veten më tepër se duhet?","answer":"Kur mbani shumë kunguj nën sqetull do filloni të mos jeni në gjendje t'i bëni të gjitha. Bëni një hap prapa dhe shqyrtoni angazhimet tuaja. Mos jini shumë i ashpër me veten tuaj."},{"question":"Si lidhet largohuni nga tryeza juaj e punës me zhvillimin personal?","answer":"Fikni telefonin tuaj dhe dilni për një shëtitje. Planifikoni një orë në ditë për t’u marrë me palestër ose joga. Studime të shumta kanë treguar se aktiviteti fizik përmirëson shëndetin tonë mendor dhe siguron bancën e duhur jetëpunë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "307",
@@ -4017,7 +4323,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-11-02",
-    "modifiedAt": "2021-11-02"
+    "modifiedAt": "2021-11-02",
+    "faqs": [{"question":"Çfarë është në shumicën e rasteve studentëve u thuhet gjithçka që duhet të bëjnë?","answer":"Duke filluar nga nevoja për të marrë orë mësimi në lëndë specifike, deri tek sugjerimet se duhet të fitojnë sa më shumë përvojë praktike në fushën e tyre."},{"question":"Si lidhet puno fort për t’u bërë një person interesant me zhvillimin personal?","answer":"Që njerëzit e tjerë të duan të jenë përeth jush dhe rrjedhimisht të jenë të gatshëm t’ju hapin dyert duhet strategji. Tashmë e kemi kuptuar se notat nuk kanë rëndësi, të paktën jo aq sa aktivitetet jashtëshkollore që bëjmë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "308",
@@ -4030,7 +4337,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-11-01",
-    "modifiedAt": "2021-11-01"
+    "modifiedAt": "2021-11-01",
+    "faqs": [{"question":"Çfarë është ndryshoni perspektivën tuaj?","answer":"\"Ne nuk i shohim gjërat ashtu siç janë, i shohim ashtu siç jemi.\" Ndoshta e keni dëgjuar këtë frazë, që shpesh i atribuohet Anaï Nin. Ky citim na kujton se shpesh e shohim realitetin përmes një thjerrë të perceptimit tonë."},{"question":"Si lidhet planifikoni paraprakisht dhe bëni pyetjet e duhura me zhvillimin personal?","answer":"Pavarësisht nëse jeni student, një punëtor i ri apo i vjetër, një menaxher ose një pronar biznesi, një gjë është e vërtetë për ju: \"Jeni një njeri i ngarkuar me shumë punë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "309",
@@ -4043,7 +4351,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2021-10-29",
-    "modifiedAt": "2021-10-29"
+    "modifiedAt": "2021-10-29",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Preza?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Preza vlen të shkosh ta vizitosh, sidomos për të parë mbetjet e kalasë antike, e njohur për pozicionin e saj strategjik në Tiranë dhe në rrugën që lid."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "310",
@@ -4056,7 +4365,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2021-10-13",
-    "modifiedAt": "2021-10-13"
+    "modifiedAt": "2021-10-13",
+    "faqs": [{"question":"Çfarë është menaxhoni kohën tuaj me mençuri?","answer":"Bëni një listë të përparësive dhe kaloni nëpër to një nga një me radhë. Në epokën e internetit është e lehtë të shpërqendrohesh. Mos lejoni që bredhjet tuaja në internet t'ju hutojnë. Mirëpo shfrytëzojeni edhe internetin në dobi tuaj."},{"question":"Si lidhet lexoni nga pak çdo ditë me zhvillimin personal?","answer":"Si të bëhemi më të zgjuar? Duke lexuar. Lexoni çdo ditë e nga pak. Nëse arrini të bëni këtë gjë shprehi atëherë jeni në rrugë të duhur. Lexoni në cilëndo fushë që dëshironi t'i zgjeroni njohurit tuaja. Leximi ju hap horizintet e mendimit."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "311",
@@ -4069,7 +4379,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-10-13",
-    "modifiedAt": "2021-10-13"
+    "modifiedAt": "2021-10-13",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Divjaka?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Laguna e Karavastasë është si të ecësh në një vend të egër e të pazbutur nga koha. Pishat, pylli i shtegut, më shumë se 200 lloje zogjsh, zvarranikësh."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "312",
@@ -4082,7 +4393,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2021-10-12",
-    "modifiedAt": "2021-10-12"
+    "modifiedAt": "2021-10-12",
+    "faqs": [{"question":"Çfarë dimë për kritikë konstruktive ose kritiku?","answer":"Një kritik është dikush që jep feedbacke të rëndësishme dhe të dobishme për punën tuaj. Ata mund t'ju japin njohuri dhe sugjerime specifike. Kjo lloj kritike është e shkëlqyer. Pse? Sepse: “Kritikët janë të dobishëm dhe të domosdoshëm për krijimtarinë.”"},{"question":"Urrejtësit nuk janë të dobishëm për… asgjë — çfarë duhet ditur?","answer":"Pra, ka një lloj tjetër kritikësh. Le t’i quajmë ashtu si janë në të vërtetë: urrejtës. Ata nuk e pëlqejnë punën tuaj dhe ndoshta nuk ju pëlqejnë as juve."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "313",
@@ -4095,7 +4407,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 6,
     "publishedAt": "2021-09-28",
-    "modifiedAt": "2021-09-28"
+    "modifiedAt": "2021-09-28",
+    "faqs": [{"question":"Pse ndodh kjo?","answer":"Krahasoni këtë me dikë që flet me entuziazëm, por ndërsa kryqëzon krahët dhe duket shumë i stresuar! Nëse doni të përçoni atë karizëm të njëjtë, lëvizni përreth dhe gjestikuloni ndërsa flisni. Ju lutemi vini re se ju nuk mund ta falsifikoni këtë. Nëse e bëni këtë, do të vërehet."},{"question":"Mirëpo si të bëhemi karizmatik?","answer":"Kur jeni me të vërtetë të apasionuar, nuk mund të mos bëni gjestekulim, sepse jeni aq të ngazëllyer për atë që po thoni. Ajo që po thoni duket kaq e rëndësishme që të përqendroheni 100% në të dhe të gjitha vetë-dyshimet zhduken."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "314",
@@ -4108,7 +4421,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2021-09-23",
-    "modifiedAt": "2026-01-19"
+    "modifiedAt": "2026-01-19",
+    "faqs": [{"question":"Çfarë është dhuna psiqike?","answer":"Ekspertët thonë se dhuna psiqike nis nga abuzimi emocional që shkon nga mbajtja në kontroll, dhe përfshin manipulimin dhe abuzimin verbal. Numri i njerëzve të prekur është astronomik. Abuzimi emocional është tinëzar dhe ngadalë ju heq besimin dhe vetëvlerësimin."},{"question":"Si lidhet fakte për abuzuesin me zhvillimin personal?","answer":"Viktimat shpesh minimizojnë dhunën psiqike. Dhuna nuk përfshin vetëm hedhjen e gjërave, tërheqjen e flokëve dhe seksin e detyruar. Këtu janë disa fakte që duhet të dini për abuzimin dhe abuzuesit. Zakonisht, abuzimi bëhet pas dyerve të mbyllura."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "315",
@@ -4121,7 +4435,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-09-21",
-    "modifiedAt": "2021-09-21"
+    "modifiedAt": "2021-09-21",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Parqet nacionale ne Maqedoni?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Me 73,000 hektarët e tij, Parku Kombëtar Mavrovo është më i madhi nga tre parqet kombëtare në Maqedoninë e Veriut. Ky është gjithashtu ndër më të vjet."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "316",
@@ -4134,7 +4449,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-09-21",
-    "modifiedAt": "2021-09-21"
+    "modifiedAt": "2021-09-21",
+    "faqs": [{"question":"Çfarë dimë për nuk besoni lehtë?","answer":"Besimi është themeli i çdo marrëdhënie. Kur ne si të rritur e kemi të vështirë t'ju besojmë të tjerëve, mund të jetë për shkak të çështjeve të rrënjosura thellë nga e kaluara. Nga zhëgnjimi me njerëzit të cilëve është dashur t'i besojmë."},{"question":"Si mund ta përmirësoj stilin tim të jetës?","answer":"Filloni me ndryshime të vogla por konsistente: ushqim i shëndetshëm, aktivitet fizik i rregullt, gjumë cilësor dhe kujdes për shëndetin mendor. Stilet e jetës më të mira ndërtohen hap pas hapi."},{"question":"Cilat janë trendet aktuale të lifestyle-it?","answer":"Trendet aktuale përfshijnë kujdesin ndaj mirëqenies mendore, modën e qëndrueshme, minimalizmin dhe jetesën e balancuar midis punës dhe jetës personale. Gjeni atë që funksionon për ju."}]
   },
   {
     "id": "317",
@@ -4147,7 +4463,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-09-10",
-    "modifiedAt": "2021-09-10"
+    "modifiedAt": "2021-09-10",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Ujevara e Drinit dhe Shpella e Radavcit?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Kjo ujëvarë ndodhet në pjesën perëndimore të Kosovës. Është e vendosur në malin Zhleb në Bjeshkët e Nemuna në fshatin Radavc, 11 km larg nga qyteti i ."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "318",
@@ -4160,7 +4477,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-09-07",
-    "modifiedAt": "2021-09-07"
+    "modifiedAt": "2021-09-07",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Gjirokastra?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Gjirokastra si vend nuk mund të përmendet pa pazarin e saj antik. Pazari, në veçanti, i restauruar me profesionalizëm nga fondacioni shqiptaroamerikan."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "319",
@@ -4173,7 +4491,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-08-25",
-    "modifiedAt": "2021-08-25"
+    "modifiedAt": "2021-08-25",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Qeparo?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Fshati Qeparo është pjesë e bashkisë së Himarës dhe ndodhet 13 kilometra në jug të Himarës, ngjitur me Borshin. Ka një popullsi prej 1200 banorë dhe a."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "320",
@@ -4186,7 +4505,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-08-12",
-    "modifiedAt": "2021-08-12"
+    "modifiedAt": "2021-08-12",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Ulqin?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Ulqini ka një diversitet plazhesh, duke përfshirë plazhe ranore, gurore, e shkëmbore buzë pyllit të pishave. Plazhe që përveç efektit mjekues të kripë."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "321",
@@ -4199,7 +4519,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-08-09",
-    "modifiedAt": "2021-08-09"
+    "modifiedAt": "2021-08-09",
+    "faqs": [{"question":"Çfarë është një zgjim i vështirë?","answer":"Të shkosh herët në shtrat të dielën nuk sjell asnjë ndryshim. Në fakt, rezultati është gjithmonë i njëjti: Të hënën në mëngjes, kur zgjohesh, ndjehesh i lodhur dhe i këputur. Mirëpo, pavarësisht lodhjes, është e nevojshme përmbushja e angazhimeve ditore."},{"question":"Si lidhet teknika to do me zhvillimin personal?","answer":"Për të thyer zinxhirin e të hënave negative ka vetëm një ilaç: Të detyrosh trurin të ndryshojë sjelljen e tij. Në praktikë, një ri-programim është i nevojshëm, në mënyrë që mendja të mos e perceptojë të hënën si një ditë të zezë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "322",
@@ -4212,7 +4533,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2021-08-04",
-    "modifiedAt": "2021-08-04"
+    "modifiedAt": "2021-08-04",
+    "faqs": [{"question":"Çfarë dimë për bisedoni sa më parë për këtë çështje?","answer":"Kur flasim për financat me partnerin tuaj, mbani mend se paratë janë një simbol. Një mjet dhe një metaforë. Mos e merrni këtë çështje të parave aq fjalë për fjalë sa të mos jeni në gjendje të hapni me të zemrën dhe mendjen tuaj."},{"question":"Ne sygjerojmë një buxhet të përbashkët — çfarë duhet ditur?","answer":"Për çdo familje ne sygjerojmë një buxhet të përbashkët. Do të funksionin më mirë kështu se sa nëse mbani buxhet individual sikur kur ishit beqar. Menaxhimi i parave duhet të bëhet nga të dytë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "323",
@@ -4225,7 +4547,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2021-07-30",
-    "modifiedAt": "2021-07-30"
+    "modifiedAt": "2021-07-30",
+    "faqs": [{"question":"Çfarë dimë për linjat e via ferrata: peja dhe zubin potoku?","answer":"Bëhuni gati për pamje që do t’ju lënë pa frymë. Një alpinist me përvojë, ose jo, linjat Via Ferrata - një në pjesën perëndimore të vendit, tjetra në veri, janë të arritshme për të gjithë."},{"question":"Turne me biçikletë në Pejë, Prishtinë, Junik dhe Graçanica — çfarë duhet ditur?","answer":"Një mënyrë eko-miqësore për të përjetuar Kosovën. Merrni me qira një biçikletë për t'u endur vetë ose të bashkoheni në një turne të udhëzuar në vendet historike. Disa janë nën mbrojtjen e UNESCO-s."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "324",
@@ -4238,7 +4561,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-07-27",
-    "modifiedAt": "2021-07-27"
+    "modifiedAt": "2021-07-27",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Peja?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Ta vizitosh Pejën do të thotë të shtegtosh nëpër kohëra të ndryshme. Duke filluar nga kohërat ilire, bizantine, otomane, luftërat botërore e deri në d."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "325",
@@ -4251,7 +4575,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-07-14",
-    "modifiedAt": "2021-07-14"
+    "modifiedAt": "2021-07-14",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Decani?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Në luginën e lumit Lumbardhë është ndërtuar në pjesën e parë të shekullit XIV Manastiri i Deçanit. Ky manastir gjendet në listën e trashëgimisë kultur."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "326",
@@ -4264,7 +4589,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 8,
     "publishedAt": "2021-07-13",
-    "modifiedAt": "2021-07-13"
+    "modifiedAt": "2021-07-13",
+    "faqs": [{"question":"Çfarë ofron 'ikigai' nga héctor garcía dhe francesc miralles - libri që ju mëson për jetën?","answer":"Ky është një nga ata libra që mëton t’i zbërthejë sekretet japoneze për një jetë më të gjatë dhe më të lumtur. Nga japonishtja Ikigai ka kuptimin e një udhërrëfyesi në jetë. Njerëzit e Japonisë besojnë se çdokush e ka një ikigai – një arsye për t'u çuar nga shtrati çdo mëngjes."},{"question":"Si lidhet 'a mund të jetë mendja e qetë' nga jiddu krishnamurti - një nga ato libra që s'do t'i harroni me temën?","answer":"A është e mundur ta gjejmë paqen e përhershme në jetën e përditshme? Si do t’ia japim mundësinë brezit të ardhshëm që ta bëjë botën një vend më të mirë? Çfarë do të thotë në të vërtetë të jesh i vetëdijshëm? Këto janë disa pyetje në të cilat përpiqet…"},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "327",
@@ -4277,7 +4603,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2021-07-08",
-    "modifiedAt": "2021-07-08"
+    "modifiedAt": "2021-07-08",
+    "faqs": [{"question":"Çfarë dimë për shitës/e?","answer":"Pothuajse çdo i ri e provon profesionin e shitësit. Kjo është një nga ato punë që janë të përshtatshme për të rinjtë. Mundësitë për të punuar si shitës janë të shumta. Në dyqane rrobash, në pemëtore apo në dyqane ushqimore."},{"question":"Kujdestare fëmijësh — çfarë duhet ditur?","answer":"Në kohën kur kopshtet dhe shkollat mbyllen shumë familje kërkojnë kujdestare fëmijësh. Nëse keni ndonjë eksperiencë në këtë drejtim me motra ose vëllezër më të vegjël apo me mbesa e nipa, mund të gjeni lehtë një punë."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "328",
@@ -4290,7 +4617,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 5,
     "publishedAt": "2021-07-02",
-    "modifiedAt": "2021-07-02"
+    "modifiedAt": "2021-07-02",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Korca?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Korca është një nga destinacionet më të njohura që shqiptarët zgjedhin për të kaluar pushimet e tyre, veçanërisht gjatë sezonit të dimrit. Reshjet e s."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "329",
@@ -4303,7 +4631,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2021-06-30",
-    "modifiedAt": "2021-06-30"
+    "modifiedAt": "2021-06-30",
+    "faqs": [{"question":"Çfarë dimë për shkoni për një piknik?","answer":"Duket pak si e dalë mode, por një piknik mund të jetë ende shumë argëtues. Vendosni pak ushqim në një shportë ose pije freskuese, shkoni të gjeni një vend me gjelbërim, uluni dhe hani një vakt. Merrni miqtë ose familjen tuaj dhe kaloni një përvojë që do të mbani mend."},{"question":"Shkëputuni nga interneti — çfarë duhet ditur?","answer":"Të gjithë janë në internet këto ditë. Disa njerëz do ta mbajnë fytyrën drejt telefonave të tyre edhe kur janë jashtë. Ndaj këtë verë, sigurohuni që ta keni mbyllur telefonin, të largoheni nga kompjuteri dhe të përjetoni jetën pa internet."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "330",
@@ -4316,7 +4645,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-06-25",
-    "modifiedAt": "2021-06-25"
+    "modifiedAt": "2021-06-25",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Parqet Kombetare ne Kosove?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Përveç kryeqytetit të gjallë Prishtinës, Prizrenit të bukur dhe manastireve Ortodokse të shpërndara në të gjithë territorin, Kosova ka shumë më tepër ."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "331",
@@ -4329,7 +4659,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2021-06-24",
-    "modifiedAt": "2021-06-24"
+    "modifiedAt": "2021-06-24",
+    "faqs": [{"question":"Çfarë dimë për brunilda zllami - zhanri romancë?","answer":"Brunilda Zllami shkrimtare shqiptare. Ka lindur në qytetin e Bajram Curri (Tropojë) dhe është diplomuar për mjekësi. Romanet e saj, që në fillimet e botimit të parë të saj të vitit 1996, kanë mbërtheyr lexuesin shqiptar."},{"question":"Albatros Rexhaj — çfarë duhet ditur?","answer":"Albatros Rexhaj është autor shqiptar, i lindur në Prizren që aktualisht pothuajse njëkohshëm jeton dhe vepron në dy qytete, në Tiranë dhe në Prishtinë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "332",
@@ -4342,7 +4673,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 5,
     "publishedAt": "2021-06-23",
-    "modifiedAt": "2021-06-23"
+    "modifiedAt": "2021-06-23",
+    "faqs": [{"question":"Çfarë është njerëzit me vetbesim janë optimist?","answer":"Nëse jeni gjithmonë nervozë për rrethanat e jashtme, është e vështirë të keni vetbesim. Ndoshta kjo është ajo çfarë nënkuptonte Marcus Aurelius kur tha:Ti ke fuqi vetëm mbi mendjen tënde - jo mbi ngjarjet e jashtme. Përmbushe këtë dhe do të gjesh forcë."},{"question":"Si lidhet si te kemi vetbesim: krenohen me paraqitjen e tyre me zhvillimin personal?","answer":"Është shumë e rëndësishme të mbani mend që njerëzit e tjerë nuk do t'ju perceptojnë si të sigurt në vetvete derisa të mësoni se si të ndiheni mirë për veten tuaj. Pra, nëse doni të ndryshoni jetën tuaj."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "333",
@@ -4355,7 +4687,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 8,
     "publishedAt": "2021-06-08",
-    "modifiedAt": "2021-06-08"
+    "modifiedAt": "2021-06-08",
+    "faqs": [{"question":"Cila është kultura e ndërmarrjes?","answer":"Pyetje të tilla i vënë shpësh në vështirësi intervistuesit, mirëpo tregojnë mendjemprehtësinë tuaj. Kultura e një ndërmarrjeje është një domosdoshmëri për tu ditur para kohe."},{"question":"Çfarë quhet arritje e sukses në këtë pozicion pune që po intervistohem dhe si matet?","answer":"Kjo pyetje është e rëndësishme për karrierën tënde. Në momentin që ti futesh në një kompani, synimi yt sigurisht është që të rritesh me kompaninë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "334",
@@ -4368,7 +4701,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 12,
     "publishedAt": "2021-06-03",
-    "modifiedAt": "2021-06-03"
+    "modifiedAt": "2021-06-03",
+    "faqs": [{"question":"Çfarë dimë për krijoni rregulla për të cilat të gjithë jeni dakord?","answer":"Që gjërat në një familje të funksionojnë mirë ju duhet të keni rregulla. Kjo është e vetmja mënyrë që siguron mbarvajtje të jetës familjare. Mirëpo për këto rregulla duhet të bini dakord të gjithë anëtarët e familjes."},{"question":"Bëhuni prindër 'cool' — çfarë duhet ditur?","answer":"Kur keni qenë të vegjël saherë keni menduar se kur të rriteni ju do të bëhëni prindërit më të mirë në botë? Epo atëherë është koha të bëheni të tillë. Me fjalë të tjera, bëhuni prindër cool. Komunikoni me fëmijët tuaj."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "335",
@@ -4381,7 +4715,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-05-30",
-    "modifiedAt": "2021-05-30"
+    "modifiedAt": "2021-05-30",
+    "faqs": [{"question":"Çfarë është vendosmëria 50%?","answer":"Për shumicën e popullsisë, ora 05:30 e mëngjesit nuk është koha ideale për t'u zgjuar. Nuk ka asgjë që mund të nxisë ta bësh këtë gjë përditë. Ama, nëse do të zgjohesh më herët, duhet ta dëshirosh me gjithë zemër. Këtu futet në lojë vendosmëria."},{"question":"Si lidhet përgatitja 30% me zhvillimin personal?","answer":"Vendosmëria megjithatë do të sjellë vetëm në gjysmë të rrugës. Pjesa tjetër përbëhet nga përgatitja, ekzekutimi dhe fati."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "336",
@@ -4394,7 +4729,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-05-28",
-    "modifiedAt": "2021-05-28"
+    "modifiedAt": "2021-05-28",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Plazhi i Palases?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Një nga zonat më të lehta për t’u arritur nga Vlora është Plazhi i Palases, një nga destinacionet më të njohura në Shqipëri. Një plazh i shkëlqyeshëm ."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "337",
@@ -4407,7 +4743,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2021-05-27",
-    "modifiedAt": "2021-05-27"
+    "modifiedAt": "2021-05-27",
+    "faqs": [{"question":"Çfarë është bëheni më të vëmendshëm?","answer":"Mbajtja e një ditari ju ndihmon të shikoni më nga afër përvojat tuaja. Mbi të gjitha ju bën të jeni më të vëmendshëm ndaj aspekteve pozitive, pra ato elemente nga të cilat mund të nxirrni mësime."},{"question":"Si lidhet nuk humbusni asnjë ide me zhvillimin personal?","answer":"A ju ka ndodhur të këni ndonjë ide fantastike dhe disa orë më vonë e harroni? Falë ditarit tuaj personal do të jeni në gjendje të gjurmoni çdo gjë që ju vjen në mendje."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "338",
@@ -4420,7 +4757,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-05-18",
-    "modifiedAt": "2021-05-18"
+    "modifiedAt": "2021-05-18",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Dhermi?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Dhërmiu, në veçanti, magjeps me qëndrën antike të qytetit. Karakterizohet nga një pjesë e vogël shtëpish të bardha dhe kisha të vogla ortodokse që vle."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "339",
@@ -4433,7 +4771,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-05-11",
-    "modifiedAt": "2021-05-11"
+    "modifiedAt": "2021-05-11",
+    "faqs": [{"question":"Çfarë është praktikoni sa më shumë?","answer":"Nëse e keni hobi muzikën, gatimin, punën e dorës, pikturën, apo çkado tjetër, praktikojeni sa më shumë. Mbusheni kohën tuaj të lirë duke e avancuar hobin tuaj. E dini shumë mirë se sa të relaksuar ndiheni kur merreni me këtë gjë që ju pëlqen aq shumë."},{"question":"Si lidhet ndani me të tjerët rezultatet tuaja me zhvillimin personal?","answer":"Cilado qoftë vepra juaj që ka ardhur si rezultat i hobit ndajeni me të tjerët. Nëse po mësoni të luani një këngë të re me ndonjë instrument, luajeni para dikujt."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "340",
@@ -4446,7 +4785,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2021-04-27",
-    "modifiedAt": "2021-04-27"
+    "modifiedAt": "2021-04-27",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Sahat kulla Prishtine?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Fasada e sahat kullës ka hapje të vogla harkore. Afër saj gjindet gjimanzi i qytetit dhe tashmë është e rrethuar me ndërtesa shumë më moderne. Vetëm S."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "341",
@@ -4459,7 +4799,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-04-16",
-    "modifiedAt": "2021-04-16"
+    "modifiedAt": "2021-04-16",
+    "faqs": [{"question":"Legjenda e trishtë dashurisë?","answer":"Legjendat shqiptare janë të shumta, sidomos kur bëhet fjalë për temën e vjetër të dashurisë. Për shembull, në shumë legjenda dashurie në të gjithë botën, personazhet duan verbërisht dhe sakrifikojnë jetën e tyre për atë që dashurojnë."},{"question":"Cilat janë shenjat e një marrëdhënieje të shëndetshme?","answer":"Një marrëdhënie e shëndetshme karakterizohet nga besimi, respekti, komunikimi i hapur dhe mbështetja reciproke. Të dy partnerët ndihen të lirë të shprehin ndjenjat dhe nevojat e tyre pa frikë."},{"question":"Si ta kuptoj nëse dikush është i interesuar për mua?","answer":"Shenjat e interesimit përfshijnë kontaktin e shpeshtë, vëmendjen ndaj detajeve, gjuhën trupore të hapur dhe dëshirën për të kaluar kohë bashkë. Megjithatë, çdo person shprehet ndryshe, prandaj komunikimi i drejtpërdrejtë mbetet mënyra më e mirë."}]
   },
   {
     "id": "342",
@@ -4472,7 +4813,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-04-08",
-    "modifiedAt": "2021-04-08"
+    "modifiedAt": "2021-04-08",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Vende te bukura ne prishtine?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Nëse jeni adhurues i librave, mendojmë se këtu do të gjeni dhuratën e përkryer për të afërmit tuaj. Të themi të drejtën, mendojmë se kjo bibliotekë të."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "343",
@@ -4485,7 +4827,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2021-03-31",
-    "modifiedAt": "2021-03-31"
+    "modifiedAt": "2021-03-31",
+    "faqs": [{"question":"Çfarë dimë për 2,341 metra mbi kuqishtë ndodhet kjo mrekulli e natyrës?","answer":"Liqeni i Kuqishtes i njohur ndryshe edhe si Liqeni i Leqinatit ose Liqenati i Madh është një liqen malor i cili ndodhet në Malin e Leqinatit në Bjeshkët e Nemuna të cilat shtrihen në pjesën perëndimore të Kosovës."},{"question":"Si shkohet te Liqenati?","answer":"Për të shkuar aty, fillimisht duhet që me veturë të shkoni deri te restoranti Guri i Kuq. Aty mund ta parkoni veturën dhe nga aty fillon shtegu për te Liqenati. Shtegu është i lehtë për t’u gjetur."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "344",
@@ -4498,7 +4841,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2021-03-30",
-    "modifiedAt": "2021-03-30"
+    "modifiedAt": "2021-03-30",
+    "faqs": [{"question":"Çfarë ofron më poshtë po ju listoj 7 përfitimet që sjell leximi:?","answer":"📚 Leximi i Librave rrit njohuritë tuaja.📚 Leximi ju ndihmon të relaksoheni dhe ul stresin.📚 Leximi ndihmon në parandalimin e përparimit të alcajmer dhe dementia. Kjo e fundit është vërtetuar shkencërisht.📚 Leximi mund t’ju bëjë një shkrimtar më të mirë."},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "345",
@@ -4511,7 +4855,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2021-03-29",
-    "modifiedAt": "2021-03-29"
+    "modifiedAt": "2021-03-29",
+    "faqs": [{"question":"Çfarë është krijoni një ritual për ditën e hëne?","answer":"Para se t’ja filloni punës ditën e hene krijoni një shprehi, një ritual që e bëni gjithmonë. Një gjë të vogël dhe të thjesht. Për shembull, çdo të hëne pini kafen e mëngjesit vetëm. Para se të shkoni në punë qetësohuni me një kafe dhe reflketoni për javën që ju pret."},{"question":"Si lidhet që e hëna të jetë e lehtë - përgatituni të dielën me zhvillimin personal?","answer":"Nëse të dielën mbrëma keni një plan të javës në vija të trasha apo të holla, dita e hene nuk do të jetë e vështirë. Përgatisni veshjen tuaj të dielën mbrëma. Lini gati gjërat që ju duhen në mënyrë që mëngjesi i së hënës të jetë më i lehtë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "346",
@@ -4524,7 +4869,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2021-03-18",
-    "modifiedAt": "2021-03-18"
+    "modifiedAt": "2021-03-18",
+    "faqs": [{"question":"Çfarë dimë për pyetsorët e personalitetit?","answer":"Këta kanë për qëllim të hetojnë disa aspekte të karakterit që nuk dalin domosdoshmërisht gjatë një interviste. Ato shërbejnë për të kuptuar qëndrimet, sjelljet tipike, emocionet, etj."},{"question":"Testet e aftësisë — çfarë duhet ditur?","answer":"Këto teste mundohen të zbulojnë nëse keni aftësi të caktuara, apo sa kohë merrni për të dhënë përgjigjen e saktë. Kështu krahasohen rezultatet midis individëve të ndryshëm. Përgjithësisht, intervistat dhe testet konsiderohen si mjete plotësuese."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "347",
@@ -4537,7 +4883,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-03-12",
-    "modifiedAt": "2021-03-12"
+    "modifiedAt": "2021-03-12",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Elbasani?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Zemra e Elbasanit është Kalaja, kështjella e ndërtuar në vitin 1466 mbi themelet e qytetit antik Ilir të Skampinit. Gjatë sundimit të Perandorisë Osma."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "348",
@@ -4550,7 +4897,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2021-03-09",
-    "modifiedAt": "2021-03-09"
+    "modifiedAt": "2021-03-09",
+    "faqs": [{"question":"Çfarë është nuk je i pamotivuar?","answer":"\"Nuk jam i motivuar,\" nuk është kurrë një deklaratë e vërtetë. Për çfarë nuk jeni i motivuar? Për punën? Nëse është ky rasti, atëhere përse nuk jep dorëheqien?Veprimet e tua drejtohen nga një lloj shtyse, qofshin këto paratë, lumturia, paqja, apo thjesht kënaqësia e ndërgjegjies …"},{"question":"Si lidhet nuk je i mërzitur me zhvillimin personal?","answer":"Besoj se të ka rastisur të shohësh njerëz që janë magjepsës në plot kuptimin e fjalës. Mirëpo, pavarësisht kësaj përdorin rrjetet sociale deri në varësi të plotë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "349",
@@ -4563,7 +4911,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-03-04",
-    "modifiedAt": "2021-03-04"
+    "modifiedAt": "2021-03-04",
+    "faqs": [{"question":"Çfarë ofron elvira dones?","answer":"Elvira është shkrimtare, skenariste dhe producente filmash shqiptare. Ka lindur në Durrës në vitin 1960 dhe më pas diplomua për Letërsi Shqipe dhe Angleze në Universitetin Shtetëror të Tiranës. Në vitin 1988 ajo u punësuar nga Televizioni Shtetëror Shqiptar."},{"question":"Si lidhet yjet nuk vishen kështu me temën?","answer":"Përmbajtja: Romani \"Yjet nuk vishen kështu\" është i pari nga Trilogjia e Dhimbjes. Tema e Yjeve është trafiku i njerëzve, skllavërimi, tortura, rrënimi i shpirtit, shndërrimi në prostituta, vdekja e pareshtur."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "350",
@@ -4576,7 +4925,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 11,
     "publishedAt": "2021-03-02",
-    "modifiedAt": "2021-03-02"
+    "modifiedAt": "2021-03-02",
+    "faqs": [{"question":"Çfarë dimë për 08:00 akivizoni trupin tuaj me ushtrime dhe ushqim?","answer":"Para se të filloni të jeni produktiv në punë kujdesuni për trupin tuaj. Pa nisur orari i punës bëni të paktën disa zgjatje të muskujve. Joga, ose ushtrime të lehta. Cilendo që ju e preferoni. E rëndësishme është të lëvizni trupin. Kështu do të ndiheni më mirë."},{"question":"09:00 Filloni punën dhe mos harroni muzikën — çfarë duhet ditur?","answer":"Përgatitni një playlist me këngët që ju mbajnë në disponim të mirë. Tek sa punoni ju duhet muzikë në sfond që t'ju ndihmojë të koncentroheni. Kjo varet nga tipi i punës por në përgjithësi muzika ndihmon. Kështu që kujdesuni që ajo të mos mungojë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "351",
@@ -4589,7 +4939,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2021-02-15",
-    "modifiedAt": "2021-02-15"
+    "modifiedAt": "2021-02-15",
+    "faqs": [{"question":"Çfarë dimë për fshatrat e rugovës?","answer":"Kudo që të shkoni në Rugovë nuk do të pendoheni. Ne vetëm ju sygjerojmë që kur të niseni për ato anë të vizitoni të paktën disa fshatra. Mos u ndalni vetëm te Gryka e Rugovës. Mirëpo vizitoni edhe Bogën, Shkrelin apo Pepajnë apo fshatrat e tjerë."},{"question":"Kullat e Junikut — çfarë duhet ditur?","answer":"Trashëgimia kulturore dhe pamja turistike janë gërshetuar së bashku në Junik. Kullat, sot nën petkun e trashëgimisë, në Junik janë restauruar dhe po vazhdon restaurimi i tyre.Ato ofrojnë ngrohtësinë familjare e kombëtare."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "352",
@@ -4602,7 +4953,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2021-02-14",
-    "modifiedAt": "2021-02-14"
+    "modifiedAt": "2021-02-14",
+    "faqs": [{"question":"Si mund ta shikoj Top Channel live online?","answer":"Top Channel mund ta shikoni live online përmes faqes sonë. Transmetimi është falas dhe i disponueshëm 24/7. Mjafton të keni një lidhje interneti të qëndrueshme dhe mund ta ndiqni nga çdo pajisje — kompjuter, telefon ose tablet."},{"question":"A është falas shikimi i Top Channel online?","answer":"Po, shikimi i Top Channel live online përmes platformës sonë është plotësisht falas. Nuk keni nevojë për regjistrim ose abonim. Thjesht hapni faqen dhe filloni të shikoni programin e drejtpërdrejtë."},{"question":"Çfarë programesh transmeton Top Channel?","answer":"Top Channel transmeton një gamë të gjerë programesh duke përfshirë lajme, emisione argëtuese, debate politike, dokumentarë dhe programe kulturore. Programi i plotë mund të ndryshojë sipas orarit ditor."}]
   },
   {
     "id": "353",
@@ -4615,7 +4967,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2021-02-05",
-    "modifiedAt": "2021-02-05"
+    "modifiedAt": "2021-02-05",
+    "faqs": [{"question":"Çfarë është shtëpitë malore?","answer":"Kërkoni në internet për shtëpitë malore me qira që gjenden në afërsi të qytetit ku jetoni. Ato hapësira zakonisht janë të vogla por të ngrohta.Do të shijoni ajrin e pastër të malit dhe bukurinë e ndërtimeve të drurit."},{"question":"Si lidhet resortet me pishina të mbyllura me zhvillimin personal?","answer":"Një fundjavë në një resort që ka pishinë të mbyllur definitivisht është hapësira e duhur për relaksim me personin e zemrës gjatë stinës së dimrit. Vendet e tilla ju japin relaksin e merituar dhe hapësirën për të qenë rehat dhe të qetë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "354",
@@ -4628,7 +4981,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2021-02-05",
-    "modifiedAt": "2021-02-05"
+    "modifiedAt": "2021-02-05",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Prizren?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Lagjia e Shatërvanit është zona më e rëndësishme historike (dhe turistike) e qytetit. Bien në sy shtëpitë e shumta me ngjyra në stilin otoman, të ruaj."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "355",
@@ -4641,7 +4995,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2021-02-02",
-    "modifiedAt": "2021-02-02"
+    "modifiedAt": "2021-02-02",
+    "faqs": [{"question":"Çfarë dimë për shpikjet njerëzore?","answer":"Sidoqoftë, shpikjet nuk ndryshuan aspektet themelore të sjelljes njerëzore që përmban atë që e quajmë \"suita sociale\"."},{"question":"A do të jemi më social?","answer":"Në disa eksperimente të kryera nga në Universitetin Yale, u vu re diçka e veçantë. U ndanë dy grupe ku në njërin prej tyre roboti udhëzues kërkonte falje për gabimet që kryente në proceset e punës, ndërsa grupi tjetër pati një robot të pagabueshëm."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "356",
@@ -4654,7 +5009,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 4,
     "publishedAt": "2021-01-28",
-    "modifiedAt": "2021-01-28"
+    "modifiedAt": "2021-01-28",
+    "faqs": [{"question":"Çfarë ofron shtëpi tipike gjirokastrite, me gur e me dru?","answer":"Druri dhe guri janë kryefjala e kësaj shtëpie që përshkruhet aq mirë në romanin 'Kronikë në gurë'. Shtëpia është tre kate dhe ka edhe një pjesë nën dhe. Nën tokë, afër qilarit të vogël, gjendet një galeri e fshehtë me qemere guri. Aty hyrja bëhet përmes një vrime të fshehët."},{"question":"Si lidhet dy bibliotekat e kadaresë me temën?","answer":"Në anën tjetër, në Tiranë apartamenti i Kadaresë ndodhet në ndërtesën që njihet edhe si “Pallati me kuba”, për shkak të stilit. Megjithatë referenca më e shpeshtë për banesën e ndërtuar në fillim të viteve ’70a është “Apartamenti i Kadaresë”."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "357",
@@ -4667,7 +5023,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2021-01-26",
-    "modifiedAt": "2021-01-26"
+    "modifiedAt": "2021-01-26",
+    "faqs": [{"question":"Çfarë dimë për zef kolombi (1907-1949)?","answer":"Zef Kolombi është padyshim një prej figurave më eminente të gjeneratës së vjetër të piktorëve shqiptarë. I lindur në Sarajevë, në një familje me origjinë shkodrane, ai mbeti jetim në fëmijëri të hershme. Kolombi u rrit në kujdesin e gjyshes së tij në Shkodër."},{"question":"Kolë Idromeno (1860-1939) — çfarë duhet ditur?","answer":"Kolë Indromeno ishte piktor, arkitekt, skulptor, fotograf si dhe skenograf i talentuar. Ai lindi në Shkodër, ku dhe mësoi elementet e para të fotografisë nga Pjetër Marubi."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "358",
@@ -4680,7 +5037,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-12-28",
-    "modifiedAt": "2020-12-28"
+    "modifiedAt": "2020-12-28",
+    "faqs": [{"question":"Çfarë dimë për nuk kritikojnë shumë?","answer":"Duhet ta pranojmë se kritikimi i të tjerëve është shpesh një mekanizëm mbrojtës i pavetëdijshëm që synon në zbutjen e pasigurive tona. Ne jemi të gjithë kritikë ndonjëherë."},{"question":"Nuk qëndrojnë të lidhur pas të kaluarës — çfarë duhet ditur?","answer":"Si njerëz ne dëshirojmë rregull dhe siguri. Shpesh jemi fiksuar me idenë se me përpjekje të mjaftueshme ne mund të bëjmë ose të arrijmë ndonjë gjë. Sigurisht disa njerëz mbërthehen duke folur pafund për gabimet dhe dështimet e së kaluarës."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "359",
@@ -4693,7 +5051,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2020-12-11",
-    "modifiedAt": "2020-12-11"
+    "modifiedAt": "2020-12-11",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Kalaja e Novoberdes?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Perandoria Bizantine kishte vendosur që të ngrinte një kala nga ku mund të shiheshin si në pëllëmbë të dorës 130 hektarët. Këta hektarë që tani janë s."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "360",
@@ -4706,7 +5065,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 2,
     "publishedAt": "2020-11-18",
-    "modifiedAt": "2020-11-18"
+    "modifiedAt": "2020-11-18",
+    "faqs": [{"question":"Çfarë është zhvillimi personal në aspektin shpirtëror?","answer":"E di se kur flisni për anën shpirtërore mund të nxisni shumë diskutime kudo. Mirëpo unë besojë në teorinë se njerëzit janë qenie unike. Disa njerëz besojnë se ne jemi thjesht një shtrirje dhe një formë e përparuar e llojeve t+ë kafshëve."},{"question":"Si lidhet kujdesi fizik me zhvillimin personal?","answer":"Mendja dhe trupi punojnë së bashku. Kështu që ne duhet t'i kushtojmë vëmendje të dyjave. Ju me siguri keni dëgjuar frazën që thotë: Trajtoni trupin tuaj si një tempull. Pra diçka të shenjtë për të cilën kujdeseni jashtzakonisht shumë."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "361",
@@ -4719,7 +5079,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2020-11-13",
-    "modifiedAt": "2020-11-13"
+    "modifiedAt": "2020-11-13",
+    "faqs": [{"question":"Çfarë duhet të di përpara se të vizitoj Shpella e Pirateve Dhermi?","answer":"Përpara vizitës, rekomandohet të informoheni për kushtet e motit, mundësitë e akomodimit dhe vendet kryesore për të vizituar. Për të shkuar në këtë shpellë, mënyra e vetme është deti. Mjaftojnë 10-15 minuta lundrim, me një motobarkë vogël dhe mund të gjendesh aty. Deti i thel."},{"question":"Cila është periudha më e mirë për të vizituar?","answer":"Periudha më e mirë varet nga preferencat tuaja. Vera (qershor-gusht) është ideale për plazh dhe aktivitete jashtë, ndërsa pranvera dhe vjeshta ofrojnë temperatura më të buta. Dimri ka çarmin e vet me peizazhe të mbuluara me borë."},{"question":"Sa kushton një udhëtim?","answer":"Kostoja varet nga stina, lloji i akomodimit dhe aktivitetet. Për një buxhet mesatar, planifikoni rreth 30-80€ në ditë duke përfshirë akomodimin, ushqimin dhe transportin lokal. Rezervimi paraprak mund t'ju kursejë para."}]
   },
   {
     "id": "362",
@@ -4732,7 +5093,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-11-05",
-    "modifiedAt": "2020-11-05"
+    "modifiedAt": "2020-11-05",
+    "faqs": [{"question":"Çfarë dimë për filloni me trupin tuaj duke e trajtuar mirë?","answer":"Një trup i shëndetshëm do t'ju ndihmojë të ndërtoni një qasje të shëndetshme ndaj punës sepse të dyja janë të lidhura thellësisht.Nëse ndiheni letargjikë në mëngjes, mos rrini në shtrat dhe pastaj vonoheni për në zyrë."},{"question":"Hiqni sa më shumë shpërqendrime që të jetë e mundur — çfarë duhet ditur?","answer":"Sa herë e kontrolloni emailin tuaj çdo ditë? Po rrjetet sociale? Jetojmë në një botë plot shpërqendrime. Të gjitha këto ju mbajnë larg kryerjes së detyrave tuaja."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "363",
@@ -4745,7 +5107,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2020-10-29",
-    "modifiedAt": "2020-10-29"
+    "modifiedAt": "2020-10-29",
+    "faqs": [{"question":"Çfarë përmban ky artikull rreth letërsisë shqipe?","answer":"Teodor Keko - E dashur, erdha!"},{"question":"Pse është e rëndësishme letërsia shqipe?","answer":"Letërsia shqipe është pasqyrë e historisë, kulturës dhe identitetit tonë kombëtar. Përmes poezisë dhe prozës, shkrimtarët shqiptarë kanë ruajtur dhe pasuruar gjuhën, duke na lidhur me rrënjët tona."},{"question":"Cilët janë autorët më të njohur të letërsisë shqipe?","answer":"Ndër autorët më të njohur janë Naim Frashëri, Fan Noli, Ismail Kadare, Dritëro Agolli, Ali Podrimja dhe Martin Camaj. Secili ka kontribuar në mënyra unike në pasurinë e letërsisë shqipe."}]
   },
   {
     "id": "364",
@@ -4758,7 +5121,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-10-27",
-    "modifiedAt": "2020-10-27"
+    "modifiedAt": "2020-10-27",
+    "faqs": [{"question":"Çfarë dimë për i përndjekuri i dashurisë nga dritëro agolli?","answer":"I përndjekuri i dashurisë është një poezi e shkruar nga Dritëro Agolli (13 tetor 1931 3 shkurt 2017). Ai ishte poet, prozator, publicist dhe politikan shqiptar. Që nga viti 1973. Ai ishte kryetar i Lidhjes së Shkrimtarëve dhe të Artistëve të Shqipërisë."},{"question":"Krijimtaria — çfarë duhet ditur?","answer":"Në veprën e Agollit e pa veten si protagonist bujku dhe bariu, fshatari dhe studenti, malësori dhe fusharaku. Agolli u bë poeti i tokës dhe i dashurisë për të. Shkrimtari i filozofisë dhe i dhimbjes njerëzore."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "365",
@@ -4771,7 +5135,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 1,
     "publishedAt": "2020-10-19",
-    "modifiedAt": "2020-10-19"
+    "modifiedAt": "2020-10-19",
+    "faqs": [{"question":"Çfarë fakte interesante ofron ky artikull?","answer":"Bledi Ylli - Dashuri"},{"question":"Pse janë të rëndësishme kuriozitetet?","answer":"Kuriozitetet na ndihmojnë të zgjerojmë njohuritë tona, të kuptojmë botën më mirë dhe të zhvillojmë mendimin kritik. Ato shpesh zbulojnë fakte mahnitëse që ndryshojnë perspektivën tonë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "366",
@@ -4784,7 +5149,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-10-16",
-    "modifiedAt": "2020-10-16"
+    "modifiedAt": "2020-10-16",
+    "faqs": [{"question":"Çfarë dimë për ata nuk i pranojnë disa keqbërje?","answer":"Filmi(Fields of War) nuk është shumë bardhë dhe zi për sa i përket paraqitjes së shqiptarëve si të mirë dhe serbëve si të këqij. Mund ta imagjinoj që disa njerëz kanë probleme me këtë."},{"question":"Si mund ta bësh këtë film? Nuk është koha — çfarë duhet ditur?","answer":"Mbaj mend një djalë shumë të pasionuar shqiptar në Zvicër, i cili më tha: ‘Si mund ta bësh këtë film? Nuk është koha’. Unë e kuptoj atë. Por unë nuk jam politikan, nuk po bëj një film propagandistik. Nuk është një dokumentar."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "367",
@@ -4797,7 +5163,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2020-10-16",
-    "modifiedAt": "2020-10-16"
+    "modifiedAt": "2020-10-16",
+    "faqs": [{"question":"Çfarë ofron i përndjekuri i dashurisë - dritëro agolli?","answer":"Unë jam i burgosuri yt, i përndjekuriRroj me prangat që ti më ke vënëPo çudi as qelia s'më mbytDhe s'më mbyt as dritarja e zezë Kur ti prangat m'i hodhe në mishUnë i putha duart e tuaËshtë rast i pashembullt ta dishQë xhelatin ta puth a ta dua"},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "368",
@@ -4810,7 +5177,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2020-10-12",
-    "modifiedAt": "2020-10-12"
+    "modifiedAt": "2020-10-12",
+    "faqs": [{"question":"Çfarë do të gjeni në këtë artikull?","answer":"Te huaj jemi - Ismail Kadare"},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "369",
@@ -4823,7 +5191,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2020-10-06",
-    "modifiedAt": "2020-10-06"
+    "modifiedAt": "2020-10-06",
+    "faqs": [{"question":"Çfarë do të gjeni në këtë artikull?","answer":"Pa ty ismail kadare Ti ike udhës së pafundme Ku zverdhin drurët gjetherënës Mbi gjokse pellgjësh tani tundet I arti medalion i hënës. Lejlekët ikën. Fill pas teje Si stof i keq u zbeh blerimi Dhe ngjajnë toka, pylli, reja, Me negativin e një filmi."},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "370",
@@ -4836,7 +5205,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-09-24",
-    "modifiedAt": "2020-09-24"
+    "modifiedAt": "2020-09-24",
+    "faqs": [{"question":"Çfarë dimë për respekti duhet të ekzistoj në çdo nivel?","answer":"“Një nga gjërat që shumica prej nesh nuk pëlqen në lidhje me hierarkinë e keqe është se njerëzit në krye të një strukture pushteti shpesh trajtohen me shumë më shumë respekt sesa njerëzit në pjesën e poshtme. Nuk duhet të jetë kështu dhe nuk ka pse të të jetë kështu."},{"question":"Rregulla të përqendruara në Qartësi vs Kontroll — çfarë duhet ditur?","answer":"Lloji më i keq i hierarkisë përqendrohet në kontrollimin e anëtarëve të saj madje edhe të atyre më të vjetër."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "371",
@@ -4849,7 +5219,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2020-09-18",
-    "modifiedAt": "2020-09-18"
+    "modifiedAt": "2020-09-18",
+    "faqs": [{"question":"Çfarë fakte interesante ofron ky artikull?","answer":"Nje nate nga netet pa gjume. Poezi 'Netët pa gjumë' është shkruaj nga një artist anonim i cili dëshironte të shprehte dhe shpaloste ndjenjat e tij përmes vargjeve. Shpesh herë distanca nga dashuria e jetës të bën të shprehesh në mënyrë poetike dhe me fjalë të zgjedhura nga zemra."},{"question":"Pse janë të rëndësishme kuriozitetet?","answer":"Kuriozitetet na ndihmojnë të zgjerojmë njohuritë tona, të kuptojmë botën më mirë dhe të zhvillojmë mendimin kritik. Ato shpesh zbulojnë fakte mahnitëse që ndryshojnë perspektivën tonë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "372",
@@ -4862,7 +5233,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2020-09-06",
-    "modifiedAt": "2020-09-06"
+    "modifiedAt": "2020-09-06",
+    "faqs": [{"question":"Çfarë është aftësia për të fituar vëmendje në kohët e sotme?","answer":"Ne jetojmë në një ekonomi që kërkon vëmendje. Ata që kanë më shumë përqëndrim në punën e tyre, projekte, ide, etj, priren të fitojnë. Ju duhet të mësoni se si të tërhiqni vëmendjen sepse, pa të, edhe një ide fantastike mund të shuhet."},{"question":"Si lidhet aftësia e maksimizimit të kohës suaj me zhvillimin personal?","answer":"Në një botë ku koha e përqëndrimit po zvogëlohet, marrja e vëmendjes është primare. Nëse arrini të mësoni se si t’i tërhiqni vëmendjen dikujt për një kohë të mjaftueshme, atëhere keni arritur një nga aftësitë më fitimprurëse."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "373",
@@ -4875,7 +5247,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-08-28",
-    "modifiedAt": "2020-08-28"
+    "modifiedAt": "2020-08-28",
+    "faqs": [{"question":"Çfarë dimë për iniciativë e bukur e rinisë gjakovare?","answer":"Parku kulturor “Ali Podrmija” u hap në korrik të vitit 2017. Kjo ndodhi pas një fushate 45-ditore online për mbledhjen e fondeve. Me ato para u riaktivizua për funksion të kulturës ajo hapësirë e qytetit të Gjakovës. Udhëheqësit e kësaj kampanje arritën të mbledhin 11."},{"question":"Poeti që iku pas Lumit — çfarë duhet ditur?","answer":"Tetë vjet më parë, më 21 korrik 2012, afër një lumi të vogël, katër kilometra nga qyteti i Francës, Lodeve, ishte gjetur trupi i pajetë i poetit Ali Podrimja."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "374",
@@ -4888,7 +5261,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-08-23",
-    "modifiedAt": "2020-08-23"
+    "modifiedAt": "2020-08-23",
+    "faqs": [{"question":"Çfarë fakte interesante ofron ky artikull?","answer":"Ikbal Cika - Gazetarja e parë shqiptare \"Kjo grua ishte një ikonë, por në nuk dimë as kur lindi\". Sot ne flasim me kontribuesen tonë të historisë, Kristianën, për gazetaren e parë femër shqiptare, Ikbal Çika. \"Për herë të parë, shohim diçka të bërë për gratë në Shqipëri\"."},{"question":"Pse janë të rëndësishme kuriozitetet?","answer":"Kuriozitetet na ndihmojnë të zgjerojmë njohuritë tona, të kuptojmë botën më mirë dhe të zhvillojmë mendimin kritik. Ato shpesh zbulojnë fakte mahnitëse që ndryshojnë perspektivën tonë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "375",
@@ -4901,7 +5275,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2020-08-22",
-    "modifiedAt": "2020-08-22"
+    "modifiedAt": "2020-08-22",
+    "faqs": [{"question":"Çfarë është studimet konfirmojnë atë që e kemi ditur prej kohësh?","answer":"Kjo është konfirmuar nga një studim i Oxford Economics i marrë në konsideratë nga Guardian. Studiuesit vëzhguan 8,250 qytetarë britanikë dhe ndërtuan një \"tregues të mirëqenies\"."},{"question":"Si lidhet shtoni një vend më shumë në tavolinën tuaj me zhvillimin personal?","answer":"Me sa duket, të ngrënit në shoqëri të të tjerëve, i bën njerëzit më të lumtur dhe të ndihen më mirë me veten e tyre."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "376",
@@ -4914,7 +5289,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-08-10",
-    "modifiedAt": "2020-08-10"
+    "modifiedAt": "2020-08-10",
+    "faqs": [{"question":"Çfarë dimë për të qënit bloger?","answer":"Duket sikur çdo person që takoni këto ditë është një bloger. Ajo që ndoshta nuk dini është se mund të jetë një mënyrë e shkëlqyer për të fituar para. Megjithatë, do t’ju duhet përkushtim dhe përgatitje për të arritur deri atje."},{"question":"YouTuber Streamer — çfarë duhet ditur?","answer":"Shumë njerëz në ditët e sotme kanë një kanal të tyrin në YouTube. Madje e kanë kthyer në punën e tyre me kohë të plotë. Zgjidhni diçka për të cilin jeni i apasionuar, blini një kamer dhe kini vendosmëri e durim."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "377",
@@ -4927,7 +5303,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 5,
     "publishedAt": "2020-08-05",
-    "modifiedAt": "2020-08-05"
+    "modifiedAt": "2020-08-05",
+    "faqs": [{"question":"Çfarë është nëse të duket gabim, mos e bëj?","answer":"Një nga qëllimet më të mëdha tuajat duhet të jetë të bëni gjëra për të cilat ndiheni mirë. Unë besoj në fuqinë e instiktit dhe mendoj se të gjithë duhet të dëgjojmë pak më shumë. Bëjini mësim gabimet tuaja dhe besojini instiktit më shpesh."},{"question":"Si lidhet thuaje saktësisht se çfarë nënkupton kur flet për diçka me zhvillimin personal?","answer":"Komunikimi është me të vërtetë i shumkuptimtë. Shumë fjalë mund të kenë dhjetra kuptimesh, dhe përveç kësaj, atributet joverbale e bëjnë më të vështirë ta kuptojmë njëritjetrin."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "378",
@@ -4940,7 +5317,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 7,
     "publishedAt": "2020-07-16",
-    "modifiedAt": "2020-07-16"
+    "modifiedAt": "2020-07-16",
+    "faqs": [{"question":"Çfarë dimë për ankthi, ilaçet dhe personaliteti ndikojnë drejtpërdrejt nëse i kujtoni ëndrrat?","answer":"Siç u përmend edhe lartë, “Cilësia e gjumit nuk ka të bëjë me aftësinë për të mbajtur mend ose jo ëndrrat.” thotë Dr.Harris. Mendohet se mund të ndikojnë ilaçet që po pini apo nëse jeni të stresuar."},{"question":"Nivelet e ankthit para se të flini — çfarë duhet ditur?","answer":"Njerëzit kanë më shumë gjasa të mbajnë mend ëndrrat e tyre kur kanë ankth ose depresion, thotë Harris. Ndoshta sepse kanë tendencë të zgjohen më shpesh kur shqetësohen dhe e bëjnë këtë mes të ëndrrave të ndryshme."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "379",
@@ -4953,7 +5331,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2020-07-16",
-    "modifiedAt": "2020-07-16"
+    "modifiedAt": "2020-07-16",
+    "faqs": [{"question":"Çfarë tregon kërkimi shkencor?","answer":"CBT është një trajtim i mirënjohur i shëndetit mendor. Terapistët përdorin këtë metodë që të ndihmojnë njerëzit të ndryshojnë modelet e të menduarit dhe sjelljet negative. CBT nuk është një trajtim i shpejtë që të bën të ndihesh mirë menjëherë duke maskuar problemet themelore."},{"question":"Si lidhet eliminoni mendimet e padobishme me zhvillimin personal?","answer":"Të mendosh gjëra të padobishme si \"Kjo nuk ka për të funksionuar kurrë\" ose \"Jam një idiot. Sapo shkatërrova gjithçka\", nuk vlen."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "380",
@@ -4966,7 +5345,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-07-03",
-    "modifiedAt": "2020-07-03"
+    "modifiedAt": "2020-07-03",
+    "faqs": [{"question":"Çfarë nuk po duron dot për t'ua thënë atyre?","answer":"Kjo teknikë quhet letra e zemërimit dhe është një teknikë që dikur e përdorte Abraham Lincoln, Benjamin Franklin dhe Mark Twain.Mendoni personin të cilin do të dëshironit ta sulmonit verbalisht për të nxjerrë mllëfin që keni ndaj tyre."},{"question":"Kush është audienca që synoni?","answer":"Ideoni se kë po përpiqeni të bindni. Përfytyroni një person të vetëm, jo ​​një grup. Mendoni për të dhënat bazë të tyre: ku u rritën, nëse praktikojnë një fe, çfarë bëjnë për argëtim etj."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "381",
@@ -4979,7 +5359,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2020-06-22",
-    "modifiedAt": "2020-06-22"
+    "modifiedAt": "2020-06-22",
+    "faqs": [{"question":"Çfarë ofron andon zako çajupi vaje?","answer":"Po e nisim me poezinë ‘Vaje’ të Çajupit. Këtë poezi që definitivisht është një nga perlat e letërsisë shqipe. Poezinë autori ia ka kushtuar gruas së tij të ndierë. Në të ai shpreh dhimbjen për mungesën e saj dhe për rritjen e djalit jetim."},{"question":"Si lidhet ismail kadare të huaj jemi me temën?","answer":"E kush thotë se Ismail Kadare është i zoti vetëm në prozë? Ai ka edhe disa përmbledhje me poezi që do të ju mbesin gjatë në mendje. Një nga to është poezia ‘Të huaj jemi’."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "382",
@@ -4992,7 +5373,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2020-06-17",
-    "modifiedAt": "2020-06-17"
+    "modifiedAt": "2020-06-17",
+    "faqs": [{"question":"Çfarë dimë për është impulsiv?","answer":"Të njohësh një tradhtar nuk është e lehtë. Personat impulsivë mund të tradhtojnë sepse reagojnë në bazë të emocioneve dhe mendimeve që përjetojnë për momentin. Për këtë arsye nuk ndalen për të vlerësuar me qetësi situatën dhe pasojat që do të vijnë."},{"question":"Ka tradhtuar edhe në të shkuarën — çfarë duhet ditur?","answer":"‘Ujku qimen e ndërron, por zakonin s’e harron’. Ata që kanë pasur një të kaluar ‘imorale’ dhe kanë pasur më shumë se një partner seksual njëkohësihst, kanë zhvilluar një lloj ‘aftësie’ për të tradhëtuar më lehtë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "383",
@@ -5005,7 +5387,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 2,
     "publishedAt": "2020-06-02",
-    "modifiedAt": "2020-06-02"
+    "modifiedAt": "2020-06-02",
+    "faqs": [{"question":"Çfarë dimë për ka mënyra të ndryshme që tregojnë se dikush është duke u gënjyer?","answer":"Genjeshtra ndonjëherë ka mungesë të detajeve sepse ka më pak për të mbajtur në mend. Nëse historia që po ju tregohet është e paqartë, mundohuni të merrni më shumë detaje dhe bëni pyetje të përsëritura në mënyrë periodike për të shikuar se a po ndryshon historia."},{"question":"Si mund ta përmirësoj stilin tim të jetës?","answer":"Filloni me ndryshime të vogla por konsistente: ushqim i shëndetshëm, aktivitet fizik i rregullt, gjumë cilësor dhe kujdes për shëndetin mendor. Stilet e jetës më të mira ndërtohen hap pas hapi."},{"question":"Cilat janë trendet aktuale të lifestyle-it?","answer":"Trendet aktuale përfshijnë kujdesin ndaj mirëqenies mendore, modën e qëndrueshme, minimalizmin dhe jetesën e balancuar midis punës dhe jetës personale. Gjeni atë që funksionon për ju."}]
   },
   {
     "id": "384",
@@ -5018,7 +5401,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 3,
     "publishedAt": "2020-05-17",
-    "modifiedAt": "2020-05-17"
+    "modifiedAt": "2020-05-17",
+    "faqs": [{"question":"Çfarë është thuhet se gjenitë keqkuptohen?","answer":"Le të mundohemi të kuptojmë se si ta njohim një kur e kemi përballë. Gjeniu është një person që ka aftësi më të mira se të tjerët dhe një inteligjencë të jashtëzakonshme. Kjo veçori, gjithmonë, bën që ai të jetë një hap përpara të tjerëve."},{"question":"Si lidhet gjenitë janë të çuditshëm nga ana sociale me zhvillimin personal?","answer":"Një nga karakteristikat e një gjeniu është se ata janë njerëz të çuditshëm nga ana sociale. Shumë shpesh gjeniu nuk ndihet i qetë mes njerëzve. Kjo është arsyeja pse i quajnë të çuditshëm."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "385",
@@ -5031,7 +5415,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 5,
     "publishedAt": "2020-05-13",
-    "modifiedAt": "2020-05-13"
+    "modifiedAt": "2020-05-13",
+    "faqs": [{"question":"Çfarë është duajeni veten tuaj?","answer":"Nuk mund të pres që dikush tjetër të më dojë dhe të më sjellë lumturi nëse së pari nuk di të dua veten time. Të duash veten do të thotë të bësh aktivitete që të pëlqejnë, të kujdesesh për shëndetin tënd dhe të punosh drejt realizimit të synimeve tuaja."},{"question":"Si lidhet duaji të tjerët pa rezerva me zhvillimin personal?","answer":"Në marrëdhëniet që krijoj, qoftë shoqërore apo ajo që kam me partnerin tim, e jap zemrën plotësisht. Jeta është shumë e shkurtër për të mos dashur me kapacitet maksimal. Dhe nëse nuk funksionon, të paktën mund të them që e provova.”"},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "386",
@@ -5044,7 +5429,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-05-10",
-    "modifiedAt": "2020-05-10"
+    "modifiedAt": "2020-05-10",
+    "faqs": [{"question":"Çfarë dimë për përkushtojuni angazhimeve tuaja?","answer":"Mënyra se si njerëzit bëhen më të mençur kur plaken, nuk ka të bëjë me rritjen e njohurisë apo grumbullimin e pasurisë. Sipas Gates, ka të bëjë më shumë me vendosmërinë për të zgjedhur me dëshirën tënde se çfarë ka më shumë rëndësi për ty."},{"question":"Jini më dorëdhënës, këshilla nga Bill Gates — çfarë duhet ditur?","answer":"Jim Rohn ka thënë: \"Vetëm nëse jepni, do arrini të merrni më tepër nga sa keni.” Fale fondacionit të tij, Bill Gates ka dhënë më shumë se çdo fondacion bamirësie në botë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "387",
@@ -5057,7 +5443,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-04-14",
-    "modifiedAt": "2020-04-14"
+    "modifiedAt": "2020-04-14",
+    "faqs": [{"question":"Çfarë dimë për do t’ju kthehet në zakon?","answer":"Zakonet mund t’ju shndërrojnë si njeri ose e kundërta, t’ju shkatërrojnë. Kjo varet tërësisht nëse keni zakone të mira apo të këqija. Disiplina, mund të kthehet në zakon vetëm nëse i përkushtoheni rregullisht."},{"question":"Disiplina do t’ju nxis të përmbushni detyrat tuaja — çfarë duhet ditur?","answer":"Duke qënë i disiplinuar e duke i vendosur vetes një afat kohe për të përfunduar një detyrë, dijeni se keni për t’ia dalë. Mund të jetë çdo gjë, leximi i librave ose kryerja e një detyrë brenda afatit kohor të përcaktuar."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "388",
@@ -5070,7 +5457,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2020-04-10",
-    "modifiedAt": "2020-04-10"
+    "modifiedAt": "2020-04-10",
+    "faqs": [{"question":"Çfarë dimë për push-ups?","answer":"Këmbët duhet të jenë drejtë dhe afër njëra tjetrës, përndryshe, presioni në muskujt e barkut mbështet në pjesën e mesit të shpinës dhe mund të reduktohet.Shpina. Momenti më i rëndësishëm. Nëse doni t'i kryeni ushtrimet si duhet, atëhere shpina duhet të jetë drejtë."},{"question":"Planks — çfarë duhet ditur?","answer":"\"Plank\" është një ushtrim statik. Pa ndonjë lëvizje, kështu që është e rëndësishme të mbani trupin siç duhet.Shtrihuni në dysheme me barkun tuaj poshtë. Trupi juaj duhet të formoj një vijë të drejtë nga koka në këmbë."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "389",
@@ -5083,7 +5471,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "drenushe-krasniqi",
     "readingTime": 4,
     "publishedAt": "2020-04-09",
-    "modifiedAt": "2020-04-09"
+    "modifiedAt": "2020-04-09",
+    "faqs": [{"question":"Çfarë është përqëndrohuni tek arsyeja përse doni të zgjoheni herët?","answer":"Zgjimi para gjithë të tjerëve është i vështirë. Nëse nuk keni një arsye të fortë për ta bërë këtë gjë, nuk keni për t’ia dalë."},{"question":"Si lidhet si te zgjohemi heret? kuptoni se çfarë fitoni dhe humbisni me zhvillimin personal?","answer":"Çfarë fitoni?Kur të zgjoheni herën e parë do jetë shumë e vështirë, ndaj nuk ju vëm faj që doni të hiqni dorë.Mirëpo, kujtoni diçka: Shkrimtarët më të famshëm zgjoheshin herët sepse e dinin se në atë orë arrinin të shkruanin më shpejt."},{"question":"Si mund të filloj të punëoj për zhvillimin tim personal?","answer":"Filloni duke vendosur qëllime të qarta dhe reale. Lexoni libra, dëgjoni podcaste frymëzuese dhe praktikoni vetëreflektimin. Hapi i parë është të pranoni se gjithmonë ka vend për përmirësim."}]
   },
   {
     "id": "390",
@@ -5096,7 +5485,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-04-05",
-    "modifiedAt": "2020-04-05"
+    "modifiedAt": "2020-04-05",
+    "faqs": [{"question":"Çfarë dimë për the cloud ose reja?","answer":"Roli i teknologjisë në vendin e punës ka ndryshuar në mënyrë drastike. 'Cloud Computing' është një teknologji që ndihmon kompanitë të kenë avantazh nga konkurruentët e vet në treg. Implementimi i teknologjisë 'Cloud' ka revolucionarizuar mënyrën se si bisneset po funksionojnë."},{"question":"Rrjedha e punës dhe menaxhimi i dokumenteve — çfarë duhet ditur?","answer":"Një mënyrë tjetër që rrit produktivitetin është rrjedhja e punës nëpërmjet automatizimit. Ky sistem gjurmon dhe administron në mënyrë dixhitale dokumentet që lidhen me procesin e biznesit tuaj."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "391",
@@ -5109,7 +5499,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-04-03",
-    "modifiedAt": "2020-04-03"
+    "modifiedAt": "2020-04-03",
+    "faqs": [{"question":"Çfarë dimë për promovimi përmes vr për turizmin?","answer":"Kompanitë turistike mund të promovojnë destinacione dhe të frymëzojnë klientët të udhëtojnë përmes videove me 360 ​​gradë dhe prodhimeve kinematike të VR."},{"question":"Hotelet dhe linjat ajrore mund të përfitojnë gjithashtu — çfarë duhet ditur?","answer":"Mënyra se si hotelet reklamojnë tek klientët ka mbetur në vend ndër vite. Realiteti virtual mund të ofrojë një mënyrë të re për të angazhuar udhëtarët."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "392",
@@ -5122,7 +5513,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 5,
     "publishedAt": "2020-04-01",
-    "modifiedAt": "2020-04-01"
+    "modifiedAt": "2020-04-01",
+    "faqs": [{"question":"Çfarë dimë për kaffeost finland?","answer":"Në Finlandë, kafeja neper bote derdhet mbi copa justoleipä (copëza djathi). Edhe pse mund të tingëllojë si diçka e pakëndshme, finlandezët e adhurojnë këtë kombinimin unik të kafesë me djathin."},{"question":"Türk Kahvesi Turkey — çfarë duhet ditur?","answer":"Kokrrat e pjekura të kafesë bluhen dhe pastaj zjehen në një enë të veçantë bakri ose bronzi, të quajtur çezve. Kafeja turke është e veçantë sepse përgatitet e pafiltruar, ndaj dhe llumi i saj mblidhet në fund të filxhanit."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "393",
@@ -5135,7 +5527,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-03-25",
-    "modifiedAt": "2020-03-25"
+    "modifiedAt": "2020-03-25",
+    "faqs": [{"question":"Çfarë dimë për hani mëngjes?","answer":"Ngrënia e mëngjesit, edhe nëse është vetëm një banane dhe një gotë qumshtë, i jep shtysë trupit dhe e ndihmon ta mbajë energjinë gjatë ditës."},{"question":"Zgjedhni sasi të shëndetshme per ushqim per femije — çfarë duhet ditur?","answer":"Është lehtë të gjeni çipsa apo biskota kur ju dhe fëmijët tuaj doni të grimconi diçka. Por, ky Ushqim per femije tenton të kenë vlera të ulëta ushqyese dhe vlera të larta në kalori."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "394",
@@ -5148,7 +5541,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-03-20",
-    "modifiedAt": "2020-03-20"
+    "modifiedAt": "2020-03-20",
+    "faqs": [{"question":"Çfarë fakte interesante ofron ky artikull?","answer":"Liri Gero, Vajza 17vjeçare shqiptare duke luftuar nazistët! Çfarë historie! Dhe mënyra se si vdiq e reja Liri Gero, është e çuditshme."},{"question":"Pse janë të rëndësishme kuriozitetet?","answer":"Kuriozitetet na ndihmojnë të zgjerojmë njohuritë tona, të kuptojmë botën më mirë dhe të zhvillojmë mendimin kritik. Ato shpesh zbulojnë fakte mahnitëse që ndryshojnë perspektivën tonë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "395",
@@ -5161,7 +5555,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-03-14",
-    "modifiedAt": "2020-03-14"
+    "modifiedAt": "2020-03-14",
+    "faqs": [{"question":"Çfarë dimë për ishujt galapagos?","answer":"Rritja masive në turizëm në dekadat e fundit po e zhduk nga bukuria natyrore dhe ambienti këtë vend. Edhe kafshët e Galapagos kanë nevojë të shpëtohen. Kombinimi i ndotjes dhe kafshëve të kontrabanduara do ta shterojnë ekosistemin diku në të ardhmen."},{"question":"Venezia nje nga vendet me te bukura ne bote — çfarë duhet ditur?","answer":"Venezia po fundoset në një ritëm të shpejtë si pasojë e kombinimit të rritjes së reshjeve të shiut dhe niveleve të detit. Sheshi i Shën Markut është përmbytur pothuajse 100 herë gjatë vitit."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "396",
@@ -5174,7 +5569,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-02-16",
-    "modifiedAt": "2020-02-16"
+    "modifiedAt": "2020-02-16",
+    "faqs": [{"question":"Çfarë dimë për elvana gjata - vetes?","answer":"Balada ‘Vetes’ nga Evana Gjata ishte këngë shumë e dëgjuar në vitin 2008. Me muzikën e Flori Mumajesit dhe videoklipin e bukur të realizuar në plazh nga ‘Pixels Productions’ Elvana pushtoi toplistat atë vit. Këngëtarja vazhdon të jetë aktive."},{"question":"Tuna – Inati — çfarë duhet ditur?","answer":"“A nuk të vjen inat që secili na e pat zili”, është një tjetër refren që u dëgjua shumë në vitin 2008. Këngëtarja nga Shkupi, Altuna Sejdiu – Tuna rrëmbeu zemrat e adhuruesve me këtë këngë. 'Inati' flet për mllefin që lë pas një dashuri e dështuar."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "397",
@@ -5187,7 +5583,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2020-02-05",
-    "modifiedAt": "2020-02-05"
+    "modifiedAt": "2020-02-05",
+    "faqs": [{"question":"Çfarë dimë për martesa?","answer":"Filmi Martesa i regjisores Blerta Zeqiri është një nga filmat më të përfolur të viteve të fundit. E ndonëse e ka titulluar “Martesa”në këtë film regjisorja ka mëtuar të flasin thjesht për dashurinë e cila nuk duhet ndaluanë asnjë mënyrë."},{"question":"Zana — çfarë duhet ditur?","answer":"Me filmin e saj Zana regjisorja Antoneta Kastrati ka rrëfyer një histori personale të saj nga lufta e fundit në Kosovë. Filmi “Zana” është një dramë tronditëse dhe emocionuese. Ky film përcjell një grua të re kosovare që përpiqet të bëhet nënë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "398",
@@ -5200,7 +5597,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2020-01-02",
-    "modifiedAt": "2020-01-02"
+    "modifiedAt": "2020-01-02",
+    "faqs": [{"question":"Çfarë fakte interesante ofron ky artikull?","answer":"Fjalime motivuese për vitin 2022! Ndonjëherë bini pre e rutinës dhe lejoni që motivimi juaj të shuhet pa kuptuar. Këtu keni disa citate që do t'ju ndihmojnë të qëndroni të motivuar dhe të nisni vitin tuaj të ri me një fillim fantastik!"},{"question":"Pse janë të rëndësishme kuriozitetet?","answer":"Kuriozitetet na ndihmojnë të zgjerojmë njohuritë tona, të kuptojmë botën më mirë dhe të zhvillojmë mendimin kritik. Ato shpesh zbulojnë fakte mahnitëse që ndryshojnë perspektivën tonë."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "399",
@@ -5213,7 +5611,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 2,
     "publishedAt": "2019-11-04",
-    "modifiedAt": "2019-11-04"
+    "modifiedAt": "2019-11-04",
+    "faqs": [{"question":"Çfarë dimë për prunus sargenti?","answer":"Kjo është një pemë mahnitëse për këtë vit. Për shkak të kombinimit të ngjyrave të kuqe, bronze dhe rozë ato duken sikur zjarr. Nje nga pemet e vjeshtes me te bukura."},{"question":"Acer Campestre — çfarë duhet ditur?","answer":"Nëse dëshironi një pemë native për ngjyrë të mirë vjeshte, Acer Campestre mbase është një nga më të mirat, me një ngjyrë të verdhë gjalpi. Kjo mund të jetë shumë e bukur për dekorim."},{"question":"Ku mund të mësoj më shumë rreth kësaj teme?","answer":"Përveç këtij artikulli, mund të lexoni artikuj të tjerë në FemraDD në kategorinë e Kurioziteteve. Gjithashtu, bibliotekat online dhe dokumentarët janë burime të shkëlqyera për të thelluar njohuritë."}]
   },
   {
     "id": "400",
@@ -5226,7 +5625,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2019-11-02",
-    "modifiedAt": "2019-11-02"
+    "modifiedAt": "2019-11-02",
+    "faqs": [{"question":"Kush është Veshje per vjeshte?","answer":"Veshje per vjeshte. Edhe pse ne nuk jemi një faqe mode, por ama disa këshilla se si të visheni me stil për sezonin e vjeshtës do t'jua japim."},{"question":"Çfarë kontributi ka dhënë Veshje per vjeshte?","answer":"Pasi të ndryshoni dollapin tuaj, për të sistemuar rrobat e vjeshtës dhe të dimrit. Ka ardhur momenti të sistemoni edhe stilin tuaj. Sekreti qëndron në krijimin e një liste me pjesët e duhura për të garantuar gjithnjë variatet, që të visheni në çdo ditë të këtij muaji me shije."},{"question":"Pse janë të rëndësishme historitë e grave shqiptare?","answer":"Historitë e grave shqiptare të suksesshme frymëzojnë brezat e rinj, sfidojnë stereotipat gjinore dhe tregojnë se me vendosmëri e punë të palodhur, çdo gjë është e mundshme. Ato përfaqësojnë modele pozitive për vajzat shqiptare kudo në botë."}]
   },
   {
     "id": "401",
@@ -5239,7 +5639,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2019-10-21",
-    "modifiedAt": "2019-10-21"
+    "modifiedAt": "2019-10-21",
+    "faqs": [{"question":"Çfarë dimë për halloweeni apo kthimi i shpirtrave?","answer":"Halloweeni konsiderohej gjithashtu koha kur shpirtrat e të vdekurve ktheheshin për të vizituar shtëpitë dhe familjet e tyre. Keltët shkonin rreth e përqark në shtëpi për të kërkuar dhurata të vogla në formën e ushqimit dhe ëmbëlsirave për të nderuar të vdekurit."},{"question":"Tradita e llampave të ndriçimit vazhdoi gjithashtu — çfarë duhet ditur?","answer":"Festa e Halloween, siç e njohim sot, daton në kohën kur dita përpara Festës së Shenjtorët u festua si një \"eva santa\". Ose \"prag i shenjtë\" prandaj mori emrin Halloween ose “Holy eve” në anglisht."},{"question":"Ku mund të gjej artikuj të tjerë të ngjashëm?","answer":"FemraDD ofron qindra artikuj në kategori të ndryshme. Shfletoni rubrikat tona ose përdorni funksionin e kërkimit për të gjetur artikuj që ju interesojnë."}]
   },
   {
     "id": "402",
@@ -5252,7 +5653,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2019-10-17",
-    "modifiedAt": "2019-10-17"
+    "modifiedAt": "2019-10-17",
+    "faqs": [{"question":"Çfarë dimë për sfidat ishin të shumta?","answer":"Ai iu bashkua një grupi komedianësh në kampusin Universitar. Megjithatë, shpesh performoi shumë dobët, për shkak të belbëzimit të tij. Pas disa dështimesh vazhdoi të këmbëngulte. Vendosi të provonte aktrimin."},{"question":"Si mund ta përmirësoj stilin tim të jetës?","answer":"Filloni me ndryshime të vogla por konsistente: ushqim i shëndetshëm, aktivitet fizik i rregullt, gjumë cilësor dhe kujdes për shëndetin mendor. Stilet e jetës më të mira ndërtohen hap pas hapi."},{"question":"Cilat janë trendet aktuale të lifestyle-it?","answer":"Trendet aktuale përfshijnë kujdesin ndaj mirëqenies mendore, modën e qëndrueshme, minimalizmin dhe jetesën e balancuar midis punës dhe jetës personale. Gjeni atë që funksionon për ju."}]
   },
   {
     "id": "403",
@@ -5265,7 +5667,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 4,
     "publishedAt": "2019-10-14",
-    "modifiedAt": "2019-10-14"
+    "modifiedAt": "2019-10-14",
+    "faqs": [{"question":"Kush është Sakrificat e nje detektivi privat?","answer":"Detektivi tregon sakrificat e tij. A vlen rrëfimi i një detektivi përsa i përket profesionit më të rrallë në Shqipëri? Në moshën 35 vjeçare, shumica i kanë sistemuar disa gjëra në jetën e tyre. Në këtë moshë askush nuk synon të nisë një shkollë tjerër apo të ndërrojë punën e tij."},{"question":"Çfarë kontributi ka dhënë Sakrificat e nje detektivi privat?","answer":"Prej katër vjetësh jam ndër të vetmit që e ushtroj si profesion. Një profesion që mund të funksionojë vetëm nëse zotëron një tipar kyç, DURIMIN. Nuk është aq ekzaltuese si punë siç përshkruhet në libra apo në filma. Nuk ke të bësh me misione të pamundura."},{"question":"Pse janë të rëndësishme historitë e grave shqiptare?","answer":"Historitë e grave shqiptare të suksesshme frymëzojnë brezat e rinj, sfidojnë stereotipat gjinore dhe tregojnë se me vendosmëri e punë të palodhur, çdo gjë është e mundshme. Ato përfaqësojnë modele pozitive për vajzat shqiptare kudo në botë."}]
   },
   {
     "id": "404",
@@ -5278,7 +5681,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2019-10-03",
-    "modifiedAt": "2019-10-03"
+    "modifiedAt": "2019-10-03",
+    "faqs": [{"question":"Çfarë ofron se shqypnia u rrudh e vogel?","answer":"Kishin Hyp Nji Rreze DilliAi Shen Pjetri e Ai Shen MhilliE Po Flisnin Per i Hall Te VjeterAi Shen Mhill Me Njat Shen Pjeter Se Shqypnia U Rrudh e VogelPer Shqyptart Sa Nji GogelLene T`shejt e Mos Ta ZgjasimZbresin N`toke Shqypnin e Masin"},{"question":"Si lidhet përmbajtja e poezise është kjo: me temën?","answer":"Shen Pjetri e Shen Mhilli pasi shohin nga lart se çpo bëjnë me ne Fuqitë e Mëdha, diskutojnë për ndarjen e territoreve të Shqipërisë. Ndaj, zbresin poshtë për ta matur vet, mirëpo u mbaron lëmshi në Qafë Pejë."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "405",
@@ -5291,7 +5695,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "arta-berisha",
     "readingTime": 3,
     "publishedAt": "2019-09-30",
-    "modifiedAt": "2019-09-30"
+    "modifiedAt": "2019-09-30",
+    "faqs": [{"question":"Çfarë ofron lidhem fortë me gjërat çfarëdo qofshin ato për shembull, një herë tjetër?","answer":"Duke qënë se jetoja në fshat, bënim kukulla prej kallami te njome. Se di nëse e keni parasysh, s’janë tamam kukulla, janë ca shkopinj me flokë prej fije kallami. Bëra një herë një të vogel, dhe pse praktikisht ishte e shemtuar mua më pëlqente shumë."},{"question":"Pse është i rëndësishëm argëtimi?","answer":"Argëtimi ndihmon në uljen e stresit, përmirëson humorin dhe forcon lidhjet shoqërore. Koha e lirë cilësore është thelbësore për shëndetin mendor dhe fizik."},{"question":"A ka artikuj të tjerë të ngjashëm në FemraDD?","answer":"Po! FemraDD ka qindra artikuj argëtues, kuriozitete, horoskope dhe shumë më tepër. Eksploroni kategoritë tona për të gjetur përmbajtje që ju përshtatet."}]
   },
   {
     "id": "406",
@@ -5304,7 +5709,8 @@ export const articles: ArticleMeta[] = [
     "authorSlug": "elira-hoxha",
     "readingTime": 3,
     "publishedAt": "2015-12-15",
-    "modifiedAt": "2015-12-15"
+    "modifiedAt": "2015-12-15",
+    "faqs": [{"question":"Kush është Modele flokesh per femra ne vitin 2022?","answer":"Modele flokesh per femra në vitin 2022 është gati këtu tani dhe ju sigurisht jeni shumë kurioz të dini trendet e reja per prerje flokësh."},{"question":"Çfarë kontributi ka dhënë Modele flokesh per femra ne vitin 2022?","answer":"Çdo vit ka ngjyrën e vet, apo jo? E pra, ngjyra e këtij viti është Marsala, por mos u bëni merak. Stili i flokeve është krejtësisht i ndryshme, kur është fjala për nuanca. Fakt është se vërtetë çdo fije floku ka hijet e veta gjithashtu."},{"question":"Pse janë të rëndësishme historitë e grave shqiptare?","answer":"Historitë e grave shqiptare të suksesshme frymëzojnë brezat e rinj, sfidojnë stereotipat gjinore dhe tregojnë se me vendosmëri e punë të palodhur, çdo gjë është e mundshme. Ato përfaqësojnë modele pozitive për vajzat shqiptare kudo në botë."}]
   }
 ];
 
