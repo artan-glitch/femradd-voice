@@ -29,18 +29,18 @@ export default function HeroArticle({ article }: Props) {
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
           />
         </div>
-        <div className="absolute inset-0 bg-gradient-to-t from-foreground/80 via-foreground/20 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
         <div className="absolute bottom-0 left-0 right-0 p-6 md:p-10 lg:p-14">
           <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[article.category]} inline-block mb-3`}>
             {article.categoryLabel}
           </span>
-          <h1 className="font-serif text-2xl md:text-4xl lg:text-5xl font-bold text-primary-foreground leading-tight mb-3 max-w-3xl">
+          <h1 className="font-serif text-2xl md:text-4xl lg:text-5xl font-bold text-white leading-tight mb-3 max-w-3xl drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
             {article.title}
           </h1>
-          <p className="text-sm md:text-base text-primary-foreground/80 max-w-2xl leading-relaxed hidden sm:block">
+          <p className="text-sm md:text-base text-white/90 max-w-2xl leading-relaxed hidden sm:block drop-shadow-[0_1px_2px_rgba(0,0,0,0.5)]">
             {article.excerpt}
           </p>
-          <div className="flex items-center gap-3 mt-4 text-primary-foreground/60 text-sm">
+          <div className="flex items-center gap-3 mt-4 text-white/70 text-sm drop-shadow-[0_1px_2px_rgba(0,0,0,0.5)]">
             <span>{article.author.name}</span>
             <span>·</span>
             <span>{article.readingTime} min lexim</span>
