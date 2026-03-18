@@ -85,7 +85,7 @@ export default function AuthorPage() {
         </FadeIn>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
           {articles.map((article, i) => (
-            <FadeIn key={article.id} delay={i * 100}>
+            <FadeIn key={article.id} delay={i * 100} className="h-full">
               <ArticleCard article={article} />
             </FadeIn>
           ))}

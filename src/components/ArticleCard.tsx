@@ -11,7 +11,7 @@ export default function ArticleCard({ article }: Props) {
   const author = resolveAuthor(article.authorSlug);
 
   return (
-    <article className="group flex flex-col bg-card rounded-xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1">
+    <article className="group flex flex-col h-full bg-card rounded-xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1">
       <Link to={`/artikull/${article.slug}`} className="block overflow-hidden aspect-[16/10]">
         <img
           src={article.image}

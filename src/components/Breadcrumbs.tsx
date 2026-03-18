@@ -8,9 +8,10 @@ interface Crumb {
 
 interface Props {
   items: Crumb[];
+  className?: string;
 }
 
-export default function Breadcrumbs({ items }: Props) {
+export default function Breadcrumbs({ items, className }: Props) {
   // Build current page URL from window.location for the last breadcrumb
   const currentPath = typeof window !== "undefined" ? window.location.pathname : "";
   const jsonLd = {
@@ -27,7 +28,7 @@ export default function Breadcrumbs({ items }: Props) {
   };
 
   return (
-    <nav aria-label="Breadcrumb" className="text-sm text-muted-foreground mb-4">
+    <nav aria-label="Breadcrumb" className={`text-sm text-muted-foreground mb-4 ${className || ""}`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <ol className="flex items-center flex-wrap gap-1">
         {items.map((crumb, i) => (
