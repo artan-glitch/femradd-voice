@@ -47,7 +47,7 @@ export default function ArticleCard({ article }: Props) {
             className="w-7 h-7 rounded-full object-cover"
           />
           <span className="text-xs font-medium text-muted-foreground">{author.name}</span>
-          <span className="text-xs text-muted-foreground/60 ml-auto">{formatDateAlbanian(article.publishedAt)}</span>
+          <time dateTime={article.publishedAt} className="text-xs text-muted-foreground/60 ml-auto">{formatDateAlbanian(article.publishedAt)}</time>
         </Link>
       </div>
     </article>

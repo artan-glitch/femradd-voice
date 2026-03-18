@@ -43,7 +43,6 @@ export default function Navbar() {
   return (
     <>
       <nav
-        role="navigation"
         aria-label="Navigimi kryesor"
         className={`sticky top-0 z-50 transition-all duration-300 ${
           scrolled

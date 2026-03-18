@@ -4,6 +4,21 @@ import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";
 
 export default function Terms() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "Kushtet e Përdorimit",
+    description: "Kushtet e përdorimit të faqes FemraDD — rregullat dhe kushtet për përdorimin e platformës sonë.",
+    url: "https://femradd.com/kushtet",
+    inLanguage: "sq",
+    dateModified: "2026-03-10",
+    publisher: {
+      "@type": "Organization",
+      name: "FemraDD",
+      url: "https://femradd.com",
+    },
+  };
+
   return (
     <main id="main-content">
       <PageHead
@@ -11,6 +26,7 @@ export default function Terms() {
         description="Kushtet e përdorimit të faqes FemraDD — rregullat dhe kushtet për përdorimin e platformës sonë."
         url="https://femradd.com/kushtet"
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       {/* Hero image */}
       <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">

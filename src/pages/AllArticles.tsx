@@ -34,6 +34,34 @@ export default function AllArticles() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, []);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Të gjitha artikujt",
+    description: `Lexo ${articles.length} artikuj nga FemraDD — revista online për gratë e reja shqiptare.`,
+    inLanguage: "sq",
+    url: "https://femradd.com/artikuj",
+    publisher: {
+      "@type": "Organization",
+      name: "FemraDD",
+      url: "https://femradd.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://femradd.com/favicon.svg",
+      },
+    },
+    mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: articles.length,
+      itemListElement: articles.slice(0, 20).map((a, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: a.title,
+        url: `https://femradd.com/artikull/${a.slug}`,
+      })),
+    },
+  };
+
   return (
     <main id="main-content">
       <PageHead
@@ -41,6 +69,7 @@ export default function AllArticles() {
         description={`Lexo ${articles.length} artikuj nga FemraDD — revista online për gratë e reja shqiptare.`}
         url="https://femradd.com/artikuj"
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <div className="container py-8 md:py-12">
         <Breadcrumbs

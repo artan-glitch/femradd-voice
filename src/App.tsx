@@ -42,7 +42,9 @@ const App = () => (
           Kalo te përmbajtja
         </a>
         <ScrollToTop />
-        <Navbar />
+        <header>
+          <Navbar />
+        </header>
         <ErrorBoundary>
           <Suspense fallback={<PageLoader />}>
             <Routes>

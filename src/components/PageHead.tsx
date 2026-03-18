@@ -42,19 +42,17 @@ export default function PageHead({ title, description, url, type = "website", im
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
-    if (image) {
-      setMeta("property", "og:image", image);
-      setMeta("property", "og:image:alt", imageAlt || title);
-    }
+    const ogImage = image || "https://femradd.com/og-image.png";
+    const ogImageAlt = imageAlt || title;
+    setMeta("property", "og:image", ogImage);
+    setMeta("property", "og:image:alt", ogImageAlt);
 
     // Twitter
-    setMeta("name", "twitter:card", image ? "summary_large_image" : "summary");
+    setMeta("name", "twitter:card", "summary_large_image");
     setMeta("name", "twitter:title", title);
     setMeta("name", "twitter:description", description);
-    if (image) {
-      setMeta("name", "twitter:image", image);
-      setMeta("name", "twitter:image:alt", imageAlt || title);
-    }
+    setMeta("name", "twitter:image", ogImage);
+    setMeta("name", "twitter:image:alt", ogImageAlt);
 
     return () => {
       document.title = "FemraDD — Zëri i Gruas Shqiptare";

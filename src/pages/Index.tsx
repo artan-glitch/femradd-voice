@@ -57,10 +57,7 @@ export default function Index() {
       "Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.",
     potentialAction: {
       "@type": "SearchAction",
-      target: {
-        "@type": "EntryPoint",
-        urlTemplate: "https://femradd.com/artikuj?q={search_term_string}",
-      },
+      target: "https://femradd.com/artikuj?q={search_term_string}",
       "query-input": "required name=search_term_string",
     },
     publisher: {
@@ -77,9 +74,9 @@ export default function Index() {
     url: "https://femradd.com",
     logo: {
       "@type": "ImageObject",
-      url: "https://femradd.com/og-image.png",
-      width: 1200,
-      height: 630,
+      url: "https://femradd.com/favicon.svg",
+      width: 512,
+      height: 512,
     },
     description:
       "Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim.",
@@ -100,7 +97,7 @@ export default function Index() {
   return (
     <main id="main-content">
       <PageHead
-        title="Ballina"
+        title="Revista për Gratë Shqiptare | Kulturë, Dashuri & Lifestyle"
         description="Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë."
         url="https://femradd.com"
       />

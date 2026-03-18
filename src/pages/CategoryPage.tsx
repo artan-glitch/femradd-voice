@@ -87,7 +87,7 @@ export default function CategoryPage() {
       url: "https://femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/og-image.png",
+        url: "https://femradd.com/favicon.svg",
       },
     },
     mainEntity: {

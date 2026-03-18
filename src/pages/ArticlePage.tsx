@@ -156,9 +156,9 @@ export default function ArticlePage() {
       url: "https://femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/og-image.png",
-        width: 1200,
-        height: 630,
+        url: "https://femradd.com/favicon.svg",
+        width: 512,
+        height: 512,
       },
     },
     isAccessibleForFree: true,
@@ -221,6 +221,8 @@ export default function ArticlePage() {
                 alt={article.title}
                 width={1200}
                 height={600}
+                fetchPriority="high"
+                decoding="async"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -246,14 +248,14 @@ export default function ArticlePage() {
                 <div>
                   <p className="text-sm font-semibold text-foreground">{author.name}</p>
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground mt-0.5">
-                    <span className="inline-flex items-center gap-1">
+                    <time dateTime={article.publishedAt} className="inline-flex items-center gap-1">
                       <Calendar className="w-3 h-3" />
                       {formatDateAlbanian(article.publishedAt)}
-                    </span>
-                    <span className="inline-flex items-center gap-1">
+                    </time>
+                    <time dateTime={article.modifiedAt} className="inline-flex items-center gap-1">
                       <RefreshCw className="w-3 h-3" />
                       Përditësuar {formatDateAlbanian(article.modifiedAt)}
-                    </span>
+                    </time>
                     <span>&middot; {article.readingTime} min lexim</span>
                   </div>
                 </div>

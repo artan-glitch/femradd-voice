@@ -4,6 +4,21 @@ import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";
 
 export default function Privacy() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "Politika e Privatësisë",
+    description: "Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja.",
+    url: "https://femradd.com/privatesia",
+    inLanguage: "sq",
+    dateModified: "2026-03-10",
+    publisher: {
+      "@type": "Organization",
+      name: "FemraDD",
+      url: "https://femradd.com",
+    },
+  };
+
   return (
     <main id="main-content">
       <PageHead
@@ -11,6 +26,7 @@ export default function Privacy() {
         description="Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja."
         url="https://femradd.com/privatesia"
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       {/* Hero image */}
       <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">
