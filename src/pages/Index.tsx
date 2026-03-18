@@ -5,6 +5,35 @@ import ArticleCard from "@/components/ArticleCard";
 import NewsletterForm from "@/components/NewsletterForm";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";
+import {
+  Sparkles,
+  HelpCircle,
+  PartyPopper,
+  TrendingUp,
+  Plane,
+  Heart,
+  BookOpen,
+  Tv,
+  CloudSun,
+  Gem,
+  Users,
+  Layers,
+} from "lucide-react";
+
+const categoryIcons: Record<string, React.ReactNode> = {
+  horoskopi: <Sparkles className="w-6 h-6" />,
+  kuriozitete: <HelpCircle className="w-6 h-6" />,
+  argetim: <PartyPopper className="w-6 h-6" />,
+  personale: <TrendingUp className="w-6 h-6" />,
+  udhetime: <Plane className="w-6 h-6" />,
+  lifestyle: <Gem className="w-6 h-6" />,
+  "grate-shqiptare": <Users className="w-6 h-6" />,
+  dashuri: <Heart className="w-6 h-6" />,
+  letersi: <BookOpen className="w-6 h-6" />,
+  "tv-shqip": <Tv className="w-6 h-6" />,
+  moti: <CloudSun className="w-6 h-6" />,
+  "te-ndryshme": <Layers className="w-6 h-6" />,
+};
 
 // Pick top categories to highlight on homepage (most articles, max 3)
 const highlightCategories = [...categories]
@@ -226,23 +255,46 @@ export default function Index() {
       {/* Browse all categories */}
       <section className="container pb-8 md:pb-12" aria-label="Kategoritë">
         <FadeIn>
-          <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
-            Eksploro sipas kategorisë
-          </h2>
+          <div className="text-center mb-10">
+            <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-2">
+              Eksploro sipas kategorisë
+            </h2>
+            <p className="text-muted-foreground text-sm md:text-base">
+              Gjej artikuj që të interesojnë në 12 rubrikat tona
+            </p>
+          </div>
         </FadeIn>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3 md:gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {categories.map((cat, i) => {
             const count = getArticlesByCategory(cat.slug).length;
+            // Extract bg color class for the icon circle
+            const bgColor = (categoryColors[cat.slug] || "bg-gray-600 text-white").split(" ")[0];
             return (
-              <FadeIn key={cat.slug} delay={i * 50}>
+              <FadeIn key={cat.slug} delay={i * 40}>
                 <Link
                   to={`/kategori/${cat.slug}`}
-                  className="group flex flex-col items-center gap-2 p-4 md:p-5 bg-card rounded-xl shadow-card hover:shadow-card-hover hover:-translate-y-1 transition-all duration-300 text-center"
+                  className="group relative flex items-start gap-4 p-5 bg-card rounded-2xl border border-border/50 hover:border-primary/30 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300 overflow-hidden"
                 >
-                  <span className={`text-xs font-medium px-3 py-1.5 rounded-full ${categoryColors[cat.slug] || "bg-gray-600 text-white"}`}>
-                    {cat.label}
-                  </span>
-                  <span className="text-xs text-muted-foreground">{count} artikuj</span>
+                  {/* Subtle gradient accent in top-right corner */}
+                  <div className={`absolute -top-8 -right-8 w-24 h-24 rounded-full ${bgColor} opacity-[0.07] group-hover:opacity-[0.12] transition-opacity duration-300`} />
+
+                  {/* Icon */}
+                  <div className={`shrink-0 w-11 h-11 rounded-xl ${bgColor} flex items-center justify-center text-white shadow-sm group-hover:scale-110 transition-transform duration-300`}>
+                    {categoryIcons[cat.slug] || <Layers className="w-6 h-6" />}
+                  </div>
+
+                  {/* Text */}
+                  <div className="min-w-0 flex-1">
+                    <h3 className="font-semibold text-foreground group-hover:text-primary transition-colors text-[15px] leading-tight mb-1">
+                      {cat.label}
+                    </h3>
+                    <p className="text-xs text-muted-foreground leading-snug line-clamp-2 mb-1.5">
+                      {cat.description}
+                    </p>
+                    <span className="text-[11px] font-medium text-muted-foreground/70">
+                      {count} artikuj
+                    </span>
+                  </div>
                 </Link>
               </FadeIn>
             );
