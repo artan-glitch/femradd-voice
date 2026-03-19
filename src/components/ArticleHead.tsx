@@ -10,9 +10,25 @@ interface Props {
   modifiedAt: string;
   author: string;
   section?: string;
+  lang?: string;
 }
 
-export default function ArticleHead({ title, description, image, imageAlt, url, publishedAt, modifiedAt, author, section }: Props) {
+function setOrCreateLink(rel: string, href: string, extra?: Record<string, string>): HTMLLinkElement {
+  const selector = extra
+    ? `link[rel="${rel}"][hreflang="${extra.hreflang}"]`
+    : `link[rel="${rel}"]:not([hreflang]):not([type])`;
+  let el = document.querySelector(selector) as HTMLLinkElement | null;
+  if (!el) {
+    el = document.createElement("link");
+    el.rel = rel;
+    if (extra) Object.entries(extra).forEach(([k, v]) => el!.setAttribute(k, v));
+    document.head.appendChild(el);
+  }
+  el.href = href;
+  return el;
+}
+
+export default function ArticleHead({ title, description, image, imageAlt, url, publishedAt, modifiedAt, author, section, lang = "sq" }: Props) {
   useEffect(() => {
     // Title
     document.title = `${title} — FemraDD`;
@@ -44,13 +60,17 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     }
     canonical.href = url;
 
+    // Hreflang — dynamic per page and language
+    const hreflangTag = setOrCreateLink("alternate", url, { hreflang: lang });
+    const hreflangDefault = setOrCreateLink("alternate", url, { hreflang: "x-default" });
+
     // Open Graph
     setMeta("property", "og:type", "article");
     setMeta("property", "og:title", title);
     setMeta("property", "og:description", description);
     setMeta("property", "og:image", absImage);
     setMeta("property", "og:image:width", "1200");
-    setMeta("property", "og:image:height", "600");
+    setMeta("property", "og:image:height", "630");
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
@@ -76,8 +96,11 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
 
     return () => {
       document.title = "FemraDD — Zëri i Gruas Shqiptare";
+      // Clean up hreflang tags
+      hreflangTag.remove();
+      hreflangDefault.remove();
     };
-  }, [title, description, image, imageAlt, url, publishedAt, modifiedAt, author, section]);
+  }, [title, description, image, imageAlt, url, publishedAt, modifiedAt, author, section, lang]);
 
   return null;
 }

@@ -32,6 +32,14 @@ jobs:
         env:
           GITHUB_PAGES: true
 
+      # Install Playwright and pre-render all routes for SEO
+      - run: npx playwright install chromium --with-deps
+
+      - run: node scripts/prerender.mjs
+
+      # Copy index.html to 404.html so SPA routing works on GitHub Pages
+      - run: cp dist/index.html dist/404.html
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

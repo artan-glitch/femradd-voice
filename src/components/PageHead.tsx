@@ -7,9 +7,25 @@ interface Props {
   type?: string;
   image?: string;
   imageAlt?: string;
+  lang?: string;
 }
 
-export default function PageHead({ title, description, url, type = "website", image, imageAlt }: Props) {
+function setOrCreateLink(rel: string, href: string, extra?: Record<string, string>): HTMLLinkElement {
+  const selector = extra
+    ? `link[rel="${rel}"][hreflang="${extra.hreflang}"]`
+    : `link[rel="${rel}"]:not([hreflang]):not([type])`;
+  let el = document.querySelector(selector) as HTMLLinkElement | null;
+  if (!el) {
+    el = document.createElement("link");
+    el.rel = rel;
+    if (extra) Object.entries(extra).forEach(([k, v]) => el!.setAttribute(k, v));
+    document.head.appendChild(el);
+  }
+  el.href = href;
+  return el;
+}
+
+export default function PageHead({ title, description, url, type = "website", image, imageAlt, lang = "sq" }: Props) {
   useEffect(() => {
     document.title = `${title} — FemraDD`;
 
@@ -35,6 +51,10 @@ export default function PageHead({ title, description, url, type = "website", im
     }
     canonical.href = url;
 
+    // Hreflang — dynamic per page
+    const hreflangSq = setOrCreateLink("alternate", url, { hreflang: lang });
+    const hreflangDefault = setOrCreateLink("alternate", url, { hreflang: "x-default" });
+
     // Open Graph
     setMeta("property", "og:type", type);
     setMeta("property", "og:title", title);
@@ -46,6 +66,8 @@ export default function PageHead({ title, description, url, type = "website", im
     const ogImageAlt = imageAlt || title;
     setMeta("property", "og:image", ogImage);
     setMeta("property", "og:image:alt", ogImageAlt);
+    setMeta("property", "og:image:width", "1200");
+    setMeta("property", "og:image:height", "630");
 
     // Twitter
     setMeta("name", "twitter:card", "summary_large_image");
@@ -56,8 +78,11 @@ export default function PageHead({ title, description, url, type = "website", im
 
     return () => {
       document.title = "FemraDD — Zëri i Gruas Shqiptare";
+      // Clean up hreflang tags
+      hreflangSq.remove();
+      hreflangDefault.remove();
     };
-  }, [title, description, url, type, image, imageAlt]);
+  }, [title, description, url, type, image, imageAlt, lang]);
 
   return null;
 }

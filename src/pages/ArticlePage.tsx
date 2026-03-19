@@ -137,7 +137,7 @@ export default function ArticlePage() {
     wordCount: article.readingTime * 200,
     speakable: {
       "@type": "SpeakableSpecification",
-      cssSelector: [".prose h1", ".prose h2", ".prose p:first-of-type"],
+      cssSelector: ["#main-content h1", ".prose h2", ".prose p:first-of-type"],
     },
     author: {
       "@type": "Person",
@@ -156,9 +156,9 @@ export default function ArticlePage() {
       url: "https://femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/favicon.svg",
-        width: 512,
-        height: 512,
+        url: "https://femradd.com/og-image.png",
+        width: 1200,
+        height: 630,
       },
     },
     isAccessibleForFree: true,
@@ -192,6 +192,7 @@ export default function ArticlePage() {
         modifiedAt={article.modifiedAt}
         author={author.name}
         section={article.categoryLabel}
+        lang={articleLang}
       />
       <ReadingProgressBar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} />

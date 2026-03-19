@@ -52,30 +52,28 @@ const authorSlugRe = /slug:\s*"([^"]*)"/g;
 const authorSlugs = [...authorsRaw.matchAll(authorSlugRe)].map((m) => m[1]);
 console.log(`Parsed ${authorSlugs.length} authors`);
 
-// Generate sitemap.xml
-function sitemapUrl(loc, lastmod, changefreq, priority) {
+// Generate sitemap.xml — only <loc> and <lastmod>, no changefreq/priority (ignored by Google)
+function sitemapUrl(loc, lastmod) {
   let xml = `  <url>\n    <loc>${loc}</loc>\n`;
   if (lastmod) xml += `    <lastmod>${lastmod}</lastmod>\n`;
-  if (changefreq) xml += `    <changefreq>${changefreq}</changefreq>\n`;
-  if (priority !== undefined) xml += `    <priority>${priority}</priority>\n`;
   xml += `  </url>`;
   return xml;
 }
 
 const urls = [];
-urls.push(sitemapUrl(`${SITE}/`, TODAY, "daily", 1.0));
-urls.push(sitemapUrl(`${SITE}/artikuj`, TODAY, "daily", 0.8));
+urls.push(sitemapUrl(`${SITE}/`, TODAY));
+urls.push(sitemapUrl(`${SITE}/artikuj`, TODAY));
 for (const p of ["rreth-nesh", "kontakt", "privatesia", "kushtet", "redaksia"]) {
-  urls.push(sitemapUrl(`${SITE}/${p}`, null, "monthly", 0.3));
+  urls.push(sitemapUrl(`${SITE}/${p}`));
 }
 for (const cat of categories) {
-  urls.push(sitemapUrl(`${SITE}/kategori/${cat.slug}`, TODAY, "weekly", 0.8));
+  urls.push(sitemapUrl(`${SITE}/kategori/${cat.slug}`, TODAY));
 }
 for (const slug of authorSlugs) {
-  urls.push(sitemapUrl(`${SITE}/autore/${slug}`, null, "monthly", 0.6));
+  urls.push(sitemapUrl(`${SITE}/autore/${slug}`));
 }
 for (const a of articles) {
-  urls.push(sitemapUrl(`${SITE}/artikull/${a.slug}`, a.modifiedAt || a.publishedAt, "monthly", 0.6));
+  urls.push(sitemapUrl(`${SITE}/artikull/${a.slug}`, a.modifiedAt || a.publishedAt));
 }
 
 const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`;

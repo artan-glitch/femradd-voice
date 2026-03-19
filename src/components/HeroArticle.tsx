@@ -24,8 +24,8 @@ export default function HeroArticle({ article }: Props) {
             ref={imgRef}
             src={article.image}
             alt={article.title}
-            width={1920}
-            height={823}
+            width={1600}
+            height={900}
             decoding="async"
             className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"
           />

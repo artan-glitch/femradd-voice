@@ -74,9 +74,9 @@ export default function Index() {
     url: "https://femradd.com",
     logo: {
       "@type": "ImageObject",
-      url: "https://femradd.com/favicon.svg",
-      width: 512,
-      height: 512,
+      url: "https://femradd.com/og-image.png",
+      width: 1200,
+      height: 630,
     },
     description:
       "Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim.",

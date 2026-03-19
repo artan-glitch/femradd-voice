@@ -70,7 +70,9 @@ export default function AllArticles() {
       url: "https://femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/favicon.svg",
+        url: "https://femradd.com/og-image.png",
+        width: 1200,
+        height: 630,
       },
     },
     mainEntity: {

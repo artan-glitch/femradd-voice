@@ -101,7 +101,9 @@ export default function CategoryPage() {
       url: "https://femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/favicon.svg",
+        url: "https://femradd.com/og-image.png",
+        width: 1200,
+        height: 630,
       },
     },
     mainEntity: {
@@ -186,7 +188,8 @@ export default function CategoryPage() {
                     <img
                       src={featured.image}
                       alt={featured.title}
-                      loading="lazy"
+                      fetchPriority="high"
+                      decoding="async"
                       width={800}
                       height={500}
                       className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"

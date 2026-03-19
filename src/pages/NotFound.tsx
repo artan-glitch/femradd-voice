@@ -4,8 +4,8 @@ import ArticleCard from "@/components/ArticleCard";
 import { Home, ArrowLeft } from "lucide-react";
 
 export default function NotFound() {
-  // Pick 3 random articles to suggest
-  const suggested = [...articles].sort(() => Math.random() - 0.5).slice(0, 3);
+  // Show 3 most recent articles as suggestions (deterministic for consistent Googlebot crawls)
+  const suggested = articles.slice(0, 3);
 
   return (
     <main id="main-content" className="min-h-[60vh]">
