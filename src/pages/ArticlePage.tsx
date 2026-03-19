@@ -223,7 +223,7 @@ export default function ArticlePage() {
                 height={600}
                 fetchPriority="high"
                 decoding="async"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-top"
               />
             </div>
             <Breadcrumbs

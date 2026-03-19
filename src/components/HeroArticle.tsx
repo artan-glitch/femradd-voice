@@ -27,7 +27,7 @@ export default function HeroArticle({ article }: Props) {
             width={1920}
             height={823}
             decoding="async"
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+            className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"
           />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />

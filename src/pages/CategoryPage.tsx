@@ -189,7 +189,7 @@ export default function CategoryPage() {
                       loading="lazy"
                       width={800}
                       height={500}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                      className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-700"
                     />
                   </div>
                   <div className="p-6 md:py-8 md:pr-8 flex flex-col justify-center">

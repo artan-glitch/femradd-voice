@@ -132,7 +132,7 @@ export default function SearchModal({ open, onClose }: Props) {
                         loading="lazy"
                         width={56}
                         height={40}
-                        className="w-14 h-10 rounded-lg object-cover shrink-0 mt-0.5"
+                        className="w-14 h-10 rounded-lg object-cover object-top shrink-0 mt-0.5"
                       />
                       <div className="min-w-0 flex-1">
                         <p className="text-sm font-semibold text-foreground line-clamp-1">

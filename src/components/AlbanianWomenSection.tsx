@@ -17,7 +17,7 @@ export default function AlbanianWomenSection() {
                   loading="lazy"
                   width={112}
                   height={112}
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top"
                 />
               </div>
               <div className="text-center">
