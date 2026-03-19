@@ -21,6 +21,9 @@ const DIST = resolve(__dirname, "..", "dist");
 const CONCURRENCY = 8;
 const PAGE_TIMEOUT = 15_000; // 15 seconds per page
 
+// Base path — matches Vite's `base` config (e.g. "/femradd-voice/" for GitHub Pages)
+const BASE_PATH = process.env.GITHUB_PAGES ? "/femradd-voice" : "";
+
 // MIME types for the static server
 const MIME = {
   ".html": "text/html",
@@ -41,12 +44,19 @@ const MIME = {
 
 /**
  * Start a simple static file server for the dist directory.
+ * When a base path is set, strips it before resolving files.
  * Returns { server, port, close() }.
  */
 function startServer() {
   return new Promise((res) => {
     const server = createServer((req, resp) => {
       let urlPath = req.url.split("?")[0];
+
+      // Strip base path prefix so file lookups work against dist/
+      if (BASE_PATH && urlPath.startsWith(BASE_PATH)) {
+        urlPath = urlPath.slice(BASE_PATH.length) || "/";
+      }
+
       // Try exact file, then index.html fallback (SPA)
       let filePath = join(DIST, urlPath);
       if (!extname(filePath)) {
@@ -107,7 +117,8 @@ async function prerenderRoute(browser, baseUrl, route) {
     };
   });
 
-  const url = `${baseUrl}${route}`;
+  // Navigate with base path prefix so React Router matches the route
+  const url = `${baseUrl}${BASE_PATH}${route}`;
   await page.goto(url, { waitUntil: "networkidle", timeout: PAGE_TIMEOUT });
 
   // Wait for page-specific content to render
@@ -142,7 +153,8 @@ async function prerenderRoute(browser, baseUrl, route) {
 
   await context.close();
 
-  // Determine output path
+  // Determine output path — always write to dist/ without base prefix
+  // (GitHub Pages maps /femradd-voice/ to the repo root = dist/)
   let outPath;
   if (route === "/") {
     outPath = join(DIST, "index.html");
@@ -201,6 +213,7 @@ async function main() {
   // Get all routes
   const routes = getAllRoutes();
   console.log(`  Found ${routes.length} routes to pre-render`);
+  if (BASE_PATH) console.log(`  Base path: ${BASE_PATH}`);
 
   // Start static server
   const { port, close } = await startServer();

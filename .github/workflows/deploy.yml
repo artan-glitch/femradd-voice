@@ -36,6 +36,8 @@ jobs:
       - run: npx playwright install chromium --with-deps
 
       - run: node scripts/prerender.mjs
+        env:
+          GITHUB_PAGES: true
 
       # Copy index.html to 404.html so SPA routing works on GitHub Pages
       - run: cp dist/index.html dist/404.html
