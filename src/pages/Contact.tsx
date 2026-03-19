@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from "react";
 import { Send, CheckCircle, Mail, Users, Megaphone } from "lucide-react";
-import heroImg from "@/assets/hero-contact.jpg";
+import heroImg from "@/assets/hero-contact.webp";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";

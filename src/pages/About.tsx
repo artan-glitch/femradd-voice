@@ -1,5 +1,5 @@
-import heroImg from "@/assets/hero-about.jpg";
-import cultureImg from "@/assets/article-culture.jpg";
+import heroImg from "@/assets/hero-about.webp";
+import cultureImg from "@/assets/article-culture.webp";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";

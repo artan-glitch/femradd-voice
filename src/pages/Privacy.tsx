@@ -1,4 +1,4 @@
-import heroImg from "@/assets/hero-privacy.jpg";
+import heroImg from "@/assets/hero-privacy.webp";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";

@@ -1,6 +1,6 @@
-import profile1 from "@/assets/profile-1.jpg";
-import profile2 from "@/assets/profile-2.jpg";
-import profile3 from "@/assets/profile-3.jpg";
+import profile1 from "@/assets/profile-1.webp";
+import profile2 from "@/assets/profile-2.webp";
+import profile3 from "@/assets/profile-3.webp";
 
 export interface AuthorSocial {
   platform: "instagram" | "twitter" | "linkedin" | "facebook";

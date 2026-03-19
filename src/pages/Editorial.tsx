@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { authors, getArticlesByAuthor } from "@/data/articles";
-import heroImg from "@/assets/hero-editorial.jpg";
+import heroImg from "@/assets/hero-editorial.webp";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";

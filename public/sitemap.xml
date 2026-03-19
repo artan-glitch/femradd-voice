@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://femradd.com/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://femradd.com/artikuj</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -39,73 +39,73 @@
   </url>
   <url>
     <loc>https://femradd.com/kategori/horoskopi</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/kuriozitete</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/argetim</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/personale</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/udhetime</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/lifestyle</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/grate-shqiptare</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/dashuri</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/letersi</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/tv-shqip</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/moti</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://femradd.com/kategori/te-ndryshme</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -121,12 +121,6 @@
   </url>
   <url>
     <loc>https://femradd.com/autore/drenushe-krasniqi</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://femradd.com/artikull/cdata</loc>
-    <lastmod>2025-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -1,5 +1,4 @@
-import { useState } from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, useSearchParams, Link } from "react-router-dom";
 import { getArticlesByCategory, categories, categoryColors, getCategoryConfig, resolveAuthor } from "@/data/articles";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ArticleCard from "@/components/ArticleCard";
@@ -42,9 +41,11 @@ const ARTICLES_PER_PAGE = 9;
 
 export default function CategoryPage() {
   const { slug } = useParams<{ slug: string }>();
+  const [searchParams, setSearchParams] = useSearchParams();
   const category = slug || "";
   const config = getCategoryConfig(category);
-  const [page, setPage] = useState(1);
+
+  const page = Math.max(1, parseInt(searchParams.get("faqe") || "1", 10) || 1);
 
   if (!config) return <NotFound />;
 
@@ -61,15 +62,28 @@ export default function CategoryPage() {
     .slice(0, 5);
 
   const totalPages = Math.ceil(rest.length / ARTICLES_PER_PAGE);
+  const safePage = Math.min(page, Math.max(1, totalPages));
+
   const paginatedArticles = rest.slice(
-    (page - 1) * ARTICLES_PER_PAGE,
-    page * ARTICLES_PER_PAGE
+    (safePage - 1) * ARTICLES_PER_PAGE,
+    safePage * ARTICLES_PER_PAGE
   );
 
   const handlePageChange = (newPage: number) => {
-    setPage(newPage);
+    const params = new URLSearchParams(searchParams);
+    if (newPage <= 1) {
+      params.delete("faqe");
+    } else {
+      params.set("faqe", String(newPage));
+    }
+    setSearchParams(params, { replace: false });
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
+
+  // Build canonical URL
+  const canonicalUrl = safePage > 1
+    ? `https://femradd.com/kategori/${category}?faqe=${safePage}`
+    : `https://femradd.com/kategori/${category}`;
 
   // Extract just the bg color class from the colorClass (e.g. "bg-purple-600 text-white" → "bg-purple-600")
   const bgColor = (config.colorClass || "bg-gray-600 text-white").split(" ")[0];
@@ -77,10 +91,10 @@ export default function CategoryPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: label,
+    name: safePage > 1 ? `${label} — Faqja ${safePage}` : label,
     description: description || `Artikuj rreth ${label} në FemraDD`,
     inLanguage: "sq",
-    url: `https://femradd.com/kategori/${category}`,
+    url: canonicalUrl,
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
@@ -105,9 +119,9 @@ export default function CategoryPage() {
   return (
     <main id="main-content">
       <PageHead
-        title={label}
+        title={safePage > 1 ? `${label} — Faqja ${safePage}` : label}
         description={description || `Artikuj rreth ${label} në FemraDD — revista online për gratë e reja shqiptare.`}
-        url={`https://femradd.com/kategori/${category}`}
+        url={canonicalUrl}
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
@@ -216,7 +230,7 @@ export default function CategoryPage() {
               <FadeIn>
                 <div className="flex items-center justify-between mb-6">
                   <h2 className="text-xl md:text-2xl font-bold text-foreground">
-                    {page === 1 ? "Të gjitha artikujt" : `Faqja ${page} nga ${totalPages}`}
+                    {safePage === 1 ? "Të gjitha artikujt" : `Faqja ${safePage} nga ${totalPages}`}
                   </h2>
                   {totalPages > 1 && (
                     <span className="text-sm text-muted-foreground">
@@ -239,7 +253,7 @@ export default function CategoryPage() {
             )}
 
             <Pagination
-              currentPage={page}
+              currentPage={safePage}
               totalPages={totalPages}
               onPageChange={handlePageChange}
             />

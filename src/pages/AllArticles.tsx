@@ -1,4 +1,5 @@
-import { useState, useCallback } from "react";
+import { useMemo } from "react";
+import { useSearchParams } from "react-router-dom";
 import { articles, categories, categoryColors, getArticlesByCategory } from "@/data/articles";
 import type { ArticleMeta } from "@/data/articles";
 import Breadcrumbs from "@/components/Breadcrumbs";
@@ -10,37 +11,59 @@ import FadeIn from "@/components/FadeIn";
 const ARTICLES_PER_PAGE = 12;
 
 export default function AllArticles() {
-  const [activeCategory, setActiveCategory] = useState<string>("te-gjitha");
-  const [page, setPage] = useState(1);
+  const [searchParams, setSearchParams] = useSearchParams();
 
-  const filteredArticles: ArticleMeta[] =
-    activeCategory === "te-gjitha"
-      ? articles
-      : getArticlesByCategory(activeCategory);
+  const activeCategory = searchParams.get("kategori") || "te-gjitha";
+  const page = Math.max(1, parseInt(searchParams.get("faqe") || "1", 10) || 1);
 
-  const totalPages = Math.ceil(filteredArticles.length / ARTICLES_PER_PAGE);
-  const paginatedArticles = filteredArticles.slice(
-    (page - 1) * ARTICLES_PER_PAGE,
-    page * ARTICLES_PER_PAGE
+  const filteredArticles: ArticleMeta[] = useMemo(
+    () =>
+      activeCategory === "te-gjitha"
+        ? articles
+        : getArticlesByCategory(activeCategory),
+    [activeCategory]
   );
 
-  const handleCategoryChange = useCallback((slug: string) => {
-    setActiveCategory(slug);
-    setPage(1);
-  }, []);
+  const totalPages = Math.ceil(filteredArticles.length / ARTICLES_PER_PAGE);
+  const safePage = Math.min(page, Math.max(1, totalPages));
 
-  const handlePageChange = useCallback((newPage: number) => {
-    setPage(newPage);
+  const paginatedArticles = filteredArticles.slice(
+    (safePage - 1) * ARTICLES_PER_PAGE,
+    safePage * ARTICLES_PER_PAGE
+  );
+
+  const handleCategoryChange = (slug: string) => {
+    const params = new URLSearchParams();
+    if (slug !== "te-gjitha") params.set("kategori", slug);
+    // Reset to page 1 on category change
+    setSearchParams(params, { replace: true });
+  };
+
+  const handlePageChange = (newPage: number) => {
+    const params = new URLSearchParams(searchParams);
+    if (newPage <= 1) {
+      params.delete("faqe");
+    } else {
+      params.set("faqe", String(newPage));
+    }
+    setSearchParams(params, { replace: false });
     window.scrollTo({ top: 0, behavior: "smooth" });
-  }, []);
+  };
+
+  // Build canonical URL
+  const urlParams = new URLSearchParams();
+  if (activeCategory !== "te-gjitha") urlParams.set("kategori", activeCategory);
+  if (safePage > 1) urlParams.set("faqe", String(safePage));
+  const queryString = urlParams.toString();
+  const canonicalUrl = `https://femradd.com/artikuj${queryString ? `?${queryString}` : ""}`;
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: "Të gjitha artikujt",
+    name: safePage > 1 ? `Të gjitha artikujt — Faqja ${safePage}` : "Të gjitha artikujt",
     description: `Lexo ${articles.length} artikuj nga FemraDD — revista online për gratë e reja shqiptare.`,
     inLanguage: "sq",
-    url: "https://femradd.com/artikuj",
+    url: canonicalUrl,
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
@@ -52,10 +75,10 @@ export default function AllArticles() {
     },
     mainEntity: {
       "@type": "ItemList",
-      numberOfItems: articles.length,
-      itemListElement: articles.slice(0, 20).map((a, i) => ({
+      numberOfItems: filteredArticles.length,
+      itemListElement: paginatedArticles.map((a, i) => ({
         "@type": "ListItem",
-        position: i + 1,
+        position: (safePage - 1) * ARTICLES_PER_PAGE + i + 1,
         name: a.title,
         url: `https://femradd.com/artikull/${a.slug}`,
       })),
@@ -65,9 +88,9 @@ export default function AllArticles() {
   return (
     <main id="main-content">
       <PageHead
-        title="Të gjitha artikujt"
+        title={safePage > 1 ? `Të gjitha artikujt — Faqja ${safePage}` : "Të gjitha artikujt"}
         description={`Lexo ${articles.length} artikuj nga FemraDD — revista online për gratë e reja shqiptare.`}
-        url="https://femradd.com/artikuj"
+        url={canonicalUrl}
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
@@ -137,7 +160,7 @@ export default function AllArticles() {
         )}
 
         <Pagination
-          currentPage={page}
+          currentPage={safePage}
           totalPages={totalPages}
           onPageChange={handlePageChange}
         />
