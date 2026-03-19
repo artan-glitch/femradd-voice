@@ -5,6 +5,14 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
+/** Prepend Vite's base path to an absolute path (e.g. "/images/foo.webp"). */
+export function withBase(path: string): string {
+  const base = import.meta.env.BASE_URL || "/";
+  if (!path.startsWith("/")) return path;
+  // Avoid double slashes: base is "/" locally, "/femradd-voice/" on GH Pages
+  return base === "/" ? path : `${base}${path.slice(1)}`;
+}
+
 const ALBANIAN_MONTHS = [
   "Janar", "Shkurt", "Mars", "Prill", "Maj", "Qershor",
   "Korrik", "Gusht", "Shtator", "Tetor", "Nëntor", "Dhjetor",
