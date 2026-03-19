@@ -37,7 +37,7 @@ const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <a href="#main-content" className="skip-to-content">
           Kalo te përmbajtja
         </a>
