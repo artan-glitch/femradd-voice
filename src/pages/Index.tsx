@@ -117,6 +117,26 @@ export default function Index() {
         </FadeIn>
       </section>
 
+      {/* About FemraDD intro */}
+      <section className="container pb-8 md:pb-12" aria-label="Rreth FemraDD">
+        <FadeIn>
+          <div className="max-w-3xl">
+            <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
+              Mirë se vini në FemraDD
+            </h2>
+            <p className="text-muted-foreground leading-relaxed mb-3">
+              FemraDD është revista online e parë kushtuar grave të reja shqiptare. Çdo ditë sjellim artikuj origjinalë për kulturën, dashurinë, stilin e jetesës, argëtimin dhe zhvillimin personal — të shkruara nga autorë të specializuara që kuptojnë botën e gruas shqiptare.
+            </p>
+            <p className="text-muted-foreground leading-relaxed mb-3">
+              Nga historitë frymëzuese të grave shqiptare që po ndryshojnë botën, deri te këshillat praktike për marrëdhëniet, karrierën dhe mirëqenien — FemraDD është hapësira ku çdo grua gjen veten. Ne besojmë se informacioni cilësor në gjuhën shqipe është e drejtë themelore, jo privilegj.
+            </p>
+            <p className="text-muted-foreground leading-relaxed">
+              Me mbi 600 artikuj në 12 kategori të ndryshme, FemraDD mbulon tema nga horoskopi ditor deri te letërsia shqiptare, nga udhëtimet deri te psikologjia e dashurisë. Bashkohu me mijëra lexuese që na besojnë çdo ditë.
+            </p>
+          </div>
+        </FadeIn>
+      </section>
+
       {/* Latest articles */}
       <section className="container pb-8 md:pb-12" aria-label="Artikujt e fundit">
         <FadeIn>

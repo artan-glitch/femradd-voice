@@ -1,12 +1,11 @@
 import { Link } from "react-router-dom";
 import Logo from "@/components/Logo";
-import { Instagram, Facebook, Youtube } from "lucide-react";
+import { Instagram, Facebook } from "lucide-react";
 import { categories } from "@/data/articles";
 
 const socialLinks = [
   { label: "Instagram", href: "https://instagram.com/femradd", icon: Instagram },
   { label: "Facebook", href: "https://facebook.com/femradd", icon: Facebook },
-  { label: "YouTube", href: "https://youtube.com/@femradd", icon: Youtube },
 ];
 
 export default function Footer() {

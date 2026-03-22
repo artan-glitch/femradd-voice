@@ -164,6 +164,15 @@
   color: hsl(var(--foreground)) !important;
 }
 
+/* Prevent CLS from article images without explicit dimensions */
+.prose img {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0.75rem;
+}
+
 /* Article lede — first paragraph stands out */
 .prose > p:first-of-type {
   font-size: 1.25rem;
