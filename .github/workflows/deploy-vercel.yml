@@ -38,8 +38,33 @@ jobs:
       - run: npx playwright install chromium --with-deps
       - run: node scripts/prerender.mjs
 
-      # Build Vercel output from pre-rendered dist
-      - run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+      # Create Vercel output structure with pre-rendered files
+      - name: Prepare Vercel output
+        run: |
+          mkdir -p .vercel/output/static
+          cp -r dist/* .vercel/output/static/
+          cat > .vercel/output/config.json << 'CONF'
+          {
+            "version": 3,
+            "headers": [
+              {
+                "source": "/(.*)",
+                "headers": [
+                  { "key": "X-Frame-Options", "value": "DENY" },
+                  { "key": "X-Content-Type-Options", "value": "nosniff" },
+                  { "key": "X-XSS-Protection", "value": "1; mode=block" },
+                  { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+                  { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), interest-cohort=()" },
+                  { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://plausible.io https://www.clarity.ms; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data:; connect-src 'self' https://www.google-analytics.com https://plausible.io https://www.clarity.ms" }
+                ]
+              }
+            ],
+            "rewrites": [
+              { "source": "/((?!assets|images|favicon|manifest|robots|sitemap|rss|og-image|apple-touch-icon|llms).*)", "destination": "/index.html" }
+            ]
+          }
+          CONF
+          sed -i 's/^[[:space:]]*//' .vercel/output/config.json
 
-      # Deploy to Vercel
+      # Deploy pre-built output to Vercel
       - run: vercel deploy --prebuilt --prod --token=${{ secrets.VERCEL_TOKEN }}
