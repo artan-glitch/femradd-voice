@@ -123,7 +123,7 @@ export default function Index() {
           <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
             {/* Text column */}
             <div className="flex-1 min-w-0">
-              <h2 className="text-2xl md:text-3xl font-bold text-red-500 mb-4">
+              <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
                 Mirë se vini në FemraDD
               </h2>
               <p className="text-lg text-foreground leading-relaxed mb-4">
