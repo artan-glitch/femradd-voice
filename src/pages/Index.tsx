@@ -120,19 +120,40 @@ export default function Index() {
       {/* About FemraDD intro */}
       <section className="container pb-8 md:pb-12" aria-label="Rreth FemraDD">
         <FadeIn>
-          <div className="max-w-3xl">
-            <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
-              Mirë se vini në FemraDD
-            </h2>
-            <p className="text-muted-foreground leading-relaxed mb-3">
-              FemraDD është revista online e parë kushtuar grave të reja shqiptare. Çdo ditë sjellim artikuj origjinalë për kulturën, dashurinë, stilin e jetesës, argëtimin dhe zhvillimin personal — të shkruara nga autorë të specializuara që kuptojnë botën e gruas shqiptare.
-            </p>
-            <p className="text-muted-foreground leading-relaxed mb-3">
-              Nga historitë frymëzuese të grave shqiptare që po ndryshojnë botën, deri te këshillat praktike për marrëdhëniet, karrierën dhe mirëqenien — FemraDD është hapësira ku çdo grua gjen veten. Ne besojmë se informacioni cilësor në gjuhën shqipe është e drejtë themelore, jo privilegj.
-            </p>
-            <p className="text-muted-foreground leading-relaxed">
-              Me mbi 600 artikuj në 12 kategori të ndryshme, FemraDD mbulon tema nga horoskopi ditor deri te letërsia shqiptare, nga udhëtimet deri te psikologjia e dashurisë. Bashkohu me mijëra lexuese që na besojnë çdo ditë.
-            </p>
+          <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center">
+            {/* Text column */}
+            <div className="flex-1 min-w-0">
+              <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
+                Mirë se vini në FemraDD
+              </h2>
+              <p className="text-lg text-foreground leading-relaxed mb-4">
+                FemraDD është revista online e parë kushtuar grave të reja shqiptare. Çdo ditë sjellim artikuj origjinalë për kulturën, dashurinë, stilin e jetesës, argëtimin dhe zhvillimin personal.
+              </p>
+              <p className="text-muted-foreground leading-relaxed mb-5">
+                Nga historitë frymëzuese të grave shqiptare që po ndryshojnë botën, deri te këshillat praktike për marrëdhëniet, karrierën dhe mirëqenien — FemraDD është hapësira ku çdo grua gjen veten.
+              </p>
+              <Link
+                to="/rreth-nesh"
+                className="inline-flex items-center gap-1 text-sm font-medium text-primary hover:underline"
+              >
+                Lexo më shumë rreth nesh →
+              </Link>
+            </div>
+            {/* Stats column */}
+            <div className="flex md:flex-col gap-4 shrink-0">
+              <div className="flex-1 md:w-40 rounded-xl border border-border bg-card p-5 text-center">
+                <div className="text-3xl font-bold text-primary">600+</div>
+                <div className="text-sm text-muted-foreground mt-1">Artikuj</div>
+              </div>
+              <div className="flex-1 md:w-40 rounded-xl border border-border bg-card p-5 text-center">
+                <div className="text-3xl font-bold text-primary">12</div>
+                <div className="text-sm text-muted-foreground mt-1">Kategori</div>
+              </div>
+              <div className="flex-1 md:w-40 rounded-xl border border-border bg-card p-5 text-center">
+                <div className="text-3xl font-bold text-primary">1000+</div>
+                <div className="text-sm text-muted-foreground mt-1">Lexuese</div>
+              </div>
+            </div>
           </div>
         </FadeIn>
       </section>
