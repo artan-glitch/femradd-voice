@@ -87,7 +87,7 @@ export default function ArticlePage() {
   if (!article) return <NotFound />;
 
   const author = resolveAuthor(article.authorSlug);
-  const related = getRelatedArticles(article.id, 3);
+  const related = getRelatedArticles(article.id, 6);
   const pageUrl = `https://femradd.com/artikull/${article.slug}`;
 
   // Detect English articles by checking if the title has mostly ASCII letters
@@ -320,9 +320,17 @@ export default function ArticlePage() {
 
       {/* Related articles */}
       <section className="container pb-12 md:pb-16" aria-label="Lexo gjithashtu">
-        <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-8">
-          Lexo Gjithashtu
-        </h2>
+        <div className="flex items-center justify-between mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-foreground">
+            Lexo Gjithashtu
+          </h2>
+          <Link
+            to={`/kategori/${article.category}`}
+            className="text-sm font-medium text-primary hover:underline"
+          >
+            Më shumë nga {article.categoryLabel} &rarr;
+          </Link>
+        </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
           {related.map((a) => (
             <ArticleCard key={a.id} article={a} />

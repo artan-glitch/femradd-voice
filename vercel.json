@@ -1,5 +1,7 @@
 {
   "buildCommand": "node scripts/generate-seo.mjs && vite build",
+  "outputDirectory": "dist",
+  "framework": "vite",
   "headers": [
     {
       "source": "/(.*)",
