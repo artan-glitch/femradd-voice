@@ -1,4 +1,5 @@
 {
+  "buildCommand": "node scripts/generate-seo.mjs && vite build && npx playwright install chromium --with-deps && node scripts/prerender.mjs",
   "headers": [
     {
       "source": "/(.*)",
