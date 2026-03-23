@@ -40,6 +40,8 @@ jobs:
           RewriteCond %{REQUEST_FILENAME} !-d
           RewriteRule ^ index.html [L]
           EOF
+          # Remove leading whitespace from .htaccess
+          sed -i 's/^[[:space:]]*//' dist/.htaccess
 
       # Deploy to Hostpoint via FTP
       - name: FTP Deploy
