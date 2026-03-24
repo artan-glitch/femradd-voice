@@ -126,12 +126,29 @@ function relatedArticlesHtml(currentSlug, category, maxItems = 6) {
 
   if (related.length === 0) return "";
 
-  return `<section aria-label="Artikuj të ngjashëm">
+  let html = `<section aria-label="Artikuj të ngjashëm">
   <h2>Artikuj të ngjashëm</h2>
   <ul>
     ${related.map(a => `<li><a href="/artikull/${a.slug}">${escapeHtml(a.title)}</a></li>`).join("\n    ")}
   </ul>
 </section>`;
+
+  // For horoscope and moti categories, link to ALL articles in category to fix orphan pages
+  if (category === "horoskopi" || category === "moti") {
+    const allInCategory = (articlesByCategory[category] || [])
+      .filter(a => a.slug !== currentSlug && a.slug && !related.some(r => r.slug === a.slug));
+    if (allInCategory.length > 0) {
+      const sectionLabel = category === "horoskopi" ? "Më shumë horoskopin" : "Moti në qytete të tjera";
+      html += `\n<section aria-label="${sectionLabel}">
+  <h2>${sectionLabel}</h2>
+  <ul>
+    ${allInCategory.map(a => `<li><a href="/artikull/${a.slug}">${escapeHtml(a.title)}</a></li>`).join("\n    ")}
+  </ul>
+</section>`;
+    }
+  }
+
+  return html;
 }
 
 // Footer HTML with links
@@ -213,6 +230,21 @@ function injectMeta(html, { title, description, url, image, type = "website", au
   );
 
   return result;
+}
+
+// Fix hreflang specifically for English articles
+function fixEnglishHreflang(html, articleUrl) {
+  // Remove the sq hreflang (English articles should not claim to be Albanian)
+  html = html.replace(
+    /<link rel="alternate" hreflang="sq" href="[^"]*"\s*\/?>/,
+    `<link rel="alternate" hreflang="en" href="${articleUrl}"/>`
+  );
+  // Set x-default to Albanian homepage (not the English article itself)
+  html = html.replace(
+    /<link rel="alternate" hreflang="x-default" href="[^"]*"\s*\/?>/,
+    `<link rel="alternate" hreflang="x-default" href="${SITE}/"/>`
+  );
+  return html;
 }
 
 // ── Body content injection ──────────────────────────────────────────
@@ -301,10 +333,10 @@ function generateArticlePage(article) {
     `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>\n</head>`
   );
 
-  // Fix html lang for English articles
+  // Fix html lang and hreflang for English articles
   if (isEnglish) {
     html = html.replace('<html lang="sq">', '<html lang="en">');
-    html = html.replace(/hreflang="sq"/g, 'hreflang="en"');
+    html = fixEnglishHreflang(html, `${SITE}/artikull/${article.slug}`);
   }
 
   return injectBody(html, body);
@@ -318,7 +350,7 @@ function generateCategoryPage(cat) {
   body += `\n<h1>${escapeHtml(cat.label)}</h1>`;
   body += `\n<p>${escapeHtml(cat.description || `Artikuj në kategorinë ${cat.label}`)}</p>`;
   body += `\n<ul>`;
-  for (const a of catArticles.slice(0, 50)) {
+  for (const a of catArticles) {
     body += `\n  <li><a href="/artikull/${a.slug}">${escapeHtml(a.title)}</a></li>`;
   }
   body += `\n</ul>`;
@@ -437,12 +469,12 @@ try {
 
 // Static pages
 const staticPages = [
-  { route: "/artikuj", title: "Të Gjitha Artikujt", desc: "Shfleto të gjitha artikujt e FemraDD — kulturë, dashuri, lifestyle dhe argëtim për gratë shqiptare.", body: `\n<p>Shfleto mbi 600 artikuj në 12 kategori të ndryshme.</p>\n<ul>${articles.slice(0, 100).map(a => `<li><a href="/artikull/${a.slug}">${escapeHtml(a.title)}</a></li>`).join("\n")}</ul>` },
-  { route: "/rreth-nesh", title: "Rreth Nesh", desc: "Mëso më shumë rreth FemraDD, revistës online për gratë e reja shqiptare.", body: `\n<p>FemraDD është revista online e parë kushtuar grave të reja shqiptare.</p>\n<a href="/kontakt">Na kontaktoni</a>` },
-  { route: "/kontakt", title: "Kontakt", desc: "Na kontaktoni për bashkëpunime, sugjerime ose pyetje.", body: `\n<p>Na kontaktoni në info@femradd.com për çdo pyetje apo sugjerim.</p>\n<a href="/rreth-nesh">Rreth Nesh</a>` },
-  { route: "/privatesia", title: "Politika e Privatësisë", desc: "Politika e privatësisë së FemraDD — si i mbrojmë të dhënat tuaja.", body: `\n<p>Privatësia juaj është e rëndësishme për ne.</p>\n<a href="/kushtet">Kushtet e Përdorimit</a>` },
-  { route: "/kushtet", title: "Kushtet e Përdorimit", desc: "Kushtet e përdorimit të faqes FemraDD — rregullat për përdoruesit.", body: `\n<p>Duke përdorur faqen FemraDD, ju pranoni këto kushte.</p>\n<a href="/privatesia">Politika e Privatësisë</a>` },
-  { route: "/redaksia", title: "Redaksia", desc: "Njohuni me ekipin e redaksisë së FemraDD — autoret dhe redaktoret.", body: `\n<ul>${authors.map(a => `<li><a href="/autore/${a.slug}">${escapeHtml(a.name)}</a></li>`).join("\n")}</ul>` },
+  { route: "/artikuj", title: "Të Gjitha Artikujt", desc: "Shfleto mbi 600 artikuj në FemraDD — kulturë, dashuri, horoskop, lifestyle dhe argëtim. Revista online e parë kushtuar grave të reja shqiptare me përmbajtje origjinale çdo ditë.", body: `\n<p>Shfleto mbi 600 artikuj në 12 kategori të ndryshme — nga horoskopi ditor tek zhvillimi personal, dashuria, lifestyle dhe argëtimi.</p>\n<ul>${articles.slice(0, 100).map(a => `<li><a href="/artikull/${a.slug}">${escapeHtml(a.title)}</a></li>`).join("\n")}</ul>` },
+  { route: "/rreth-nesh", title: "Rreth Nesh", desc: "Mëso më shumë rreth FemraDD, revistës online kushtuar grave të reja shqiptare. Misioni, vlerat dhe historia e platformës që frymëzon gratë shqiptare çdo ditë.", body: `\n<p>FemraDD është revista online e parë kushtuar grave të reja shqiptare. Ne besojmë se çdo grua meriton një hapësirë ku mund të gjejë frymëzim, informacion dhe argëtim. Misioni ynë është të krijojmë përmbajtje cilësore që pasqyron jetën, sfidat dhe sukseset e grave shqiptare kudo në botë.</p>\n<a href="/kontakt">Na kontaktoni</a>\n<a href="/redaksia">Njihuni me ekipin tonë</a>` },
+  { route: "/kontakt", title: "Kontakt", desc: "Na kontaktoni për bashkëpunime, sugjerime ose pyetje. Ekipi i FemraDD ju përgjigjet brenda 24 orëve — dërgoni mesazhin tuaj përmes formularit tonë.", body: `\n<p>Keni një pyetje, sugjerim, ose dëshironi të bashkëpunoni me ne? Na shkruani dhe do t'ju përgjigjemi brenda 24-48 orëve. Ekipi i FemraDD është gjithmonë i gatshëm t'ju ndihmojë.</p>\n<h2>Pyetje të përgjithshme</h2>\n<p>Për çdo pyetje rreth artikujve, kategorive ose përmbajtjes tonë, na shkruani përmes formularit. Përgjigje brenda 24-48 orëve.</p>\n<h2>Bashkëpunime editoriale</h2>\n<p>Jeni gazetare, shkrimtare, ose krijuese përmbajtjeje? FemraDD gjithmonë kërkon zëra të rinj dhe perspektiva autentike. Na dërgoni punën tuaj dhe do t'ju kontaktojmë.</p>\n<h2>Reklamim dhe partneritete</h2>\n<p>Për mundësi reklamimi, sponsorizime dhe partneritete strategjike, na shkruani me detajet e propozimit tuaj. Ofrojmë paketa të ndryshme për bizneset që dëshirojnë të arrijnë audiencën e grave shqiptare.</p>\n<a href="/rreth-nesh">Rreth Nesh</a>\n<a href="/redaksia">Redaksia</a>` },
+  { route: "/privatesia", title: "Politika e Privatësisë", desc: "Politika e privatësisë së FemraDD — mëso si i mbrojmë të dhënat tuaja personale, çfarë informacioni mbledhim dhe si i përdorim ato në platformën tonë.", body: `\n<p>Privatësia juaj është e rëndësishme për ne. Kjo politikë shpjegon si mbledhim, përdorim dhe mbrojmë të dhënat tuaja personale kur vizitoni faqen FemraDD.</p>\n<a href="/kushtet">Kushtet e Përdorimit</a>` },
+  { route: "/kushtet", title: "Kushtet e Përdorimit", desc: "Kushtet e përdorimit të faqes FemraDD — rregullat, detyrimet dhe të drejtat e përdoruesve të revistës online për gratë shqiptare.", body: `\n<p>Duke përdorur faqen FemraDD, ju pranoni këto kushte të përdorimit. Lexoni me kujdes rregullat dhe detyrimet që zbatohen për të gjithë vizitorët dhe përdoruesit.</p>\n<a href="/privatesia">Politika e Privatësisë</a>` },
+  { route: "/redaksia", title: "Redaksia", desc: "Njihuni me ekipin redaksional të FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë çdo ditë. Profilet e autorave dhe kontributet e tyre.", body: `\n<p>Pas çdo artikulli në FemraDD qëndron një grua shqiptare me pasion, përvojë dhe zë unik. Ekipi ynë redaksional përbëhet nga gazetare, shkrimtare dhe krijuese përmbajtjeje që punojnë çdo ditë për të sjellë artikuj cilësorë dhe frymëzues.</p>\n<h2>Ekipi ynë</h2>\n<ul>${authors.map(a => `<li><a href="/autore/${a.slug}">${escapeHtml(a.name)}</a> — ${escapeHtml(a.bio.slice(0, 80))}</li>`).join("\n")}</ul>\n<h2>Dëshiron të shkruash për ne?</h2>\n<p>FemraDD gjithmonë kërkon zëra të rinj. Nëse je gazetare, shkrimtare, ose krijuese përmbajtjeje dhe dëshiron të kontribuosh, na shkruaj.</p>\n<a href="/kontakt">Na kontakto</a>` },
 ];
 
 for (const p of staticPages) {

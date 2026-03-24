@@ -181,10 +181,15 @@ async function prerenderRoute(browser, baseUrl, route) {
   const articleSlug = route.startsWith("/artikull/") ? route.replace("/artikull/", "") : null;
   if (articleSlug && englishSlugs.includes(articleSlug)) {
     html = html.replace('<html lang="sq">', '<html lang="en">');
-    // Fix hreflang tags for English content
+    // Fix hreflang: en pointing to self, x-default pointing to Albanian homepage
+    const articleUrl = `${SITE}${route}`;
     html = html.replace(
-      /hreflang="sq"/g,
-      'hreflang="en"'
+      /<link rel="alternate" hreflang="sq" href="[^"]*"\s*\/?>/,
+      `<link rel="alternate" hreflang="en" href="${articleUrl}"/>`
+    );
+    html = html.replace(
+      /<link rel="alternate" hreflang="x-default" href="[^"]*"\s*\/?>/,
+      `<link rel="alternate" hreflang="x-default" href="${SITE}/"/>`
     );
   }
 

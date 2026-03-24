@@ -87,19 +87,36 @@ export default function Editorial() {
         </div>
 
         <FadeIn>
-          <div className="mt-16 bg-card rounded-xl p-8 shadow-card text-center">
-            <h2 className="text-2xl font-bold text-foreground mb-3">
-              Dëshiron të shkruash për ne?
-            </h2>
-            <p className="text-muted-foreground leading-relaxed mb-6 max-w-lg mx-auto">
-              FemraDD gjithmonë kërkon zëra të rinj. Nëse je gazetare, shkrimtare, ose krijuese përmbajtjeje dhe dëshiron të kontribuosh, na shkruaj.
-            </p>
-            <Link
-              to="/kontakt"
-              className="inline-flex items-center gap-2 bg-primary text-primary-foreground font-medium px-6 py-3 rounded-full hover:opacity-90 transition-opacity"
-            >
-              Na kontakto
-            </Link>
+          <div className="mt-16 space-y-8">
+            <div className="bg-muted rounded-xl p-8">
+              <h2 className="text-2xl font-bold text-foreground mb-4">
+                Misioni i Redaksisë
+              </h2>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                Redaksia e FemraDD punon çdo ditë për të sjellë përmbajtje cilësore, të besueshme dhe frymëzuese për gratë shqiptare kudo në botë. Ne besojmë se informacioni i mirë dhe historitë autentike kanë fuqinë të ndryshojnë jetë.
+              </p>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                Ekipi ynë mbulon tema të ndryshme — nga horoskopi ditor dhe parashikimi i motit, tek dashuria, zhvillimi personal, stili i jetesës dhe argëtimi. Çdo artikull kalon nëpër një proces redaktimi rigoroz për të siguruar saktësinë dhe cilësinë.
+              </p>
+              <p className="text-muted-foreground leading-relaxed">
+                Ne jemi të përkushtuar ndaj diversitetit të zërave dhe perspektivave. Autoret tona vijnë nga fusha të ndryshme profesionale dhe sjellin përvojë unike në çdo artikull që shkruajnë.
+              </p>
+            </div>
+
+            <div className="bg-card rounded-xl p-8 shadow-card text-center">
+              <h2 className="text-2xl font-bold text-foreground mb-3">
+                Dëshiron të shkruash për ne?
+              </h2>
+              <p className="text-muted-foreground leading-relaxed mb-6 max-w-lg mx-auto">
+                FemraDD gjithmonë kërkon zëra të rinj. Nëse je gazetare, shkrimtare, ose krijuese përmbajtjeje dhe dëshiron të kontribuosh, na shkruaj. Pranojmë artikuj në shqip dhe anglisht për tema që prekin jetën e grave shqiptare.
+              </p>
+              <Link
+                to="/kontakt"
+                className="inline-flex items-center gap-2 bg-primary text-primary-foreground font-medium px-6 py-3 rounded-full hover:opacity-90 transition-opacity"
+              >
+                Na kontakto
+              </Link>
+            </div>
           </div>
         </FadeIn>
       </div>

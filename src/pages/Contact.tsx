@@ -250,14 +250,28 @@ export default function Contact() {
         {/* Additional info */}
         <FadeIn>
           <div className="space-y-6 text-muted-foreground leading-relaxed">
-            <h2 className="text-2xl font-bold text-foreground">Bashkëpunime</h2>
+            <h2 className="text-2xl font-bold text-foreground">Bashkëpunime Editoriale</h2>
             <p>
-              Jeni gazetare, shkrimtare, ose krijuese përmbajtjeje? Ne gjithmonë kërkojmë zëra të rinj dhe perspektiva autentike. Plotësoni formularin më lart me punën tuaj dhe do t'ju kontaktojmë.
+              Jeni gazetare, shkrimtare, ose krijuese përmbajtjeje? Ne gjithmonë kërkojmë zëra të rinj dhe perspektiva autentike. FemraDD ofron një platformë ku gratë shqiptare mund të ndajnë historitë, përvojat dhe njohuritë e tyre me një audiencë të gjerë.
+            </p>
+            <p>
+              Nëse keni përvojë në shkrim gazetaresk, blog, ose krijim përmbajtjeje dixhitale, na dërgoni një mostër të punës suaj përmes formularit më lart. Ekipi ynë redaksional do ta shqyrtojë aplikimin tuaj dhe do t'ju kontaktojë brenda një jave.
             </p>
 
-            <h2 className="text-2xl font-bold text-foreground pt-4">Reklamim</h2>
+            <h2 className="text-2xl font-bold text-foreground pt-4">Reklamim dhe Partneritete</h2>
             <p>
-              Për mundësi reklamimi dhe partneritete, na shkruani përmes formularit më lart me detajet e propozimit tuaj.
+              Për mundësi reklamimi, sponsorizime dhe partneritete strategjike, na shkruani përmes formularit më lart me detajet e propozimit tuaj. FemraDD arrin mijëra gra shqiptare çdo muaj dhe ofron paketa të ndryshme reklamimi për bizneset që dëshirojnë të rriten.
+            </p>
+            <p>
+              Ofrojmë reklama native, artikuj të sponsorizuar, banera dhe bashkëpunime të personalizuara sipas nevojave të markës suaj. Na kontaktoni për të mësuar më shumë rreth mundësive tona.
+            </p>
+
+            <h2 className="text-2xl font-bold text-foreground pt-4">Pyetje të Shpeshta</h2>
+            <p>
+              <strong>Sa shpejt do të marr përgjigje?</strong> Ekipi ynë përgjigjet brenda 24-48 orëve në ditët e punës. Nëse mesazhi juaj kërkon një përgjigje më të detajuar, mund të duhet pak më shumë kohë.
+            </p>
+            <p>
+              <strong>Si mund të propozoj një artikull?</strong> Zgjidhni opsionin "Sugjerim artikulli" në formularin e kontaktit dhe përshkruani temën që dëshironi të mbulohet. Na interesojnë tema që lidhen me kulturën, dashurinë, stilin e jetesës dhe zhvillimin personal të grave shqiptare.
             </p>
           </div>
         </FadeIn>

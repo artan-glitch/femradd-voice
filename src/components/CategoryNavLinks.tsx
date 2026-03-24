@@ -38,10 +38,9 @@ export default function CategoryNavLinks({ currentSlug, category, categoryLabel 
   if (category === "horoskopi") {
     // Show zodiac signs navigation
     const zodiacArticles = allInCategory.filter((a) => zodiacSigns.includes(a.slug));
-    // Show recent horoscope articles (daily/weekly/monthly)
+    // Show ALL horoscope articles (daily/weekly/monthly) to fix orphan pages
     const horoscopeArticles = allInCategory
-      .filter((a) => a.slug !== currentSlug && !zodiacSigns.includes(a.slug))
-      .slice(0, 12);
+      .filter((a) => a.slug !== currentSlug && !zodiacSigns.includes(a.slug));
 
     if (zodiacArticles.length === 0 && horoscopeArticles.length === 0) return null;
 
@@ -90,9 +89,9 @@ export default function CategoryNavLinks({ currentSlug, category, categoryLabel 
 
   if (category === "moti") {
     // Show links to other weather city articles
+    // Show ALL weather articles to fix orphan pages
     const otherWeather = allInCategory
-      .filter((a) => a.slug !== currentSlug)
-      .slice(0, 20);
+      .filter((a) => a.slug !== currentSlug);
 
     if (otherWeather.length === 0) return null;
 
