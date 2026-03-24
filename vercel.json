@@ -1,15 +1,7 @@
 {
-<<<<<<< HEAD
   "buildCommand": "node scripts/generate-seo.mjs && vite build && node scripts/inject-meta.mjs",
   "outputDirectory": "dist",
   "framework": "vite",
-=======
-  "redirects": [
-    { "source": "/kategori/kuzhine", "destination": "/kategori/lifestyle", "statusCode": 301 },
-    { "source": "/qyshme/receta-gatimi", "destination": "/kategori/lifestyle", "statusCode": 301 },
-    { "source": "/qyshme/receta-gatimi/", "destination": "/kategori/lifestyle", "statusCode": 301 }
-  ],
->>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
   "headers": [
     {
       "source": "/(.*)",
@@ -24,6 +16,9 @@
     }
   ],
   "redirects": [
+    { "source": "/kategori/kuzhine", "destination": "/kategori/lifestyle", "statusCode": 301 },
+    { "source": "/qyshme/receta-gatimi", "destination": "/kategori/lifestyle", "statusCode": 301 },
+    { "source": "/qyshme/receta-gatimi/", "destination": "/kategori/lifestyle", "statusCode": 301 },
     { "source": "/femradd-voice/:path*", "destination": "/:path*", "permanent": true },
     { "source": "/horoskopi/", "destination": "/kategori/horoskopi", "permanent": true },
     { "source": "/horoskopi-shqip/", "destination": "/kategori/horoskopi", "permanent": true },

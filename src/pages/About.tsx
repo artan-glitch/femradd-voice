@@ -18,13 +18,8 @@ export default function About() {
     <main id="main-content">
       <PageHead
         title="Rreth Nesh"
-<<<<<<< HEAD
-        description="Misioni ynë është të frymëzojmë dhe fuqizojmë gratë e reja shqiptare kudo në botë."
-        url="https://www.femradd.com/rreth-nesh"
-=======
         description="Misioni ynë është të frymëzojmë dhe fuqizojmë gratë e reja shqiptare kudo në botë. Njihuni me historinë, vlerat dhe ekipin tonë redaksional."
-        url="https://femradd.com/rreth-nesh"
->>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
+        url="https://www.femradd.com/rreth-nesh"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

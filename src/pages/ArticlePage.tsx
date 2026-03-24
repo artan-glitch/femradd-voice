@@ -88,14 +88,9 @@ export default function ArticlePage() {
   if (!article) return <NotFound />;
 
   const author = resolveAuthor(article.authorSlug);
-<<<<<<< HEAD
-  const related = getRelatedArticles(article.id, 6);
-  const pageUrl = `https://www.femradd.com/artikull/${article.slug}`;
-=======
   const relatedCount = (article.category === "horoskopi" || article.category === "moti") ? 6 : 3;
   const related = getRelatedArticles(article.id, relatedCount);
-  const pageUrl = `https://femradd.com/artikull/${article.slug}`;
->>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
+  const pageUrl = `https://www.femradd.com/artikull/${article.slug}`;
 
   // Detect English articles by checking if the title has mostly ASCII letters
   const englishSlugs = new Set(["why-dating-apps-are-good", "what-is-a-real-date", "how-to-compliment-a-guy", "what-should-men-wear-on-a-first-date"]);
