@@ -33,6 +33,11 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     // Title
     document.title = `${title} — FemraDD`;
 
+    // Truncate description to max 155 characters for SEO
+    const desc = description.length > 155
+      ? description.slice(0, 155).replace(/\s+\S*$/, "") + "..."
+      : description;
+
     // Ensure absolute image URL for social sharing
     const absImage = image.startsWith("http") ? image : `https://www.femradd.com${image}`;
 
@@ -48,7 +53,7 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     };
 
     // Basic meta
-    setMeta("name", "description", description);
+    setMeta("name", "description", desc);
     setMeta("name", "author", author);
 
     // Canonical
@@ -67,7 +72,7 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     // Open Graph
     setMeta("property", "og:type", "article");
     setMeta("property", "og:title", title);
-    setMeta("property", "og:description", description);
+    setMeta("property", "og:description", desc);
     setMeta("property", "og:image", absImage);
     setMeta("property", "og:image:width", "1200");
     setMeta("property", "og:image:height", "630");
@@ -88,7 +93,7 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     // Twitter
     setMeta("name", "twitter:card", "summary_large_image");
     setMeta("name", "twitter:title", title);
-    setMeta("name", "twitter:description", description);
+    setMeta("name", "twitter:description", desc);
     setMeta("name", "twitter:image", absImage);
     if (imageAlt) {
       setMeta("name", "twitter:image:alt", imageAlt);

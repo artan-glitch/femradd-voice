@@ -29,6 +29,11 @@ export default function PageHead({ title, description, url, type = "website", im
   useEffect(() => {
     document.title = `${title} — FemraDD`;
 
+    // Truncate description to max 155 characters for SEO
+    const desc = description.length > 155
+      ? description.slice(0, 155).replace(/\s+\S*$/, "") + "..."
+      : description;
+
     const setMeta = (attr: string, key: string, content: string) => {
       let el = document.querySelector(`meta[${attr}="${key}"]`) as HTMLMetaElement | null;
       if (!el) {
@@ -40,7 +45,7 @@ export default function PageHead({ title, description, url, type = "website", im
     };
 
     // Basic meta
-    setMeta("name", "description", description);
+    setMeta("name", "description", desc);
 
     // Canonical
     let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
@@ -58,7 +63,7 @@ export default function PageHead({ title, description, url, type = "website", im
     // Open Graph
     setMeta("property", "og:type", type);
     setMeta("property", "og:title", title);
-    setMeta("property", "og:description", description);
+    setMeta("property", "og:description", desc);
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
@@ -72,7 +77,7 @@ export default function PageHead({ title, description, url, type = "website", im
     // Twitter
     setMeta("name", "twitter:card", "summary_large_image");
     setMeta("name", "twitter:title", title);
-    setMeta("name", "twitter:description", description);
+    setMeta("name", "twitter:description", desc);
     setMeta("name", "twitter:image", ogImage);
     setMeta("name", "twitter:image:alt", ogImageAlt);
 

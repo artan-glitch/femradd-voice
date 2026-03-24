@@ -87,10 +87,16 @@ function esc(s) {
   return (s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
+function truncateDesc(s, max = 155) {
+  if (!s) return "";
+  if (s.length <= max) return s;
+  return s.slice(0, max).replace(/\s+\S*$/, "") + "...";
+}
+
 const rssItems = sorted.map((a) => {
   const link = `${SITE}/artikull/${a.slug}`;
   const pubDate = new Date(a.publishedAt + "T12:00:00Z").toUTCString();
-  return `    <item>\n      <title>${esc(a.title)}</title>\n      <link>${link}</link>\n      <description>${esc(a.excerpt)}</description>\n      <pubDate>${pubDate}</pubDate>\n      <guid>${link}</guid>\n      <category>${esc(a.categoryLabel)}</category>\n    </item>`;
+  return `    <item>\n      <title>${esc(a.title)}</title>\n      <link>${link}</link>\n      <description>${esc(truncateDesc(a.excerpt))}</description>\n      <pubDate>${pubDate}</pubDate>\n      <guid>${link}</guid>\n      <category>${esc(a.categoryLabel)}</category>\n    </item>`;
 });
 
 const rssXml = `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n  <channel>\n    <title>FemraDD — Zëri i Gruas Shqiptare</title>\n    <link>${SITE}</link>\n    <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>\n    <language>sq</language>\n    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n    <atom:link href="${SITE}/rss.xml" rel="self" type="application/rss+xml"/>\n${rssItems.join("\n")}\n  </channel>\n</rss>\n`;
