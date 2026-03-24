@@ -169,7 +169,7 @@ async function prerenderRoute(browser, baseUrl, route) {
   await context.close();
 
   // Post-process: ensure correct canonical URL for the route
-  const SITE = "https://femradd.com";
+  const SITE = "https://www.femradd.com";
   const expectedCanonical = `${SITE}${route === "/" ? "/" : route}`;
   html = html.replace(
     /<link rel="canonical" href="[^"]*"\s*\/?>/,
