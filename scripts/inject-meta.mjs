@@ -258,6 +258,16 @@ function generateArticlePage(article) {
   body += `\n</main>`;
   body += `\n${footerHtml()}`;
 
+  // Detect English articles
+  const ENGLISH_SLUGS = [
+    "what-should-men-wear-on-a-first-date",
+    "why-dating-apps-are-good",
+    "what-is-a-real-date",
+    "how-to-compliment-a-guy",
+  ];
+  const isEnglish = ENGLISH_SLUGS.includes(article.slug);
+  const lang = isEnglish ? "en" : "sq";
+
   // JSON-LD structured data
   const jsonLd = {
     "@context": "https://schema.org",
@@ -271,7 +281,7 @@ function generateArticlePage(article) {
     "dateModified": article.modifiedAt,
     "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE}/artikull/${article.slug}` },
     "url": `${SITE}/artikull/${article.slug}`,
-    "inLanguage": "sq",
+    "inLanguage": lang,
   };
 
   let html = injectMeta(template, {
@@ -290,6 +300,12 @@ function generateArticlePage(article) {
     "</head>",
     `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>\n</head>`
   );
+
+  // Fix html lang for English articles
+  if (isEnglish) {
+    html = html.replace('<html lang="sq">', '<html lang="en">');
+    html = html.replace(/hreflang="sq"/g, 'hreflang="en"');
+  }
 
   return injectBody(html, body);
 }
