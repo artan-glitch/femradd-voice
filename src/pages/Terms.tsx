@@ -8,8 +8,13 @@ export default function Terms() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: "Kushtet e Përdorimit",
+<<<<<<< HEAD
     description: "Kushtet e përdorimit të faqes FemraDD — rregullat dhe kushtet për përdorimin e platformës sonë.",
     url: "https://www.femradd.com/kushtet",
+=======
+    description: "Kushtet e përdorimit të faqes FemraDD — rregullat, detyrimet dhe kushtet për përdorimin e platformës sonë. Lexoni përpara se të vazhdoni.",
+    url: "https://femradd.com/kushtet",
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
     inLanguage: "sq",
     dateModified: "2026-03-10",
     publisher: {
@@ -23,8 +28,13 @@ export default function Terms() {
     <main id="main-content">
       <PageHead
         title="Kushtet e Përdorimit"
+<<<<<<< HEAD
         description="Kushtet e përdorimit të faqes FemraDD — rregullat dhe kushtet për përdorimin e platformës sonë."
         url="https://www.femradd.com/kushtet"
+=======
+        description="Kushtet e përdorimit të faqes FemraDD — rregullat, detyrimet dhe kushtet për përdorimin e platformës sonë. Lexoni përpara se të vazhdoni."
+        url="https://femradd.com/kushtet"
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

@@ -145,13 +145,48 @@ async function prerenderRoute(browser, baseUrl, route) {
     // If waiting times out, proceed with whatever rendered
   }
 
+  // Wait for canonical URL to update from the default homepage
+  if (route !== "/") {
+    try {
+      await page.waitForFunction(
+        () => {
+          const canonical = document.querySelector('link[rel="canonical"]');
+          return canonical && canonical.href && !canonical.href.endsWith(".com/");
+        },
+        { timeout: 3_000 }
+      );
+    } catch {
+      // If canonical doesn't update, we'll fix it in post-processing
+    }
+  }
+
   // Small extra settle time for React state updates
   await page.waitForTimeout(200);
 
   // Get the full rendered HTML
-  const html = await page.content();
+  let html = await page.content();
 
   await context.close();
+
+  // Post-process: ensure correct canonical URL for the route
+  const SITE = "https://femradd.com";
+  const expectedCanonical = `${SITE}${route === "/" ? "/" : route}`;
+  html = html.replace(
+    /<link rel="canonical" href="[^"]*"\s*\/?>/,
+    `<link rel="canonical" href="${expectedCanonical}"/>`
+  );
+
+  // Post-process: set lang="en" for English articles
+  const englishSlugs = ["why-dating-apps-are-good", "what-is-a-real-date", "how-to-compliment-a-guy", "what-should-men-wear-on-a-first-date"];
+  const articleSlug = route.startsWith("/artikull/") ? route.replace("/artikull/", "") : null;
+  if (articleSlug && englishSlugs.includes(articleSlug)) {
+    html = html.replace('<html lang="sq">', '<html lang="en">');
+    // Fix hreflang tags for English content
+    html = html.replace(
+      /hreflang="sq"/g,
+      'hreflang="en"'
+    );
+  }
 
   // Determine output path — always write to dist/ without base prefix
   // (GitHub Pages maps /femradd-voice/ to the repo root = dist/)

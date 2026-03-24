@@ -91,7 +91,7 @@ export default function AllArticles() {
     <main id="main-content">
       <PageHead
         title={safePage > 1 ? `Të gjitha artikujt — Faqja ${safePage}` : "Të gjitha artikujt"}
-        description={`Lexo ${articles.length} artikuj nga FemraDD — revista online për gratë e reja shqiptare.`}
+        description={`Lexo ${articles.length} artikuj nga FemraDD — revista online për gratë e reja shqiptare. Horoskopi, lifestyle, dashuri, udhëtime dhe shumë më tepër.`}
         url={canonicalUrl}
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />

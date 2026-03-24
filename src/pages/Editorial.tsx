@@ -10,7 +10,7 @@ export default function Editorial() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: "Redaksia — FemraDD",
-    description: "Njihuni me ekipin redaksional pas FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë.",
+    description: "Njihuni me ekipin redaksional të FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë çdo ditë. Profilet e autorave dhe kontributet e tyre.",
     inLanguage: "sq",
     url: "https://www.femradd.com/redaksia",
   };
@@ -19,8 +19,13 @@ export default function Editorial() {
     <main id="main-content">
       <PageHead
         title="Redaksia"
+<<<<<<< HEAD
         description="Njihuni me ekipin redaksional pas FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë."
         url="https://www.femradd.com/redaksia"
+=======
+        description="Njihuni me ekipin redaksional të FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë çdo ditë. Profilet e autorave dhe kontributet e tyre."
+        url="https://femradd.com/redaksia"
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

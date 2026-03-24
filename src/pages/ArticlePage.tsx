@@ -18,6 +18,7 @@ import ImageLightbox from "@/components/ImageLightbox";
 import FontSizeToggle from "@/components/FontSizeToggle";
 import ArticleReaction from "@/components/ArticleReaction";
 import ArticleFAQ from "@/components/ArticleFAQ";
+import CategoryNavLinks from "@/components/CategoryNavLinks";
 
 type FontSize = "normal" | "large" | "x-large";
 
@@ -87,8 +88,14 @@ export default function ArticlePage() {
   if (!article) return <NotFound />;
 
   const author = resolveAuthor(article.authorSlug);
+<<<<<<< HEAD
   const related = getRelatedArticles(article.id, 6);
   const pageUrl = `https://www.femradd.com/artikull/${article.slug}`;
+=======
+  const relatedCount = (article.category === "horoskopi" || article.category === "moti") ? 6 : 3;
+  const related = getRelatedArticles(article.id, relatedCount);
+  const pageUrl = `https://femradd.com/artikull/${article.slug}`;
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
 
   // Detect English articles by checking if the title has mostly ASCII letters
   const englishSlugs = new Set(["why-dating-apps-are-good", "what-is-a-real-date", "how-to-compliment-a-guy", "what-should-men-wear-on-a-first-date"]);
@@ -317,6 +324,13 @@ export default function ArticlePage() {
           )}
         </div>
       </div>
+
+      {/* Category navigation links — creates internal links for orphan pages */}
+      <CategoryNavLinks
+        currentSlug={article.slug}
+        category={article.category}
+        categoryLabel={article.categoryLabel}
+      />
 
       {/* Related articles */}
       <section className="container pb-12 md:pb-16" aria-label="Lexo gjithashtu">

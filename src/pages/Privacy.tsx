@@ -8,8 +8,13 @@ export default function Privacy() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     name: "Politika e Privatësisë",
+<<<<<<< HEAD
     description: "Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja.",
     url: "https://www.femradd.com/privatesia",
+=======
+    description: "Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja personale. Transparencë e plotë mbi cookies dhe ruajtjen e informacioneve.",
+    url: "https://femradd.com/privatesia",
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
     inLanguage: "sq",
     dateModified: "2026-03-10",
     publisher: {
@@ -23,8 +28,13 @@ export default function Privacy() {
     <main id="main-content">
       <PageHead
         title="Politika e Privatësisë"
+<<<<<<< HEAD
         description="Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja."
         url="https://www.femradd.com/privatesia"
+=======
+        description="Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja personale. Transparencë e plotë mbi cookies dhe ruajtjen e informacioneve."
+        url="https://femradd.com/privatesia"
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

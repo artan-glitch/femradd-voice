@@ -59,8 +59,13 @@ export default function Contact() {
     <main id="main-content">
       <PageHead
         title="Kontakt"
+<<<<<<< HEAD
         description="Na kontaktoni për bashkëpunime, sugjerime ose çdo pyetje tjetër."
         url="https://www.femradd.com/kontakt"
+=======
+        description="Na kontaktoni për bashkëpunime, sugjerime ose pyetje. Ekipi i FemraDD ju përgjigjet brenda 24 orëve — dërgoni mesazhin tuaj tani."
+        url="https://femradd.com/kontakt"
+>>>>>>> 5030f00 (Fix all remaining Ahrefs SEO issues for 90+ health score)
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

@@ -74,7 +74,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "5",
     "slug": "mira-murati-dua-lipa-e-rita-ora-grate-shqiptare-qe-po-pushtojne-boten",
-    "title": "Mira Murati, Dua Lipa e Rita Ora - Gratë shqiptare që po pushtojnë botën",
+    "title": "Mira Murati, Dua Lipa e Rita Ora - Gratë shqiptare në botë",
     "excerpt": "Kush janë gratë shqiptare më me ndikim sot? Një hulumtim i ri nga dua.com tregon se audienca globale është e magjepsur nga talenti, inteligjenca dhe suksesi i...",
     "image": "/images/articles/mira-murati-dua-lipa-e-rita-ora-grate-shqiptare-qe-po-pushtojne-boten.webp",
     "category": "kuriozitete",
@@ -2622,7 +2622,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "187",
     "slug": "demi",
-    "title": "Demi",
+    "title": "Demi - Horoskopi, karakteristikat dhe dashuria",
     "excerpt": "Demi sundohet nga Aferdita, planeti i bukurisë, dashurisë, epshit, kënaqësisë, por dhe i krijimtarisë dhe mirënjohjes. Horoskopi për Demi Ditor / Mujor /...",
     "image": "/images/articles/demi.webp",
     "category": "horoskopi",
@@ -2652,7 +2652,7 @@ const _rawArticles: ArticleMeta[] = [
     "slug": "gaforrja",
     "title": "Gaforrja",
     "excerpt": "Gaforrja ka shumë cështje emocionale për të zgjidhur, por kur arrin ti tejkalojë, asgjë nuk e ndalon më. Mund të arrijë gjithçka me intuitë. Horoskopi për...",
-    "image": "/images/categories/horoskopi.webp",
+    "image": "/images/articles/gaforrja.webp",
     "category": "horoskopi",
     "categoryLabel": "Horoskopi",
     "authorSlug": "elira-hoxha",
@@ -4078,7 +4078,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "291",
     "slug": "fuqia-e-se-tashmes",
-    "title": "Fuqia e se tashmes - libri që ju bën ta shihni jetën ndryshe!",
+    "title": "Fuqia e se tashmes - libri që ndryshon jetën",
     "excerpt": "Fuqia e se tashmes është libri që ju duhet nëse po mendoni të ndryshoni jetën tuaj për të mirë! Ky libër është një udhërrëfyes i mrekullueshëm që do t’ju bëjë...",
     "image": "/images/articles/fuqia-e-se-tashmes.webp",
     "category": "argetim",
@@ -4302,7 +4302,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "307",
     "slug": "inteligjent",
-    "title": "Inteligjent, pse nuk ke nevoje te jesh i tille per te patur sukses?",
+    "title": "Inteligjent? Pse nuk ke nevojë të jesh për sukses",
     "excerpt": "Nuk duhet të jeni veçanërisht inteligjent ose i aftë për të krijuar një karrierë të suksesshme. Po, është e vërtetë dhe jo, nuk keni as nevojë të jeni i/e...",
     "image": "/images/articles/inteligjent.webp",
     "category": "personale",
@@ -5380,7 +5380,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "384",
     "slug": "gjeni",
-    "title": "Gjeni - 10 tipare që tregojnë se keni të bëni me një të tillë",
+    "title": "Gjeni - 10 tipare që tregojnë një gjeni",
     "excerpt": "Gjeni 10 tipare që tregojnë se keni të bëni me një të tillë. Përveç faktit se ata duken sikur mendojnë komplet ndryshe nga ne të vdekshmit, ata lënë edhe një...",
     "image": "/images/articles/gjeni.webp",
     "category": "personale",
@@ -5548,7 +5548,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "396",
     "slug": "kenge-per-pavarsin-e-kosoves",
-    "title": "Kenge per Pavarsin e Kosoves që ishin hite në kohën kur Kosova shpalli Pavarësinë",
+    "title": "Kenge per Pavarsin e Kosoves - hitet e Pavarësisë",
     "excerpt": "Teksa i afrohemi përvjetorit të 12-të të Pavarësisë së Kosovës shumica prej nesh reflekton se si ishim apo çfarë bënim në atë periudhë. E çfarë mund të na...",
     "image": "/images/articles/kenge-per-pavarsin-e-kosoves.webp",
     "category": "kuriozitete",

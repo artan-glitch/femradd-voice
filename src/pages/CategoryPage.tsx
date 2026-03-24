@@ -172,6 +172,26 @@ export default function CategoryPage() {
         </div>
       </section>
 
+      {/* Zodiac signs quick navigation — for horoskopi category */}
+      {category === "horoskopi" && (
+        <div className="container pt-6">
+          <div className="flex flex-wrap gap-2 justify-center">
+            {["dashi", "demi", "binjaket", "gaforrja", "luani", "virgjeresha", "peshorja", "akrepi", "shigjetari", "bricjapi", "ujori", "peshqit"].map((sign) => {
+              const labels: Record<string, string> = { dashi: "Dashi", demi: "Demi", binjaket: "Binjakët", gaforrja: "Gaforrja", luani: "Luani", virgjeresha: "Virgjëresha", peshorja: "Peshorja", akrepi: "Akrepi", shigjetari: "Shigjetari", bricjapi: "Bricjapi", ujori: "Ujori", peshqit: "Peshqit" };
+              return (
+                <Link
+                  key={sign}
+                  to={`/artikull/${sign}`}
+                  className="px-3 py-1.5 rounded-full text-sm font-medium bg-muted text-foreground hover:bg-primary/10 hover:text-primary transition-colors"
+                >
+                  {labels[sign]}
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
       <div className="container py-8 md:py-12">
         {articles.length === 0 ? (
           <p className="text-muted-foreground">Nuk ka artikuj ende në këtë kategori.</p>

@@ -12,84 +12,84 @@ export const categories: CategoryConfig[] = [
   {
     "slug": "horoskopi",
     "label": "Horoskopi",
-    "description": "Parashikime astrologjike ditore, javore dhe mujore.",
+    "description": "Horoskopi shqip: parashikime astrologjike ditore, javore dhe mujore për secilën shenjë. Zbuloni dashurinë, karrierën dhe shëndetin sipas yjeve.",
     "colorClass": "bg-purple-600 text-white",
     "navPriority": 1
   },
   {
     "slug": "kuriozitete",
     "label": "Kuriozitete",
-    "description": "Fakte interesante dhe informacione nga bota.",
+    "description": "Kuriozitete dhe fakte interesante nga bota — histori të pazakonta, zbulime shkencore dhe informacione që nuk i dinit më parë.",
     "colorClass": "bg-amber-600 text-white",
     "navPriority": 2
   },
   {
     "slug": "argetim",
     "label": "Argëtim",
-    "description": "Artikuj argëtues, humor dhe përmbajtje e lehtë.",
+    "description": "Argëtim dhe kulturë: artikuj mbi filma, muzikë, libra, lojëra dhe përmbajtje zbavitëse për gratë e reja shqiptare.",
     "colorClass": "bg-primary text-white",
     "navPriority": 3
   },
   {
     "slug": "personale",
     "label": "Zhvillim Personal",
-    "description": "Këshilla për rritje personale, produktivitet dhe sukses.",
+    "description": "Këshilla për zhvillim personal, produktivitet, motivim dhe sukses në karrierë — frymëzim për gratë e reja shqiptare.",
     "colorClass": "bg-teal-600 text-white",
     "navPriority": 4
   },
   {
     "slug": "udhetime",
     "label": "Udhëtime",
-    "description": "Destinacione, këshilla udhëtimi dhe vende të bukura.",
+    "description": "Udhëtime dhe destinacione: këshilla udhëtimi, vende të bukura në Shqipëri, Kosovë dhe kudo në botë për të zbuluar.",
     "colorClass": "bg-sky-600 text-white",
     "navPriority": 5
   },
   {
     "slug": "lifestyle",
     "label": "Lifestyle",
-    "description": "Moda, stili i jetës, trende dhe mirëqenie.",
+    "description": "Lifestyle dhe moda: stili i jetës, trende, bukuri, kujdesi për veten dhe mirëqenie — inspirim për jetën e përditshme.",
     "colorClass": "bg-sage text-white",
     "navPriority": 6
   },
   {
     "slug": "grate-shqiptare",
     "label": "Gratë Shqiptare",
-    "description": "Histori frymëzuese të grave shqiptare në botë.",
+    "description": "Histori frymëzuese të grave shqiptare të suksesshme në botë — nga biznesi dhe shkenca tek arti, muzika dhe sporti.",
     "colorClass": "bg-charcoal text-white",
     "navPriority": 7
   },
   {
     "slug": "dashuri",
     "label": "Dashuri & Takime",
-    "description": "Këshilla për dashurinë, marrëdhëniet dhe takimet.",
+    "description": "Dashuria dhe takimet: këshilla për marrëdhënie të shëndetshme, takime moderne, romancë dhe komunikim mes çifteve.",
     "colorClass": "bg-warm-rose text-white",
     "navPriority": 8
   },
   {
     "slug": "letersi",
     "label": "Letërsi & Poezi",
-    "description": "Letërsia shqipe, poezi dhe tregime frymëzuese.",
+    "description": "Letërsia dhe poezia shqipe: vjersha, poezi dashurie, tregime dhe analiza letrare për dashamirët e fjalës së shkruar.",
     "colorClass": "bg-terracotta text-white",
     "navPriority": 9
   },
   {
     "slug": "tv-shqip",
     "label": "TV Shqip",
-    "description": "Kanalet shqiptare live dhe programe televizive.",
+    "description": "TV Shqip live: shikoni kanalet shqiptare në internet, programet televizive, lajmet dhe emisionet më të ndjekura.",
     "colorClass": "bg-red-600 text-white",
     "navPriority": 10
   },
   {
     "slug": "moti",
     "label": "Parashikimi i Motit",
-    "description": "Parashikimi i motit për qytetet shqiptare.",
+    "description": "Parashikimi i motit për qytetet kryesore në Shqipëri dhe Kosovë — temperatura, reshjet dhe kushtet atmosferike ditore.",
     "colorClass": "bg-blue-500 text-white",
     "navPriority": 11
   },
   {
     "slug": "te-ndryshme",
     "label": "Të Ndryshme",
-    "description": "Artikuj të ndryshëm mbi tema të larmishme.",
+    "description": "Artikuj të ndryshëm mbi tema të larmishme — festat zyrtare, urimet, emrat shqiptarë dhe informacione të dobishme.",
     "colorClass": "bg-gray-600 text-white",
     "navPriority": 12
   }
