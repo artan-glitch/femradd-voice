@@ -12,7 +12,7 @@ export default function Editorial() {
     name: "Redaksia — FemraDD",
     description: "Njihuni me ekipin redaksional pas FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë.",
     inLanguage: "sq",
-    url: "https://femradd.com/redaksia",
+    url: "https://www.femradd.com/redaksia",
   };
 
   return (
@@ -20,7 +20,7 @@ export default function Editorial() {
       <PageHead
         title="Redaksia"
         description="Njihuni me ekipin redaksional pas FemraDD — gazetaret dhe shkrimtaret që krijojnë përmbajtjen tonë."
-        url="https://femradd.com/redaksia"
+        url="https://www.femradd.com/redaksia"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

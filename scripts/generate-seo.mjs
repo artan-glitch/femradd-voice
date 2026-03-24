@@ -11,7 +11,7 @@ import { fileURLToPath } from "node:url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
 
-const SITE = "https://femradd.com";
+const SITE = "https://www.femradd.com";
 const TODAY = new Date().toISOString().split("T")[0];
 
 // Parse articles

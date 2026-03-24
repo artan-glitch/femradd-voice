@@ -16,7 +16,7 @@ export default function AuthorPage() {
 
   const absoluteAvatar = author.avatar?.startsWith("http")
     ? author.avatar
-    : `https://femradd.com${author.avatar}`;
+    : `https://www.femradd.com${author.avatar}`;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -26,19 +26,19 @@ export default function AuthorPage() {
       name: author.name,
       description: author.bio,
       image: absoluteAvatar,
-      url: `https://femradd.com/autore/${author.slug}`,
+      url: `https://www.femradd.com/autore/${author.slug}`,
       jobTitle: "Autore & Gazetare",
       worksFor: {
         "@type": "Organization",
         name: "FemraDD",
-        url: "https://femradd.com",
+        url: "https://www.femradd.com",
       },
       ...(author.socials?.length && {
         sameAs: author.socials.map((s) => s.url),
       }),
     },
     inLanguage: "sq",
-    url: `https://femradd.com/autore/${author.slug}`,
+    url: `https://www.femradd.com/autore/${author.slug}`,
   };
 
   return (
@@ -46,7 +46,7 @@ export default function AuthorPage() {
       <PageHead
         title={author.name}
         description={author.bio}
-        url={`https://femradd.com/autore/${author.slug}`}
+        url={`https://www.femradd.com/autore/${author.slug}`}
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

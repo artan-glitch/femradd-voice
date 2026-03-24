@@ -8,7 +8,7 @@ import Pagination from "@/components/Pagination";
 import PageHead from "@/components/PageHead";
 import FadeIn from "@/components/FadeIn";
 
-const ARTICLES_PER_PAGE = 12;
+const ARTICLES_PER_PAGE = 30;
 
 export default function AllArticles() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -55,7 +55,7 @@ export default function AllArticles() {
   if (activeCategory !== "te-gjitha") urlParams.set("kategori", activeCategory);
   if (safePage > 1) urlParams.set("faqe", String(safePage));
   const queryString = urlParams.toString();
-  const canonicalUrl = `https://femradd.com/artikuj${queryString ? `?${queryString}` : ""}`;
+  const canonicalUrl = `https://www.femradd.com/artikuj${queryString ? `?${queryString}` : ""}`;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -67,10 +67,10 @@ export default function AllArticles() {
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
-      url: "https://femradd.com",
+      url: "https://www.femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/og-image.png",
+        url: "https://www.femradd.com/og-image.png",
         width: 1200,
         height: 630,
       },
@@ -82,7 +82,7 @@ export default function AllArticles() {
         "@type": "ListItem",
         position: (safePage - 1) * ARTICLES_PER_PAGE + i + 1,
         name: a.title,
-        url: `https://femradd.com/artikull/${a.slug}`,
+        url: `https://www.femradd.com/artikull/${a.slug}`,
       })),
     },
   };

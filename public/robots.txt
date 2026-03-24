@@ -38,4 +38,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://femradd.com/sitemap.xml
+Sitemap: https://www.femradd.com/sitemap.xml

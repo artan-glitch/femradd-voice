@@ -11,7 +11,7 @@ export default function About() {
     name: "Rreth FemraDD",
     description: "Misioni ynë është të frymëzojmë dhe fuqizojmë gratë e reja shqiptare kudo në botë.",
     inLanguage: "sq",
-    url: "https://femradd.com/rreth-nesh",
+    url: "https://www.femradd.com/rreth-nesh",
   };
 
   return (
@@ -19,7 +19,7 @@ export default function About() {
       <PageHead
         title="Rreth Nesh"
         description="Misioni ynë është të frymëzojmë dhe fuqizojmë gratë e reja shqiptare kudo në botë."
-        url="https://femradd.com/rreth-nesh"
+        url="https://www.femradd.com/rreth-nesh"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

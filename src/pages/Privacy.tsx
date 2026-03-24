@@ -9,13 +9,13 @@ export default function Privacy() {
     "@type": "WebPage",
     name: "Politika e Privatësisë",
     description: "Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja.",
-    url: "https://femradd.com/privatesia",
+    url: "https://www.femradd.com/privatesia",
     inLanguage: "sq",
     dateModified: "2026-03-10",
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
-      url: "https://femradd.com",
+      url: "https://www.femradd.com",
     },
   };
 
@@ -24,7 +24,7 @@ export default function Privacy() {
       <PageHead
         title="Politika e Privatësisë"
         description="Politika e privatësisë së FemraDD — si i mbledhim, përdorim dhe mbrojmë të dhënat tuaja."
-        url="https://femradd.com/privatesia"
+        url="https://www.femradd.com/privatesia"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

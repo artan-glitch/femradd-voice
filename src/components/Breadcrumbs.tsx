@@ -22,8 +22,8 @@ export default function Breadcrumbs({ items, className }: Props) {
       position: i + 1,
       name: item.label,
       item: item.href
-        ? `https://femradd.com${item.href}`
-        : `https://femradd.com${currentPath}`,
+        ? `https://www.femradd.com${item.href}`
+        : `https://www.femradd.com${currentPath}`,
     })),
   };
 

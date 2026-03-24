@@ -9,13 +9,13 @@ export default function Terms() {
     "@type": "WebPage",
     name: "Kushtet e Përdorimit",
     description: "Kushtet e përdorimit të faqes FemraDD — rregullat dhe kushtet për përdorimin e platformës sonë.",
-    url: "https://femradd.com/kushtet",
+    url: "https://www.femradd.com/kushtet",
     inLanguage: "sq",
     dateModified: "2026-03-10",
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
-      url: "https://femradd.com",
+      url: "https://www.femradd.com",
     },
   };
 
@@ -24,7 +24,7 @@ export default function Terms() {
       <PageHead
         title="Kushtet e Përdorimit"
         description="Kushtet e përdorimit të faqes FemraDD — rregullat dhe kushtet për përdorimin e platformës sonë."
-        url="https://femradd.com/kushtet"
+        url="https://www.femradd.com/kushtet"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

@@ -15,6 +15,9 @@
       ]
     }
   ],
+  "redirects": [
+    { "source": "/femradd-voice/:path*", "destination": "/:path*", "permanent": true }
+  ],
   "rewrites": [
     { "source": "/((?!assets|images|favicon|manifest|robots|sitemap|rss|og-image|apple-touch-icon).*)", "destination": "/index.html" }
   ]

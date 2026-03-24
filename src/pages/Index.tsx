@@ -43,7 +43,7 @@ const topCategories = [...categories]
 
 export default function Index() {
   const [heroArticle, ...restArticles] = articles;
-  const latestArticles = restArticles.slice(0, 4);
+  const latestArticles = restArticles.slice(0, 8);
 
   // Homepage structured data: WebSite + Organization
   const websiteJsonLd = {
@@ -51,30 +51,30 @@ export default function Index() {
     "@type": "WebSite",
     name: "FemraDD",
     alternateName: "Zëri i Gruas Shqiptare",
-    url: "https://femradd.com",
+    url: "https://www.femradd.com",
     inLanguage: "sq",
     description:
       "Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.",
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://femradd.com/artikuj?q={search_term_string}",
+      target: "https://www.femradd.com/artikuj?q={search_term_string}",
       "query-input": "required name=search_term_string",
     },
     publisher: {
       "@type": "Organization",
-      "@id": "https://femradd.com/#organization",
+      "@id": "https://www.femradd.com/#organization",
     },
   };
 
   const organizationJsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "@id": "https://femradd.com/#organization",
+    "@id": "https://www.femradd.com/#organization",
     name: "FemraDD",
-    url: "https://femradd.com",
+    url: "https://www.femradd.com",
     logo: {
       "@type": "ImageObject",
-      url: "https://femradd.com/og-image.png",
+      url: "https://www.femradd.com/og-image.png",
       width: 1200,
       height: 630,
     },
@@ -89,7 +89,7 @@ export default function Index() {
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "customer service",
-      url: "https://femradd.com/kontakt",
+      url: "https://www.femradd.com/kontakt",
       availableLanguage: "Albanian",
     },
   };
@@ -99,7 +99,7 @@ export default function Index() {
       <PageHead
         title="Revista për Gratë Shqiptare | Kulturë, Dashuri & Lifestyle"
         description="Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë."
-        url="https://femradd.com"
+        url="https://www.femradd.com"
       />
       <script
         type="application/ld+json"
@@ -183,8 +183,8 @@ export default function Index() {
       </section>
 
       {/* Popular articles by category */}
-      {topCategories.slice(0, 4).map((cat, catIdx) => {
-        const catArticles = getArticlesByCategory(cat.slug).slice(0, 4);
+      {topCategories.slice(0, 6).map((cat, catIdx) => {
+        const catArticles = getArticlesByCategory(cat.slug).slice(0, 6);
         return (
           <section key={cat.slug} className="container pb-8 md:pb-12" aria-label={cat.label}>
             <FadeIn>
@@ -200,7 +200,7 @@ export default function Index() {
                 </Link>
               </div>
             </FadeIn>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
               {catArticles.map((article, i) => (
                 <FadeIn key={article.id} delay={i * 80}>
                   <ArticleCard article={article} />

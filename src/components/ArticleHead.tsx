@@ -34,7 +34,7 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
     document.title = `${title} — FemraDD`;
 
     // Ensure absolute image URL for social sharing
-    const absImage = image.startsWith("http") ? image : `https://femradd.com${image}`;
+    const absImage = image.startsWith("http") ? image : `https://www.femradd.com${image}`;
 
     // Helper to set/create meta tag
     const setMeta = (attr: string, key: string, content: string) => {

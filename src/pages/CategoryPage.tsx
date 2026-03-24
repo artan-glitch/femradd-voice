@@ -37,7 +37,7 @@ const categoryIcons: Record<string, React.ReactNode> = {
   "te-ndryshme": <Layers className="w-7 h-7" />,
 };
 
-const ARTICLES_PER_PAGE = 9;
+const ARTICLES_PER_PAGE = 24;
 
 export default function CategoryPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -82,8 +82,8 @@ export default function CategoryPage() {
 
   // Build canonical URL
   const canonicalUrl = safePage > 1
-    ? `https://femradd.com/kategori/${category}?faqe=${safePage}`
-    : `https://femradd.com/kategori/${category}`;
+    ? `https://www.femradd.com/kategori/${category}?faqe=${safePage}`
+    : `https://www.femradd.com/kategori/${category}`;
 
   // Extract just the bg color class from the colorClass (e.g. "bg-purple-600 text-white" → "bg-purple-600")
   const bgColor = (config.colorClass || "bg-gray-600 text-white").split(" ")[0];
@@ -98,10 +98,10 @@ export default function CategoryPage() {
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
-      url: "https://femradd.com",
+      url: "https://www.femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/og-image.png",
+        url: "https://www.femradd.com/og-image.png",
         width: 1200,
         height: 630,
       },
@@ -113,7 +113,7 @@ export default function CategoryPage() {
         "@type": "ListItem",
         position: i + 1,
         name: a.title,
-        url: `https://femradd.com/artikull/${a.slug}`,
+        url: `https://www.femradd.com/artikull/${a.slug}`,
       })),
     },
   };

@@ -128,7 +128,7 @@ export default function SearchModal({ open, onClose }: Props) {
                     >
                       <img
                         src={article.image}
-                        alt=""
+                        alt={article.title}
                         loading="lazy"
                         width={56}
                         height={40}

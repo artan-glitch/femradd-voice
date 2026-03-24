@@ -52,7 +52,7 @@ export default function Contact() {
     name: "Kontakt — FemraDD",
     description: "Na kontaktoni për bashkëpunime, sugjerime ose çdo pyetje tjetër.",
     inLanguage: "sq",
-    url: "https://femradd.com/kontakt",
+    url: "https://www.femradd.com/kontakt",
   };
 
   return (
@@ -60,7 +60,7 @@ export default function Contact() {
       <PageHead
         title="Kontakt"
         description="Na kontaktoni për bashkëpunime, sugjerime ose çdo pyetje tjetër."
-        url="https://femradd.com/kontakt"
+        url="https://www.femradd.com/kontakt"
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 

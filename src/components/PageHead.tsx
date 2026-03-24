@@ -62,7 +62,7 @@ export default function PageHead({ title, description, url, type = "website", im
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
-    const ogImage = image || "https://femradd.com/og-image.png";
+    const ogImage = image || "https://www.femradd.com/og-image.png";
     const ogImageAlt = imageAlt || title;
     setMeta("property", "og:image", ogImage);
     setMeta("property", "og:image:alt", ogImageAlt);

@@ -88,7 +88,7 @@ export default function ArticlePage() {
 
   const author = resolveAuthor(article.authorSlug);
   const related = getRelatedArticles(article.id, 6);
-  const pageUrl = `https://femradd.com/artikull/${article.slug}`;
+  const pageUrl = `https://www.femradd.com/artikull/${article.slug}`;
 
   // Detect English articles by checking if the title has mostly ASCII letters
   const englishSlugs = new Set(["why-dating-apps-are-good", "what-is-a-real-date", "how-to-compliment-a-guy", "what-should-men-wear-on-a-first-date"]);
@@ -97,7 +97,7 @@ export default function ArticlePage() {
   // Build absolute image URL
   const absoluteImage = article.image.startsWith("http")
     ? article.image
-    : `https://femradd.com${article.image}`;
+    : `https://www.femradd.com${article.image}`;
 
   // Extract meaningful keywords from title + category
   const titleWords = article.title
@@ -142,10 +142,10 @@ export default function ArticlePage() {
     author: {
       "@type": "Person",
       name: author.name,
-      url: `https://femradd.com/autore/${author.slug}`,
+      url: `https://www.femradd.com/autore/${author.slug}`,
       image: author.avatar?.startsWith("http")
         ? author.avatar
-        : `https://femradd.com${author.avatar}`,
+        : `https://www.femradd.com${author.avatar}`,
       ...(author.socials?.length && {
         sameAs: author.socials.map((s) => s.url),
       }),
@@ -153,10 +153,10 @@ export default function ArticlePage() {
     publisher: {
       "@type": "Organization",
       name: "FemraDD",
-      url: "https://femradd.com",
+      url: "https://www.femradd.com",
       logo: {
         "@type": "ImageObject",
-        url: "https://femradd.com/og-image.png",
+        url: "https://www.femradd.com/og-image.png",
         width: 1200,
         height: 630,
       },
