@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node scripts/generate-seo.mjs && vite build",
+  "buildCommand": "node scripts/generate-seo.mjs && vite build && node scripts/inject-meta.mjs",
   "outputDirectory": "dist",
   "framework": "vite",
   "headers": [
@@ -16,7 +16,18 @@
     }
   ],
   "redirects": [
-    { "source": "/femradd-voice/:path*", "destination": "/:path*", "permanent": true }
+    { "source": "/femradd-voice/:path*", "destination": "/:path*", "permanent": true },
+    { "source": "/horoskopi/", "destination": "/kategori/horoskopi", "permanent": true },
+    { "source": "/horoskopi-shqip/", "destination": "/kategori/horoskopi", "permanent": true },
+    { "source": "/dashuria/", "destination": "/kategori/dashuri", "permanent": true },
+    { "source": "/letersia/", "destination": "/kategori/letersi", "permanent": true },
+    { "source": "/poezi/", "destination": "/kategori/letersi", "permanent": true },
+    { "source": "/parashikimi-i-motit/", "destination": "/kategori/moti", "permanent": true },
+    { "source": "/moti-ne-gjirokaster/", "destination": "/artikull/gjirokastra", "permanent": true },
+    { "source": "/moti-ne-korce/", "destination": "/artikull/korca", "permanent": true },
+    { "source": "/moti-ne-malisheve/", "destination": "/artikull/moti-ne-malisheve-old", "permanent": true },
+    { "source": "/kalendari-i-ramazanit/", "destination": "/artikull/kalendari-i-ramazanit-2023", "permanent": true },
+    { "source": "/wp-content/:path*", "destination": "/artikuj", "permanent": true }
   ],
   "rewrites": [
     { "source": "/((?!assets|images|favicon|manifest|robots|sitemap|rss|og-image|apple-touch-icon).*)", "destination": "/index.html" }
