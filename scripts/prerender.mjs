@@ -181,16 +181,8 @@ async function prerenderRoute(browser, baseUrl, route) {
   const articleSlug = route.startsWith("/artikull/") ? route.replace("/artikull/", "") : null;
   if (articleSlug && englishSlugs.includes(articleSlug)) {
     html = html.replace('<html lang="sq">', '<html lang="en">');
-    // Fix hreflang: en pointing to self, x-default pointing to Albanian homepage
-    const articleUrl = `${SITE}${route}`;
-    html = html.replace(
-      /<link rel="alternate" hreflang="sq" href="[^"]*"\s*\/?>/,
-      `<link rel="alternate" hreflang="en" href="${articleUrl}"/>`
-    );
-    html = html.replace(
-      /<link rel="alternate" hreflang="x-default" href="[^"]*"\s*\/?>/,
-      `<link rel="alternate" hreflang="x-default" href="${SITE}/"/>`
-    );
+    // Remove all hreflang tags — standalone English articles, not translations
+    html = html.replace(/<link rel="alternate" hreflang="[^"]*" href="[^"]*"\s*\/?>\s*/g, '');
   }
 
   // Determine output path — always write to dist/ without base prefix

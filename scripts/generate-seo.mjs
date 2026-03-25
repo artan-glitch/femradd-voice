@@ -69,9 +69,7 @@ for (const p of ["rreth-nesh", "kontakt", "privatesia", "kushtet", "redaksia"]) 
 for (const cat of categories) {
   urls.push(sitemapUrl(`${SITE}/kategori/${cat.slug}`, TODAY));
 }
-for (const slug of authorSlugs) {
-  urls.push(sitemapUrl(`${SITE}/autore/${slug}`));
-}
+// Author pages excluded from sitemap — low SEO value and cause non-canonical issues
 for (const a of articles) {
   urls.push(sitemapUrl(`${SITE}/artikull/${a.slug}`, a.modifiedAt || a.publishedAt));
 }

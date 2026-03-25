@@ -233,16 +233,19 @@ function injectMeta(html, { title, description, url, image, type = "website", au
 }
 
 // Fix hreflang specifically for English articles
+// Remove all hreflang tags — these are standalone English articles, not translations
 function fixEnglishHreflang(html, articleUrl) {
-  // Remove the sq hreflang (English articles should not claim to be Albanian)
   html = html.replace(
-    /<link rel="alternate" hreflang="sq" href="[^"]*"\s*\/?>/,
-    `<link rel="alternate" hreflang="en" href="${articleUrl}"/>`
+    /<link rel="alternate" hreflang="sq" href="[^"]*"\s*\/?>\s*/g,
+    ''
   );
-  // Set x-default to Albanian homepage (not the English article itself)
   html = html.replace(
-    /<link rel="alternate" hreflang="x-default" href="[^"]*"\s*\/?>/,
-    `<link rel="alternate" hreflang="x-default" href="${SITE}/"/>`
+    /<link rel="alternate" hreflang="x-default" href="[^"]*"\s*\/?>\s*/g,
+    ''
+  );
+  html = html.replace(
+    /<link rel="alternate" hreflang="en" href="[^"]*"\s*\/?>\s*/g,
+    ''
   );
   return html;
 }
