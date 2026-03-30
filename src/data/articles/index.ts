@@ -28,6 +28,7 @@ export interface Article extends ArticleMeta {
   author: Author;
 }
 
+import perrallat_shqiptare_mesime_content from "./content/perrallat-shqiptare-mesime.json";
 const _rawArticles: ArticleMeta[] = [
   {
     "id": "2",
@@ -5808,7 +5809,35 @@ export const articles: ArticleMeta[] = _rawArticles.map((a) => ({
 // Helper functions
 
 export function resolveAuthor(authorSlug: string): Author {
-  return authors.find((a) => a.slug === authorSlug) ?? authors[0];
+  return authors.find((a) => a.slug === authorSlug) ?? authors[0,
+  {
+    "id": "414",
+    "slug": "perrallat-shqiptare-mesime",
+    "title": "Përrallat shqiptare — mësimet e fshehura për gratë",
+    "excerpt": "Zbuloni mësimet feministe të fshehura në përrallat popullore shqiptare dhe si ndikojnë ato në formimin e identitetit të grave sot.",
+    "image": "/images/categories/kuriozitete.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-03-30",
+    "modifiedAt": "2026-03-30",
+    "faqs": [
+        {
+            "question": "Cilat përralla shqiptare kanë mesazhe feministe?",
+            "answer": "Përralla si 'Vajza e diellit', 'Bukuroshja e dheut' dhe 'E bukura e Tokës' përmbajnë mesazhe të fuqishme për pavarësinë, guximin dhe zgjuarsinë e grave."
+        },
+        {
+            "question": "Pse janë të rëndësishme përrallat shqiptare për gratë?",
+            "answer": "Përrallat shqiptare ofrojnë modele femërore që sfidojnë normat shoqërore, duke treguar gra të guximshme, të zgjuara dhe të pavarura që zgjidhin probleme me mençuri."
+        },
+        {
+            "question": "Si mund t'i përdorim përrallat shqiptare në edukimin e fëmijëve?",
+            "answer": "Mund t'i lexoni fëmijëve para gjumit, t'i diskutoni mësimet kryesore dhe t'i krahasoni me situata nga jeta reale për të nxitur mendimin kritik."
+        }
+    ]
+}
+];
 }
 
 export function getArticleMetaBySlug(slug: string): ArticleMeta | undefined {
