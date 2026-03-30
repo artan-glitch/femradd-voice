@@ -1,0 +1,24 @@
+{
+  "slug": "perralla-per-femije",
+  "title": "Përrallat më të bukura shqip për fëmijët tuaj",
+  "description": "Lexoni përrallat më të bukura shqiptare për fëmijë. Tregime klasike të ritreguar me mesazhe edukative për prindërit modernë.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Pse duhet t'u lexojmë fëmijëve përralla shqiptare?",
+      "answer": "Përrallat shqiptare ruajnë identitetin kulturor, mësojnë vlera morale, pasurojnë fjalorin shqip dhe krijojnë lidhje emocionale midis prindërve dhe fëmijëve."
+    },
+    {
+      "question": "Nga çfarë moshe mund t'u lexoj fëmijëve?",
+      "answer": "Mund të filloni që nga mosha 2-3 vjeç me tregime të shkurtra dhe të thjeshta. Fëmijët 4-7 vjeç gëzojnë përralla më të gjata me personazhe dhe aventura."
+    },
+    {
+      "question": "Si ta bëj leximin më interesant për fëmijët?",
+      "answer": "Përdorni zëra të ndryshëm për personazhet, bëni pyetje gjatë leximit, lejojini fëmijët ta imagjinojnë fundin, dhe kthejeni në ritual të përnatshëm."
+    }
+  ]
+}

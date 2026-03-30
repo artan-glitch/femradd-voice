@@ -1,0 +1,24 @@
+{
+  "slug": "natyra-e-qete-shqiperi",
+  "title": "Natyra e qetë — vendet më paqësore në Shqipëri",
+  "description": "Zbuloni vendet më paqësore dhe të qeta në Shqipëri. Destinacione natyrore perfekte për t'u larguar nga stresi i jetës së përditshme.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Cilat janë vendet më të qeta në Shqipëri?",
+      "answer": "Syri i Kaltër, Liqeni i Ohrit, Valbona, Theth, Llogara dhe Brezovica janë ndër vendet më paqësore. Secili ofron natyrë të paprekur dhe qetësi."
+    },
+    {
+      "question": "Kur është koha më e mirë për të vizituar natyrën shqiptare?",
+      "answer": "Pranvera (prill-maj) dhe vjeshta (shtator-tetor) janë ideale — temperatura e përshtatshme, pak turistë dhe natyra në kulmin e bukurisë."
+    },
+    {
+      "question": "A janë të sigurta udhëtimet në natyrën e Shqipërisë?",
+      "answer": "Po, Shqipëria është vend i sigurt për udhëtime natyrore. Rekomandohet të keni hartë, ujë të mjaftueshëm, dhe të informoni dikë për itinerarin nëse shkoni në shtigje malore."
+    }
+  ]
+}

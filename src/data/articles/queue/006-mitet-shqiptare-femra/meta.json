@@ -1,0 +1,24 @@
+{
+  "slug": "mitet-shqiptare-femra",
+  "title": "Mitet shqiptare — figurat femërore që sfiduan perënditë",
+  "description": "Zbuloni figurat mitologjike femërore shqiptare si Zana, Ora dhe tjera që sfiduan perënditë me fuqinë dhe mençurinë e tyre.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Kush janë Zanat në mitologjinë shqiptare?",
+      "answer": "Zanat janë qenie femërore mbinatyrore në mitologjinë shqiptare, mbrojtëse të natyrës, maleve dhe burimeve ujore. Ato janë luftëtare të fuqishme me bukuri të jashtëzakonshme."
+    },
+    {
+      "question": "Çfarë është Ora në besimin shqiptar?",
+      "answer": "Ora është një frymë femërore mbrojtëse që shoqëron çdo person nga lindja deri në vdekje. Çdo njeri ka Orën e vet — të mirë ose të keqe — që përcakton fatin."
+    },
+    {
+      "question": "Pse janë të rëndësishme figurat femërore në mitologjinë shqiptare?",
+      "answer": "Ato tregojnë se në kulturën e lashtë shqiptare, gruaja kishte rol qendror si mbrojtëse, udhëheqëse dhe forcë natyrore, duke sfiduar idenë se shoqëria ka qenë gjithmonë patriarkale."
+    }
+  ]
+}

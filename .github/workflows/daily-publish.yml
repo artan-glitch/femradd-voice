@@ -1,0 +1,63 @@
+name: Daily Article Publish
+
+on:
+  schedule:
+    - cron: '3 8 * * *'  # 8:03 UTC = 9:03 CET daily
+  workflow_dispatch: {}   # manual trigger
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Publish next article
+        id: publish
+        run: node scripts/publish-next.mjs
+
+      - name: Commit and push
+        if: steps.publish.outputs.published == 'true'
+        run: |
+          git config user.name "FemraDD Bot"
+          git config user.email "bot@femradd.com"
+          git add -A
+          git commit -m "feat: auto-publish — ${{ steps.publish.outputs.title }}"
+          git push
+
+      - name: Send email notification
+        if: steps.publish.outputs.published == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "FemraDD: Artikull i ri — ${{ steps.publish.outputs.title }}"
+          to: artan@mikgroup.ch
+          from: FemraDD Bot <bot@femradd.com>
+          html_body: |
+            <div style="font-family: 'DM Sans', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+              <div style="background: linear-gradient(135deg, #C86B4A 0%, #B85A3A 100%); padding: 24px; border-radius: 12px 12px 0 0;">
+                <h1 style="color: white; margin: 0; font-size: 24px;">FemraDD — Artikull i Ri</h1>
+              </div>
+              <div style="background: #f9f6f3; padding: 24px; border-radius: 0 0 12px 12px;">
+                <h2 style="color: #1a1f2e; margin-top: 0;">${{ steps.publish.outputs.title }}</h2>
+                <p style="color: #64748b;">Kategoria: <strong>${{ steps.publish.outputs.category }}</strong></p>
+                <a href="${{ steps.publish.outputs.url }}" style="display: inline-block; background: #C86B4A; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600;">Shiko Artikullin →</a>
+                <p style="color: #94a3b8; margin-top: 16px; font-size: 14px;">Artikuj në radhë: ${{ steps.publish.outputs.remaining }}</p>
+              </div>
+            </div>
+
+      - name: No articles to publish
+        if: steps.publish.outputs.published != 'true'
+        run: echo "Queue is empty — no article published today."
