@@ -29,6 +29,7 @@ export interface Article extends ArticleMeta {
 }
 
 import perrallat_shqiptare_mesime_content from "./content/perrallat-shqiptare-mesime.json";
+import dashuria_e_vertete_content from "./content/dashuria-e-vertete.json";
 const _rawArticles: ArticleMeta[] = [
   {
     "id": "2",
@@ -5834,6 +5835,34 @@ export function resolveAuthor(authorSlug: string): Author {
         {
             "question": "Si mund t'i përdorim përrallat shqiptare në edukimin e fëmijëve?",
             "answer": "Mund t'i lexoni fëmijëve para gjumit, t'i diskutoni mësimet kryesore dhe t'i krahasoni me situata nga jeta reale për të nxitur mendimin kritik."
+        }
+    ]
+}
+,
+  {
+    "id": "415",
+    "slug": "dashuria-e-vertete",
+    "title": "Çfarë është dashuria e vërtetë? Shenjat që nuk gënjejnë",
+    "excerpt": "Mësoni dallimet midis dashurisë së vërtetë dhe magjepsjes së momentit. Zbuloni 8 shenja konkrete që tregojnë dashuri autentike.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-03-31",
+    "modifiedAt": "2026-03-31",
+    "faqs": [
+        {
+            "question": "Si dallohet dashuria e vërtetë nga magjepsja?",
+            "answer": "Dashuria e vërtetë rritet me kohën dhe bazohet në respekt, besim dhe njohje të thellë. Magjepsja është intensive por e shkurtër, bazuar kryesisht në tërheqje fizike dhe idealizim."
+        },
+        {
+            "question": "A mund të kthehet magjepsja në dashuri të vërtetë?",
+            "answer": "Po, magjepsja fillestare mund të evoluojë në dashuri të vërtetë nëse të dy partnerët investojnë në njohjen e ndërsjelltë, komunikim të hapur dhe respekt."
+        },
+        {
+            "question": "Sa kohë duhet për të ditur nëse është dashuri e vërtetë?",
+            "answer": "Nuk ka afat të përcaktuar, por zakonisht pas 6-12 muajsh keni njohje të mjaftueshme për të vlerësuar nëse ndjenjat janë të thella dhe të qëndrueshme."
         }
     ]
 }

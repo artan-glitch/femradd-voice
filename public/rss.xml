@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 09:05:46 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Çfarë është dashuria e vërtetë? Shenjat që nuk gënjejnë</title>
+      <link>https://www.femradd.com/artikull/dashuria-e-vertete</link>
+      <description>Mësoni dallimet midis dashurisë së vërtetë dhe magjepsjes së momentit. Zbuloni 8 shenja konkrete që tregojnë dashuri autentike.</description>
+      <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/dashuria-e-vertete</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
     <item>
       <title>Përrallat shqiptare — mësimet e fshehura për gratë</title>
       <link>https://www.femradd.com/artikull/perrallat-shqiptare-mesime</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi ditor për datën 11.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
       <pubDate>Mon, 11 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-ditor-11-dhjetor-2023</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi Javor - 11 / 17 dhjetor 2023</title>
-      <link>https://www.femradd.com/artikull/horoskopi-javor-11-17-dhjetor-2023</link>
-      <description>Horoskopi javor për periudhën 11.12.2023 - 17.12.2023. Çdo javë horoskopi ju tregon me cfarë pritet të përballen të lindurit e çdo shenje. Dashi21 Mars –...</description>
-      <pubDate>Mon, 11 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-javor-11-17-dhjetor-2023</guid>
       <category>Horoskopi</category>
     </item>
   </channel>
