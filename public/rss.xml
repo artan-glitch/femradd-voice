@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:12:06 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Parfumet më të mira për femra — guida 2026</title>
+      <link>https://www.femradd.com/artikull/parfumet-per-femra</link>
+      <description>Guida e plotë e parfumeve për femra në 2026. Mësoni si të zgjidhni aromën perfekte sipas sezonit, rastit dhe personalitetit tuaj.</description>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/parfumet-per-femra</guid>
+      <category>Lifestyle</category>
+    </item>
     <item>
       <title>Çfarë është dashuria e vërtetë? Shenjat që nuk gënjejnë</title>
       <link>https://www.femradd.com/artikull/dashuria-e-vertete</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi ditor për datën 12.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
       <pubDate>Tue, 12 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-ditor-12-dhjetor-2023</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi ditor - 11 dhjetor 2023</title>
-      <link>https://www.femradd.com/artikull/horoskopi-ditor-11-dhjetor-2023</link>
-      <description>Horoskopi ditor për datën 11.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
-      <pubDate>Mon, 11 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-ditor-11-dhjetor-2023</guid>
       <category>Horoskopi</category>
     </item>
   </channel>

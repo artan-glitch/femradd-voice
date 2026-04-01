@@ -5851,6 +5851,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Nuk ka afat të përcaktuar, por zakonisht pas 6-12 muajsh keni njohje të mjaftueshme për të vlerësuar nëse ndjenjat janë të thella dhe të qëndrueshme."
         }
     ]
+},
+  {
+    "id": "416",
+    "slug": "parfumet-per-femra",
+    "title": "Parfumet më të mira për femra — guida 2026",
+    "excerpt": "Guida e plotë e parfumeve për femra në 2026. Mësoni si të zgjidhni aromën perfekte sipas sezonit, rastit dhe personalitetit tuaj.",
+    "image": "/images/articles/parfumet-per-femra.webp",
+    "category": "lifestyle",
+    "categoryLabel": "Lifestyle",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-01",
+    "modifiedAt": "2026-04-01",
+    "faqs": [
+        {
+            "question": "Si ta zgjedh parfumin e duhur për mua?",
+            "answer": "Konsideroni personalitetin tuaj, sezonin dhe rastin. Provojeni në lëkurën tuaj dhe prisni 30 minuta para se të vendosni, sepse aroma ndryshon me kohën."
+        },
+        {
+            "question": "Sa zgjat një parfum i mirë?",
+            "answer": "Parfumet Eau de Parfum zgjasin 6-8 orë, ndërsa Eau de Toilette 3-4 orë. Aplikimi në pikat e pulsit dhe lëkurën e hidratuar zgjat aromën."
+        },
+        {
+            "question": "Cilat janë familjet kryesore të parfumeve?",
+            "answer": "Katër familjet kryesore janë: lumore (trëndafil, jasëmin), orientale (vanilje, ambër), freskëte (agrume, ujore) dhe drurore (sandël, kedër)."
+        }
+    ]
 }
 ];
 
