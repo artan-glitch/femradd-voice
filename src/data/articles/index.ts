@@ -28,8 +28,6 @@ export interface Article extends ArticleMeta {
   author: Author;
 }
 
-import perrallat_shqiptare_mesime_content from "./content/perrallat-shqiptare-mesime.json";
-import dashuria_e_vertete_content from "./content/dashuria-e-vertete.json";
 const _rawArticles: ArticleMeta[] = [
   {
     "id": "2",
@@ -5798,19 +5796,7 @@ const _rawArticles: ArticleMeta[] = [
     "publishedAt": "2016-01-18",
     "modifiedAt": "2016-01-18",
     "faqs": [{"question":"A na bën teknologjia më dembel?","answer":"Teknologjia në vetvete është neutrale. Efektet varen nga mënyra si e përdorim — mund të na bëjë më pasivë ose të na ndihmojë të arrijmë gjëra të pamundura."},{"question":"Si ka përmirësuar teknologjia komunikimin?","answer":"Teknologjia ka mundësuar kontaktin në distancë, rrjete biznesi globale, ndihmë për personat me aftësi të kufizuara dhe arritshmërinë e mediave sociale."},{"question":"Si ta përdorim teknologjinë me përgjegjësi?","answer":"Çelësi është balanca — përdoreni teknologjinë si mjet për të mësuar dhe për t'u lidhur me të tjerët, por mos e lëni të zëvendësojë aktivitetin fizik dhe ndërveprimin njerëzor."}]
-  }
-];
-
-// Apply base path to image URLs (needed for GitHub Pages subdirectory deployment)
-export const articles: ArticleMeta[] = _rawArticles.map((a) => ({
-  ...a,
-  image: withBase(a.image),
-}));
-
-// Helper functions
-
-export function resolveAuthor(authorSlug: string): Author {
-  return authors.find((a) => a.slug === authorSlug) ?? authors[0,
+  },
   {
     "id": "414",
     "slug": "perrallat-shqiptare-mesime",
@@ -5828,7 +5814,7 @@ export function resolveAuthor(authorSlug: string): Author {
             "question": "Cilat përralla shqiptare kanë mesazhe feministe?",
             "answer": "Përralla si 'Vajza e diellit', 'Bukuroshja e dheut' dhe 'E bukura e Tokës' përmbajnë mesazhe të fuqishme për pavarësinë, guximin dhe zgjuarsinë e grave."
         },
-        {
+  {
             "question": "Pse janë të rëndësishme përrallat shqiptare për gratë?",
             "answer": "Përrallat shqiptare ofrojnë modele femërore që sfidojnë normat shoqërore, duke treguar gra të guximshme, të zgjuara dhe të pavarura që zgjidhin probleme me mençuri."
         },
@@ -5867,6 +5853,17 @@ export function resolveAuthor(authorSlug: string): Author {
     ]
 }
 ];
+
+// Apply base path to image URLs (needed for GitHub Pages subdirectory deployment)
+export const articles: ArticleMeta[] = _rawArticles.map((a) => ({
+  ...a,
+  image: withBase(a.image),
+}));
+
+// Helper functions
+
+export function resolveAuthor(authorSlug: string): Author {
+  return authors.find((a) => a.slug === authorSlug) ?? authors[0];
 }
 
 export function getArticleMetaBySlug(slug: string): ArticleMeta | undefined {

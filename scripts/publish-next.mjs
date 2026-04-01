@@ -70,21 +70,21 @@ const entry = {
   faqs: meta.faqs || []
 };
 
-// 4. Append to index.ts (before the closing ];)
+// 4. Append to index.ts (before the first ]; that closes _rawArticles)
 const entryJson = JSON.stringify(entry, null, 4);
-const insertPoint = indexContent.lastIndexOf("];");
+
+// Find the ]; that closes the _rawArticles array (first ]; after "const _rawArticles")
+const rawArrayStart = indexContent.indexOf("const _rawArticles");
+const insertPoint = indexContent.indexOf("];", rawArrayStart);
 if (insertPoint === -1) {
-  console.error("Could not find ]; in index.ts");
+  console.error("Could not find _rawArticles closing ]; in index.ts");
   process.exit(1);
 }
 
-// Add import for content
-const importLine = `import ${meta.slug.replace(/-/g, "_")}_content from "./content/${meta.slug}.json";\n`;
-const contentImportPoint = indexContent.indexOf("const _rawArticles");
+// Find the last } before ]; to insert after it
+const lastBrace = indexContent.lastIndexOf("}", insertPoint);
 
-let newIndexContent = indexContent.slice(0, contentImportPoint) +
-  importLine +
-  indexContent.slice(contentImportPoint, insertPoint) +
+let newIndexContent = indexContent.slice(0, lastBrace + 1) +
   ",\n  " + entryJson + "\n" +
   indexContent.slice(insertPoint);
 
