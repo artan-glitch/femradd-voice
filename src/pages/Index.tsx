@@ -110,11 +110,9 @@ export default function Index() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
       />
 
-      {/* Hero article */}
+      {/* Hero article — no FadeIn to prevent CLS */}
       <section className="container py-8 md:py-12" aria-label="Artikulli kryesor">
-        <FadeIn>
-          <HeroArticle article={heroArticle} />
-        </FadeIn>
+        <HeroArticle article={heroArticle} />
       </section>
 
       {/* About FemraDD intro */}

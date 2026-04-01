@@ -42,8 +42,8 @@
     --charcoal: 220 20% 14%;
     --warm-gray: 36 10% 60%;
 
-    --font-serif: 'DM Sans', system-ui, -apple-system, sans-serif;
-    --font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+    --font-serif: 'DM Sans', 'DM Sans Fallback', system-ui, -apple-system, sans-serif;
+    --font-sans: 'DM Sans', 'DM Sans Fallback', system-ui, -apple-system, sans-serif;
 
     --shadow-card: 0 2px 8px -2px hsl(220 20% 14% / 0.06), 0 4px 16px -4px hsl(220 20% 14% / 0.04);
     --shadow-card-hover: 0 8px 24px -4px hsl(220 20% 14% / 0.1), 0 4px 12px -4px hsl(220 20% 14% / 0.06);
