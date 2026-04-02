@@ -54,6 +54,7 @@ export default function ArticleHead({ title, description, image, imageAlt, url, 
 
     // Basic meta
     setMeta("name", "description", desc);
+    setMeta("name", "robots", "index, follow, max-image-preview:large, max-snippet:-1");
     setMeta("name", "author", author);
 
     // Canonical

@@ -46,6 +46,7 @@ export default function PageHead({ title, description, url, type = "website", im
 
     // Basic meta
     setMeta("name", "description", desc);
+    setMeta("name", "robots", "index, follow, max-image-preview:large, max-snippet:-1");
 
     // Canonical
     let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
@@ -67,7 +68,9 @@ export default function PageHead({ title, description, url, type = "website", im
     setMeta("property", "og:url", url);
     setMeta("property", "og:site_name", "FemraDD");
     setMeta("property", "og:locale", "sq_AL");
-    const ogImage = image || "https://www.femradd.com/og-image.png";
+    const ogImage = image
+      ? (image.startsWith("http") ? image : `https://www.femradd.com${image}`)
+      : "https://www.femradd.com/og-image.png";
     const ogImageAlt = imageAlt || title;
     setMeta("property", "og:image", ogImage);
     setMeta("property", "og:image:alt", ogImageAlt);
