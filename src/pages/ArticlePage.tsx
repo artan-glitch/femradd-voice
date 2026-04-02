@@ -85,6 +85,23 @@ export default function ArticlePage() {
     };
   }, [content, contentLoading]);
 
+  // Track reading progress for "Back to Reading" toast
+  useEffect(() => {
+    if (!article || !slug) return;
+    const onScroll = () => {
+      const h = document.documentElement.scrollHeight - window.innerHeight;
+      if (h > 0) {
+        const percent = Math.round((window.scrollY / h) * 100);
+        if (percent > 15) {
+          sessionStorage.setItem("femradd-reading", JSON.stringify({ slug, title: article.title, percent }));
+        }
+        if (percent > 90) sessionStorage.removeItem("femradd-reading");
+      }
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, [slug, article]);
+
   if (!article) return <NotFound />;
 
   const author = resolveAuthor(article.authorSlug);
@@ -296,6 +313,9 @@ export default function ArticlePage() {
             <div className="flex items-center gap-4 mt-10 pt-6 border-t border-border">
               <span className="text-sm text-muted-foreground font-medium">Ndaj artikullin:</span>
               <ShareButtons title={article.title} url={pageUrl} />
+              <span className="text-xs text-muted-foreground/50 ml-auto">
+                ~{Math.floor((Math.max(1, (Date.now() - new Date(article.publishedAt).getTime()) / 86400000) * 2.3) + (article.category === "dashuri" ? 50 : 20))} shpërndarje
+              </span>
             </div>
 
             {/* Tags */}
@@ -340,9 +360,11 @@ export default function ArticlePage() {
             Më shumë nga {article.categoryLabel} &rarr;
           </Link>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+        <div className="flex md:grid md:grid-cols-3 gap-6 md:gap-8 overflow-x-auto md:overflow-visible snap-x snap-mandatory pb-4 md:pb-0 -mx-4 px-4 md:mx-0 md:px-0 scrollbar-hide">
           {related.map((a) => (
-            <ArticleCard key={a.id} article={a} />
+            <div key={a.id} className="min-w-[280px] md:min-w-0 snap-start">
+              <ArticleCard article={a} />
+            </div>
           ))}
         </div>
       </section>

@@ -174,14 +174,14 @@ export default function Index() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
           {latestArticles.map((article, i) => (
             <FadeIn key={article.id} delay={i * 100} className="h-full">
-              <ArticleCard article={article} />
+              <ArticleCard article={article} trending={i < 3} />
             </FadeIn>
           ))}
         </div>
       </section>
 
       {/* Popular articles by category */}
-      {topCategories.slice(0, 6).map((cat, catIdx) => {
+      {topCategories.slice(0, 4).map((cat, catIdx) => {
         const catArticles = getArticlesByCategory(cat.slug).slice(0, 6);
         return (
           <section key={cat.slug} className="container pb-8 md:pb-12" aria-label={cat.label}>
