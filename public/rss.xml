@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:03:19 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Si ta ndërtosh vetëbesimin — udhëzues praktik</title>
+      <link>https://www.femradd.com/artikull/si-te-ndertosh-vetbesimin</link>
+      <description>Zbuloni teknika praktike për të ndërtuar vetëbesimin tuaj hap pas hapi. Ushtrime ditore dhe këshilla psikologjike për gruan moderne.</description>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/si-te-ndertosh-vetbesimin</guid>
+      <category>Zhvillim Personal</category>
+    </item>
     <item>
       <title>Parfumet më të mira për femra — guida 2026</title>
       <link>https://www.femradd.com/artikull/parfumet-per-femra</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi ditor për datën 13.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
       <pubDate>Wed, 13 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-ditor-13-dhjetor-2023</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi ditor - 12 dhjetor 2023</title>
-      <link>https://www.femradd.com/artikull/horoskopi-ditor-12-dhjetor-2023</link>
-      <description>Horoskopi ditor për datën 12.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
-      <pubDate>Tue, 12 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-ditor-12-dhjetor-2023</guid>
       <category>Horoskopi</category>
     </item>
   </channel>

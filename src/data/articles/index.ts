@@ -5878,6 +5878,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Katër familjet kryesore janë: lumore (trëndafil, jasëmin), orientale (vanilje, ambër), freskëte (agrume, ujore) dhe drurore (sandël, kedër)."
         }
     ]
+},
+  {
+    "id": "417",
+    "slug": "si-te-ndertosh-vetbesimin",
+    "title": "Si ta ndërtosh vetëbesimin — udhëzues praktik",
+    "excerpt": "Zbuloni teknika praktike për të ndërtuar vetëbesimin tuaj hap pas hapi. Ushtrime ditore dhe këshilla psikologjike për gruan moderne.",
+    "image": "/images/articles/si-te-ndertosh-vetbesimin.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-02",
+    "modifiedAt": "2026-04-02",
+    "faqs": [
+        {
+            "question": "A mund të ndërtohet vetëbesimi apo lindesh me të?",
+            "answer": "Vetëbesimi ndërtohet me përvojë dhe praktikë. Edhe pse disa njerëz kanë predispozitë gjenetike, çdokush mund ta forcojë vetëbesimin me ushtrime të përditshme."
+        },
+        {
+            "question": "Sa kohë duhet për të ndërtuar vetëbesimin?",
+            "answer": "Ndryshimet e para shihen brenda 2-4 javësh nëse praktikoni çdo ditë. Ndërtimi i vetëbesimit të qëndrueshëm kërkon 3-6 muaj punë të vazhdueshme."
+        },
+        {
+            "question": "Cilat janë shenjat e vetëbesimit të ulët?",
+            "answer": "Frika nga gjykimi, vështirësia për të thënë 'jo', krahasimi i vazhdueshëm me të tjerët, dhe shmangia e sfidave të reja janë shenja të zakonshme."
+        }
+    ]
 }
 ];
 
