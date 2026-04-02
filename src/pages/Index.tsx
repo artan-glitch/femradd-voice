@@ -42,7 +42,8 @@ const topCategories = [...categories]
   .slice(0, 6);
 
 export default function Index() {
-  const [heroArticle, ...restArticles] = articles;
+  const sortedByDate = [...articles].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  const [heroArticle, ...restArticles] = sortedByDate;
   const latestArticles = restArticles.slice(0, 8);
 
   // Homepage structured data: WebSite + Organization
