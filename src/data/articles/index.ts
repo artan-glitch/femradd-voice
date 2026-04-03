@@ -5905,6 +5905,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Frika nga gjykimi, vështirësia për të thënë 'jo', krahasimi i vazhdueshëm me të tjerët, dhe shmangia e sfidave të reja janë shenja të zakonshme."
         }
     ]
+},
+  {
+    "id": "418",
+    "slug": "tradhtia-ne-dashuri",
+    "title": "Tradhtia në dashuri — si ta kuptosh dhe tejkalosh",
+    "excerpt": "Si ta kuptoni nëse partneri ju tradhton dhe si të rimëkëmbeni emocionalisht. Këshilla praktike për vendimin më të vështirë.",
+    "image": "/images/articles/tradhtia-ne-dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-03",
+    "modifiedAt": "2026-04-03",
+    "faqs": [
+        {
+            "question": "Cilat janë shenjat më të zakonshme të tradhtisë?",
+            "answer": "Ndryshime të papritura në sjellje, fshehtësi me telefonin, distancim emocional, ndryshim në rutinë dhe reagim defensiv kur pyetet janë shenjat kryesore."
+        },
+        {
+            "question": "A mund të shërohet një marrëdhënie pas tradhtisë?",
+            "answer": "Po, por vetëm nëse të dy partnerët duan sinqerisht të punojnë. Kërkon transparencë të plotë, terapi çifti dhe kohë të konsiderueshme për rindërtimin e besimit."
+        },
+        {
+            "question": "Sa kohë zgjat rimëkëmbja emocionale pas tradhtisë?",
+            "answer": "Zakonisht 1-2 vjet për ta kaluar plotësisht. Procesi nuk është linear dhe ka momente të vështira, por me mbështetje profesionale mund të përshpejtohet."
+        }
+    ]
 }
 ];
 
