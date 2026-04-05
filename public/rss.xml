@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 04 Apr 2026 08:47:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 08:50:52 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>50 mesazhe dashurie që e bëjnë zemrën të rrahë</title>
+      <link>https://www.femradd.com/artikull/mesazhe-dashurie-te-bukura</link>
+      <description>Koleksion me 50 mesazhe dashurie të bukura në shqip për partnerin tuaj. Mesazhe romantike, të ngrohta dhe të sinqerta për çdo rast.</description>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/mesazhe-dashurie-te-bukura</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
     <item>
       <title>Mitet shqiptare — figurat femërore që sfiduan perënditë</title>
       <link>https://www.femradd.com/artikull/mitet-shqiptare-femra</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi ditor për datën 18.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
       <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-ditor-18-dhjetor-2023</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi ditor - 15 dhjetor 2023</title>
-      <link>https://www.femradd.com/artikull/horoskopi-ditor-15-dhjetor-2023</link>
-      <description>Horoskopi ditor për datën 15.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
-      <pubDate>Fri, 15 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-ditor-15-dhjetor-2023</guid>
       <category>Horoskopi</category>
     </item>
   </channel>

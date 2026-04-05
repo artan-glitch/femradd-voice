@@ -5959,6 +5959,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Ato tregojnë se në kulturën e lashtë shqiptare, gruaja kishte rol qendror si mbrojtëse, udhëheqëse dhe forcë natyrore, duke sfiduar idenë se shoqëria ka qenë gjithmonë patriarkale."
         }
     ]
+},
+  {
+    "id": "420",
+    "slug": "mesazhe-dashurie-te-bukura",
+    "title": "50 mesazhe dashurie që e bëjnë zemrën të rrahë",
+    "excerpt": "Koleksion me 50 mesazhe dashurie të bukura në shqip për partnerin tuaj. Mesazhe romantike, të ngrohta dhe të sinqerta për çdo rast.",
+    "image": "/images/articles/mesazhe-dashurie-te-bukura.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "arta-berisha",
+    "readingTime": 4,
+    "publishedAt": "2026-04-05",
+    "modifiedAt": "2026-04-05",
+    "faqs": [
+        {
+            "question": "Kur duhet t'i dërgoj mesazhe dashurie partnerit?",
+            "answer": "Mund t'i dërgoni në çdo moment — në mëngjes për ta filluar ditën bukur, gjatë ditës për ta surprizuar, ose natën para gjumit. Mesazhet e papritura kanë efektin më të madh."
+        },
+        {
+            "question": "Si ta shkruaj një mesazh dashurie personal?",
+            "answer": "Përmendni detaje specifike — një kujtim të përbashkët, diçka që ju pëlqen tek partneri, ose një moment të veçantë. Personalja funksionon më mirë se e përgjithshmja."
+        },
+        {
+            "question": "A janë mesazhet e dashurisë ende të rëndësishme në 2026?",
+            "answer": "Absolutisht. Në epokën dixhitale, një mesazh i sinqertë ka edhe më shumë vlerë. Tregon se keni ndalur për një moment vetëm për ta menduar partnerin."
+        }
+    ]
 }
 ];
 
