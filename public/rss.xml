@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 05 Apr 2026 08:50:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 09:14:04 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Modele flokësh në trend — frymëzim për çdo sezon</title>
+      <link>https://www.femradd.com/artikull/modele-flokesh-2026</link>
+      <description>Zbuloni modelet e flokëve më në trend për 2026. Ide frymëzuese për flokë të shkurtra, mesatare dhe të gjata, për çdo sezon.</description>
+      <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/modele-flokesh-2026</guid>
+      <category>Lifestyle</category>
+    </item>
     <item>
       <title>50 mesazhe dashurie që e bëjnë zemrën të rrahë</title>
       <link>https://www.femradd.com/artikull/mesazhe-dashurie-te-bukura</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi javor për periudhën 18.12.2023 - 24.12.2023. Çdo javë horoskopi ju tregon me cfarë pritet të përballen të lindurit e çdo shenje. Dashi21 Mars –...</description>
       <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-javor</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi ditor - 18 dhjetor 2023</title>
-      <link>https://www.femradd.com/artikull/horoskopi-ditor-18-dhjetor-2023</link>
-      <description>Horoskopi ditor për datën 18.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
-      <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-ditor-18-dhjetor-2023</guid>
       <category>Horoskopi</category>
     </item>
   </channel>
