@@ -31,7 +31,18 @@
     { "source": "/moti-ne-malisheve/", "destination": "/artikull/moti-ne-malisheve-old", "permanent": true },
     { "source": "/kalendari-i-ramazanit/", "destination": "/artikull/kalendari-i-ramazanit-2023", "permanent": true },
     { "source": "/artikull/sa-eshte-numri-ideal-i-femijeve-per-prinderit", "destination": "/kategori/personale", "statusCode": 301 },
-    { "source": "/wp-content/:path*", "destination": "/artikuj", "permanent": true }
+    { "source": "/wp-content/:path*", "destination": "/artikuj", "permanent": true },
+    { "source": "/sq/:slug", "destination": "/artikull/:slug", "permanent": true },
+    { "source": "/sq/:slug/", "destination": "/artikull/:slug", "permanent": true },
+    { "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug", "destination": "/artikull/:slug", "permanent": true },
+    { "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug/", "destination": "/artikull/:slug", "permanent": true },
+    { "source": "/category/bukuri-dhe-mode/", "destination": "/kategori/lifestyle", "permanent": true },
+    { "source": "/category/shendeti/", "destination": "/kategori/lifestyle", "permanent": true },
+    { "source": "/category/dashuri-dhe-sex/", "destination": "/kategori/dashuri", "permanent": true },
+    { "source": "/category/dieta-dhe-fitnessi/", "destination": "/kategori/lifestyle", "permanent": true },
+    { "source": "/category/:slug/", "destination": "/kategori/:slug", "permanent": true },
+    { "source": "/search/:path*", "destination": "/artikuj", "permanent": true },
+    { "source": "/feed/:path*", "destination": "/rss.xml", "permanent": true }
   ],
   "rewrites": [
     { "source": "/((?!assets|images|favicon|manifest|robots|sitemap|rss|og-image|apple-touch-icon).*)", "destination": "/index.html" }
