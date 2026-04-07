@@ -6013,6 +6013,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Përdorni maska ushqyese javore, shmangni nxehtësinë e tepruar, pini shumë ujë dhe përdorni mbrojtës termik para çdo stilimi me nxehtësi."
         }
     ]
+},
+  {
+    "id": "422",
+    "slug": "si-te-jesh-e-lumtur",
+    "title": "Si të jesh e lumtur — 12 zakone të thjeshta ditore",
+    "excerpt": "Zbuloni 12 zakone të thjeshta ditore të bazuara në shkencë që rrisin lumturinë tuaj. Këshilla praktike për një jetë më të kënaqshme.",
+    "image": "/images/articles/si-te-jesh-e-lumtur.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-07",
+    "modifiedAt": "2026-04-07",
+    "faqs": [
+        {
+            "question": "A mund të mësohet lumturia?",
+            "answer": "Po, studimet tregojnë se 40% e lumturisë përcaktohet nga zakonet dhe veprimet tona ditore. Kjo do të thotë se mund ta rrisim ndjeshëm me praktikë të vetëdijshme."
+        },
+        {
+            "question": "Cilat zakone rrisin lumturinë më shpejt?",
+            "answer": "Mirënjohja, ushtrimet fizike dhe lidhjet shoqërore kanë efektin më të shpejtë. Studimet tregojnë ndryshime pozitive brenda 2 javësh praktikë."
+        },
+        {
+            "question": "Pse ndihem e palumtur edhe kur gjithçka duket mirë?",
+            "answer": "Lumturia nuk varet vetëm nga rrethanat e jashtme. Shpesh mungesa e qëllimit, lidhjet e dobëta shoqërore ose stresi kronik shkaktojnë pakënaqësi edhe kur gjërat duken mirë."
+        }
+    ]
 }
 ];
 

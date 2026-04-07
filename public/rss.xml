@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 06 Apr 2026 09:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:09:06 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Si të jesh e lumtur — 12 zakone të thjeshta ditore</title>
+      <link>https://www.femradd.com/artikull/si-te-jesh-e-lumtur</link>
+      <description>Zbuloni 12 zakone të thjeshta ditore të bazuara në shkencë që rrisin lumturinë tuaj. Këshilla praktike për një jetë më të kënaqshme.</description>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/si-te-jesh-e-lumtur</guid>
+      <category>Zhvillim Personal</category>
+    </item>
     <item>
       <title>Modele flokësh në trend — frymëzim për çdo sezon</title>
       <link>https://www.femradd.com/artikull/modele-flokesh-2026</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi ditor për datën 19.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
       <pubDate>Tue, 19 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-ditor-19-dhjetor-2023</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi Javor</title>
-      <link>https://www.femradd.com/artikull/horoskopi-javor</link>
-      <description>Horoskopi javor për periudhën 18.12.2023 - 24.12.2023. Çdo javë horoskopi ju tregon me cfarë pritet të përballen të lindurit e çdo shenje. Dashi21 Mars –...</description>
-      <pubDate>Mon, 18 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-javor</guid>
       <category>Horoskopi</category>
     </item>
   </channel>
