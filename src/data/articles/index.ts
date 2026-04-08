@@ -6040,6 +6040,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Lumturia nuk varet vetëm nga rrethanat e jashtme. Shpesh mungesa e qëllimit, lidhjet e dobëta shoqërore ose stresi kronik shkaktojnë pakënaqësi edhe kur gjërat duken mirë."
         }
     ]
+},
+  {
+    "id": "423",
+    "slug": "fabula-te-shkurtra",
+    "title": "Fabula të shkurtra me mësime të mëdha për jetën",
+    "excerpt": "Lexoni 6 fabula të shkurtra me mësime të mëdha për jetën. Tregime të urta që na mësojnë për durimin, guximin dhe mençurinë.",
+    "image": "/images/articles/fabula-te-shkurtra.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-08",
+    "modifiedAt": "2026-04-08",
+    "faqs": [
+        {
+            "question": "Çfarë janë fabulat dhe pse janë të rëndësishme?",
+            "answer": "Fabulat janë tregime të shkurtra alegorike, shpesh me kafshë si personazhe, që mësojnë vlera morale. Ato janë mënyra efektive për të transmetuar urtësi sepse mbeten në kujtesë."
+        },
+        {
+            "question": "A janë fabulat vetëm për fëmijë?",
+            "answer": "Jo, fabulat kanë mësime universale për çdo moshë. Shumë fabula përmbajnë urtësi të thella për marrëdhëniet, punën, ambicien dhe natyrën njerëzore."
+        },
+        {
+            "question": "Cilat janë fabulat më të njohura shqiptare?",
+            "answer": "Midis fabulave më të njohura shqiptare janë 'Dhelpra dhe rrushi', 'Milingona dhe karkaleci', dhe disa fabula të Naim Frashërit me mesazhe patriotike."
+        }
+    ]
 }
 ];
 
