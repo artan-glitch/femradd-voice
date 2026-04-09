@@ -6067,6 +6067,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Midis fabulave më të njohura shqiptare janë 'Dhelpra dhe rrushi', 'Milingona dhe karkaleci', dhe disa fabula të Naim Frashërit me mesazhe patriotike."
         }
     ]
+},
+  {
+    "id": "424",
+    "slug": "dhurata-te-personalizuara",
+    "title": "Dhurata të personalizuara — ide unike për çdo rast",
+    "excerpt": "Zbuloni ide kreative për dhurata të personalizuara që lënë përshtypje. Dhurata unike për ditëlindje, përvjetore, festa dhe raste speciale.",
+    "image": "/images/articles/dhurata-te-personalizuara.webp",
+    "category": "lifestyle",
+    "categoryLabel": "Lifestyle",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-09",
+    "modifiedAt": "2026-04-09",
+    "faqs": [
+        {
+            "question": "Pse janë dhuratat e personalizuara më të mira?",
+            "answer": "Dhuratat e personalizuara tregojnë se keni menduar për personin dhe keni investuar kohë. Ato krijojnë lidhje emocionale më të fortë se dhuratat e zakonshme."
+        },
+        {
+            "question": "Sa kushton një dhuratë e personalizuar?",
+            "answer": "Dhuratat e personalizuara nuk kanë nevojë të jenë të shtrenjta. Shumë opsione kreative, si letra të shkruara me dorë ose albume fotografish, kushtojnë pak por kanë vlerë emocionale të madhe."
+        },
+        {
+            "question": "Ku mund t'i porosis dhuratat e personalizuara?",
+            "answer": "Mund t'i krijoni vetë në shtëpi ose t'i porosisni online në platforma si Etsy, Amazon Personalize, ose artizanë lokalë shqiptarë që ofrojnë gdhendje dhe personalizim."
+        }
+    ]
 }
 ];
 
