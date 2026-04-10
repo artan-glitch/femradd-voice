@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 09 Apr 2026 09:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:15:31 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 poete shqiptare që ndryshuan letërsinë</title>
+      <link>https://www.femradd.com/artikull/poetat-shqiptare-femra</link>
+      <description>Njohuni me 7 poete shqiptare të shquara që lanë gjurmë në letërsinë shqipe. Historitë dhe kontributi i grave që ndryshuan poezinë.</description>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/poetat-shqiptare-femra</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Dhurata të personalizuara — ide unike për çdo rast</title>
       <link>https://www.femradd.com/artikull/dhurata-te-personalizuara</link>
@@ -397,14 +405,6 @@
       <description>Horoskopi ditor për datën 29.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
       <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/horoskopi-ditor</guid>
-      <category>Horoskopi</category>
-    </item>
-    <item>
-      <title>Horoskopi ditor - 21 dhjetor 2023</title>
-      <link>https://www.femradd.com/artikull/horoskopi-ditor-21-dhjetor-2023</link>
-      <description>Horoskopi ditor për datën 21.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
-      <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-ditor-21-dhjetor-2023</guid>
       <category>Horoskopi</category>
     </item>
   </channel>

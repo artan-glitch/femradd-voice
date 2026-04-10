@@ -6094,6 +6094,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Mund t'i krijoni vetë në shtëpi ose t'i porosisni online në platforma si Etsy, Amazon Personalize, ose artizanë lokalë shqiptarë që ofrojnë gdhendje dhe personalizim."
         }
     ]
+},
+  {
+    "id": "425",
+    "slug": "poetat-shqiptare-femra",
+    "title": "7 poete shqiptare që ndryshuan letërsinë",
+    "excerpt": "Njohuni me 7 poete shqiptare të shquara që lanë gjurmë në letërsinë shqipe. Historitë dhe kontributi i grave që ndryshuan poezinë.",
+    "image": "/images/articles/poetat-shqiptare-femra.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 7,
+    "publishedAt": "2026-04-10",
+    "modifiedAt": "2026-04-10",
+    "faqs": [
+        {
+            "question": "Kush janë poetët më të njohura shqiptare femra?",
+            "answer": "Midis poeteve më të shquara janë Musine Kokalari, Diana Çuli, Natasha Lako, Luljeta Lleshanaku, Flora Brovina, Mimoza Ahmeti dhe Lindita Arapi."
+        },
+        {
+            "question": "Pse ka pak poete femra në letërsinë shqiptare?",
+            "answer": "Normat patriarkale, mungesa e aksesit në arsim dhe censura kanë penguar gratë historikisht. Megjithatë, ato pak gra që patën mundësinë krijuan vepra të jashtëzakonshme."
+        },
+        {
+            "question": "Ku mund t'i lexoj veprat e poeteve shqiptare?",
+            "answer": "Shumica e veprave gjenden në bibliotekat kombëtare, librari shqiptare online, dhe disa janë të disponueshme në platforma dixhitale si Google Books dhe Amazon."
+        }
+    ]
 }
 ];
 
