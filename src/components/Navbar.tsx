@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
-import { Menu, X, Search, ChevronDown } from "lucide-react";
+import { Menu, X, Search, ChevronDown, Bookmark } from "lucide-react";
 import { navCategories, moreCategories } from "@/data/articles";
 import SearchModal from "@/components/SearchModal";
 import ThemeToggle from "@/components/ThemeToggle";
@@ -106,6 +106,14 @@ export default function Navbar() {
             >
               <Search className="w-5 h-5" />
             </button>
+            <Link
+              to="/ruajturat"
+              aria-label="Artikujt e ruajtur"
+              title="Artikujt e ruajtur"
+              className="p-2 rounded-full hover:bg-muted transition-colors text-muted-foreground hover:text-foreground"
+            >
+              <Bookmark className="w-5 h-5" />
+            </Link>
             <ThemeToggle />
             <Link
               to="/rreth-nesh"
@@ -124,6 +132,13 @@ export default function Navbar() {
             >
               <Search className="w-5 h-5" />
             </button>
+            <Link
+              to="/ruajturat"
+              aria-label="Artikujt e ruajtur"
+              className="p-2 text-foreground"
+            >
+              <Bookmark className="w-5 h-5" />
+            </Link>
             <ThemeToggle />
             <button
               aria-label={open ? "Mbyll menunë" : "Hap menunë"}
