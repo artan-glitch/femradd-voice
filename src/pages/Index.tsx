@@ -44,7 +44,7 @@ const topCategories = [...categories]
 export default function Index() {
   const sortedByDate = [...articles].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
   const [heroArticle, ...restArticles] = sortedByDate;
-  const latestArticles = restArticles.slice(0, 8);
+  const latestArticles = restArticles.slice(0, 9);
 
   // Homepage structured data: WebSite + Organization
   const websiteJsonLd = {
@@ -172,7 +172,7 @@ export default function Index() {
             </Link>
           </div>
         </FadeIn>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
           {latestArticles.map((article, i) => (
             <FadeIn key={article.id} delay={i * 100} className="h-full">
               <ArticleCard article={article} trending={i < 3} />
