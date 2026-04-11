@@ -347,7 +347,6 @@ export default function ArticlePage() {
       <CategoryNavLinks
         currentSlug={article.slug}
         category={article.category}
-        categoryLabel={article.categoryLabel}
       />
 
       {/* Related articles */}

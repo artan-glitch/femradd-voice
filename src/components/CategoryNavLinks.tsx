@@ -4,7 +4,6 @@ import { getArticlesByCategory, type ArticleMeta } from "@/data/articles";
 interface Props {
   currentSlug: string;
   category: string;
-  categoryLabel: string;
 }
 
 const zodiacSigns = [
@@ -32,7 +31,7 @@ const zodiacLabels: Record<string, string> = {
  * Specifically designed to create internal links for orphan pages
  * (horoscope daily/weekly articles, zodiac signs, weather cities).
  */
-export default function CategoryNavLinks({ currentSlug, category, categoryLabel }: Props) {
+export default function CategoryNavLinks({ currentSlug, category }: Props) {
   const allInCategory = getArticlesByCategory(category);
 
   if (category === "horoskopi") {
@@ -114,30 +113,8 @@ export default function CategoryNavLinks({ currentSlug, category, categoryLabel 
     );
   }
 
-  // For other categories with many orphan articles, show a compact list
-  const moreArticles = allInCategory
-    .filter((a) => a.slug !== currentSlug)
-    .slice(0, 8);
-
-  if (moreArticles.length < 4) return null;
-
-  return (
-    <nav className="container pb-10" aria-label={`Më shumë nga ${categoryLabel}`}>
-      <h3 className="text-lg font-bold text-foreground mb-4">
-        Më Shumë nga {categoryLabel}
-      </h3>
-      <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-2">
-        {moreArticles.map((a) => (
-          <li key={a.slug}>
-            <Link
-              to={`/artikull/${a.slug}`}
-              className="text-sm text-muted-foreground hover:text-primary transition-colors line-clamp-1"
-            >
-              {a.title}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </nav>
-  );
+  // For non-horoscope and non-weather categories the "Lexo Gjithashtu"
+  // card grid already surfaces related content, so skip rendering this
+  // redundant text list.
+  return null;
 }
