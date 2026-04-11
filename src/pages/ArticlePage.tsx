@@ -16,6 +16,7 @@ import ArticleTags from "@/components/ArticleTags";
 import ArticleHead from "@/components/ArticleHead";
 import ImageLightbox from "@/components/ImageLightbox";
 import FontSizeToggle from "@/components/FontSizeToggle";
+import SaveArticleButton from "@/components/SaveArticleButton";
 import ArticleReaction from "@/components/ArticleReaction";
 import ArticleFAQ from "@/components/ArticleFAQ";
 import CategoryNavLinks from "@/components/CategoryNavLinks";
@@ -281,6 +282,7 @@ export default function ArticlePage() {
                 </div>
               </Link>
               <div className="flex items-center gap-2 ml-auto">
+                <SaveArticleButton slug={article.slug} variant="labeled" />
                 <FontSizeToggle size={fontSize} onChange={handleFontSize} />
                 <div className="xl:hidden">
                   <ShareButtons title={article.title} url={pageUrl} />
@@ -310,7 +312,8 @@ export default function ArticlePage() {
             )}
 
             {/* Bottom share */}
-            <div className="flex items-center gap-4 mt-10 pt-6 border-t border-border">
+            <div className="flex flex-wrap items-center gap-4 mt-10 pt-6 border-t border-border">
+              <SaveArticleButton slug={article.slug} variant="labeled" />
               <span className="text-sm text-muted-foreground font-medium">Ndaj artikullin:</span>
               <ShareButtons title={article.title} url={pageUrl} />
               <span className="text-xs text-muted-foreground/50 ml-auto">

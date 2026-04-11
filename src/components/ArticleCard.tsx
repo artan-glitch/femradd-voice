@@ -1,9 +1,9 @@
-import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { Bookmark } from "lucide-react";
 import type { ArticleMeta } from "@/data/articles";
 import { categoryColors, resolveAuthor } from "@/data/articles";
 import { formatDateAlbanian } from "@/lib/utils";
+import { useBookmark } from "@/hooks/useBookmark";
 
 const CATEGORY_BORDER_COLORS: Record<string, string> = {
   horoskopi: "#9333ea",
@@ -19,23 +19,6 @@ const CATEGORY_BORDER_COLORS: Record<string, string> = {
   moti: "#2563eb",
   "te-ndryshme": "#6b7280",
 };
-
-function useBookmark(slug: string) {
-  const [saved, setSaved] = useState(false);
-  useEffect(() => {
-    const bookmarks: string[] = JSON.parse(localStorage.getItem("femradd-bookmarks") || "[]");
-    setSaved(bookmarks.includes(slug));
-  }, [slug]);
-  const toggle = (e: React.MouseEvent) => {
-    e.preventDefault();
-    e.stopPropagation();
-    const bookmarks: string[] = JSON.parse(localStorage.getItem("femradd-bookmarks") || "[]");
-    const next = saved ? bookmarks.filter(s => s !== slug) : [...bookmarks, slug];
-    localStorage.setItem("femradd-bookmarks", JSON.stringify(next));
-    setSaved(!saved);
-  };
-  return { saved, toggle };
-}
 
 interface Props {
   article: ArticleMeta;
