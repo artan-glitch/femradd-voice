@@ -6121,6 +6121,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Shumica e veprave gjenden në bibliotekat kombëtare, librari shqiptare online, dhe disa janë të disponueshme në platforma dixhitale si Google Books dhe Amazon."
         }
     ]
+},
+  {
+    "id": "426",
+    "slug": "stres-dhe-ankthi",
+    "title": "Si ta menaxhosh stresin — teknika që funksionojnë",
+    "excerpt": "Mësoni teknika efektive për menaxhimin e stresit dhe ankthit. Metoda praktike të bazuara në shkencë për qetësi mendore dhe fizike.",
+    "image": "/images/articles/stres-dhe-ankthi.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-11",
+    "modifiedAt": "2026-04-11",
+    "faqs": [
+        {
+            "question": "Cilat janë shenjat fizike të stresit kronik?",
+            "answer": "Dhimbje koke, tension muskulor, lodhje, pagjumësi, probleme stomaku, rënie e imunitetit dhe ndryshime në apetit janë shenjat më të zakonshme fizike."
+        },
+        {
+            "question": "A është stresi gjithmonë i dëmshëm?",
+            "answer": "Jo, stresi i shkurtër (eustres) mund të jetë motivues dhe na ndihmon të performojmë më mirë. Problemi është stresi kronik që zgjat javë e muaj pa pushim."
+        },
+        {
+            "question": "Kur duhet të kërkoj ndihmë profesionale për stresin?",
+            "answer": "Nëse stresi ndikon jetën tuaj ditore — gjumin, marrëdhëniet, punën — ose nëse ndiheni pa shpresë dhe të mbingarkuara për më shumë se 2 javë, kërkoni ndihmë profesionale."
+        }
+    ]
 }
 ];
 

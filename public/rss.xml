@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 10 Apr 2026 09:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 08:51:16 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Si ta menaxhosh stresin — teknika që funksionojnë</title>
+      <link>https://www.femradd.com/artikull/stres-dhe-ankthi</link>
+      <description>Mësoni teknika efektive për menaxhimin e stresit dhe ankthit. Metoda praktike të bazuara në shkencë për qetësi mendore dhe fizike.</description>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/stres-dhe-ankthi</guid>
+      <category>Zhvillim Personal</category>
+    </item>
     <item>
       <title>7 poete shqiptare që ndryshuan letërsinë</title>
       <link>https://www.femradd.com/artikull/poetat-shqiptare-femra</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/mesazhe-ngushellimi</guid>
       <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Horoskopi ditor</title>
-      <link>https://www.femradd.com/artikull/horoskopi-ditor</link>
-      <description>Horoskopi ditor për datën 29.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...</description>
-      <pubDate>Fri, 22 Dec 2023 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/horoskopi-ditor</guid>
-      <category>Horoskopi</category>
     </item>
   </channel>
 </rss>
