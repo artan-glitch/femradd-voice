@@ -181,35 +181,6 @@ export default function Index() {
         </div>
       </section>
 
-      {/* Popular articles by category */}
-      {topCategories.slice(0, 4).map((cat, catIdx) => {
-        const catArticles = getArticlesByCategory(cat.slug).slice(0, 6);
-        return (
-          <section key={cat.slug} className="container pb-8 md:pb-12" aria-label={cat.label}>
-            <FadeIn>
-              <div className="flex items-center justify-between mb-6">
-                <h2 className="text-xl md:text-2xl font-bold text-foreground">
-                  {cat.label}
-                </h2>
-                <Link
-                  to={`/kategori/${cat.slug}`}
-                  className="text-sm font-medium text-primary hover:underline"
-                >
-                  Shiko të gjitha &rarr;
-                </Link>
-              </div>
-            </FadeIn>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
-              {catArticles.map((article, i) => (
-                <FadeIn key={article.id} delay={i * 80}>
-                  <ArticleCard article={article} />
-                </FadeIn>
-              ))}
-            </div>
-          </section>
-        );
-      })}
-
       {/* Browse categories */}
       <section className="container pb-8 md:pb-12" aria-label="Kategoritë">
         <FadeIn>
