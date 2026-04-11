@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
+import { Users } from "lucide-react";
 import { authors, getArticlesByAuthor } from "@/data/articles";
-import heroImg from "@/assets/hero-editorial.webp";
-import Breadcrumbs from "@/components/Breadcrumbs";
 import PageHead from "@/components/PageHead";
+import PageHero from "@/components/PageHero";
 import FadeIn from "@/components/FadeIn";
 
 export default function Editorial() {
@@ -24,34 +24,17 @@ export default function Editorial() {
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* Hero image */}
-      <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">
-        <img
-          src={heroImg}
-          alt="Redaksia e FemraDD"
-          className="w-full h-full object-cover"
-          width={1200}
-          height={400}
-        />
-      </div>
+      <PageHero
+        title="Redaksia"
+        subtitle="Pas çdo artikulli në FemraDD qëndron një grua shqiptare me pasion, përvojë dhe zë unik. Njihuni me ekipin tonë."
+        icon={<Users className="w-6 h-6" />}
+        breadcrumbs={[
+          { label: "Ballina", href: "/" },
+          { label: "Redaksia" },
+        ]}
+      />
 
       <div className="container max-w-4xl py-8 md:py-12">
-        <Breadcrumbs
-          items={[
-            { label: "Ballina", href: "/" },
-            { label: "Redaksia" },
-          ]}
-        />
-
-        <FadeIn>
-          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
-            Redaksia
-          </h1>
-          <p className="text-lg text-muted-foreground leading-relaxed mb-12 max-w-2xl">
-            Pas çdo artikulli në FemraDD qëndron një grua shqiptare me pasion, përvojë dhe zë unik. Njihuni me ekipin tonë.
-          </p>
-        </FadeIn>
-
         <div className="space-y-8">
           {authors.map((author, i) => {
             const articleCount = getArticlesByAuthor(author.slug).length;

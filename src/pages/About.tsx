@@ -1,7 +1,6 @@
-import heroImg from "@/assets/hero-about.webp";
-import cultureImg from "@/assets/article-culture.webp";
-import Breadcrumbs from "@/components/Breadcrumbs";
+import { Sparkles } from "lucide-react";
 import PageHead from "@/components/PageHead";
+import PageHero from "@/components/PageHero";
 import FadeIn from "@/components/FadeIn";
 
 export default function About() {
@@ -23,31 +22,17 @@ export default function About() {
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* Hero image */}
-      <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">
-        <img
-          src={heroImg}
-          alt="FemraDD — Zëri i Gruas Shqiptare"
-          className="w-full h-full object-cover"
-          width={1200}
-          height={400}
-        />
-      </div>
+      <PageHero
+        title="Rreth Nesh"
+        subtitle="Misioni ynë është të frymëzojmë dhe fuqizojmë gratë e reja shqiptare kudo në botë."
+        icon={<Sparkles className="w-6 h-6" />}
+        breadcrumbs={[
+          { label: "Ballina", href: "/" },
+          { label: "Rreth Nesh" },
+        ]}
+      />
 
       <div className="container max-w-3xl py-8 md:py-12">
-        <Breadcrumbs
-          items={[
-            { label: "Ballina", href: "/" },
-            { label: "Rreth Nesh" },
-          ]}
-        />
-
-        <FadeIn>
-          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-6">
-            Rreth Nesh
-          </h1>
-        </FadeIn>
-
         <div className="space-y-6 text-muted-foreground leading-relaxed">
           <FadeIn>
             <p className="text-lg">
@@ -67,23 +52,6 @@ export default function About() {
             <p>
               Nga kultura te dashuria, nga karriera te argëtimi — ne mbulojmë temat që kanë rëndësi për jetën tënde. Pa gjykime, pa klishe, pa filtra.
             </p>
-          </FadeIn>
-
-          {/* Inline image */}
-          <FadeIn>
-            <figure className="my-8">
-              <img
-                src={cultureImg}
-                alt="Ekipi i FemraDD në punë"
-                className="w-full rounded-xl object-cover aspect-[16/9]"
-                loading="lazy"
-                width={800}
-                height={450}
-              />
-              <figcaption className="text-center text-sm text-muted-foreground mt-3">
-                Ekipi ynë editorial — të përkushtuara ndaj gazetarisë cilësore shqiptare.
-              </figcaption>
-            </figure>
           </FadeIn>
 
           <FadeIn>

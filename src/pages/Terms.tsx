@@ -1,6 +1,6 @@
-import heroImg from "@/assets/hero-terms.webp";
-import Breadcrumbs from "@/components/Breadcrumbs";
+import { FileText } from "lucide-react";
 import PageHead from "@/components/PageHead";
+import PageHero from "@/components/PageHero";
 import FadeIn from "@/components/FadeIn";
 
 export default function Terms() {
@@ -28,34 +28,17 @@ export default function Terms() {
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* Hero image */}
-      <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">
-        <img
-          src={heroImg}
-          alt="Kushtet e Përdorimit — FemraDD"
-          className="w-full h-full object-cover"
-          width={1200}
-          height={400}
-        />
-      </div>
+      <PageHero
+        title="Kushtet e Përdorimit"
+        icon={<FileText className="w-6 h-6" />}
+        breadcrumbs={[
+          { label: "Ballina", href: "/" },
+          { label: "Kushtet e Përdorimit" },
+        ]}
+        updatedAt="10 Mars, 2026"
+      />
 
       <div className="container max-w-3xl py-8 md:py-12">
-        <Breadcrumbs
-          items={[
-            { label: "Ballina", href: "/" },
-            { label: "Kushtet e Përdorimit" },
-          ]}
-        />
-
-        <FadeIn>
-          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-2">
-            Kushtet e Përdorimit
-          </h1>
-          <p className="text-sm text-muted-foreground mb-8">
-            Përditësuar më: 10 Mars, 2026
-          </p>
-        </FadeIn>
-
         <div className="space-y-6 text-muted-foreground leading-relaxed">
           <FadeIn>
             <p>

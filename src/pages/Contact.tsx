@@ -1,8 +1,7 @@
 import { useState, type FormEvent } from "react";
-import { Send, CheckCircle, Mail, Users, Megaphone } from "lucide-react";
-import heroImg from "@/assets/hero-contact.webp";
-import Breadcrumbs from "@/components/Breadcrumbs";
+import { Send, CheckCircle, Mail, Users, Megaphone, MessageCircle } from "lucide-react";
 import PageHead from "@/components/PageHead";
+import PageHero from "@/components/PageHero";
 import FadeIn from "@/components/FadeIn";
 
 export default function Contact() {
@@ -64,34 +63,17 @@ export default function Contact() {
       />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
-      {/* Hero image */}
-      <div className="w-full aspect-[3/1] max-h-[340px] overflow-hidden">
-        <img
-          src={heroImg}
-          alt="Na kontaktoni — FemraDD"
-          className="w-full h-full object-cover"
-          width={1200}
-          height={400}
-        />
-      </div>
+      <PageHero
+        title="Kontakt"
+        subtitle="Keni një pyetje, sugjerim, ose dëshironi të bashkëpunoni me ne? Na shkruani dhe do t'ju përgjigjemi sa më shpejt."
+        icon={<MessageCircle className="w-6 h-6" />}
+        breadcrumbs={[
+          { label: "Ballina", href: "/" },
+          { label: "Kontakt" },
+        ]}
+      />
 
       <div className="container max-w-3xl py-8 md:py-12">
-        <Breadcrumbs
-          items={[
-            { label: "Ballina", href: "/" },
-            { label: "Kontakt" },
-          ]}
-        />
-
-        <FadeIn>
-          <h1 className="text-3xl md:text-5xl font-bold text-foreground mb-4">
-            Kontakt
-          </h1>
-          <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-            Keni një pyetje, sugjerim, ose dëshironi të bashkëpunoni me ne? Na shkruani dhe do t'ju përgjigjemi sa më shpejt.
-          </p>
-        </FadeIn>
-
         {/* Contact info cards */}
         <FadeIn>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10">
