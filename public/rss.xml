@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 11 Apr 2026 08:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 08:55:11 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Si ta bësh foton perfekte për profil</title>
+      <link>https://www.femradd.com/artikull/foto-per-profil</link>
+      <description>Këshilla praktike për foton perfekte të profilit. Mësoni rreth pozimit, ndriçimit, editimit dhe gabimeve që duhet shmangur.</description>
+      <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/foto-per-profil</guid>
+      <category>Lifestyle</category>
+    </item>
     <item>
       <title>Si ta menaxhosh stresin — teknika që funksionojnë</title>
       <link>https://www.femradd.com/artikull/stres-dhe-ankthi</link>
@@ -397,14 +405,6 @@
       <description>Prezantuesja e emisionit televiziv Kiara Tito ka lindur më 18 janar 1996 në Shqipëri (tashmë është 27 vjeç). Kiara Tito Biografia Ajo njihet më së shumti...</description>
       <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/kiara-tito</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Mesazhe ngushellimi</title>
-      <link>https://www.femradd.com/artikull/mesazhe-ngushellimi</link>
-      <description>Në momentet e vështira të jetës, si humbja e një të dashuri, ndarja nga një person i rëndësishëm, një sëmundje apo një zhgënjim i madh. Mesazhe...</description>
-      <pubDate>Sat, 28 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/mesazhe-ngushellimi</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

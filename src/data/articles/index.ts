@@ -6148,6 +6148,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Nëse stresi ndikon jetën tuaj ditore — gjumin, marrëdhëniet, punën — ose nëse ndiheni pa shpresë dhe të mbingarkuara për më shumë se 2 javë, kërkoni ndihmë profesionale."
         }
     ]
+},
+  {
+    "id": "427",
+    "slug": "foto-per-profil",
+    "title": "Si ta bësh foton perfekte për profil",
+    "excerpt": "Këshilla praktike për foton perfekte të profilit. Mësoni rreth pozimit, ndriçimit, editimit dhe gabimeve që duhet shmangur.",
+    "image": "/images/articles/foto-per-profil.webp",
+    "category": "lifestyle",
+    "categoryLabel": "Lifestyle",
+    "authorSlug": "arta-berisha",
+    "readingTime": 4,
+    "publishedAt": "2026-04-12",
+    "modifiedAt": "2026-04-12",
+    "faqs": [
+        {
+            "question": "Cili është ndriçimi më i mirë për foto profili?",
+            "answer": "Drita natyrore e butë është më e mira — pranë dritares ose jashtë gjatë 'golden hour' (ora para perëndimit). Shmangni dritën e drejtpërdrejtë të diellit që krijon hije të forta."
+        },
+        {
+            "question": "Si duhet të pozoj për foton e profilit?",
+            "answer": "Kthejeni fytyrën pak anash (jo drejt), ngrini mjekrën pak, relaksoni supet dhe buzëqeshni natyrshëm. Sytë duhet të shikojnë drejt kamerës."
+        },
+        {
+            "question": "Cilat aplikacione janë më të mirat për editim?",
+            "answer": "Snapseed dhe Lightroom Mobile janë falas dhe profesionale. Për editim të lehtë, VSCO dhe Instagram kanë filtra të bukura. Shmangni editimin e tepruar."
+        }
+    ]
 }
 ];
 
