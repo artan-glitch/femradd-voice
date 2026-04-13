@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 12 Apr 2026 08:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:59:39 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fejesa — traditat, përgatitjet dhe këshillat</title>
+      <link>https://www.femradd.com/artikull/fejesa-traditat</link>
+      <description>Guida e plotë për fejesën shqiptare. Traditat, përgatitjet moderne, këshillat për çiftin dhe gabimet që duhet shmangur në fejesë.</description>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/fejesa-traditat</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
     <item>
       <title>Si ta bësh foton perfekte për profil</title>
       <link>https://www.femradd.com/artikull/foto-per-profil</link>
@@ -397,14 +405,6 @@
       <description>Mikela Pupa është një influencuese dhe blogere e njohur, e cila së pari u bë e famshme përmes paraqitjes së saj në spektaklin e njohur televiziv \</description>
       <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/mikela-pupa</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Kiara Tito</title>
-      <link>https://www.femradd.com/artikull/kiara-tito</link>
-      <description>Prezantuesja e emisionit televiziv Kiara Tito ka lindur më 18 janar 1996 në Shqipëri (tashmë është 27 vjeç). Kiara Tito Biografia Ajo njihet më së shumti...</description>
-      <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/kiara-tito</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

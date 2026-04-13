@@ -6175,6 +6175,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Snapseed dhe Lightroom Mobile janë falas dhe profesionale. Për editim të lehtë, VSCO dhe Instagram kanë filtra të bukura. Shmangni editimin e tepruar."
         }
     ]
+},
+  {
+    "id": "428",
+    "slug": "fejesa-traditat",
+    "title": "Fejesa — traditat, përgatitjet dhe këshillat",
+    "excerpt": "Guida e plotë për fejesën shqiptare. Traditat, përgatitjet moderne, këshillat për çiftin dhe gabimet që duhet shmangur në fejesë.",
+    "image": "/images/articles/fejesa-traditat.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-13",
+    "modifiedAt": "2026-04-13",
+    "faqs": [
+        {
+            "question": "Cilat janë traditat kryesore të fejesës shqiptare?",
+            "answer": "Traditat përfshijnë kërkesën zyrtare nga familja e dhëndrit, shkëmbimin e unazave, dhurata midis familjeve, darkën festive dhe rituale si prishja e gotës për fat."
+        },
+        {
+            "question": "Sa zgjat zakonisht periudha e fejesës?",
+            "answer": "Në kulturën shqiptare, fejesa zgjat zakonisht 6-18 muaj para dasmës. Sot, shumë çifte zgjedhin periudha më të shkurtra, 3-6 muaj."
+        },
+        {
+            "question": "Çfarë duhet të bëj nusja gjatë fejesës?",
+            "answer": "Gëzojeni periudhën, komunikoni hapur me partnerin rreth pritshmërive, planifikoni dasmën bashkë, dhe mos lejoni presionin e familjeve t'ju stresonë."
+        }
+    ]
 }
 ];
 
