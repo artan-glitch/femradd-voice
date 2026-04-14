@@ -2,8 +2,9 @@ name: Daily Article Publish
 
 on:
   schedule:
-    - cron: '3 8 * * *'  # 8:03 UTC = 9:03 CET daily
-  workflow_dispatch: {}   # manual trigger
+    - cron: '3 7 * * *'   # 7:03 UTC = 9:03 CEST — morning post
+    - cron: '3 16 * * *'  # 16:03 UTC = 18:03 CEST — evening post
+  workflow_dispatch: {}    # manual trigger
 
 permissions:
   contents: write
