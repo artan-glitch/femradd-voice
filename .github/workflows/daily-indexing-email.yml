@@ -1,0 +1,67 @@
+name: Daily Indexing URLs Email
+
+on:
+  schedule:
+    - cron: '30 7 * * 1-5'  # 7:30 UTC = 9:30 CEST, weekdays only
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Pick 10 URLs to submit
+        id: urls
+        run: node scripts/daily-indexing-urls.mjs
+
+      - name: Commit submitted tracking
+        if: steps.urls.outputs.has_urls == 'true'
+        run: |
+          git config user.name "FemraDD Bot"
+          git config user.email "bot@femradd.com"
+          git add .github/submitted-urls.txt
+          git diff --cached --quiet || git commit -m "chore: track ${{ steps.urls.outputs.count }} submitted URLs"
+          git push
+
+      - name: Send email with URLs
+        if: steps.urls.outputs.has_urls == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "FemraDD: 10 URL për indeksim sot (${{ steps.urls.outputs.remaining }} të mbetura)"
+          to: artan@mikgroup.ch
+          from: FemraDD Bot <bot@femradd.com>
+          html_body: |
+            <div style="font-family: 'DM Sans', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+              <div style="background: linear-gradient(135deg, #C86B4A 0%, #B85A3A 100%); padding: 24px; border-radius: 12px 12px 0 0;">
+                <h1 style="color: white; margin: 0; font-size: 22px;">FemraDD — Indeksimi i Përditshëm</h1>
+                <p style="color: rgba(255,255,255,0.9); margin: 8px 0 0; font-size: 14px;">Dërgo këto 10 URL në Google Search Console sot</p>
+              </div>
+              <div style="background: #f9f6f3; padding: 24px; border-radius: 0 0 12px 12px;">
+                <p style="color: #64748b; font-size: 14px; margin: 0 0 16px;">Hap <a href="https://search.google.com/search-console" style="color: #C86B4A;">Google Search Console</a>, klikoni <strong>URL Inspection</strong>, ngjitni secilin URL dhe klikoni <strong>Request Indexing</strong>:</p>
+                <ol style="color: #1a1f2e; line-height: 1.8; font-size: 14px;">
+                  ${{ steps.urls.outputs.urls_html }}
+                </ol>
+                <p style="color: #94a3b8; margin-top: 24px; font-size: 12px; text-align: center;">
+                  URL të mbetura në radhë: <strong>${{ steps.urls.outputs.remaining }}</strong> · Çdo ditë pune në 09:30
+                </p>
+              </div>
+            </div>
+
+      - name: Queue empty
+        if: steps.urls.outputs.has_urls != 'true'
+        run: echo "All URLs submitted! Queue is empty."
