@@ -2,7 +2,7 @@ name: Daily Indexing URLs Email
 
 on:
   schedule:
-    - cron: '30 7 * * 1-5'  # 7:30 UTC = 9:30 CEST, weekdays only
+    - cron: '10 7 * * 1-5'  # 7:10 UTC = 9:10 CEST, weekdays only
   workflow_dispatch: {}
 
 permissions:
