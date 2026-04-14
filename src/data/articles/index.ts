@@ -88,7 +88,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "6",
     "slug": "nita-latifi",
-    "title": "Nita Latifi",
+    "title": "Nita Latifi — Biografia, karriera dhe jeta",
     "excerpt": "Nita Latifi, këngetare e njohur dhe një interpretuese e madhe e muzikës live. Ajo ka mbaruar shkollën e mesme “Sami Frashëri” në Prishtinë dhe është...",
     "image": "/images/articles/nita-latifi.webp",
     "category": "te-ndryshme",
@@ -102,7 +102,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "7",
     "slug": "liberta-spahiu",
-    "title": "Liberta Spahiu",
+    "title": "Liberta Spahiu — Biografia, karriera dhe jeta",
     "excerpt": "Liberta Spahiu u njihte fillimisht si modele, pastaj filloi karieren e saj televizive si moderatore. Ajo u lind ne vitin 1985 ne Prishtine. Liberta...",
     "image": "/images/articles/liberta-spahiu.webp",
     "category": "te-ndryshme",
@@ -172,7 +172,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "12",
     "slug": "amos-zaharia",
-    "title": "Amos Zaharia",
+    "title": "Amos Zaharia — Biografia, karriera dhe jeta",
     "excerpt": "Amos Zaharia është një aktor shqiptarë me shumë eksperiencë dhe me njohje të gjerë për rolet e tij që nga mosha e hershme në fushën e aktrimit. Amos...",
     "image": "/images/articles/amos-zaharia.webp",
     "category": "te-ndryshme",
@@ -186,7 +186,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "13",
     "slug": "pushime-ne-kosove",
-    "title": "Pushime ne Kosove",
+    "title": "Pushime në Kosovë — Destinacione të mrekullueshme",
     "excerpt": "Pushime ne Kosove, mund te jete gjë e shkelqyeshme. E vendosur në zemër të Ballkanit, Kosova është një vend i vogël me shumë për të ofruar. Nga qytetet...",
     "image": "/images/articles/pushime-ne-kosove.webp",
     "category": "te-ndryshme",
@@ -200,7 +200,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "14",
     "slug": "arbana-osmani",
-    "title": "Arbana Osmani",
+    "title": "Arbana Osmani — Biografia, karriera dhe jeta",
     "excerpt": "Arbana Osmani (lindur më 7 maj 1983) është një prezantuese televizive dhe personazh radiofonik shqiptar, e njohur më së shumti për prezantimin e Big...",
     "image": "/images/articles/arbana-osmani.webp",
     "category": "te-ndryshme",
@@ -228,7 +228,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "16",
     "slug": "fjale-dashurie",
-    "title": "Fjale dashurie",
+    "title": "Fjalë dashurie — Mesazhet më të bukura",
     "excerpt": "Të dëgjosh fjalë dashurie është e rëndësishme sepse ato ndihmojnë në krijimin dhe ruajtjen e një lidhjeje të thellë emocionale mes dy njerëzve. Këtu...",
     "image": "/images/articles/fjale-dashurie.webp",
     "category": "te-ndryshme",
@@ -242,7 +242,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "17",
     "slug": "olti-curri",
-    "title": "Olti Curri",
+    "title": "Olti Curri — Biografia, karriera dhe jeta",
     "excerpt": "Olti Curri, opinionist i Big Brother VIP Kosova. Numërimi mbrapsht ka filluar dhe vjeshta e këtij viti do t’ju sjellë një nga formatet televizive më...",
     "image": "/images/articles/olti-curri.webp",
     "category": "te-ndryshme",
@@ -270,7 +270,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "19",
     "slug": "diola-dosti",
-    "title": "Diola Dosti",
+    "title": "Diola Dosti — Biografia, karriera dhe jeta",
     "excerpt": "Diola Dosti është një nutricioniste shumë e respektuar dhe e njohur, e cila ka dhënë një kontribut të rëndësishëm në fushën e edukimit të ushqyerjes në...",
     "image": "/images/articles/diola-dosti.webp",
     "category": "te-ndryshme",
@@ -298,7 +298,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "21",
     "slug": "alaudin-hamiti",
-    "title": "Alaudin Hamiti",
+    "title": "Alaudin Hamiti — Biografia, karriera dhe jeta",
     "excerpt": "Alaudin Hamiti do te jete moderator i ketij edicioni te Big Brother VIP Kosova. Ai e beri kete zyrtare ne rrjetin social Instagram permes nje postimi...",
     "image": "/images/articles/alaudin-hamiti.webp",
     "category": "te-ndryshme",
@@ -340,7 +340,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "24",
     "slug": "luiz-ejlli",
-    "title": "Luiz Ejlli",
+    "title": "Luiz Ejlli — Biografia, karriera dhe jeta",
     "excerpt": "Luiz Ejlli, nje emer vertet i dashur per publikun, rrugëtimi i tij drejt suksesit ka qenë frymëzim për shumë muzikantë dhe artistë. Luiz Ejlli...",
     "image": "/images/articles/luiz-ejlli.jpg",
     "category": "te-ndryshme",
@@ -396,7 +396,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "28",
     "slug": "pashket-katolike",
-    "title": "Pashket Katolike",
+    "title": "Pashkët katolike — Tradita dhe kuptimi i festës",
     "excerpt": "Pashket katolike është një festë e rëndësishme fetare që feston ringjalljen e Jezu Krishtit. Shërbimet e Pashkëve shpesh zhvillohen jashtë dhe...",
     "image": "/images/articles/pashket-katolike.jpg",
     "category": "te-ndryshme",
@@ -424,7 +424,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "30",
     "slug": "efi-dhedhes",
-    "title": "Efi Dhedhes",
+    "title": "Efi Dhedhes — Biografia, karriera dhe jeta",
     "excerpt": "Efi Dhedhes, nje personalitet shume i dashur per publikun, bota e show-bizit është zbukuruar nga prania e ketij ylli në ngritje, e cila u shfaq per...",
     "image": "/images/articles/efi-dhedhes.webp",
     "category": "te-ndryshme",
@@ -438,7 +438,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "31",
     "slug": "valbona-mema",
-    "title": "Valbona Mema",
+    "title": "Valbona Mema — Biografia, karriera dhe jeta",
     "excerpt": "Valbona Mema, e lindur dhe e rritur në një qytet të pasur me kulturë dhe muzikë, është një nga këngëtaret më të njohura shqiptare. Ajo është kthyer në...",
     "image": "/images/articles/valbona-mema.jpg",
     "category": "te-ndryshme",
@@ -452,7 +452,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "32",
     "slug": "dea-mishel",
-    "title": "Dea Mishel",
+    "title": "Dea Mishel — Biografia, karriera dhe jeta",
     "excerpt": "Dea Mishel Hoxha është një individ me shumë talente, e cila e ka vendosur veten si një aktore dhe moderatore e arrirë në industrinë e argëtimit...",
     "image": "/images/articles/dea-mishel.webp",
     "category": "te-ndryshme",
@@ -466,7 +466,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "33",
     "slug": "kejvina-kthella",
-    "title": "Kejvina Kthella",
+    "title": "Kejvina Kthella — Biografia, karriera dhe jeta",
     "excerpt": "Kejvina Kthella është një modele e njohur dhe personazh mediatik, e cila u bë e famshme pas paraqitjes së saj mahnitëse fillimisht në Miss Universe...",
     "image": "/images/articles/kejvina-kthella.jpg",
     "category": "te-ndryshme",
@@ -480,7 +480,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "34",
     "slug": "olta-gixhari",
-    "title": "Olta Gixhari",
+    "title": "Olta Gixhari — Biografia, karriera dhe jeta",
     "excerpt": "Olta Gixhari Personaliteti dhe aktorja e shquar televizive është bërë e njohur për paraqitjet e saj në sezonin e dytë të Big Brother VIP Albania, si dhe...",
     "image": "/images/articles/olta-gixhari.jpg",
     "category": "te-ndryshme",
@@ -508,7 +508,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "36",
     "slug": "mikela-pupa",
-    "title": "Mikela Pupa",
+    "title": "Mikela Pupa — Biografia, karriera dhe jeta",
     "excerpt": "Mikela Pupa është një influencuese dhe blogere e njohur, e cila së pari u bë e famshme përmes paraqitjes së saj në spektaklin e njohur televiziv...",
     "image": "/images/articles/mikela-pupa.webp",
     "category": "te-ndryshme",
@@ -522,7 +522,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "37",
     "slug": "kiara-tito",
-    "title": "Kiara Tito",
+    "title": "Kiara Tito — Biografia, karriera dhe jeta",
     "excerpt": "Prezantuesja e emisionit televiziv Kiara Tito ka lindur më 18 janar 1996 në Shqipëri (tashmë është 27 vjeç). Kiara Tito Biografia Ajo njihet më së...",
     "image": "/images/articles/kiara-tito.webp",
     "category": "te-ndryshme",
@@ -536,7 +536,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "38",
     "slug": "mesazhe-ngushellimi",
-    "title": "Mesazhe ngushellimi",
+    "title": "Mesazhe ngushëllimi — Fjalë që ngrohin zemrën",
     "excerpt": "Në momentet e vështira të jetës, si humbja e një të dashuri, ndarja nga një person i rëndësishëm, një sëmundje apo një zhgënjim i madh. Mesazhe...",
     "image": "/images/articles/mesazhe-ngushellimi.webp",
     "category": "te-ndryshme",
@@ -550,7 +550,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "39",
     "slug": "horoskopi-ditor",
-    "title": "Horoskopi ditor",
+    "title": "Horoskopi ditor — Parashikimi për sot",
     "excerpt": "Horoskopi ditor për datën 29.12.2023. Çdo ditë horoskopi ditor ju tregon me cfarë pritet të përballen sot të lindurit e çdo shenje. Dashi21 Mars – 19...",
     "image": "/images/articles/horoskopi-ditor.webp",
     "category": "horoskopi",
@@ -606,7 +606,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "43",
     "slug": "horoskopi-javor",
-    "title": "Horoskopi Javor",
+    "title": "Horoskopi javor — Parashikimi i plotë",
     "excerpt": "Horoskopi javor për periudhën 18.12.2023 - 24.12.2023. Çdo javë horoskopi ju tregon me cfarë pritet të përballen të lindurit e çdo shenje. Dashi21 Mars...",
     "image": "/images/categories/horoskopi.webp",
     "category": "horoskopi",
@@ -802,7 +802,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "57",
     "slug": "horoskopi-mujor",
-    "title": "Horoskopi Mujor",
+    "title": "Horoskopi mujor — Parashikimi i muajit",
     "excerpt": "A jeni gati, adhurues të yjeve kozmike? Kemi hyrë muajin fundit të vitit dhe të gjithëve na intereson se si do të vuloset ky vit për ne! Si ju gjeti...",
     "image": "/images/categories/horoskopi.webp",
     "category": "horoskopi",
@@ -2524,7 +2524,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "180",
     "slug": "krist-aliaj",
-    "title": "Krist Aliaj",
+    "title": "Krist Aliaj — Biografia, karriera dhe jeta",
     "excerpt": "Rrugëtimi i Krist Aliajt për t'u bërë një artist i suksesshëm dhe një personazh i dashur publik ka qenë i jashtëzakonshëm. Krist Aliaj Biografia Që në...",
     "image": "/images/articles/krist-aliaj.webp",
     "category": "grate-shqiptare",
@@ -2538,7 +2538,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "181",
     "slug": "yll-limani",
-    "title": "Yll Limani",
+    "title": "Yll Limani — Biografia, karriera dhe jeta",
     "excerpt": "Yll Limani është një kantautor dhe muzikant shqiptar që fitoi popullaritet në vendin e tij dhe në mbarë Evropën. Ai ka lindur më 24 Shtator 1994 në...",
     "image": "/images/articles/yll-limani.webp",
     "category": "grate-shqiptare",
@@ -2566,7 +2566,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "183",
     "slug": "fjale-te-urta",
-    "title": "Fjale te urta",
+    "title": "Fjalë të urta shqiptare — Mençuria popullore",
     "excerpt": "Fjale te urta kemi dëgjuar të gjithë duke u rritur. Disa prej tyre na kanë ngelur në mendje, të tjerat i kemi harruar. Mirëpo si popull, ne kemi fjale...",
     "image": "/images/articles/fjale-te-urta.webp",
     "category": "argetim",
@@ -2608,7 +2608,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "186",
     "slug": "dashi",
-    "title": "Dashi",
+    "title": "Dashi — Karakteristikat dhe dashuria e tij",
     "excerpt": "Dashi është i pavarur dhe me vullnet të fortë! Të lindurit në shenjën e dashit janë një forcë në të cilën mund t’i llogarsim. Horoskopi për Dashin...",
     "image": "/images/articles/dashi.webp",
     "category": "horoskopi",
@@ -2636,7 +2636,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "188",
     "slug": "binjaket",
-    "title": "Binjaket",
+    "title": "Binjakët — Karakteristikat dhe kompatibiliteti",
     "excerpt": "Binjaket janë shumë të shoqërueshëm dhe të japin përshtypje se nuk janë asnjëherë të vetmuar. Shquhen për talente të shumta dhe për gjallëri. Horoskopi...",
     "image": "/images/articles/binjaket.webp",
     "category": "horoskopi",
@@ -2650,7 +2650,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "189",
     "slug": "gaforrja",
-    "title": "Gaforrja",
+    "title": "Gaforrja — Karakteristikat dhe dashuria",
     "excerpt": "Gaforrja ka shumë cështje emocionale për të zgjidhur, por kur arrin ti tejkalojë, asgjë nuk e ndalon më. Mund të arrijë gjithçka me intuitë. Horoskopi...",
     "image": "/images/articles/gaforrja.webp",
     "category": "horoskopi",
@@ -2664,7 +2664,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "190",
     "slug": "luani",
-    "title": "Luani",
+    "title": "Luani — Horoskopi, karakteristikat dhe dashuria",
     "excerpt": "Luani dëshiron të jetë në qendër të vëmendjes, në krye të aksionit. E do jetën, fëmijët dhe pushtetin. Dëshiron të urdhërojë dhe të shtypë. Horoskopi...",
     "image": "/images/articles/luani.webp",
     "category": "horoskopi",
@@ -2678,7 +2678,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "191",
     "slug": "virgjeresha",
-    "title": "Virgjeresha",
+    "title": "Virgjëresha — Karakteristikat dhe dashuria",
     "excerpt": "Virgjeresha si shenjë është imazhi dhe ekuilibri i elegancës. Atyre ju pëlqen të qëndrojnë të organizuar dhe të fokusuar në të gjitha gjërat. Horoskopi...",
     "image": "/images/articles/virgjeresha.webp",
     "category": "horoskopi",
@@ -2692,7 +2692,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "192",
     "slug": "peshorja",
-    "title": "Peshorja",
+    "title": "Peshorja — Horoskopi, karakteristikat dhe dashuria",
     "excerpt": "Peshorja si shenjë ka një rreth të madh shoqëror dhe mendjehapuria e saj i ndihmon të shkojë mirë me pothuajse këdo. Horoskopi për Peshorën Ditor /...",
     "image": "/images/articles/peshorja.webp",
     "category": "horoskopi",
@@ -2706,7 +2706,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "193",
     "slug": "akrepi",
-    "title": "Akrepi",
+    "title": "Akrepi — Karakteristikat dhe shenjat kompatibile",
     "excerpt": "Akrepi karakterizohet nga një mprehtësi, por kjo nuk është gjithmonë një cilësi negative. Akrepët kanë autencitet dhe vetëbesim. Horoskopi për Akrepin...",
     "image": "/images/articles/akrepi.webp",
     "category": "horoskopi",
@@ -2720,7 +2720,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "194",
     "slug": "shigjetari",
-    "title": "Shigjetari",
+    "title": "Shigjetari — Karakteristikat dhe dashuria",
     "excerpt": "Shigjetari është zakonisht të papërtuar. Ata e urrejnë të qëndrojnë thjesht ulur, por edhe të qëndrojnë kot në këmbë. Horoskopi për Shigjetarin Ditor /...",
     "image": "/images/articles/shigjetari.webp",
     "category": "horoskopi",
@@ -2734,7 +2734,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "195",
     "slug": "bricjapi",
-    "title": "Bricjapi",
+    "title": "Bricjapi — Karakteristikat dhe jeta personale",
     "excerpt": "Bricjapi lë një gjurmë si në pamjen e tij ashtu edhe në stilin e jetës së tij. Nuk është për t'u habitur që Bricjapi duket i butë. Horoskopi për...",
     "image": "/images/articles/bricjapi.webp",
     "category": "horoskopi",
@@ -2748,7 +2748,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "196",
     "slug": "ujori",
-    "title": "Ujori",
+    "title": "Ujori — Karakteristikat dhe kompatibiliteti",
     "excerpt": "Ujori shpesh herë mund të bien në anën introverte të spektrit, por kjo nuk do të thotë që nuk dinë të argëtohen! Horoskopi për Ujorin Ditor / Mujor /...",
     "image": "/images/articles/ujori.webp",
     "category": "horoskopi",
@@ -2762,7 +2762,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "197",
     "slug": "peshqit",
-    "title": "Peshqit",
+    "title": "Peshqit — Karakteristikat dhe dashuria",
     "excerpt": "Peshqit nuk janë në gjendje të lëndojnë as një mizë! Ndjeshmëria është superfuqia e tyre dhe peshqit janë një pasuri për çdo ekip. Horoskopi për...",
     "image": "/images/articles/peshqit.webp",
     "category": "horoskopi",
@@ -2818,7 +2818,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "201",
     "slug": "festat-zyrtare",
-    "title": "Festat zyrtare",
+    "title": "Festat zyrtare — Kalendari i festave në Shqipëri",
     "excerpt": "Festat zyrtare në Kosovë dhe Shqipëri ju mundësojnë të viheni në dijeni për festat e vitit të cilin ndodhemi. Në rastet kur festat zyrtare bien në...",
     "image": "/images/articles/festat-zyrtare.webp",
     "category": "te-ndryshme",
@@ -2860,7 +2860,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "204",
     "slug": "moti-ne-kosove",
-    "title": "Moti ne Kosove",
+    "title": "Moti në Kosove — Parashikimi javor i motit",
     "excerpt": "Moti në Kosovë është i ndikuar nga disa rryma klimatike. Me një sipërfaqe prej 10,887 km2 moti ne Kosove eshte i ndryshueshëm. Moti në Kosovë Duke qenë...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -2874,7 +2874,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "205",
     "slug": "moti-ne-drenas",
-    "title": "Moti ne Drenas",
+    "title": "Moti në Drenas — Parashikimi javor i motit",
     "excerpt": "Moti ne Drenas per sot dhe 7 ditet e ardheshme. [elfsight_weather id=\"33\"] Moti në qytetet e Kosovës:[ninja_tables id=\"118078\"] Moti ne Drenas i...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -2888,7 +2888,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "206",
     "slug": "moti-ne-gjakove",
-    "title": "Moti ne Gjakove",
+    "title": "Moti në Gjakove — Parashikimi javor i motit",
     "excerpt": "Moti ne Gjakove është përgjithësisht i ngrohtë, Mirëpo i karakterizuar me reshje të shpeshta dhe lagështi të madhe. Moti ne Gjakove - Karakteristikat...",
     "image": "/images/articles/moti-ne-gjakove.webp",
     "category": "moti",
@@ -2902,7 +2902,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "207",
     "slug": "moti-ne-istog-old",
-    "title": "Moti ne Istog",
+    "title": "Moti në Istog — Parashikimi javor i motit",
     "excerpt": "Moti ne Istog është i ndryshueshëm sepse ndikojnë 2 rryma klimatike: ajo mezo kontinentale dhe mesdhetare. Moti në Istog - Karakteristikat Moti ne Istog...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -2916,7 +2916,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "208",
     "slug": "moti-ne-kline",
-    "title": "Moti ne Kline",
+    "title": "Moti në Kline — Parashikimi javor i motit",
     "excerpt": "Moti ne Kline, sikur pothuajse në gjithë rrafshin e Dukagjinit(Peja, Gjakova, Rahoveci, Prizreni, etj) i takon klimës së butë kontinentale. Moti në...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -2930,7 +2930,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "209",
     "slug": "moti-ne-malisheve-old",
-    "title": "Moti ne Malisheve",
+    "title": "Moti në Malisheve — Parashikimi javor i motit",
     "excerpt": "Moti ne Malisheve karakterizohet nga rryma e klimës së mesme kontinentale pra ka reshje të shumta me reshje deri ne 1100mm në vit. Moti në Malishevë -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -2944,7 +2944,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "210",
     "slug": "moti-ne-mitrovic",
-    "title": "Moti ne Mitrovic",
+    "title": "Moti në Mitrovic — Parashikimi javor i motit",
     "excerpt": "Moti ne Mitrovic I nënshtrohet ndikimit të rrymave klimatike kontinentale. Frymat e ftohta bëjnë që dimrat në Mitrovicë të jenë të ftohtë Moti në...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -2958,7 +2958,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "211",
     "slug": "moti-ne-peje",
-    "title": "Moti ne Peje",
+    "title": "Moti në Peje — Parashikimi javor i motit",
     "excerpt": "Moti ne Peje është përgjithësisht i freskët. Freskia që vjen nga Rugova bën që moti ne Peje gjatë dimrit të jetë i ftohtë. Moti në Pejë...",
     "image": "/images/articles/moti-ne-peje.webp",
     "category": "moti",
@@ -2972,7 +2972,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "212",
     "slug": "moti-ne-prizren",
-    "title": "Moti ne Prizren",
+    "title": "Moti në Prizren — Parashikimi javor i motit",
     "excerpt": "Moti ne Prizren ndryshon varësisht nga stinët dhe karakterizohet me dimra të ftohtë dhe me verë të nxehtë. Moti në Prizren - Karakteristikat Moti ne...",
     "image": "/images/articles/moti-ne-prizren.webp",
     "category": "moti",
@@ -2986,7 +2986,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "213",
     "slug": "moti-ne-skenderaj",
-    "title": "Moti ne Skenderaj",
+    "title": "Moti në Skenderaj — Parashikimi javor i motit",
     "excerpt": "Moti ne Skenderaj i takon klimës kontinentale. Temperatura mesatare më e ulët shënohet gjatë muajit janar, -1.3˚C. Moti në Skenderaj - Karakteristikat...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3000,7 +3000,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "214",
     "slug": "moti-ne-vushtrri",
-    "title": "Moti ne Vushtrri",
+    "title": "Moti në Vushtrri — Parashikimi javor i motit",
     "excerpt": "Moti ne Vushtrri i nënshtrohet rrymës klimatike kontinentale që karakterizohet me dimër të ftohtë dhe verë të nxehtë. Moti në Vushtrri...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3014,7 +3014,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "215",
     "slug": "moti-ne-prevalle-old",
-    "title": "Moti ne Prevalle",
+    "title": "Moti në Prevalle — Parashikimi javor i motit",
     "excerpt": "Moti ne Prevalle eshte I ftohtë gjatë dimrit dhe me shumë freski gjatë verës. Prevalla është fshat i cili gjindet në Malet e Sharrit. Moti në Prevallë -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3028,7 +3028,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "216",
     "slug": "moti-ne-decan",
-    "title": "Moti ne Decan",
+    "title": "Moti në Decan — Parashikimi javor i motit",
     "excerpt": "Moti ne Decan gjithmonë duhet pasur parasysh pozitën gjeografike të kësaj komune. Deçani si qytezë shtrihet në perëndim të Kosovës. Moti ne Decan -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3042,7 +3042,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "217",
     "slug": "moti-ne-berat",
-    "title": "Moti ne Berat",
+    "title": "Moti në Berat — Parashikimi javor i motit",
     "excerpt": "Moti ne Berat i takon një klimës tipike mesdhetare. Berati është qytet i Shqipërisë në jug të vendit, kufizohet me Fierin, Ballshin etj. Moti në Berat -...",
     "image": "/images/articles/moti-ne-berat.webp",
     "category": "moti",
@@ -3056,7 +3056,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "218",
     "slug": "moti-ne-burrel",
-    "title": "Moti ne Burrel",
+    "title": "Moti në Burrel — Parashikimi javor i motit",
     "excerpt": "Moti në Burrel - Karakterisitkat Burreli është qendra administrative e këtij rrethi. Duke qenë në rrethin e Matit i gjithë relievi është kodrinor e...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3070,7 +3070,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "219",
     "slug": "moti-ne-delvine-old",
-    "title": "Moti ne Delvine",
+    "title": "Moti në Delvine — Parashikimi javor i motit",
     "excerpt": "Moti ne Delvine i takon klimës mesdhetare me ndikime të herë pas hershme të rrymave klim atike kontinentale. Moti në Delvinë - Karakteristikat Marrë...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3084,7 +3084,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "220",
     "slug": "moti-ne-gjirokaster-old",
-    "title": "Moti ne Gjirokaster",
+    "title": "Moti në Gjirokaster — Parashikimi javor i motit",
     "excerpt": "Moti ne Gjirokaster i takon klimës mesdhetare. Gjirokastra është qytet bashki dhe qendra e Qarkut me po këtë emër në jug të Shqipërisë. Moti në...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3098,7 +3098,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "221",
     "slug": "moti-ne-diber",
-    "title": "Moti ne Diber",
+    "title": "Moti në Diber — Parashikimi javor i motit",
     "excerpt": "Moti ne Diber mund të themi se është përzierje e rrymave klimatike kontinentale dhe mesdhetare. Dibra është qytet dhe komunë në pjesën perëndimore të...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3112,7 +3112,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "222",
     "slug": "moti-ne-kavaje",
-    "title": "Moti ne Kavaje",
+    "title": "Moti në Kavaje — Parashikimi javor i motit",
     "excerpt": "Moti ne Kavaje është i klimës mesdhetare. Kavaja është një qytet që ndodhet në pjesën e mesme të Shqipërisë. Moti në Kavajë - Karakteristikat Pozita...",
     "image": "/images/articles/moti-ne-kavaje.webp",
     "category": "moti",
@@ -3126,7 +3126,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "223",
     "slug": "moti-ne-korce-old",
-    "title": "Moti ne Korce",
+    "title": "Moti në Korce — Parashikimi javor i motit",
     "excerpt": "Moti ne Korce përcaktohet nga klima kontinentale dhe karakterizohet me verë të ngrohtë dhe dimra të fortë me reshje të shumta. Moti në Korçë...",
     "image": "/images/articles/moti-ne-korce-old.webp",
     "category": "moti",
@@ -3140,7 +3140,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "224",
     "slug": "moti-ne-pogradec",
-    "title": "Moti ne Pogradec",
+    "title": "Moti në Pogradec — Parashikimi javor i motit",
     "excerpt": "Moti ne Pogradec është i përzier mes klimës malore mesdhetare dhe asaj mezo kontinentale. Pogradeci është qytet në jug lindje të Shqipërisë. Moti në...",
     "image": "/images/articles/moti-ne-pogradec.webp",
     "category": "moti",
@@ -3154,7 +3154,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "225",
     "slug": "moti-ne-ferizaj",
-    "title": "Moti ne Ferizaj",
+    "title": "Moti në Ferizaj — Parashikimi javor i motit",
     "excerpt": "Moti ne Ferizaj i takon klimës kontinentale, shtrihet në pjesën Juglindore të Kosovës. Kryeqendra e Nerodimes ka territor prej 720 km². Qyteti i...",
     "image": "/images/articles/moti-ne-ferizaj.webp",
     "category": "moti",
@@ -3168,7 +3168,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "226",
     "slug": "moti-ne-shqiperi",
-    "title": "Moti ne Shqiperi",
+    "title": "Moti në Shqiperi — Parashikimi javor i motit",
     "excerpt": "Moti ne Shqiperi karakterizohet me temperatura mesatare më te larta. Vargmalet e bëjnë që edhe klima kontinentale të zë vend në Shqipëri. Moti në...",
     "image": "/images/articles/moti-ne-shqiperi.webp",
     "category": "moti",
@@ -3182,7 +3182,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "227",
     "slug": "moti-ne-maqedoni",
-    "title": "Moti ne Maqedoni",
+    "title": "Moti në Maqedoni — Parashikimi javor i motit",
     "excerpt": "Moti ne Maqedoni pershkuan të katër stinët gjatë vitit. Kësisoj, karakterizohet me dimra të ftohtë e me verë të thatë. Moti në Maqedoni Moti ne Maqedoni...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3196,7 +3196,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "228",
     "slug": "moti-ne-prishtine",
-    "title": "Moti ne Prishtine",
+    "title": "Moti në Prishtinë — Parashikimi javor i motit",
     "excerpt": "Moti ne Prishtine eshte i percaktuar kryesisht nga klima kontinentale. Kryeqyteti i Kosovës, Prishtina, shtrihet në veri-lindje të vendit. Moti në...",
     "image": "/images/articles/moti-ne-prishtine.webp",
     "category": "argetim",
@@ -3210,7 +3210,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "229",
     "slug": "moti-ne-brezovice",
-    "title": "Moti ne Brezovice",
+    "title": "Moti në Brezovice — Parashikimi javor i motit",
     "excerpt": "Moti ne Brezovice i takon klimës kontinentale. Bukuria e Maleve të Sharrit sigurisht që ka një nga peisazhet e saj më të bukura në Brezovicë Brezovica...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3224,7 +3224,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "230",
     "slug": "moti-ne-dragash",
-    "title": "Moti ne Dragash",
+    "title": "Moti në Dragash — Parashikimi javor i motit",
     "excerpt": "Moti ne Dragash i takon rrymave klimatike kontinentale me ndikim nga erërat mesdhetare. Komunae Dragashit ka reliev kodrinoro – malor. Moti në Dragash -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3252,7 +3252,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "232",
     "slug": "moti-ne-gjilan",
-    "title": "Moti ne Gjilan",
+    "title": "Moti në Gjilan — Parashikimi javor i motit",
     "excerpt": "Moti ne Gjilan gjatë dimrit është i butë. Përvec ndikimeve të klimës kontinentale që vjen nga erërat e veriut. Moti në Gjilan - Karakteristikat Edhe...",
     "image": "/images/articles/moti-ne-gjilan.webp",
     "category": "moti",
@@ -3266,7 +3266,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "233",
     "slug": "moti-ne-kamenice",
-    "title": "Moti ne Kamenice",
+    "title": "Moti në Kamenice — Parashikimi javor i motit",
     "excerpt": "Moti ne Kamenice i takon klimës kontinentale dhe karakterizohet me reshje të shumta të borës dhe shiut, dhe me temperatura të ulëta. Moti në Kamenicë -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3280,7 +3280,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "234",
     "slug": "moti-ne-lipjan",
-    "title": "Moti ne Lipjan",
+    "title": "Moti në Lipjan — Parashikimi javor i motit",
     "excerpt": "Moti ne Lipjan karakterizohet me klimë të mesme kontinentale me dimra relativisht të butë dhe verëra mesatarisht të nxehta dhe te thata. Moti në Lipjan...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3294,7 +3294,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "235",
     "slug": "moti-ne-novoberde",
-    "title": "Moti ne Novoberde",
+    "title": "Moti në Novoberde — Parashikimi javor i motit",
     "excerpt": "Moti ne Novoberde gjatë dimrit shënon disa ngritje të mëdha dhe karakterizohet me reshje të mëdha të borës. Moti në Novobërdë -Karakteristikat Moti ne...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3308,7 +3308,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "236",
     "slug": "moti-ne-podujeve",
-    "title": "Moti ne Podujeve",
+    "title": "Moti në Podujeve — Parashikimi javor i motit",
     "excerpt": "Moti ne Podujeve ka ndikim të rrymave klimatike kontinentale. Podujeva, është qytet që shtrihet në veri – lindje të Kosovës. Moti në Podujevë...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3322,7 +3322,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "237",
     "slug": "moti-ne-rahovec",
-    "title": "Moti ne Rahovec",
+    "title": "Moti në Rahovec — Parashikimi javor i motit",
     "excerpt": "Moti ne Rahovec shpesh herë i nënshtrohet ndikimit të klimës mesdhetare. Rahoveci, është qytet që ndodhet në jug-perëndim të Kosovës. Moti në Rahovec -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3336,7 +3336,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "238",
     "slug": "moti-ne-shtime",
-    "title": "Moti ne Shtime",
+    "title": "Moti në Shtime — Parashikimi javor i motit",
     "excerpt": "Moti ne Shtime i takon rrymës së klimave kontinentale. Shtimja është qytet në rrafshin e Kosovës, me orientin kah jugu, Moti në Shtime...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3350,7 +3350,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "239",
     "slug": "moti-ne-suhareke",
-    "title": "Moti ne Suhareke",
+    "title": "Moti në Suhareke — Parashikimi javor i motit",
     "excerpt": "Moti ne Suhareke i takon klimës kontinentale por me ndikime të herë pas hershmë të rrymave klimatike mesdhetare. Moti në Suharekë - Karakteristikat...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3364,7 +3364,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "240",
     "slug": "moti-ne-viti",
-    "title": "Moti ne Viti",
+    "title": "Moti në Viti — Parashikimi javor i motit",
     "excerpt": "Moti ne Viti ndikohet nga klima mezo kontinentale. Vitia është qytet e Komunë në lindje të Kosovës, pjesë e regjionit të Anamoravës. Moti në Viti -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3378,7 +3378,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "241",
     "slug": "moti-ne-tirane",
-    "title": "Moti ne Tirane",
+    "title": "Moti në Tiranë — Parashikimi javor i motit",
     "excerpt": "Moti ne Tirane di të jetë i ndikuar nga klima mesdhetare. Kryeqyteti i Shqipërisë, Tirana shtrihet në pjesën qëndrore të territorit të Shqipërisë. Duke...",
     "image": "/images/articles/moti-ne-tirane.webp",
     "category": "argetim",
@@ -3392,7 +3392,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "242",
     "slug": "moti-ne-tetove",
-    "title": "Moti ne Tetove",
+    "title": "Moti në Tetove — Parashikimi javor i motit",
     "excerpt": "Moti ne Tetove karakterizohet nga klima mezo kontinentale me dimra te ftohtë e me borë dhe me verë të nxehtë e të thatë. Moti ne Tetovë...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3406,7 +3406,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "243",
     "slug": "moti-ne-divjake",
-    "title": "Moti ne Divjake",
+    "title": "Moti në Divjake — Parashikimi javor i motit",
     "excerpt": "Moti ne Divjake është i klimës së pastër mesdhetare. Me afërsi vetëm 16 km nga rruga nacionale Divjaka i takon qarkut të Fierit. Moti në Divjakë -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3420,7 +3420,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "244",
     "slug": "moti-ne-durres",
-    "title": "Moti ne Durres",
+    "title": "Moti në Durres — Parashikimi javor i motit",
     "excerpt": "Moti ne Durres është përgjithësisht i ngrohtë. Durrësi është qytet bashki në Shqipërinë e mesme dhe prefekturë e qarkut të Durrësit. Moti në Durrës -...",
     "image": "/images/articles/moti-ne-durres.webp",
     "category": "moti",
@@ -3434,7 +3434,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "245",
     "slug": "moti-ne-struge",
-    "title": "Moti ne Struge",
+    "title": "Moti në Struge — Parashikimi javor i motit",
     "excerpt": "Moti ne Struge është i përzier mes ndikimit të rrymave klimatike, mesdhetare dhe asaj kontinentale. Struga është qytet dhe komunë në pjesën jug...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3448,7 +3448,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "246",
     "slug": "moti-ne-elbasan",
-    "title": "Moti ne Elbasan",
+    "title": "Moti në Elbasan — Parashikimi javor i motit",
     "excerpt": "Moti ne Elbasan i nënshtrohet rrymave klimatike mesdhetare që karakterizohen me dimra të butë dhe me verë të nxehtë e të thatë. Moti në Elbasan -...",
     "image": "/images/articles/moti-ne-elbasan.webp",
     "category": "moti",
@@ -3462,7 +3462,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "247",
     "slug": "moti-ne-resnje",
-    "title": "Moti ne Resnje",
+    "title": "Moti në Resnje — Parashikimi javor i motit",
     "excerpt": "Moti ne Resnje I takon rrymës klimatike mezzo kontinentale. Resnja është qytet dhe komunë që shtrihet në pjesën jug perëndimore të Maqedonisë së...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3476,7 +3476,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "248",
     "slug": "moti-ne-fier",
-    "title": "Moti ne Fier",
+    "title": "Moti në Fier — Parashikimi javor i motit",
     "excerpt": "Moti në Fier - Karakteristikat Me shtrirje në bregdetin shqiptar, si në shumicën e vendeve bregdetare moti ne Fier i takon klimës mesdhetare. Fieri...",
     "image": "/images/articles/moti-ne-fier.webp",
     "category": "moti",
@@ -3490,7 +3490,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "249",
     "slug": "moti-ne-oher",
-    "title": "Moti ne Oher",
+    "title": "Moti në Oher — Parashikimi javor i motit",
     "excerpt": "Moti ne Oher i takon rrymës klimatike mesdhetare. Ohri është qytet dhe komunë në pjesën jug perëndimore të Maqedonisë së Veriut. Moti në Ohër...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3504,7 +3504,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "250",
     "slug": "moti-ne-kumanove",
-    "title": "Moti ne Kumanove",
+    "title": "Moti në Kumanove — Parashikimi javor i motit",
     "excerpt": "Moti ne Kumanove i takon rrymës klimatike kontinentale me thatësi të madhe. Kumanova është qytet dhe komunë që shtrihet në pjesën veriore të Maqedonisë...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3518,7 +3518,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "251",
     "slug": "moti-ne-kamez",
-    "title": "Moti ne Kamez",
+    "title": "Moti në Kamez — Parashikimi javor i motit",
     "excerpt": "Moti ne Kamez është i rrymës klimatike mesdhetare. Kamza është një qytet në pjesën qëndrore të Shqipërisë. Moti në Kamez - Karakteristikat Relievi i...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3532,7 +3532,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "252",
     "slug": "moti-ne-gostivar",
-    "title": "Moti ne Gostivar",
+    "title": "Moti në Gostivar — Parashikimi javor i motit",
     "excerpt": "Moti ne Gostivar është një përzierje mes rrymës klimatike kontinentale dhe asaj mesdhetare që depërton përmes Vardarit. Moti në Gostivar...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3546,7 +3546,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "253",
     "slug": "moti-ne-shkup",
-    "title": "Moti ne Shkup",
+    "title": "Moti në Shkup — Parashikimi javor i motit",
     "excerpt": "Moti ne Shkup karakterizohet me lëvizja të mëdha. Shkupi, qyteti i vjetër më shumë se 6000 vjet, kryeqyteti i Maqedonisë së Veriut. Moti në Shkup -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3560,7 +3560,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "254",
     "slug": "moti-ne-vlore",
-    "title": "Moti ne Vlore",
+    "title": "Moti në Vlore — Parashikimi javor i motit",
     "excerpt": "Moti ne Vlore duke qenë me një reliev kryesisht fushor dhe në breg të detit i takon klimës tipike mesdhetare. Vlora është qytet bregdetar dhe bashki në...",
     "image": "/images/articles/moti-ne-vlore.webp",
     "category": "moti",
@@ -3574,7 +3574,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "255",
     "slug": "moti-ne-ksamil",
-    "title": "Moti ne Ksamil",
+    "title": "Moti në Ksamil — Parashikimi javor i motit",
     "excerpt": "Moti ne Ksamil i nënshtrohet rrymës klimatike mesdhetare dhe reshjet janë të rralla. Ksamili është fshat në jug të Shqipërisë. Moti në Ksamil...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3588,7 +3588,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "256",
     "slug": "moti-ne-theth",
-    "title": "Moti ne Theth",
+    "title": "Moti në Theth — Parashikimi javor i motit",
     "excerpt": "Moti ne Theth përcaktohet nga pozita gjeografike dhe nga ndikimi i klimës kontinentale. Thethi është një fshat pitoresk i vendosur në veri të...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3602,7 +3602,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "257",
     "slug": "moti-ne-kukes",
-    "title": "Moti ne Kukes",
+    "title": "Moti në Kukes — Parashikimi javor i motit",
     "excerpt": "Moti ne Kukes karakterizohet me verë të nxehtë dhe me dimra të fortë e të egër. Kukësi është në veri lindje të Shqipërisë në kufi me Kosovën. Moti në...",
     "image": "/images/articles/moti-ne-kukes.webp",
     "category": "moti",
@@ -3616,7 +3616,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "258",
     "slug": "moti-ne-tepelene",
-    "title": "Moti ne Tepelene",
+    "title": "Moti në Tepelene — Parashikimi javor i motit",
     "excerpt": "Moti ne Tepelene i takon rrymës klimatike mesdhetare kodrinore. Tepelena është qytet dhe bashki në pjesën jugore të Shqipërisë. Moti ne Tepelene -...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3630,7 +3630,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "259",
     "slug": "moti-ne-lac",
-    "title": "Moti ne Lac",
+    "title": "Moti në Lac — Parashikimi javor i motit",
     "excerpt": "Moti ne Lac i takon rrymës klimatike mesdhetare me vetëm 11 km larg bregut të Detit Adriatik. Laçi është qytet Shqipëri. Moti në Lac - Karakteristikat...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3644,7 +3644,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "260",
     "slug": "moti-ne-shkoder",
-    "title": "Moti ne Shkoder",
+    "title": "Moti në Shkodër — Parashikimi javor i motit",
     "excerpt": "Moti ne Shkoder përcaktohet përgjithësisht nga afërsia me detin dhe I takon rrymës klimatike mesdhetare. Shkodra është qytet dhe bashki në pjesën veri...",
     "image": "/images/articles/moti-ne-shkoder.webp",
     "category": "argetim",
@@ -3658,7 +3658,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "261",
     "slug": "moti-ne-lezhe",
-    "title": "Moti ne Lezhe",
+    "title": "Moti në Lezhe — Parashikimi javor i motit",
     "excerpt": "Moti ne Lezhe është i nënshtruat komplet ndaj rrymës klimatike mesdhetare. Lezha është në pjesën veri perëndimore të Shqipërisë. Moti në Lezhë -...",
     "image": "/images/articles/moti-ne-lezhe.webp",
     "category": "moti",
@@ -3672,7 +3672,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "262",
     "slug": "moti-ne-shengjin",
-    "title": "Moti ne Shengjin",
+    "title": "Moti në Shengjin — Parashikimi javor i motit",
     "excerpt": "Moti ne Shengjin i takon rrymave të klimës tipike mesdhetare. Shëngjini është qytet dhe ish bashki në pjesën veri perëndimore të Shqipërisë, pjesë e...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3686,7 +3686,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "263",
     "slug": "moti-ne-permet",
-    "title": "Moti ne Permet",
+    "title": "Moti në Permet — Parashikimi javor i motit",
     "excerpt": "Moti ne Permet është i takon rrymës klimatike mesdhetare. Përmeti është një qytet dhe bashki në Shqipëri, në qarkun e Gjirokastrës. Moti në Permet -...",
     "image": "/images/articles/moti-ne-permet.webp",
     "category": "moti",
@@ -3700,7 +3700,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "264",
     "slug": "moti-ne-peshkopi",
-    "title": "Moti ne Peshkopi",
+    "title": "Moti në Peshkopi — Parashikimi javor i motit",
     "excerpt": "Moti ne Peshkopi të cilesohet si i ftohtë sepse relievi malor me lartësi mbidetare shumë të lartë që varion nga 380 deri në 2751 metra. Moti në...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3714,7 +3714,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "265",
     "slug": "moti-ne-selenice",
-    "title": "Moti ne Selenice",
+    "title": "Moti në Selenice — Parashikimi javor i motit",
     "excerpt": "Moti ne Selenice ndikohet nga klima mesdhetare kodrinore. Selenica është një qytet dhe bashki në pjesën jugore të Shqipërisë, pjesë e rrethit dhe...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3728,7 +3728,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "266",
     "slug": "moti-ne-sarande",
-    "title": "Moti ne Sarande",
+    "title": "Moti në Sarande — Parashikimi javor i motit",
     "excerpt": "Moti ne Sarande karakterizohet me klimë tipike mesdhetare. Saranda është qytet dhe bashki në pjesën jugore të Shqipërisë. Moti në Sarandë...",
     "image": "/images/articles/moti-ne-sarande.webp",
     "category": "moti",
@@ -3742,7 +3742,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "267",
     "slug": "moti-ne-puke",
-    "title": "Moti ne Puke",
+    "title": "Moti në Puke — Parashikimi javor i motit",
     "excerpt": "Moti ne Puke i takon klimës mesdhetare malore me ndikime të herë pas hershmetë klimave kontinentale sidomos gjatë dimrit. Moti në Pukë...",
     "image": "/images/categories/moti.webp",
     "category": "moti",
@@ -3756,7 +3756,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "268",
     "slug": "ktv-live",
-    "title": "KTV Live",
+    "title": "KTV Live — Transmetim direkt online",
     "excerpt": "KTV Live është një kanal televiziv nga Kosova , pjesë e grupit KOHA, që u lansua në Shtator 2000. Programi i tij është i përqendruar në lajme, me Koha e...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3770,7 +3770,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "269",
     "slug": "rtk-live",
-    "title": "RTK Live",
+    "title": "RTK Live — Transmetim direkt online",
     "excerpt": "RTK Live apo Radio Televizioni i Kosovës transmeton çdo ngjarje të rëndësishme për informimin, sportin, kulturën. Mbulon edhe zhvillimet në vend dhe jo...",
     "image": "/images/articles/rtk-live.webp",
     "category": "tv-shqip",
@@ -3784,7 +3784,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "270",
     "slug": "rtv21-live",
-    "title": "RTV21 Live",
+    "title": "RTV21 Live — Transmetim direkt online",
     "excerpt": "RTV21 Live shiko online drejtperdrejt me tema si argetim, lajme, debate e shume programe televizive tjera. RTV21 Live transmeton sot 24 orë përmes...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3798,7 +3798,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "271",
     "slug": "klan-kosova-live",
-    "title": "Klan Kosova Live",
+    "title": "Klan Kosova Live — Transmetim direkt online",
     "excerpt": "Klan Kosova Live prej ç'do vendi qe gjindeni ne ç'do kohe drejtperdrejt online permes interneti falas, te gjitha videot e fundit. Gjeje dashninë e...",
     "image": "/images/articles/klan-kosova-live.webp",
     "category": "argetim",
@@ -3812,7 +3812,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "272",
     "slug": "t7-live",
-    "title": "T7 Live",
+    "title": "T7 Live — Transmetim direkt online",
     "excerpt": "T7 Live prej ç'do vendi qe gjindeni ne ç'do kohe drejtperdrejt Online permes internetit ne TV, PC, Smartphone tuaj. Rreth T7 Live Televizioni T7 Live...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3826,7 +3826,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "273",
     "slug": "atv-kosova",
-    "title": "ATV Kosova",
+    "title": "ATV Kosova Live — Transmetim direkt online",
     "excerpt": "ATV Kosova eshte njeri nga televizionet me te medha ne republiken e kosoves. Shiko live ATV Kosova online. ATV Kosova është projekt medial i themeluar...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3840,7 +3840,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "274",
     "slug": "kanal-10-live",
-    "title": "Kanal 10 Live",
+    "title": "Kanal 10 Live — Transmetim direkt online",
     "excerpt": "Kanal 10 Live, ndiqni nje nder Kanalet Televizive me te shikuara shqiptare nga Kosova online nga PC, TV apo Smartphone juaj. Rreth Kanal 10 Live Kanal...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3854,7 +3854,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "275",
     "slug": "tv-dukagjini-live",
-    "title": "TV Dukagjini Live",
+    "title": "TV Dukagjini Live — Transmetim direkt online",
     "excerpt": "TV Dukagjini Live prej ç'do vendi qe gjindeni ne ç'do kohe drejtperdrejt online permes internetit falas per ju. Rreth TV Dukagjini Raportimi i...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3868,7 +3868,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "276",
     "slug": "kosova-press",
-    "title": "Kosova Press",
+    "title": "Kosova Press Live — Transmetim direkt online",
     "excerpt": "Kosova Press është themeluar më 4 Janar 1999. Që nga ajo kohë, ajo ka publikuar informacione në këto gjuhë: shqip, anglisht, gjermanisht dhe frëngjisht....",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3882,7 +3882,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "277",
     "slug": "tv-klan-live",
-    "title": "TV Klan Live",
+    "title": "TV Klan Live — Transmetim direkt online",
     "excerpt": "TV Klan Live online, i cili mbulon mbi 60 Përqind të territorit të Shqipërisë, qe do te thote 80 Përqind të popullsisë së vendit. Rreth TV Klan Live TV...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3924,7 +3924,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "280",
     "slug": "abc-albania-live",
-    "title": "ABC Albania Live",
+    "title": "ABC Albania Live — Transmetim direkt online",
     "excerpt": "ABC Albania Live, nje nder kanalet me te shikuara Shqiptare, i cili transmetimet i nisi me lidhje direkte nga 7 studio lokale Rreth ABC News Albania...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3938,7 +3938,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "281",
     "slug": "ora-news-live",
-    "title": "Ora News Live",
+    "title": "Ora News Live — Transmetim direkt online",
     "excerpt": "Ora News Live, nje nga televizionet informative me profesionale dhe te pavarur ne panoramen mediatike shqiptare. Rreth Ora News Live Televizioni Ora...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3952,7 +3952,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "282",
     "slug": "report-tv-live",
-    "title": "Report TV Live",
+    "title": "Report TV Live — Transmetim direkt online",
     "excerpt": "Report TV Live është një stacion televiziv informues që transmeton lajme 24 orë në ditë dhe disa shfaqje të përqendruara në informacion. Stacioni...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3966,7 +3966,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "283",
     "slug": "rtsh-live",
-    "title": "RTSH Live",
+    "title": "RTSH Live — Transmetim direkt online",
     "excerpt": "RTSH Live eshte nje institucion mediatik publik qe perfshin Radio Tiranen, qe u krijua ne vitin 1938 dhe Televizionin Shqiptar, qe u krijua ne vitin...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3980,7 +3980,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "284",
     "slug": "top-news-live",
-    "title": "Top News Live",
+    "title": "Top News Live — Transmetim direkt online",
     "excerpt": "Top News Live është në pronësi të Top Media cila gjithashtu zotëron dhe Top Channel është në dispozicion përmes DigitAlb në të tre formatet e saj...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -3994,7 +3994,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "285",
     "slug": "vizion-plus-live",
-    "title": "Vizion Plus Live",
+    "title": "Vizion Plus Live — Transmetim direkt online",
     "excerpt": "Vizion Plus Live online, televizion publik dhe privat ne Republiken e Shqiperise poashtu nje nga me te shikuarit Rreth Vision Plus Live Vizion plus Live...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -4008,7 +4008,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "286",
     "slug": "alsat-m-live",
-    "title": "Alsat M Live",
+    "title": "Alsat M Live — Transmetim direkt online",
     "excerpt": "Alsat M Live është investimi me serioz që është bërë, gjatë viteve të fundit, në biznesin mediatik në Maqedoni, dhe zhvillohet, vazhdimisht, me...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -4050,7 +4050,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "289",
     "slug": "poezi-dashurie",
-    "title": "Poezi dashurie",
+    "title": "Poezi dashurie — Vargjet më prekëse për zemrën",
     "excerpt": "Poezi dashurie të veçanta që mund t’ia dedikoni partnerit apo partneres tuaj. Poezitë e dashurisë janë gjithmonë zgjedhja e shumë të dashuruarëve për të...",
     "image": "/images/articles/poezi-dashurie.webp",
     "category": "lifestyle",
@@ -4064,7 +4064,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "290",
     "slug": "thenie-per-jeten",
-    "title": "Thenie per jeten",
+    "title": "Thënie për jetën — Fjalë që të frymëzojnë çdo ditë",
     "excerpt": "Thenie per jeten në rast se keni nevojë për pak inspirim. Dashuria, motivimi, ëndrrat e shëndeti përbëjnë shpirtin e gjithsecilit prej nesh. Mirëpo...",
     "image": "/images/articles/thenie-per-jeten.webp",
     "category": "argetim",
@@ -4106,7 +4106,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "293",
     "slug": "poezi-per-mallin",
-    "title": "Poezi per mallin",
+    "title": "Poezi për mallin — Vargjet më prekëse",
     "excerpt": "Poezi per mallin, kjo poezi është një nga ato poezi dashurie që i kushtohet tradhëtisë dhe ikjes. Një poezi që i këndon dashurisë. Autori i drejtohet...",
     "image": "/images/articles/poezi-per-mallin.webp",
     "category": "argetim",
@@ -4232,7 +4232,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "302",
     "slug": "vitet-e-rinise",
-    "title": "Vitet e rinise",
+    "title": "Vitet e rinisë — Si t'i shfrytëzosh më së miri",
     "excerpt": "Vitet e rinise. Kur jemi duke e përjetuar na duket si periudha më e vështirë e jetës. Mirëpo vitet e rinisë në faktë janë periudha më e bukur. Kështu...",
     "image": "/images/articles/vitet-e-rinise.webp",
     "category": "argetim",
@@ -4246,7 +4246,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "303",
     "slug": "ami-dhe-ermali",
-    "title": "Ami dhe Ermali!",
+    "title": "Ami dhe Ermali — Historia e çiftit të dashur",
     "excerpt": "Ami dhe Ermali! Kur dashuria dhe biznesi kombinojnë. Çfarë duhet për të vendosur theksin tek termi 'çift i pushtetshëm'? Si e ndërtoni një perandori me...",
     "image": "/images/articles/ami-dhe-ermali.webp",
     "category": "kuriozitete",
@@ -4358,7 +4358,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "311",
     "slug": "divjaka",
-    "title": "Divjaka",
+    "title": "Divjaka — Parku kombëtar për ta vizituar",
     "excerpt": "Divjaka është një qytet që shtrihet në Qarkun e Fierit, në jug - perëndim të Shqipërisë. Lagina e Karavastasë ndodhet pikërisht në Divjakë Megjithëse...",
     "image": "/images/articles/divjaka.webp",
     "category": "udhetime",
@@ -4498,7 +4498,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "321",
     "slug": "te-hene-te-mbare",
-    "title": "Te hene te mbare!",
+    "title": "Të hënë të mbarë — Si ta nisësh javën mirë",
     "excerpt": "Te hene te mbare! Nuk është gjithmonë e lehtë të nisësh javën mbarë me një buzëqeshje. Ne ju ftojmë të ndiqni këto udhëzime të thjeshta, që do t’ju...",
     "image": "/images/articles/te-hene-te-mbare.webp",
     "category": "personale",
@@ -4554,7 +4554,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "325",
     "slug": "decani",
-    "title": "Decani",
+    "title": "Deçani — Udhëtim në historinë e qytetit",
     "excerpt": "Decani ndodhet Përgjatë rrugës kryesore Pejë-Gjakovë-Prizren. Ky qytet i vogël e i pa eksploruar shumë meriton të vizitohet. Deçani ka pozitë të mirë...",
     "image": "/images/articles/decani.webp",
     "category": "udhetime",
@@ -4582,7 +4582,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "327",
     "slug": "pune-gjate-veres",
-    "title": "Pune gjate veres",
+    "title": "Punë gjatë verës — Mundësi për studentët dhe të rinjtë",
     "excerpt": "Pune gjate veres Nëse jeni i ri, kjo është vera kur keni përfunduar shkollën e mesme, dhe doni të punoni, ne ju kuptojmë shumë mirë. Shumë prej jush që...",
     "image": "/images/articles/pune-gjate-veres.webp",
     "category": "te-ndryshme",
@@ -4610,7 +4610,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "329",
     "slug": "pushimet-verore",
-    "title": "Pushimet Verore",
+    "title": "Pushimet verore — Ide dhe destinacione ideale",
     "excerpt": "Pushimet Verore jane këtu! Shkollat ​​janë mbyllur tashme dhe koha është e shkëlqyer për tu argëtuar. Pishinat janë hapur si dhe sezoni i plazhit më në...",
     "image": "/images/articles/pushimet-verore.webp",
     "category": "kuriozitete",
@@ -4652,7 +4652,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "332",
     "slug": "si-te-kemi-vetbesim",
-    "title": "Si te kemi vetbesim",
+    "title": "Si të kemi vetëbesim — Këshilla praktike",
     "excerpt": "Si te kemi vetbesim. Ndoshta doni të përmirësoni karrierën tuaj, marrëdhëniet ose ndonjë gjë tjetër, e cila është jetike për lumturinë tuaj. Apo keni...",
     "image": "/images/articles/si-te-kemi-vetbesim.webp",
     "category": "personale",
@@ -4694,7 +4694,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "335",
     "slug": "formula-e-suksesit",
-    "title": "Formula e suksesit",
+    "title": "Formula e suksesit — Hapat për ta arritur",
     "excerpt": "Formula e suksesit për të cilin flasin të gjithë bizesmenët, Si mund të realizohet diçka e tillë? Imagjino sa mirë do të ishte sikur të realizoje punën...",
     "image": "/images/articles/formula-e-suksesit.webp",
     "category": "personale",
@@ -4708,7 +4708,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "336",
     "slug": "plazhi-i-palases",
-    "title": "Plazhi i Palases",
+    "title": "Plazhi i Palasës — Perla e Bregdetit Shqiptar",
     "excerpt": "Plazhi i Palases, zgjedhja e përkryer për vizitë në muajin shtator. Po, koha më e mirë e vitit për të vizituar Rivierën Shqiptare, shtrirja bregdetare...",
     "image": "/images/articles/plazhi-i-palases.webp",
     "category": "udhetime",
@@ -4750,7 +4750,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "339",
     "slug": "hobi-te-ndryshem",
-    "title": "Hobi te ndryshem",
+    "title": "Hobi të ndryshëm — Ide për kohën e lirë",
     "excerpt": "Hobi te ndryshem Nganjëherë fusha në të cilën jemi kualifikuar profesionalisht është krejt ndryshe nga hobi që kemi. Për arsye të ndryshme shumë prej...",
     "image": "/images/articles/hobi-te-ndryshem.webp",
     "category": "personale",
@@ -4806,7 +4806,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "343",
     "slug": "liqeni-i-kuqishtes",
-    "title": "Liqeni i kuqishtes",
+    "title": "Liqeni i Kuqishtës — Perla e natyrës",
     "excerpt": "Liqeni i kuqishtes. Kur mali dhe uji takohen japin reflektimin më të mirë të natyrës edhe në malet e Rugovës. Në lartësi mbi 2.000 metra në malet e...",
     "image": "/images/articles/liqeni-i-kuqishtes.webp",
     "category": "kuriozitete",
@@ -4820,7 +4820,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "344",
     "slug": "leximi-i-librave",
-    "title": "Leximi i Librave",
+    "title": "Leximi i librave — Pse është i rëndësishëm",
     "excerpt": "Leximi i Librave, pse duhet të lexoni më shumë libra? A lexojnë të rinjtë shqiptar dhe a shohin përfitim nga leximi? Po, të rinjtë shqiptarë lexojnë...",
     "image": "/images/articles/leximi-i-librave.webp",
     "category": "argetim",
@@ -4862,7 +4862,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "347",
     "slug": "elbasani",
-    "title": "Elbasani",
+    "title": "Elbasani — Udhëzues për qytetin historik",
     "excerpt": "Elbasani ndodhet 40 minuta larg me makinë nga Tirana. I vendosur në zemër të Shqipërisë. Njihet për festimin e festës më të lashtë Shqiptare. Ka qytete...",
     "image": "/images/articles/elbasani.webp",
     "category": "udhetime",
@@ -4904,7 +4904,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "350",
     "slug": "produktiviteti",
-    "title": "Produktiviteti",
+    "title": "Produktiviteti — 10 këshilla për çdo ditë",
     "excerpt": "Produktiviteti, nuk është e lehtë të jesh produktiv kur je i mbyllur në shtëpi. Sidomos kur vetizolimi po zgjatë me javë. Në rast se spontaniteti nuk po...",
     "image": "/images/articles/produktiviteti.webp",
     "category": "kuriozitete",
@@ -4932,7 +4932,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "352",
     "slug": "top-channel-live",
-    "title": "Top Channel Live",
+    "title": "Top Channel Live — Transmetim direkt online",
     "excerpt": "Top Channel Live nisi për herë të parë transmetimet në 21 dhjetor 2001. Në vetëm pak muaj arriti të shndërrohej në ekranin kryesor dhe më të dashur për...",
     "image": "/images/categories/tv-shqip.webp",
     "category": "tv-shqip",
@@ -5030,7 +5030,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "359",
     "slug": "kalaja-e-novoberdes",
-    "title": "Kalaja e Novoberdes",
+    "title": "Kalaja e Novobërdës — Monumenti historik",
     "excerpt": "Kalaja e Novoberdes daton në shekullin e 14të. Gojëdhënat për këto treva e tregojnë lashtësinë e qytetërimit dhe jetës në këto anë. Novobërda ndodhet...",
     "image": "/images/articles/kalaja-e-novoberdes.webp",
     "category": "udhetime",
@@ -5044,7 +5044,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "360",
     "slug": "zhvillimi-personal",
-    "title": "Zhvillimi Personal",
+    "title": "Zhvillimi personal — Rruga drejt suksesit",
     "excerpt": "Zhvillimi Personal: Tri aspektet dhe rëndësia e tyre. Kur duam të ndryshojmë për të mirë ne si njerëz duhet t’i dedikohemi zhvillimit personal. Mirëpo...",
     "image": "/images/articles/zhvillimi-personal.webp",
     "category": "personale",
@@ -5128,7 +5128,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "366",
     "slug": "fields-of-war",
-    "title": "Fields of War",
+    "title": "Fields of War — Filmi për luftën në Kosovë",
     "excerpt": "Fields of War (Fushat e luftës) filmi britaniko-kosovar ka të bëjë me një fshat të vogël ku jetojnë serbë dhe shqiptarë. Çfarë ndodh me të rinjt e...",
     "image": "/images/articles/fields-of-war.webp",
     "category": "kuriozitete",
@@ -5170,7 +5170,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "369",
     "slug": "pa-ty-ismail-kadare",
-    "title": "Pa ty Ismail Kadare",
+    "title": "'Pa ty' nga Ismail Kadare — Analizë",
     "excerpt": "Pa ty ismail kadare Ti ike udhës së pafundme Ku zverdhin drurët gjetherënës Mbi gjokse pellgjësh tani tundet I arti medalion i hënës. Lejlekët ikën...",
     "image": "/images/articles/pa-ty-ismail-kadare.webp",
     "category": "argetim",
@@ -5254,7 +5254,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "375",
     "slug": "sekreti-i-lumturise",
-    "title": "Sekreti i lumturise",
+    "title": "Sekreti i lumturisë — Çfarë duhet të dini",
     "excerpt": "Sekreti i lumturise? Të darkosh i shoqëruar nga miqtë, partneri apo familja ju bën mirë për trupin dhe shëndetin mendor. Kjo është treguar nga një...",
     "image": "/images/articles/sekreti-i-lumturise.webp",
     "category": "personale",
@@ -5310,7 +5310,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "379",
     "slug": "mendime-pozitive",
-    "title": "Mendime pozitive",
+    "title": "Mendime pozitive — Si të ndryshosh jetën",
     "excerpt": "Mendime pozitive, a mund ta trajnoni trurin tuaj të mendojë ndryshe? Studimet tregojnë se po, është e mundur të trajnoni trurin tuaj. Bisedat që bëni...",
     "image": "/images/articles/mendime-pozitive.webp",
     "category": "personale",
@@ -5338,7 +5338,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "381",
     "slug": "cajupi-poezi",
-    "title": "Cajupi poezi",
+    "title": "Çajupi poezi — Vargjet më të bukura të poetit",
     "excerpt": "Cajupi poezi, kur dëgjoni fjalën poezi cilat vargje ju vinë në mendje? Apo kur është hera e fundit që keni lexuar një poezi?Fatmirësisht letërsia...",
     "image": "/images/articles/cajupi-poezi.webp",
     "category": "argetim",
@@ -5352,7 +5352,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "382",
     "slug": "tradhtar",
-    "title": "Tradhtar",
+    "title": "Tradhtar — Si ta njohësh dhe si të veprosh",
     "excerpt": "Tradhtar - Si të njohësh një të tillë? Do të të pëlqente ta dije apriori nëse partneri yt do të jetë besnik apo tradhtar? Sipas një kërkimi të fundit...",
     "image": "/images/articles/tradhtar.webp",
     "category": "kuriozitete",
@@ -5366,7 +5366,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "383",
     "slug": "genjeshtra",
-    "title": "Genjeshtra",
+    "title": "Gënjeshtra — Si ta kuptoni kur dikush ju gënjen",
     "excerpt": "Genjeshtra. Njeriu gënjen që në moshën 4 vjeçare. Historia e gënjeshtrave ka mungesë të detajeve sepse ka më pak për të mbajtur në mend. Të gënjeni në...",
     "image": "/images/articles/genjeshtra.webp",
     "category": "lifestyle",
@@ -5422,7 +5422,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "387",
     "slug": "celsi-i-suksesit",
-    "title": "Celsi i suksesit",
+    "title": "Çelësi i suksesit — Zakonet e fituesve",
     "excerpt": "Celsi i suksesit - Gjashtë arsye pse disiplina është celsi i suksesit! Disiplina është çelësi i suksesit në jetë. Pa të nuk mund të keni suksesin që...",
     "image": "/images/articles/celsi-i-suksesit.webp",
     "category": "kuriozitete",
@@ -5478,7 +5478,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "391",
     "slug": "realiteti-virtual",
-    "title": "Realiteti virtual",
+    "title": "Realiteti virtual — Teknologjia e së ardhmes",
     "excerpt": "Realiteti virtual (VR) a mundet të shpëtojë turizmin? Situata gjithnjë e në zhvillim dhe e paprecedentë e COVID-19 paraqet sfida ekstreme për...",
     "image": "/images/articles/realiteti-virtual.webp",
     "category": "kuriozitete",
@@ -5492,7 +5492,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "392",
     "slug": "kafeja-neper-bote",
-    "title": "Kafeja neper bote",
+    "title": "Kafeja nëpër botë — Traditat e servirjes",
     "excerpt": "Kafeja neper bote. Të gjithë në mbarë botën ndjekim të njëjtin ritual: Zgjohemi dhe pijmë një filxhan kafe. Kafeja është emëruesi i përbashkët i...",
     "image": "/images/articles/kafeja-neper-bote.webp",
     "category": "kuriozitete",
@@ -5520,7 +5520,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "394",
     "slug": "liri-gero",
-    "title": "Liri Gero",
+    "title": "Liri Gero — Biografia, karriera dhe jeta personale",
     "excerpt": "Liri Gero, Vajza 17vjeçare shqiptare duke luftuar nazistët! Çfarë historie! Dhe mënyra se si vdiq e reja Liri Gero, është e çuditshme. Kristiana...",
     "image": "/images/articles/liri-gero.webp",
     "category": "kuriozitete",
@@ -5562,7 +5562,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "397",
     "slug": "filma-kosovar",
-    "title": "Filma kosovar",
+    "title": "Filma kosovarë — Më të mirët që duhen parë patjetër",
     "excerpt": "Filma kosovar që duhet t’i shikoni patjetër. Nëse mendoni se vetëm filmat ndërkombëtarë ju lënë pa frymë, marrim çmime dhe shëtisin botën. Atëherë...",
     "image": "/images/articles/filma-kosovar.webp",
     "category": "kuriozitete",
@@ -5590,7 +5590,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "399",
     "slug": "pemet-e-vjeshtes",
-    "title": "Pemet e vjeshtes",
+    "title": "Pemët e vjeshtës — Bukuria e stinës më magjike",
     "excerpt": "Pemet e vjeshtes. Cilat janë pemët më mahnitëse të vjeshtës? Jemi në stinës e vjeshtës dhe sigurisht ngjyrat vjeshtore kanë mbuluar vendin. Çdo mëngjes...",
     "image": "/images/articles/pemet-e-vjeshtes.webp",
     "category": "kuriozitete",
@@ -5604,7 +5604,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "400",
     "slug": "veshje-per-vjeshte",
-    "title": "Veshje per vjeshte",
+    "title": "Veshje për vjeshtë — Trendet e sezonit",
     "excerpt": "Veshje per vjeshte. Edhe pse ne nuk jemi një faqe mode, por ama disa këshilla se si të visheni me stil për sezonin e vjeshtës do t'jua japim. Këtë stil...",
     "image": "/images/articles/veshje-per-vjeshte.webp",
     "category": "grate-shqiptare",
@@ -5618,7 +5618,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "401",
     "slug": "festa-e-halloween",
-    "title": "Festa e Halloween",
+    "title": "Festa e Halloween — Tradita dhe historia e saj",
     "excerpt": "Festa e Halloween ka edhe dhjetë ditë që të vij, megjithatë javës tjetër kemi rezervuar për ju dy artikuj me ide për maska dhe dekorime. Sot, duke qënë...",
     "image": "/images/articles/festa-e-halloween.webp",
     "category": "te-ndryshme",
@@ -5632,7 +5632,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "402",
     "slug": "mr-bean-shqip",
-    "title": "Mr Bean Shqip",
+    "title": "Mr Bean në shqip — Episodet më të dashura",
     "excerpt": "Mr Bean Shqip. Lufta e Rowan Atkinson për të qenë pjesë e skenës është shembull i vështirësive që duhet të kalosh deri te suksesi. Megjithë fillimet e...",
     "image": "/images/articles/mr-bean-shqip.webp",
     "category": "lifestyle",
@@ -5674,7 +5674,7 @@ const _rawArticles: ArticleMeta[] = [
   {
     "id": "405",
     "slug": "poezi-per-kujtimet",
-    "title": "Poezi per kujtimet",
+    "title": "Poezi për kujtimet — Vargje për kohën e kaluar",
     "excerpt": "Poezi per kujtimet. Deri më sot kam qenë unë ajo që kam mbledhur tregimet dhe kujtimet e të tjerëve dhe sot që dikush më pyeti t’i tregoja diçka nga...",
     "image": "/images/articles/poezi-per-kujtimet.webp",
     "category": "argetim",
