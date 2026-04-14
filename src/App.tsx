@@ -23,6 +23,7 @@ const Terms = lazy(() => import("./pages/Terms"));
 const Editorial = lazy(() => import("./pages/Editorial"));
 const AllArticles = lazy(() => import("./pages/AllArticles"));
 const Bookmarks = lazy(() => import("./pages/Bookmarks"));
+const SeoDashboard = lazy(() => import("./pages/SeoDashboard"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -69,6 +70,7 @@ const App = () => (
               <Route path="/kushtet" element={<Terms />} />
               <Route path="/redaksia" element={<Editorial />} />
               <Route path="/ruajturat" element={<Bookmarks />} />
+              <Route path="/seo-dashboard" element={<SeoDashboard />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </Suspense>
