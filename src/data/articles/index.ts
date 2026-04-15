@@ -6256,6 +6256,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Ushqimi tradicional është ballokumja — një ëmbëlsirë me miell misri, gjalpë, sheqer dhe vezë. Gjithashtu hahen vezë, bukë misri dhe ëmbëlsira sezoni."
         }
     ]
+},
+  {
+    "id": "431",
+    "slug": "komplimente-per-femra",
+    "title": "Si t'i bësh komplimente një gruaje — 30 ide",
+    "excerpt": "Mësoni artin e komplimenteve të sinqerta për gratë. 30 ide komplimentesh që prekin zemrën, nga pamja deri tek personaliteti.",
+    "image": "/images/articles/komplimente-per-femra.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 4,
+    "publishedAt": "2026-04-15",
+    "modifiedAt": "2026-04-15",
+    "faqs": [
+        {
+            "question": "Cilat komplimente i vlerësojnë më shumë gratë?",
+            "answer": "Gratë vlerësojnë më shumë komplimentet për personalitetin, aftësitë dhe inteligjencën e tyre sesa ato për pamjen e jashtme. Komplimentet specifike dhe të sinqerta kanë më shumë ndikim."
+        },
+        {
+            "question": "Si ta bëj një kompliment pa u dukur sipërfaqësor?",
+            "answer": "Jini specifik — në vend të 'je e bukur', thoni 'buzëqeshja jote ndriçon dhomën'. Përmendni detaje konkrete që tregojnë se vërtet keni vënë re diçka."
+        },
+        {
+            "question": "A ka komplimente që duhen shmangur?",
+            "answer": "Po, shmangni komplimentet për trupin që mund të duken të papërshtatshme, krahasimet me gra tjera, dhe komplimentet që fillojnë me 'për një grua...' të cilat janë kondescenduese."
+        }
+    ]
 }
 ];
 
