@@ -6229,6 +6229,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, Shqipëria është vend i sigurt për udhëtime natyrore. Rekomandohet të keni hartë, ujë të mjaftueshëm, dhe të informoni dikë për itinerarin nëse shkoni në shtigje malore."
         }
     ]
+},
+  {
+    "id": "430",
+    "slug": "dita-e-veres",
+    "title": "Dita e Verës — historia dhe traditat shqiptare",
+    "excerpt": "Mësoni historinë dhe traditat e Ditës së Verës, festës më të vjetër shqiptare të 14 marsit. Origjina pagane dhe festimet moderne.",
+    "image": "/images/articles/dita-e-veres.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-15",
+    "modifiedAt": "2026-04-15",
+    "faqs": [
+        {
+            "question": "Kur festohet Dita e Verës?",
+            "answer": "Dita e Verës festohet më 14 mars çdo vit. Është festë zyrtare kombëtare në Shqipëri dhe shënon ardhjen e pranverës dhe fundin e dimrit."
+        },
+        {
+            "question": "Cili është origjina e Ditës së Verës?",
+            "answer": "Dita e Verës ka origjinë pagane ilire, para kristianizmit. Ishte festë e rilindjes së natyrës, e lidhur me kultin e diellit dhe ciklin bujqësor."
+        },
+        {
+            "question": "Çfarë hahet tradicionalisht në Ditën e Verës?",
+            "answer": "Ushqimi tradicional është ballokumja — një ëmbëlsirë me miell misri, gjalpë, sheqer dhe vezë. Gjithashtu hahen vezë, bukë misri dhe ëmbëlsira sezoni."
+        }
+    ]
 }
 ];
 
