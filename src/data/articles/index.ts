@@ -6310,6 +6310,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, ka autore shqiptare si Blerta Vula, Mimoza Mustafaj dhe tjera që kanë shkruar për zhvillim personal në kontekstin shqiptar. Gjithashtu ka podcaste dhe blogje cilësore."
         }
     ]
+},
+  {
+    "id": "433",
+    "slug": "veshje-elegante",
+    "title": "Si të vishesh elegante pa shpenzuar shumë",
+    "excerpt": "Këshilla praktike për t'u veshur elegante me buxhet të kufizuar. Truke mode, bazat e garderobës dhe ide kombinimesh inteligjente.",
+    "image": "/images/articles/veshje-elegante.webp",
+    "category": "lifestyle",
+    "categoryLabel": "Lifestyle",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-16",
+    "modifiedAt": "2026-04-16",
+    "faqs": [
+        {
+            "question": "Cilat janë bazat e një garderobe elegante?",
+            "answer": "Një blazer i mirë, pantallona klasike, këmishë e bardhë, fustan i zi, xhins cilësor, pallto e mirë dhe këpucë të rehatshme elegante formojnë bazën."
+        },
+        {
+            "question": "Si të blej rroba cilësore me çmim të ulët?",
+            "answer": "Blini jashtë sezoni me ulje, vizitoni outlet-e, konsideroni second-hand, investoni në baza dhe kurseni në trende."
+        },
+        {
+            "question": "Sa copë rroba nevojiten për garderobë funksionale?",
+            "answer": "Një garderobë-kapsulë funksionale ka 30-40 copë që kombinohen midis tyre. Kjo zvogëlon stresin e zgjedhjes dhe garanton stil çdo ditë."
+        }
+    ]
 }
 ];
 
