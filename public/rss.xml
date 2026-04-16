@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:59:23 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10 libra që çdo grua duhet t'i lexojë në 2026</title>
+      <link>https://www.femradd.com/artikull/libra-zhvillim-personal</link>
+      <description>Lista me 10 libra zhvillimi personal që çdo grua duhet t'i lexojë në 2026. Libra për vetëbesim, lidershipi, financa dhe marrëdhënie.</description>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/libra-zhvillim-personal</guid>
+      <category>Zhvillim Personal</category>
+    </item>
     <item>
       <title>Dita e Verës — historia dhe traditat shqiptare</title>
       <link>https://www.femradd.com/artikull/dita-e-veres</link>
@@ -397,14 +405,6 @@
       <description>Dea Mishel Hoxha është një individ me shumë talente, e cila e ka vendosur veten si një aktore dhe moderatore e arrirë në industrinë e argëtimit...</description>
       <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dea-mishel</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Kejvina Kthella — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/kejvina-kthella</link>
-      <description>Kejvina Kthella është një modele e njohur dhe personazh mediatik, e cila u bë e famshme pas paraqitjes së saj mahnitëse fillimisht në Miss Universe...</description>
-      <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/kejvina-kthella</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

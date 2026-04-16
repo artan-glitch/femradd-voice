@@ -6283,6 +6283,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, shmangni komplimentet për trupin që mund të duken të papërshtatshme, krahasimet me gra tjera, dhe komplimentet që fillojnë me 'për një grua...' të cilat janë kondescenduese."
         }
     ]
+},
+  {
+    "id": "432",
+    "slug": "libra-zhvillim-personal",
+    "title": "10 libra që çdo grua duhet t'i lexojë në 2026",
+    "excerpt": "Lista me 10 libra zhvillimi personal që çdo grua duhet t'i lexojë në 2026. Libra për vetëbesim, lidershipi, financa dhe marrëdhënie.",
+    "image": "/images/articles/libra-zhvillim-personal.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 7,
+    "publishedAt": "2026-04-16",
+    "modifiedAt": "2026-04-16",
+    "faqs": [
+        {
+            "question": "Cili është libri më i mirë për fillestare në zhvillim personal?",
+            "answer": "Për fillestare rekomandohet 'Atomic Habits' i James Clear — është praktik, i thjeshtë dhe ofron teknika të zbatueshme menjëherë në jetën e përditshme."
+        },
+        {
+            "question": "Sa libra duhet të lexoj në vit për zhvillim personal?",
+            "answer": "Cilësia është më e rëndësishme se sasia. Leximi i 6-12 librave në vit me vëmendje, duke shënuar dhe zbatuar mësimet, ka më shumë ndikim sesa leximi sipërfaqësor i 50."
+        },
+        {
+            "question": "A ka libra zhvillimi personal të shkruara nga shqiptare?",
+            "answer": "Po, ka autore shqiptare si Blerta Vula, Mimoza Mustafaj dhe tjera që kanë shkruar për zhvillim personal në kontekstin shqiptar. Gjithashtu ka podcaste dhe blogje cilësore."
+        }
+    ]
 }
 ];
 
