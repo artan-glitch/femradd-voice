@@ -2,7 +2,47 @@ import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { articles, loadArticleContent } from "@/data/articles";
 import { analyzeArticle, type SeoAnalysis } from "@/lib/seo-analyzer";
-import { ChevronDown, Download, Search } from "lucide-react";
+import { ChevronDown, Download, Search, Lock } from "lucide-react";
+
+const DASHBOARD_PASSWORD = "femradd2026";
+
+function PasswordGate({ onUnlock }: { onUnlock: () => void }) {
+  const [pw, setPw] = useState("");
+  const [error, setError] = useState(false);
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (pw === DASHBOARD_PASSWORD) {
+      sessionStorage.setItem("seo-auth", "true");
+      onUnlock();
+    } else {
+      setError(true);
+      setTimeout(() => setError(false), 2000);
+    }
+  };
+
+  return (
+    <main className="min-h-[60vh] flex items-center justify-center">
+      <form onSubmit={handleSubmit} className="bg-card border border-border rounded-xl p-8 max-w-sm w-full text-center">
+        <Lock className="w-10 h-10 text-muted-foreground mx-auto mb-4" />
+        <h1 className="text-xl font-bold text-foreground mb-2">SEO Dashboard</h1>
+        <p className="text-sm text-muted-foreground mb-6">Vendosni fjalëkalimin për të aksesuar</p>
+        <input
+          type="password"
+          value={pw}
+          onChange={(e) => setPw(e.target.value)}
+          placeholder="Fjalëkalimi..."
+          className={`w-full px-4 py-3 bg-background border rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary mb-4 ${error ? "border-red-500 shake" : "border-border"}`}
+          autoFocus
+        />
+        {error && <p className="text-red-500 text-sm mb-3">Fjalëkalim i gabuar</p>}
+        <button type="submit" className="w-full bg-primary text-white py-3 rounded-lg font-medium hover:bg-primary/90 transition-colors">
+          Hyr
+        </button>
+      </form>
+    </main>
+  );
+}
 
 type FilterScore = "all" | "passing" | "warning" | "failing";
 type SortKey = "score" | "title" | "words" | "links";
@@ -20,7 +60,7 @@ function severityDot(severity: string): string {
   return "bg-blue-500";
 }
 
-export default function SeoDashboard() {
+function SeoDashboardInner() {
   const [analyses, setAnalyses] = useState<SeoAnalysis[]>([]);
   const [loading, setLoading] = useState(true);
   const [progress, setProgress] = useState({ done: 0, total: articles.length });
@@ -333,4 +373,10 @@ export default function SeoDashboard() {
       </div>
     </main>
   );
+}
+
+export default function SeoDashboard() {
+  const [authed, setAuthed] = useState(() => sessionStorage.getItem("seo-auth") === "true");
+  if (!authed) return <PasswordGate onUnlock={() => setAuthed(true)} />;
+  return <SeoDashboardInner />;
 }
