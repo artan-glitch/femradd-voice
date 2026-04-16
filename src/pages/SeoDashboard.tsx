@@ -63,6 +63,7 @@ function severityDot(severity: string): string {
 function SeoDashboardInner() {
   const [analyses, setAnalyses] = useState<SeoAnalysis[]>([]);
   const [loading, setLoading] = useState(true);
+  const [indexingStats, setIndexingStats] = useState({ submitted: 0, total: 0 });
   const [progress, setProgress] = useState({ done: 0, total: articles.length });
   const [expanded, setExpanded] = useState<string | null>(null);
   const [filterScore, setFilterScore] = useState<FilterScore>("all");
@@ -101,6 +102,18 @@ function SeoDashboardInner() {
       }
     };
     run();
+
+    // Fetch indexing stats
+    fetch("/sitemap.xml").then(r => r.text()).then(xml => {
+      const totalUrls = (xml.match(/<loc>/g) || []).length;
+      fetch("https://raw.githubusercontent.com/artan-glitch/femradd-voice/main/.github/submitted-urls.txt")
+        .then(r => r.text())
+        .then(text => {
+          const submitted = text.split("\n").filter(Boolean).length;
+          setIndexingStats({ submitted, total: totalUrls });
+        })
+        .catch(() => setIndexingStats({ submitted: 0, total: totalUrls }));
+    });
 
     return () => {
       cancelled = true;
@@ -238,6 +251,35 @@ function SeoDashboardInner() {
             <div className="text-xs text-muted-foreground uppercase tracking-wide">Problematike (&lt;60)</div>
             <div className="text-2xl font-bold text-red-600 mt-1">{stats.failing}</div>
             <div className="text-xs text-muted-foreground">{Math.round(stats.failing / stats.total * 100)}%</div>
+          </div>
+        </div>
+      )}
+
+      {/* Google Indexing Status */}
+      {indexingStats.total > 0 && (
+        <div className="bg-card border border-border rounded-xl p-4 mb-6">
+          <div className="flex items-center justify-between mb-3">
+            <h3 className="text-sm font-semibold text-foreground">Google Indeksimi (vlerësim)</h3>
+            <span className="text-xs text-muted-foreground">Bazuar në URL-t e dërguara në GSC</span>
+          </div>
+          <div className="flex items-center gap-6">
+            <div>
+              <span className="text-2xl font-bold text-green-600">{indexingStats.submitted}</span>
+              <span className="text-muted-foreground text-sm"> / {indexingStats.total}</span>
+              <div className="text-xs text-muted-foreground mt-1">URL të dërguara për indeksim</div>
+            </div>
+            <div className="flex-1">
+              <div className="w-full bg-muted rounded-full h-3 overflow-hidden">
+                <div
+                  className="bg-green-500 h-full rounded-full transition-all duration-500"
+                  style={{ width: `${Math.round((indexingStats.submitted / indexingStats.total) * 100)}%` }}
+                />
+              </div>
+              <div className="flex justify-between text-xs text-muted-foreground mt-1">
+                <span>{Math.round((indexingStats.submitted / indexingStats.total) * 100)}% e dërguar</span>
+                <span>{indexingStats.total - indexingStats.submitted} në pritje</span>
+              </div>
+            </div>
           </div>
         </div>
       )}
