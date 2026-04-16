@@ -1,0 +1,24 @@
+{
+  "slug": "mitologjia-shqiptare-gra",
+  "title": "Mitologjia shqiptare — figurat femërore",
+  "description": "Zbuloni figurat femërore të mitologjisë shqiptare — nga Zana e Malit te Ora. Gra të fuqishme që ruanin natyrën dhe fatin e njeriut.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "arta-berisha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Kush janë Zanat në mitologjinë shqiptare?",
+      "answer": "Zanat janë qenie hyjnore femërore që jetonin në male dhe burime. Ato mbronin natyrën dhe kishin fuqi mbinatyrore — shëronin, parashikonin dhe kontrollonin motin."
+    },
+    {
+      "question": "Çfarë është Ora në besimin shqiptar?",
+      "answer": "Ora është shpirti femëror mbrojtës që çdo njeri ka — Ora e mirë sjell fat dhe e mbron njeriun gjatë gjithë jetës."
+    },
+    {
+      "question": "A kanë figura femërore rolin qendror në mitologjinë shqiptare?",
+      "answer": "Po, figurat femërore si Zanat, Ora dhe Bukuroshja e Dheut kanë role qendrore — ato kontrollojnë natyrën, fatin dhe jetën e njeriut."
+    }
+  ]
+}

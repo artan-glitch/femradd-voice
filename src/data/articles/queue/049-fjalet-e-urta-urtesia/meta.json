@@ -1,0 +1,24 @@
+{
+  "slug": "fjalet-e-urta-urtesia",
+  "title": "Fjalët e urta — urtësia e gjyshërve",
+  "description": "Fjalët e urta shqiptare mbajnë urtësinë e brezave. Kuptimi i thellë prapa shprehjeve popullore më të njohura.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi & Poezi",
+  "authorSlug": "arta-berisha",
+  "readingTime": 5,
+  "faqs": [
+    {
+      "question": "Çfarë trajton 'Fjalët e urta — urtësia e gjyshërve'?",
+      "answer": "Fjalët e urta shqiptare mbajnë urtësinë e brezave. Kuptimi i thellë prapa shprehjeve popullore më të njohura."
+    },
+    {
+      "question": "Pse është i rëndësishëm?",
+      "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+    },
+    {
+      "question": "Ku mund të lexoj më shumë?",
+      "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+    }
+  ]
+}
