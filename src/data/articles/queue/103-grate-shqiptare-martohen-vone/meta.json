@@ -1,0 +1,24 @@
+{
+  "slug": "grate-shqiptare-martohen-vone",
+  "title": "Pse gratë shqiptare martohen vonë sot",
+  "description": "Pse gratë shqiptare po martohen më vonë se kurrë? Zbulo ndryshimet gjeneratave, arsyet shoqërore dhe çfarë do të thotë kjo për familjen tonë.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Pse gratë shqiptare po martohen më vonë se më parë?",
+      "answer": "Sepse kanë mundësi më shumë për arsim, karrierë dhe pavarësi ekonomike. Martesa nuk është më e vetmja rrugë drejt sigurisë dhe identitetit personal."
+    },
+    {
+      "question": "A është diçka e keqe që po martohemi më vonë?",
+      "answer": "Jo. Tregon zhvillim shoqëror dhe vetëdijësim. Martesa në moshë më të madhe shpesh sjell stabilitet emocional dhe vendim më të menduar."
+    },
+    {
+      "question": "Çfarë mendojnë familjet shqiptare për këtë ndryshim?",
+      "answer": "Brezat e vjetër shpesh ngutin, ndërsa brezat e rinj e pranojnë gjithnjë e më shumë. Dialogu mes brezave është thelbësor për të kuptuar njëri-tjetrin."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "pse-grate-qajne-me-shume",
+  "title": "Pse gratë qajnë më shumë se burrat",
+  "description": "Pse gratë qajnë më shpesh? Zbulo arsyet biologjike, hormonale dhe shoqërore prapa kësaj dukurie të zakonshme që meriton kuptim më të thellë.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Pse gratë qajnë më shumë se burrat?",
+      "answer": "Përgjigjja kombinon faktorë biologjikë, hormonalë dhe edukimit shoqëror. Hormonet e prolaktinës dhe shoqëria që lejon shprehjen luajnë rol të rëndësishëm."
+    },
+    {
+      "question": "A është e shëndetshme të qash shpesh?",
+      "answer": "Po, qarja është një mekanizëm natyror i pastrimit emocional. Ajo lëshon hormone stresi nga trupi dhe ndihmon në rivendosjen e ekuilibrit emocional."
+    },
+    {
+      "question": "Si t'i kuptoj qarjet e mia që duken pa shkak?",
+      "answer": "Shpesh nuk janë pa shkak — janë vetëm pa shkak të dukshëm. Trupi nxjerr emocione të grumbulluara. Lëre të rrjedhin pa gjykim, ato kanë mesazh."
+    }
+  ]
+}

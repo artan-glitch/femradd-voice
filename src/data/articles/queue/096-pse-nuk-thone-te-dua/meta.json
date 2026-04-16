@@ -1,0 +1,24 @@
+{
+  "slug": "pse-nuk-thone-te-dua",
+  "title": "Pse disa njerëz nuk e thonë 'të dua'",
+  "description": "Pse disa njerëz nuk e shprehin dashurinë me fjalë? Zbulo arsyet psikologjike, gjuhët e ndryshme të dashurisë dhe si ta kuptosh pa fjalë.",
+  "image": "/images/categories/dashuri.webp",
+  "category": "dashuri",
+  "categoryLabel": "Dashuri & Takime",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Pse partneri im nuk e thotë 'të dua'?",
+      "answer": "Mund të jetë mësuar të shprehë dashurinë përmes veprimeve, jo fjalëve. Edukimi familjar dhe trauma e të kaluarës ndikojnë shumë në këtë lloj komunikimi."
+    },
+    {
+      "question": "A do të thotë mosthënia se nuk më do?",
+      "answer": "Jo domosdoshmërisht. Shumë njerëz e tregojnë dashurinë përmes kujdesit, kohës së kaluar bashkë, ose ndihmës praktike. Vërtetësia gjendet në veprime."
+    },
+    {
+      "question": "Si mund ta inkurajoj të më thotë 'të dua'?"  ,
+      "answer": "Mos e detyro. Krijoji një ambient ku ndien siguri emocionale. Falenderoje për veprimet e dashurisë që bën dhe trego se i vlerëson edhe fjalët kur vijnë."
+    }
+  ]
+}
