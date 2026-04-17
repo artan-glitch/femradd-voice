@@ -6364,6 +6364,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Përdorni zëra të ndryshëm për personazhet, bëni pyetje gjatë leximit, lejojini fëmijët ta imagjinojnë fundin, dhe kthejeni në ritual të përnatshëm."
         }
     ]
+},
+  {
+    "id": "435",
+    "slug": "dedikim-dashurie",
+    "title": "Dedikime dashurie — fjalët më të bukura për partnerin",
+    "excerpt": "Koleksion me dedikime dashurie të bukura në shqip. Fjalë romantike, poezi të shkurtra dhe dedikim që prekin zemrën e partnerit.",
+    "image": "/images/articles/dedikim-dashurie.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 4,
+    "publishedAt": "2026-04-17",
+    "modifiedAt": "2026-04-17",
+    "faqs": [
+        {
+            "question": "Si ta shkruaj një dedikim dashurie personal?",
+            "answer": "Filloni me një kujtim të përbashkët, përshkruani çfarë ndiheni kur jeni me partnerin, dhe përfundoni me një premtim ose dëshirë. Sinqeriteti ka më shumë rëndësi se përsosmëria."
+        },
+        {
+            "question": "Kur janë dedikimet e dashurisë më efektive?",
+            "answer": "Dedikimet kanë ndikimin më të madh kur janë të papritura — jo vetëm në përvjetore apo ditëlindje, por edhe në ditë të zakonshme kur partneri nuk e pret."
+        },
+        {
+            "question": "A janë dedikimet e shkruara më të mira se ato me gojë?",
+            "answer": "Të dyja kanë vlerë, por dedikimet e shkruara kanë avantazhin se mund të rilexohen. Një letër e shkruar me dorë është veçanërisht e çmuar sepse tregon kohë dhe përpjekje."
+        }
+    ]
 }
 ];
 
