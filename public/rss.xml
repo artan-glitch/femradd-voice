@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:42:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 08:58:26 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Përrallat më të bukura shqip për fëmijët tuaj</title>
+      <link>https://www.femradd.com/artikull/perralla-per-femije</link>
+      <description>Lexoni përrallat më të bukura shqiptare për fëmijë. Tregime klasike të ritreguar me mesazhe edukative për prindërit modernë.</description>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/perralla-per-femije</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>10 libra që çdo grua duhet t'i lexojë në 2026</title>
       <link>https://www.femradd.com/artikull/libra-zhvillim-personal</link>
@@ -397,14 +405,6 @@
       <description>Efi Dhedhes, nje personalitet shume i dashur per publikun, bota e show-bizit është zbukuruar nga prania e ketij ylli në ngritje, e cila u shfaq per...</description>
       <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/efi-dhedhes</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Valbona Mema — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/valbona-mema</link>
-      <description>Valbona Mema, e lindur dhe e rritur në një qytet të pasur me kulturë dhe muzikë, është një nga këngëtaret më të njohura shqiptare. Ajo është kthyer në...</description>
-      <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/valbona-mema</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
