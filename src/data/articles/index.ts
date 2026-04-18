@@ -6418,6 +6418,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Sfidat kryesore përfshijnë balancimin e identitetit kulturor, diskriminimin, presionin për t'u integruar duke ruajtur rrënjët, dhe mungesa e rrjetit mbështetës familjar."
         }
     ]
+},
+  {
+    "id": "437",
+    "slug": "fjale-te-urta-shqip",
+    "title": "Fjalët e urta shqiptare — urtësia e gjyshërve",
+    "excerpt": "Zbuloni fjalët e urta shqiptare më domethënëse dhe kuptimin e tyre. Urtësia popullore e stërgjyshërve për gruan e sotme.",
+    "image": "/images/articles/fjale-te-urta-shqip.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-18",
+    "modifiedAt": "2026-04-18",
+    "faqs": [
+        {
+            "question": "Çfarë janë fjalët e urta?",
+            "answer": "Fjalët e urta janë shprehje të shkurtra popullore që përmbajnë urtësi dhe mësime jete. Ato kanë kaluar brez pas brezi gojarisht dhe përfaqësojnë përvojën kolektive të popullit."
+        },
+        {
+            "question": "Pse janë ende relevante fjalët e urta shqiptare?",
+            "answer": "Sepse trajtojnë tema universale — marrëdhënie, punë, karakter, drejtësi — me thjeshtësi dhe mprehtësi. Urtësia e tyre zbaton edhe në kontekstin modern."
+        },
+        {
+            "question": "Sa fjalë të urta ka gjuha shqipe?",
+            "answer": "Gjuha shqipe ka mijëra fjalë të urta. Koleksionerë si Spiro Dine, Zef Jubani dhe të tjerë kanë mbledhur me mijëra, dhe shumë tjera vazhdojnë të transmetohen gojarisht."
+        }
+    ]
 }
 ];
 

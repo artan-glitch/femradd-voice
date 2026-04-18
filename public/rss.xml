@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 18 Apr 2026 08:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 10:05:15 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Gratë e diasporës që po ndryshojnë botën</title>
@@ -14,6 +14,14 @@
       <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/diaspora-shqiptare-grate</guid>
       <category>Gratë Shqiptare</category>
+    </item>
+    <item>
+      <title>Fjalët e urta shqiptare — urtësia e gjyshërve</title>
+      <link>https://www.femradd.com/artikull/fjale-te-urta-shqip</link>
+      <description>Zbuloni fjalët e urta shqiptare më domethënëse dhe kuptimin e tyre. Urtësia popullore e stërgjyshërve për gruan e sotme.</description>
+      <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/fjale-te-urta-shqip</guid>
+      <category>Kuriozitete</category>
     </item>
     <item>
       <title>Përrallat më të bukura shqip për fëmijët tuaj</title>
@@ -397,14 +405,6 @@
       <description>Valle Tropojane apo Valle Kukesi, cila është më e vështira? Kuptohet se Shqipëria ka shumë valle të bukura, mirëpo dy prej tyre cilësohen si të...</description>
       <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/valle-tropojane</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Pashkët katolike — Tradita dhe kuptimi i festës</title>
-      <link>https://www.femradd.com/artikull/pashket-katolike</link>
-      <description>Pashket katolike është një festë e rëndësishme fetare që feston ringjalljen e Jezu Krishtit. Shërbimet e Pashkëve shpesh zhvillohen jashtë dhe...</description>
-      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/pashket-katolike</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
