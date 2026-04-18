@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:06:58 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gratë e diasporës që po ndryshojnë botën</title>
+      <link>https://www.femradd.com/artikull/diaspora-shqiptare-grate</link>
+      <description>Njohuni me gratë shqiptare të diasporës që po arrijnë sukses ndërkombëtar. Profile frymëzuese nga biznesi, arti, shkenca dhe politika.</description>
+      <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/diaspora-shqiptare-grate</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Përrallat më të bukura shqip për fëmijët tuaj</title>
       <link>https://www.femradd.com/artikull/perralla-per-femije</link>
@@ -397,14 +405,6 @@
       <description>Pashket katolike është një festë e rëndësishme fetare që feston ringjalljen e Jezu Krishtit. Shërbimet e Pashkëve shpesh zhvillohen jashtë dhe...</description>
       <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/pashket-katolike</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Emra per vajza bazuar ne mitologjinë e lashtë</title>
-      <link>https://www.femradd.com/artikull/emra-per-vajza</link>
-      <description>Të gjesh emra per vajza ndonjëherë duket e vështirë. Nisur nga kjo në këtë artikull do i drejtohemi mitologjisë për të na udhëzuar. Këto emra mund t'i...</description>
-      <pubDate>Sun, 29 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/emra-per-vajza</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

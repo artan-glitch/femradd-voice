@@ -6391,6 +6391,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Të dyja kanë vlerë, por dedikimet e shkruara kanë avantazhin se mund të rilexohen. Një letër e shkruar me dorë është veçanërisht e çmuar sepse tregon kohë dhe përpjekje."
         }
     ]
+},
+  {
+    "id": "436",
+    "slug": "diaspora-shqiptare-grate",
+    "title": "Gratë e diasporës që po ndryshojnë botën",
+    "excerpt": "Njohuni me gratë shqiptare të diasporës që po arrijnë sukses ndërkombëtar. Profile frymëzuese nga biznesi, arti, shkenca dhe politika.",
+    "image": "/images/articles/diaspora-shqiptare-grate.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-04-18",
+    "modifiedAt": "2026-04-18",
+    "faqs": [
+        {
+            "question": "Cilat gra shqiptare të diasporës kanë arritur sukses ndërkombëtar?",
+            "answer": "Midis tyre janë Dua Lipa (muzikë), Eliza Dushku (film), Rita Ora (muzikë), Bebe Rexha (muzikë), dhe shumë tjera në fusha si biznesi, shkenca dhe politika."
+        },
+        {
+            "question": "Si kontribuojnë gratë e diasporës për Shqipërinë?",
+            "answer": "Kontribuojnë nëpërmjet investimeve, filantropisë, promovimit të kulturës shqiptare, mentorimit të grave të reja dhe krijimit të urave midis diasporës dhe atdheut."
+        },
+        {
+            "question": "Cilat sfida hasin gratë shqiptare në diasporë?",
+            "answer": "Sfidat kryesore përfshijnë balancimin e identitetit kulturor, diskriminimin, presionin për t'u integruar duke ruajtur rrënjët, dhe mungesa e rrjetit mbështetës familjar."
+        }
+    ]
 }
 ];
 
