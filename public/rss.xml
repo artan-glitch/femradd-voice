@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 18 Apr 2026 10:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 08:15:28 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fabula shqiptare — urtësia e lashtë për gruan moderne</title>
+      <link>https://www.femradd.com/artikull/fabula-shqiptare</link>
+      <description>Zbuloni fabulat shqiptare të lashta me mësime të përjetshme për gruan moderne. Tregime alegorike me kafshë që mësojnë vlera universale.</description>
+      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/fabula-shqiptare</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Gratë e diasporës që po ndryshojnë botën</title>
       <link>https://www.femradd.com/artikull/diaspora-shqiptare-grate</link>
@@ -397,14 +405,6 @@
       <description>Femra moderne është ajo që është e pavarur, e aftë, dhe e vendosur për të arritur qëllimet e saj në jetë. Gjatë viteve të fundit, kane ndodhur shumë...</description>
       <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/femra-moderne</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Valle Tropojane apo Valle Kukesi, cila eshte me e veshtira?</title>
-      <link>https://www.femradd.com/artikull/valle-tropojane</link>
-      <description>Valle Tropojane apo Valle Kukesi, cila është më e vështira? Kuptohet se Shqipëria ka shumë valle të bukura, mirëpo dy prej tyre cilësohen si të...</description>
-      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/valle-tropojane</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

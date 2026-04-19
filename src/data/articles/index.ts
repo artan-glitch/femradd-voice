@@ -6445,6 +6445,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Gjuha shqipe ka mijëra fjalë të urta. Koleksionerë si Spiro Dine, Zef Jubani dhe të tjerë kanë mbledhur me mijëra, dhe shumë tjera vazhdojnë të transmetohen gojarisht."
         }
     ]
+},
+  {
+    "id": "438",
+    "slug": "fabula-shqiptare",
+    "title": "Fabula shqiptare — urtësia e lashtë për gruan moderne",
+    "excerpt": "Zbuloni fabulat shqiptare të lashta me mësime të përjetshme për gruan moderne. Tregime alegorike me kafshë që mësojnë vlera universale.",
+    "image": "/images/articles/fabula-shqiptare.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-19",
+    "modifiedAt": "2026-04-19",
+    "faqs": [
+        {
+            "question": "Çfarë janë fabulat shqiptare?",
+            "answer": "Fabulat shqiptare janë tregime alegorike popullore, shpesh me kafshë si personazhe, që transmetojnë mësime morale. Ato janë pjesë e trashëgimisë gojore shqiptare."
+        },
+        {
+            "question": "Si dallojnë fabulat shqiptare nga ato të Ezopit?",
+            "answer": "Fabulat shqiptare pasqyrojnë kontekstin kulturor shqiptar — vlerësojnë mikpritjen, nderin, bashkësinë dhe lidhjen me natyrën. Ato kanë ngjyrim të veçantë ballkanik."
+        },
+        {
+            "question": "A ka fabula shqiptare me personazhe femërore?",
+            "answer": "Po, shumë fabula shqiptare kanë personazhe femërore si dhelpra e mençur, bletët bashkëpunuese dhe zogjtë e guximshëm, që simbolizojnë mençuri, bashkëpunim dhe guxim."
+        }
+    ]
 }
 ];
 
