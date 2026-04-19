@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 19 Apr 2026 08:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:04:56 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Fabula shqiptare — urtësia e lashtë për gruan moderne</title>
@@ -13,6 +13,14 @@
       <description>Zbuloni fabulat shqiptare të lashta me mësime të përjetshme për gruan moderne. Tregime alegorike me kafshë që mësojnë vlera universale.</description>
       <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fabula-shqiptare</guid>
+      <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Dasma shqiptare — ritualet që na lidhin</title>
+      <link>https://www.femradd.com/artikull/dasma-tradicionale-shqiptare</link>
+      <description>Zbuloni ritualet e dasmes tradicionale shqiptare që ruajnë lidhjen me të kaluarën. Nga nata e kanës deri te valli i nuses.</description>
+      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/dasma-tradicionale-shqiptare</guid>
       <category>Kuriozitete</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Cilat janë femrat shqiptare më të kërkuara? Hulumtimi i ri nga ne tregon se ylli i muzikës pop, Dua Lipa, është femra shqiptare më e kërkuar në botë....</description>
       <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/top-femrat-shqiptare</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Femra moderne qe po thyen tabute e kohes</title>
-      <link>https://www.femradd.com/artikull/femra-moderne</link>
-      <description>Femra moderne është ajo që është e pavarur, e aftë, dhe e vendosur për të arritur qëllimet e saj në jetë. Gjatë viteve të fundit, kane ndodhur shumë...</description>
-      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/femra-moderne</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

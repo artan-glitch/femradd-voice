@@ -6472,6 +6472,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, shumë fabula shqiptare kanë personazhe femërore si dhelpra e mençur, bletët bashkëpunuese dhe zogjtë e guximshëm, që simbolizojnë mençuri, bashkëpunim dhe guxim."
         }
     ]
+},
+  {
+    "id": "439",
+    "slug": "dasma-tradicionale-shqiptare",
+    "title": "Dasma shqiptare — ritualet që na lidhin",
+    "excerpt": "Zbuloni ritualet e dasmes tradicionale shqiptare që ruajnë lidhjen me të kaluarën. Nga nata e kanës deri te valli i nuses.",
+    "image": "/images/categories/kuriozitete.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-19",
+    "modifiedAt": "2026-04-19",
+    "faqs": [
+        {
+            "question": "Çfarë është nata e kanës?",
+            "answer": "Nata e kanës është rituali para dasmes ku gratë e familjes mblidhen rreth nuses, këndojnë dhe qajnë bashkë, duke simbolizuar ndarjen nga shtëpia prindërore."
+        },
+        {
+            "question": "Cilat valle luhen në dasmat shqiptare?",
+            "answer": "Vallet më të njohura përfshijnë vallen trojane, vallen e Rugovës, vallen e Tiranës dhe shumë valle rajonale që ndryshojnë nga veriu në jug."
+        },
+        {
+            "question": "A ruhen ende traditat e dasmës shqiptare?",
+            "answer": "Po, edhe në diasporë shumë çifte zgjedhin të ruajnë elementet tradicionale si nata e kanës, vallet popullore dhe muzika live."
+        }
+    ]
 }
 ];
 
