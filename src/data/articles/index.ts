@@ -6526,6 +6526,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, besa vazhdon të jetojë në kulturën shqiptare moderne, veçanërisht në marrëdhëniet familjare dhe tregtare ku fjala e dhënë ka peshë të madhe."
         }
     ]
+},
+  {
+    "id": "441",
+    "slug": "kostumi-kombetar-simbolet",
+    "title": "Kostumi kombëtar — simbolet e identitetit",
+    "excerpt": "Kostumi kombëtar shqiptar mbart simbole të thella identiteti. Zbuloni historinë e veshjeve tradicionale dhe kuptimin e motifeve.",
+    "image": "/images/categories/kuriozitete.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-20",
+    "modifiedAt": "2026-04-20",
+    "faqs": [
+        {
+            "question": "Çfarë simbolizojnë ngjyrat në kostumin shqiptar?",
+            "answer": "E kuqja simbolizon gjakun dhe trimërinë, e bardha pastërtinë, e zeza tokën dhe forcën, ndërsa ari përfaqëson pasurinë dhe nderin."
+        },
+        {
+            "question": "A ndryshon kostumi kombëtar sipas rajoneve?",
+            "answer": "Po, çdo rajon ka veshjen e vet — nga kostumi i Shkodrës te ai i Beratit, stilet ndryshojnë sipas kushteve klimatike dhe traditave lokale."
+        },
+        {
+            "question": "A përdoret ende kostumi kombëtar sot?",
+            "answer": "Po, veçanërisht në dasma, festa kombëtare dhe ngjarje kulturore. Gjithashtu dizajnerët modernë po i integrojnë motivet në modën bashkëkohore."
+        }
+    ]
 }
 ];
 

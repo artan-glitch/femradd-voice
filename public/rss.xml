@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 20 Apr 2026 09:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:00:23 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Besa shqiptare — kodi moral që na përcakton</title>
@@ -13,6 +13,14 @@
       <description>Besa është vlera më e shenjtë e kulturës shqiptare. Zbuloni historinë, kuptimin dhe rëndësinë e besës në shoqërinë moderne.</description>
       <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/besa-shqiptare-kodi</guid>
+      <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Kostumi kombëtar — simbolet e identitetit</title>
+      <link>https://www.femradd.com/artikull/kostumi-kombetar-simbolet</link>
+      <description>Kostumi kombëtar shqiptar mbart simbole të thella identiteti. Zbuloni historinë e veshjeve tradicionale dhe kuptimin e motifeve.</description>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/kostumi-kombetar-simbolet</guid>
       <category>Kuriozitete</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Big Brother VIP Albania, është një Reality Show ndër me te ndjekurit shqiptar që tanimë po zhvillon sezonin e dytë. Më poshtë mund të informoheni më...</description>
       <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/big-brother-vip-albania</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Luiz Ejlli — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/luiz-ejlli</link>
-      <description>Luiz Ejlli, nje emer vertet i dashur per publikun, rrugëtimi i tij drejt suksesit ka qenë frymëzim për shumë muzikantë dhe artistë. Luiz Ejlli...</description>
-      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/luiz-ejlli</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
