@@ -6499,6 +6499,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, edhe në diasporë shumë çifte zgjedhin të ruajnë elementet tradicionale si nata e kanës, vallet popullore dhe muzika live."
         }
     ]
+},
+  {
+    "id": "440",
+    "slug": "besa-shqiptare-kodi",
+    "title": "Besa shqiptare — kodi moral që na përcakton",
+    "excerpt": "Besa është vlera më e shenjtë e kulturës shqiptare. Zbuloni historinë, kuptimin dhe rëndësinë e besës në shoqërinë moderne.",
+    "image": "/images/categories/kuriozitete.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-20",
+    "modifiedAt": "2026-04-20",
+    "faqs": [
+        {
+            "question": "Çfarë do të thotë 'besë' në shqip?",
+            "answer": "Besa do të thotë fjalë e dhënë, premtim i shenjtë që nuk thyhet. Është kodi moral më i lartë në kulturën shqiptare."
+        },
+        {
+            "question": "A u strehuan vërtet hebrenjtë në Shqipëri?",
+            "answer": "Po, gjatë Luftës së Dytë Botërore shqiptarët strehuan mijëra hebrenj falë besës. Shqipëria ishte i vetmi vend evropian ku numri i hebrenjve u rrit gjatë luftës."
+        },
+        {
+            "question": "A ekziston besa ende sot?",
+            "answer": "Po, besa vazhdon të jetojë në kulturën shqiptare moderne, veçanërisht në marrëdhëniet familjare dhe tregtare ku fjala e dhënë ka peshë të madhe."
+        }
+    ]
 }
 ];
 

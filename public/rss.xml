@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 19 Apr 2026 10:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:22:26 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Besa shqiptare — kodi moral që na përcakton</title>
+      <link>https://www.femradd.com/artikull/besa-shqiptare-kodi</link>
+      <description>Besa është vlera më e shenjtë e kulturës shqiptare. Zbuloni historinë, kuptimin dhe rëndësinë e besës në shoqërinë moderne.</description>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/besa-shqiptare-kodi</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Fabula shqiptare — urtësia e lashtë për gruan moderne</title>
       <link>https://www.femradd.com/artikull/fabula-shqiptare</link>
@@ -397,14 +405,6 @@
       <description>Luiz Ejlli, nje emer vertet i dashur per publikun, rrugëtimi i tij drejt suksesit ka qenë frymëzim për shumë muzikantë dhe artistë. Luiz Ejlli...</description>
       <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/luiz-ejlli</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Top Femrat Shqiptare</title>
-      <link>https://www.femradd.com/artikull/top-femrat-shqiptare</link>
-      <description>Cilat janë femrat shqiptare më të kërkuara? Hulumtimi i ri nga ne tregon se ylli i muzikës pop, Dua Lipa, është femra shqiptare më e kërkuar në botë....</description>
-      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/top-femrat-shqiptare</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
