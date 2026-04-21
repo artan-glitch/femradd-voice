@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:09:32 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mitologjia shqiptare — figurat femërore</title>
+      <link>https://www.femradd.com/artikull/mitologjia-shqiptare-gra</link>
+      <description>Zbuloni figurat femërore të mitologjisë shqiptare — nga Zana e Malit te Ora. Gra të fuqishme që ruanin natyrën dhe fatin e njeriut.</description>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/mitologjia-shqiptare-gra</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Besa shqiptare — kodi moral që na përcakton</title>
       <link>https://www.femradd.com/artikull/besa-shqiptare-kodi</link>
@@ -397,14 +405,6 @@
       <description>Kalendari i Ramazanit për qytetin e Tiranës / Shqipëri - Mars / Prill 2023. Shumë prej besimtarëve muslimanë janë duke e pritur me përulësi këtë muaj të...</description>
       <pubDate>Tue, 01 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/kalendari-i-ramazanit-2023</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Big Brother VIP Albania</title>
-      <link>https://www.femradd.com/artikull/big-brother-vip-albania</link>
-      <description>Big Brother VIP Albania, është një Reality Show ndër me te ndjekurit shqiptar që tanimë po zhvillon sezonin e dytë. Më poshtë mund të informoheni më...</description>
-      <pubDate>Mon, 30 Sep 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/big-brother-vip-albania</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
