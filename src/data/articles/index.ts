@@ -6580,6 +6580,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, figurat femërore si Zanat, Ora dhe Bukuroshja e Dheut kanë role qendrore — ato kontrollojnë natyrën, fatin dhe jetën e njeriut."
         }
     ]
+},
+  {
+    "id": "443",
+    "slug": "simbolet-e-shqiponjes",
+    "title": "Simbolet e shqiponjës — historia e stemës",
+    "excerpt": "Shqiponja me dy koka është simboli më i njohur shqiptar. Zbuloni historinë e stemës, nga Skënderbeu deri te flamuri modern.",
+    "image": "/images/articles/simbolet-e-shqiponjes.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-21",
+    "modifiedAt": "2026-04-21",
+    "faqs": [
+        {
+            "question": "Pse flamuri shqiptar ka shqiponjën me dy koka?",
+            "answer": "Shqiponja me dy koka simbolizon vigjilencën — dy sytë që shikojnë lindjen dhe perëndimin. Skënderbeu e përdori si stemë gjatë luftës kundër Perandorisë Osmane."
+        },
+        {
+            "question": "Kur u ngrit flamuri shqiptar për herë të parë?",
+            "answer": "Flamuri u ngrit zyrtarisht më 28 nëntor 1912 kur Ismail Qemali shpalli Pavarësinë e Shqipërisë në Vlorë."
+        },
+        {
+            "question": "A është shqiponja simbol vetëm shqiptar?",
+            "answer": "Shqiponja me dy koka përdoret edhe nga vende të tjera, por versioni shqiptar në flamur të kuq ka kuptim unik historik të lidhur me Skënderbeun dhe rezistencën."
+        }
+    ]
 }
 ];
 

@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:48:46 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mitologjia shqiptare — figurat femërore</title>
@@ -13,6 +13,14 @@
       <description>Zbuloni figurat femërore të mitologjisë shqiptare — nga Zana e Malit te Ora. Gra të fuqishme që ruanin natyrën dhe fatin e njeriut.</description>
       <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/mitologjia-shqiptare-gra</guid>
+      <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Simbolet e shqiponjës — historia e stemës</title>
+      <link>https://www.femradd.com/artikull/simbolet-e-shqiponjes</link>
+      <description>Shqiponja me dy koka është simboli më i njohur shqiptar. Zbuloni historinë e stemës, nga Skënderbeu deri te flamuri modern.</description>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/simbolet-e-shqiponjes</guid>
       <category>Kuriozitete</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Alaudin Hamiti do te jete moderator i ketij edicioni te Big Brother VIP Kosova. Ai e beri kete zyrtare ne rrjetin social Instagram permes nje postimi...</description>
       <pubDate>Tue, 08 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/alaudin-hamiti</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Kalendari i Ramazanit 2023</title>
-      <link>https://www.femradd.com/artikull/kalendari-i-ramazanit-2023</link>
-      <description>Kalendari i Ramazanit për qytetin e Tiranës / Shqipëri - Mars / Prill 2023. Shumë prej besimtarëve muslimanë janë duke e pritur me përulësi këtë muaj të...</description>
-      <pubDate>Tue, 01 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/kalendari-i-ramazanit-2023</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
