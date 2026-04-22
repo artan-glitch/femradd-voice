@@ -6634,6 +6634,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
         }
     ]
+},
+  {
+    "id": "445",
+    "slug": "arti-popullor-shqiptar",
+    "title": "Arti popullor shqiptar — rrënjët tona",
+    "excerpt": "Arti popullor shqiptar përfshin qëndismën, gdhendjen në dru dhe qeramikën. Trashëgimi kulturore e pasur dhe e lashtë.",
+    "image": "/images/articles/arti-popullor-shqiptar.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-22",
+    "modifiedAt": "2026-04-22",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Arti popullor shqiptar — rrënjët tona'?",
+            "answer": "Arti popullor shqiptar përfshin qëndismën, gdhendjen në dru dhe qeramikën. Trashëgimi kulturore e pasur dhe e lashtë."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të kuptojnë kulturën dhe identitetin shqiptar."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
+        }
+    ]
 }
 ];
 

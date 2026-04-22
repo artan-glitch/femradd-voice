@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:44:55 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Valle shqiptare — ritmi që bashkon brezat</title>
@@ -13,6 +13,14 @@
       <description>Vallet popullore shqiptare janë shprehja e identitetit tonë. Nga vallet e Rugovës te ato të Jugut, zbuloni ritmin tonë.</description>
       <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/valle-shqiptare-ritmi</guid>
+      <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Arti popullor shqiptar — rrënjët tona</title>
+      <link>https://www.femradd.com/artikull/arti-popullor-shqiptar</link>
+      <description>Arti popullor shqiptar përfshin qëndismën, gdhendjen në dru dhe qeramikën. Trashëgimi kulturore e pasur dhe e lashtë.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/arti-popullor-shqiptar</guid>
       <category>Kuriozitete</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Diola Dosti është një nutricioniste shumë e respektuar dhe e njohur, e cila ka dhënë një kontribut të rëndësishëm në fushën e edukimit të ushqyerjes në...</description>
       <pubDate>Sat, 12 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/diola-dosti</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Poezi per ditelindje per femije</title>
-      <link>https://www.femradd.com/artikull/poezi-per-ditelindje-per-femije</link>
-      <description>Poezi per ditelindje per femije. Cdo ditëlindje e fëmijëve tanë tek i shohim se si rriten, kuptojmë sa rëndësi kanë dedikimet dhe koha kushtuar tyre...</description>
-      <pubDate>Sat, 12 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/poezi-per-ditelindje-per-femije</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
