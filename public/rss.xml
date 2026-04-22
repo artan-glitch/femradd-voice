@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:00:40 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Valle shqiptare — ritmi që bashkon brezat</title>
+      <link>https://www.femradd.com/artikull/valle-shqiptare-ritmi</link>
+      <description>Vallet popullore shqiptare janë shprehja e identitetit tonë. Nga vallet e Rugovës te ato të Jugut, zbuloni ritmin tonë.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/valle-shqiptare-ritmi</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Mitologjia shqiptare — figurat femërore</title>
       <link>https://www.femradd.com/artikull/mitologjia-shqiptare-gra</link>
@@ -397,14 +405,6 @@
       <description>Poezi per ditelindje per femije. Cdo ditëlindje e fëmijëve tanë tek i shohim se si rriten, kuptojmë sa rëndësi kanë dedikimet dhe koha kushtuar tyre...</description>
       <pubDate>Sat, 12 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/poezi-per-ditelindje-per-femije</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Alaudin Hamiti — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/alaudin-hamiti</link>
-      <description>Alaudin Hamiti do te jete moderator i ketij edicioni te Big Brother VIP Kosova. Ai e beri kete zyrtare ne rrjetin social Instagram permes nje postimi...</description>
-      <pubDate>Tue, 08 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/alaudin-hamiti</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

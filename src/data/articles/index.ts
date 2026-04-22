@@ -6607,6 +6607,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Shqiponja me dy koka përdoret edhe nga vende të tjera, por versioni shqiptar në flamur të kuq ka kuptim unik historik të lidhur me Skënderbeun dhe rezistencën."
         }
     ]
+},
+  {
+    "id": "444",
+    "slug": "valle-shqiptare-ritmi",
+    "title": "Valle shqiptare — ritmi që bashkon brezat",
+    "excerpt": "Vallet popullore shqiptare janë shprehja e identitetit tonë. Nga vallet e Rugovës te ato të Jugut, zbuloni ritmin tonë.",
+    "image": "/images/articles/valle-shqiptare-ritmi.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-22",
+    "modifiedAt": "2026-04-22",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Valle shqiptare — ritmi që bashkon brezat'?",
+            "answer": "Vallet popullore shqiptare janë shprehja e identitetit tonë. Nga vallet e Rugovës te ato të Jugut, zbuloni ritmin tonë."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të kuptojnë kulturën dhe identitetin shqiptar."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
+        }
+    ]
 }
 ];
 
