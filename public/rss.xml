@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:09:07 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Koha e kanunit — drejtësia para ligjit</title>
+      <link>https://www.femradd.com/artikull/koha-e-kanunit</link>
+      <description>Kanuni i Lekë Dukagjinit rregullonte jetën shqiptare para shtetit modern. Rregullat, drejtësia dhe ndikimi i tij sot.</description>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/koha-e-kanunit</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Valle shqiptare — ritmi që bashkon brezat</title>
       <link>https://www.femradd.com/artikull/valle-shqiptare-ritmi</link>
@@ -397,14 +405,6 @@
       <description>Big Brother VIP Kosova, është një Reality Show ndër më të ndjekurit në Kosovë që tanimë po zhvillon sezonin e dytë, pas sezonit të parë tejet të...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/big-brother-vip-kosova</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Diola Dosti — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/diola-dosti</link>
-      <description>Diola Dosti është një nutricioniste shumë e respektuar dhe e njohur, e cila ka dhënë një kontribut të rëndësishëm në fushën e edukimit të ushqyerjes në...</description>
-      <pubDate>Sat, 12 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/diola-dosti</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
