@@ -6688,6 +6688,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
         }
     ]
+},
+  {
+    "id": "447",
+    "slug": "nene-tereza-trashegimia",
+    "title": "Nënë Tereza — jeta dhe trashëgimia",
+    "excerpt": "Nënë Tereza, e lindur në Shkup, është shqiptarja më e njohur në botë. Historia e jetës dhe mesazheve të gruas së shenjtë.",
+    "image": "/images/articles/nene-tereza-trashegimia.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-04-23",
+    "modifiedAt": "2026-04-23",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Nënë Tereza — jeta dhe trashëgimia'?",
+            "answer": "Nënë Tereza, e lindur në Shkup, është shqiptarja më e njohur në botë. Historia e jetës dhe mesazheve të gruas së shenjtë."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të kuptojnë kulturën dhe identitetin shqiptar."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
+        }
+    ]
 }
 ];
 

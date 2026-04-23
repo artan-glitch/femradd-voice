@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:09:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 10:51:46 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Koha e kanunit — drejtësia para ligjit</title>
@@ -14,6 +14,14 @@
       <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/koha-e-kanunit</guid>
       <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Nënë Tereza — jeta dhe trashëgimia</title>
+      <link>https://www.femradd.com/artikull/nene-tereza-trashegimia</link>
+      <description>Nënë Tereza, e lindur në Shkup, është shqiptarja më e njohur në botë. Historia e jetës dhe mesazheve të gruas së shenjtë.</description>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/nene-tereza-trashegimia</guid>
+      <category>Gratë Shqiptare</category>
     </item>
     <item>
       <title>Valle shqiptare — ritmi që bashkon brezat</title>
@@ -397,14 +405,6 @@
       <description>Olti Curri, opinionist i Big Brother VIP Kosova. Numërimi mbrapsht ka filluar dhe vjeshta e këtij viti do t’ju sjellë një nga formatet televizive më...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/olti-curri</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Big Brother VIP Kosova</title>
-      <link>https://www.femradd.com/artikull/big-brother-vip-kosova</link>
-      <description>Big Brother VIP Kosova, është një Reality Show ndër më të ndjekurit në Kosovë që tanimë po zhvillon sezonin e dytë, pas sezonit të parë tejet të...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/big-brother-vip-kosova</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
