@@ -6742,6 +6742,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
         }
     ]
+},
+  {
+    "id": "449",
+    "slug": "parashqevi-qiriazi",
+    "title": "Parashqevi Qiriazi — nëna e arsimit shqip",
+    "excerpt": "Parashqevi Qiriazi, motra e Sevastisë, luftoi për të drejtat e grave shqiptare. Zëri i parë i feminizmit shqiptar.",
+    "image": "/images/articles/parashqevi-qiriazi.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-24",
+    "modifiedAt": "2026-04-24",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Parashqevi Qiriazi — nëna e arsimit shqip'?",
+            "answer": "Parashqevi Qiriazi, motra e Sevastisë, luftoi për të drejtat e grave shqiptare. Zëri i parë i feminizmit shqiptar."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

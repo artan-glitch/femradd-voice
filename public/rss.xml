@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:48:55 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Sevasti Qiriazi — pionierja e arsimit</title>
@@ -13,6 +13,14 @@
       <description>Sevasti Qiriazi hapi shkollën e parë shqipe për vajza në 1891. Gruaja që ndryshoi arsimin shqiptar përgjithmonë.</description>
       <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/sevasti-qiriazi</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
+    <item>
+      <title>Parashqevi Qiriazi — nëna e arsimit shqip</title>
+      <link>https://www.femradd.com/artikull/parashqevi-qiriazi</link>
+      <description>Parashqevi Qiriazi, motra e Sevastisë, luftoi për të drejtat e grave shqiptare. Zëri i parë i feminizmit shqiptar.</description>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/parashqevi-qiriazi</guid>
       <category>Gratë Shqiptare</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Po kërkon thenie interesante? Ke ardhur në vendin e duhur. Secili prej nesh lëmë një trashëgimi pas vetes. Disa lënë veprat, disa shtëpi që i...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/thenie-interesante</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Fjalë dashurie — Mesazhet më të bukura</title>
-      <link>https://www.femradd.com/artikull/fjale-dashurie</link>
-      <description>Të dëgjosh fjalë dashurie është e rëndësishme sepse ato ndihmojnë në krijimin dhe ruajtjen e një lidhjeje të thellë emocionale mes dy njerëzve. Këtu...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/fjale-dashurie</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
