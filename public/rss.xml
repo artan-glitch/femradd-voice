@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 23 Apr 2026 10:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:14:21 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sevasti Qiriazi — pionierja e arsimit</title>
+      <link>https://www.femradd.com/artikull/sevasti-qiriazi</link>
+      <description>Sevasti Qiriazi hapi shkollën e parë shqipe për vajza në 1891. Gruaja që ndryshoi arsimin shqiptar përgjithmonë.</description>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/sevasti-qiriazi</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Koha e kanunit — drejtësia para ligjit</title>
       <link>https://www.femradd.com/artikull/koha-e-kanunit</link>
@@ -397,14 +405,6 @@
       <description>Të dëgjosh fjalë dashurie është e rëndësishme sepse ato ndihmojnë në krijimin dhe ruajtjen e një lidhjeje të thellë emocionale mes dy njerëzve. Këtu...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fjale-dashurie</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Olti Curri — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/olti-curri</link>
-      <description>Olti Curri, opinionist i Big Brother VIP Kosova. Numërimi mbrapsht ka filluar dhe vjeshta e këtij viti do t’ju sjellë një nga formatet televizive më...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/olti-curri</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

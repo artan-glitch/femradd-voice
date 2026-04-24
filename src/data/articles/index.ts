@@ -6715,6 +6715,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
         }
     ]
+},
+  {
+    "id": "448",
+    "slug": "sevasti-qiriazi",
+    "title": "Sevasti Qiriazi — pionierja e arsimit",
+    "excerpt": "Sevasti Qiriazi hapi shkollën e parë shqipe për vajza në 1891. Gruaja që ndryshoi arsimin shqiptar përgjithmonë.",
+    "image": "/images/articles/sevasti-qiriazi.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-04-24",
+    "modifiedAt": "2026-04-24",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Sevasti Qiriazi — pionierja e arsimit'?",
+            "answer": "Sevasti Qiriazi hapi shkollën e parë shqipe për vajza në 1891. Gruaja që ndryshoi arsimin shqiptar përgjithmonë."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të kuptojnë kulturën dhe identitetin shqiptar."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për artikuj të ngjashëm mbi kulturën shqiptare."
+        }
+    ]
 }
 ];
 
