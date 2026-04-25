@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:13:54 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Liri Gero — gruaja që sfidoi pushtetin</title>
+      <link>https://www.femradd.com/artikull/liri-gero-pionere</link>
+      <description>Liri Gero dha jetën për lirinë e vendit. Historia e heroines kombëtare që nuk u përgjunjëzua kurrë.</description>
+      <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/liri-gero-pionere</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Sevasti Qiriazi — pionierja e arsimit</title>
       <link>https://www.femradd.com/artikull/sevasti-qiriazi</link>
@@ -397,14 +405,6 @@
       <description>Arbana Osmani (lindur më 7 maj 1983) është një prezantuese televizive dhe personazh radiofonik shqiptar, e njohur më së shumti për prezantimin e Big...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/arbana-osmani</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Thenie interesante qe duhet t’i lexosh</title>
-      <link>https://www.femradd.com/artikull/thenie-interesante</link>
-      <description>Po kërkon thenie interesante? Ke ardhur në vendin e duhur. Secili prej nesh lëmë një trashëgimi pas vetes. Disa lënë veprat, disa shtëpi që i...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/thenie-interesante</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

@@ -6769,6 +6769,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "450",
+    "slug": "liri-gero-pionere",
+    "title": "Liri Gero — gruaja që sfidoi pushtetin",
+    "excerpt": "Liri Gero dha jetën për lirinë e vendit. Historia e heroines kombëtare që nuk u përgjunjëzua kurrë.",
+    "image": "/images/articles/liri-gero-pionere.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-25",
+    "modifiedAt": "2026-04-25",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Liri Gero — gruaja që sfidoi pushtetin'?",
+            "answer": "Liri Gero dha jetën për lirinë e vendit. Historia e heroines kombëtare që nuk u përgjunjëzua kurrë."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
