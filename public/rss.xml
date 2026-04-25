@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 25 Apr 2026 08:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 10:10:15 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Liri Gero — gruaja që sfidoi pushtetin</title>
@@ -13,6 +13,14 @@
       <description>Liri Gero dha jetën për lirinë e vendit. Historia e heroines kombëtare që nuk u përgjunjëzua kurrë.</description>
       <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/liri-gero-pionere</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
+    <item>
+      <title>Mira Murati — udhëheqësja e AI</title>
+      <link>https://www.femradd.com/artikull/mira-murati-ai</link>
+      <description>Mira Murati nga Vlora u bë një nga udhëheqëset kryesore të inteligjencës artificiale. Rruga drejt Silicon Valley.</description>
+      <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/mira-murati-ai</guid>
       <category>Gratë Shqiptare</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Pushime ne Kosove, mund te jete gjë e shkelqyeshme. E vendosur në zemër të Ballkanit, Kosova është një vend i vogël me shumë për të ofruar. Nga qytetet...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/pushime-ne-kosove</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Arbana Osmani — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/arbana-osmani</link>
-      <description>Arbana Osmani (lindur më 7 maj 1983) është një prezantuese televizive dhe personazh radiofonik shqiptar, e njohur më së shumti për prezantimin e Big...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/arbana-osmani</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

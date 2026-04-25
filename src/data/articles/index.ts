@@ -6796,6 +6796,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "451",
+    "slug": "mira-murati-ai",
+    "title": "Mira Murati — udhëheqësja e AI",
+    "excerpt": "Mira Murati nga Vlora u bë një nga udhëheqëset kryesore të inteligjencës artificiale. Rruga drejt Silicon Valley.",
+    "image": "/images/articles/mira-murati-ai.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-04-25",
+    "modifiedAt": "2026-04-25",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Mira Murati — udhëheqësja e AI'?",
+            "answer": "Mira Murati nga Vlora u bë një nga udhëheqëset kryesore të inteligjencës artificiale. Rruga drejt Silicon Valley."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
