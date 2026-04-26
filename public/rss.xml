@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 26 Apr 2026 08:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 10:11:10 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Dua Lipa — nga Kosova në skenat botërore</title>
@@ -13,6 +13,14 @@
       <description>Dua Lipa, me origjinë kosovare, pushtoi muzikën botërore. Artisten që nuk e harroi kurrë identitetin shqiptar.</description>
       <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dua-lipa-rruga</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
+    <item>
+      <title>Rita Ora — identiteti shqiptar në Britani</title>
+      <link>https://www.femradd.com/artikull/rita-ora-identiteti</link>
+      <description>Rita Ora, e lindur në Prishtinë, u bë ikonë e muzikës britanike. Identiteti shqiptar mbetet themeli i suksesit.</description>
+      <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/rita-ora-identiteti</guid>
       <category>Gratë Shqiptare</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Ramazani është muaji i nëntë i kalendarit hënor musliman dhe konsiderohet muaji më i shenjtë në besimin e Islamit. Gjatë këtij muaji, muslimanët...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/agjerimi</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Amos Zaharia — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/amos-zaharia</link>
-      <description>Amos Zaharia është një aktor shqiptarë me shumë eksperiencë dhe me njohje të gjerë për rolet e tij që nga mosha e hershme në fushën e aktrimit. Amos...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/amos-zaharia</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

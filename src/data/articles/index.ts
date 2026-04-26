@@ -6850,6 +6850,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "453",
+    "slug": "rita-ora-identiteti",
+    "title": "Rita Ora — identiteti shqiptar në Britani",
+    "excerpt": "Rita Ora, e lindur në Prishtinë, u bë ikonë e muzikës britanike. Identiteti shqiptar mbetet themeli i suksesit.",
+    "image": "/images/articles/rita-ora-identiteti.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-26",
+    "modifiedAt": "2026-04-26",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Rita Ora — identiteti shqiptar në Britani'?",
+            "answer": "Rita Ora, e lindur në Prishtinë, u bë ikonë e muzikës britanike. Identiteti shqiptar mbetet themeli i suksesit."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
