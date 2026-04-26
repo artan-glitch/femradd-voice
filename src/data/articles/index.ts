@@ -6823,6 +6823,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "452",
+    "slug": "dua-lipa-rruga",
+    "title": "Dua Lipa — nga Kosova në skenat botërore",
+    "excerpt": "Dua Lipa, me origjinë kosovare, pushtoi muzikën botërore. Artisten që nuk e harroi kurrë identitetin shqiptar.",
+    "image": "/images/articles/dua-lipa-rruga.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-26",
+    "modifiedAt": "2026-04-26",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Dua Lipa — nga Kosova në skenat botërore'?",
+            "answer": "Dua Lipa, me origjinë kosovare, pushtoi muzikën botërore. Artisten që nuk e harroi kurrë identitetin shqiptar."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

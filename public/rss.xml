@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 25 Apr 2026 10:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:40:56 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dua Lipa — nga Kosova në skenat botërore</title>
+      <link>https://www.femradd.com/artikull/dua-lipa-rruga</link>
+      <description>Dua Lipa, me origjinë kosovare, pushtoi muzikën botërore. Artisten që nuk e harroi kurrë identitetin shqiptar.</description>
+      <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/dua-lipa-rruga</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Liri Gero — gruaja që sfidoi pushtetin</title>
       <link>https://www.femradd.com/artikull/liri-gero-pionere</link>
@@ -397,14 +405,6 @@
       <description>Amos Zaharia është një aktor shqiptarë me shumë eksperiencë dhe me njohje të gjerë për rolet e tij që nga mosha e hershme në fushën e aktrimit. Amos...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/amos-zaharia</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Pushime në Kosovë — Destinacione të mrekullueshme</title>
-      <link>https://www.femradd.com/artikull/pushime-ne-kosove</link>
-      <description>Pushime ne Kosove, mund te jete gjë e shkelqyeshme. E vendosur në zemër të Ballkanit, Kosova është një vend i vogël me shumë për të ofruar. Nga qytetet...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/pushime-ne-kosove</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
