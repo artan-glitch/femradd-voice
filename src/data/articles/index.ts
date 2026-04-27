@@ -6904,6 +6904,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "455",
+    "slug": "era-istrefi-zeri",
+    "title": "Era Istrefi — zëri i Kosovës së re",
+    "excerpt": "Era Istrefi u bë artiste ndërkombëtare me BonBon. Vajza nga Prishtina që përfaqësoi Kosovën në kupën e botës.",
+    "image": "/images/articles/era-istrefi-zeri.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-27",
+    "modifiedAt": "2026-04-27",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Era Istrefi — zëri i Kosovës së re'?",
+            "answer": "Era Istrefi u bë artiste ndërkombëtare me BonBon. Vajza nga Prishtina që përfaqësoi Kosovën në kupën e botës."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

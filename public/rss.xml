@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 27 Apr 2026 09:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:20:29 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Bebe Rexha — vajza shqiptare në Hollywood</title>
@@ -13,6 +13,14 @@
       <description>Bebe Rexha, me origjinë nga Shkodra, pushtoi muzikën amerikane. Historia frymëzuese e vajzës shqiptare.</description>
       <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/bebe-rexha-hollywood</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
+    <item>
+      <title>Era Istrefi — zëri i Kosovës së re</title>
+      <link>https://www.femradd.com/artikull/era-istrefi-zeri</link>
+      <description>Era Istrefi u bë artiste ndërkombëtare me BonBon. Vajza nga Prishtina që përfaqësoi Kosovën në kupën e botës.</description>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/era-istrefi-zeri</guid>
       <category>Gratë Shqiptare</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Nderrimi i ores bëhet 2 herë në vit, në rreth 70 shtete të botës. Data variojnë nga shteti në shtet, mirëpo ndërrimi i parë i orës bëhet në muajin...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/nderrimi-i-ores</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Puthja e pare: Magjia qe nuk harrohet</title>
-      <link>https://www.femradd.com/artikull/puthja-e-pare-magjia-qe-nuk-harrohet</link>
-      <description>Puthja e parë është një kujtim i lumtur që të mbetet në mendje për gjithë jetën – pavarësisht a jeni ende apo jo me personin që keni përjetuar puthjen...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/puthja-e-pare-magjia-qe-nuk-harrohet</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
