@@ -6877,6 +6877,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "454",
+    "slug": "bebe-rexha-hollywood",
+    "title": "Bebe Rexha — vajza shqiptare në Hollywood",
+    "excerpt": "Bebe Rexha, me origjinë nga Shkodra, pushtoi muzikën amerikane. Historia frymëzuese e vajzës shqiptare.",
+    "image": "/images/articles/bebe-rexha-hollywood.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-04-27",
+    "modifiedAt": "2026-04-27",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Bebe Rexha — vajza shqiptare në Hollywood'?",
+            "answer": "Bebe Rexha, me origjinë nga Shkodra, pushtoi muzikën amerikane. Historia frymëzuese e vajzës shqiptare."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

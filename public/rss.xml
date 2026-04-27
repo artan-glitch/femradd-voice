@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 26 Apr 2026 10:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 09:34:17 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bebe Rexha — vajza shqiptare në Hollywood</title>
+      <link>https://www.femradd.com/artikull/bebe-rexha-hollywood</link>
+      <description>Bebe Rexha, me origjinë nga Shkodra, pushtoi muzikën amerikane. Historia frymëzuese e vajzës shqiptare.</description>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/bebe-rexha-hollywood</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Dua Lipa — nga Kosova në skenat botërore</title>
       <link>https://www.femradd.com/artikull/dua-lipa-rruga</link>
@@ -397,14 +405,6 @@
       <description>Puthja e parë është një kujtim i lumtur që të mbetet në mendje për gjithë jetën – pavarësisht a jeni ende apo jo me personin që keni përjetuar puthjen...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/puthja-e-pare-magjia-qe-nuk-harrohet</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Agjerimi – Rendesia e tij ne Islam</title>
-      <link>https://www.femradd.com/artikull/agjerimi</link>
-      <description>Ramazani është muaji i nëntë i kalendarit hënor musliman dhe konsiderohet muaji më i shenjtë në besimin e Islamit. Gjatë këtij muaji, muslimanët...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/agjerimi</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
