@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:38:37 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ikbal Çika — gazetarja e parë shqiptare</title>
+      <link>https://www.femradd.com/artikull/ikbal-cika-gazetare</link>
+      <description>Ikbal Çika ishte gazetarja e parë shqiptare. Gruaja pioniere që hapi rrugën për gratë në median shqiptare.</description>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/ikbal-cika-gazetare</guid>
+      <category>Gratë Shqiptare</category>
+    </item>
     <item>
       <title>Bebe Rexha — vajza shqiptare në Hollywood</title>
       <link>https://www.femradd.com/artikull/bebe-rexha-hollywood</link>
@@ -397,14 +405,6 @@
       <description>Çfarë është Ramazani? Ramazani është muaji i shenjtë i muslimanëve, i cili përfshin agjërimin nga agimi deri pas perëndimit të diellit nga miliona...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/ramazani</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Nderrimi i ores: Gjithçka qe duhet te dini per te</title>
-      <link>https://www.femradd.com/artikull/nderrimi-i-ores</link>
-      <description>Nderrimi i ores bëhet 2 herë në vit, në rreth 70 shtete të botës. Data variojnë nga shteti në shtet, mirëpo ndërrimi i parë i orës bëhet në muajin...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/nderrimi-i-ores</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

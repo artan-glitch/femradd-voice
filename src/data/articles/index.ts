@@ -6931,6 +6931,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "456",
+    "slug": "ikbal-cika-gazetare",
+    "title": "Ikbal Çika — gazetarja e parë shqiptare",
+    "excerpt": "Ikbal Çika ishte gazetarja e parë shqiptare. Gruaja pioniere që hapi rrugën për gratë në median shqiptare.",
+    "image": "/images/articles/ikbal-cika-gazetare.webp",
+    "category": "grate-shqiptare",
+    "categoryLabel": "Gratë Shqiptare",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-28",
+    "modifiedAt": "2026-04-28",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Ikbal Çika — gazetarja e parë shqiptare'?",
+            "answer": "Ikbal Çika ishte gazetarja e parë shqiptare. Gruaja pioniere që hapi rrugën për gratë në median shqiptare."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
