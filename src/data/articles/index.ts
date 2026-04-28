@@ -6958,6 +6958,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "457",
+    "slug": "ismail-kadare-10-librat",
+    "title": "Ismail Kadare — 10 librat më të mirë",
+    "excerpt": "Ismail Kadare është shkrimtari më i njohur shqiptar. Zbuloni 10 librat e tij më të rëndësishëm dhe ndikimin e tyre.",
+    "image": "/images/articles/ismail-kadare-10-librat.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-04-28",
+    "modifiedAt": "2026-04-28",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Ismail Kadare — 10 librat më të mirë'?",
+            "answer": "Ismail Kadare është shkrimtari më i njohur shqiptar. Zbuloni 10 librat e tij më të rëndësishëm dhe ndikimin e tyre."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

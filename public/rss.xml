@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:20:08 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ikbal Çika — gazetarja e parë shqiptare</title>
@@ -14,6 +14,14 @@
       <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/ikbal-cika-gazetare</guid>
       <category>Gratë Shqiptare</category>
+    </item>
+    <item>
+      <title>Ismail Kadare — 10 librat më të mirë</title>
+      <link>https://www.femradd.com/artikull/ismail-kadare-10-librat</link>
+      <description>Ismail Kadare është shkrimtari më i njohur shqiptar. Zbuloni 10 librat e tij më të rëndësishëm dhe ndikimin e tyre.</description>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/ismail-kadare-10-librat</guid>
+      <category>Letërsi &amp; Poezi</category>
     </item>
     <item>
       <title>Bebe Rexha — vajza shqiptare në Hollywood</title>
@@ -397,14 +405,6 @@
       <description>Liberta Spahiu u njihte fillimisht si modele, pastaj filloi karieren e saj televizive si moderatore. Ajo u lind ne vitin 1985 ne Prishtine. Liberta...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/liberta-spahiu</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Ramazani: Gjithçka që duhet të dini për të</title>
-      <link>https://www.femradd.com/artikull/ramazani</link>
-      <description>Çfarë është Ramazani? Ramazani është muaji i shenjtë i muslimanëve, i cili përfshin agjërimin nga agimi deri pas perëndimit të diellit nga miliona...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/ramazani</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>
