@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:30:53 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fan Noli — poeti dhe politikani</title>
+      <link>https://www.femradd.com/artikull/fan-noli-poeti</link>
+      <description>Fan Noli ishte poet, klerik dhe kryeministër. Jeta e njeriut që bashkoi artin me luftën për drejtësi sociale.</description>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/fan-noli-poeti</guid>
+      <category>Letërsi &amp; Poezi</category>
+    </item>
     <item>
       <title>Ikbal Çika — gazetarja e parë shqiptare</title>
       <link>https://www.femradd.com/artikull/ikbal-cika-gazetare</link>
@@ -397,14 +405,6 @@
       <description>Nita Latifi, këngetare e njohur dhe një interpretuese e madhe e muzikës live. Ajo ka mbaruar shkollën e mesme “Sami Frashëri” në Prishtinë dhe është...</description>
       <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/nita-latifi</guid>
-      <category>Të Ndryshme</category>
-    </item>
-    <item>
-      <title>Liberta Spahiu — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/liberta-spahiu</link>
-      <description>Liberta Spahiu u njihte fillimisht si modele, pastaj filloi karieren e saj televizive si moderatore. Ajo u lind ne vitin 1985 ne Prishtine. Liberta...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/liberta-spahiu</guid>
       <category>Të Ndryshme</category>
     </item>
   </channel>

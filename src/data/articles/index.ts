@@ -6985,6 +6985,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "458",
+    "slug": "fan-noli-poeti",
+    "title": "Fan Noli — poeti dhe politikani",
+    "excerpt": "Fan Noli ishte poet, klerik dhe kryeministër. Jeta e njeriut që bashkoi artin me luftën për drejtësi sociale.",
+    "image": "/images/articles/fan-noli-poeti.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-29",
+    "modifiedAt": "2026-04-29",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Fan Noli — poeti dhe politikani'?",
+            "answer": "Fan Noli ishte poet, klerik dhe kryeministër. Jeta e njeriut që bashkoi artin me luftën për drejtësi sociale."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
