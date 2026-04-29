@@ -7012,6 +7012,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "459",
+    "slug": "dritero-agolli-satirat",
+    "title": "Dritëro Agolli — satirat që thonë të vërtetën",
+    "excerpt": "Dritëro Agolli, shkrimtari më i dashur shqiptar. Satirat dhe poezitë që ende bëjnë me qeshur dhe me menduar.",
+    "image": "/images/articles/dritero-agolli-satirat.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-29",
+    "modifiedAt": "2026-04-29",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Dritëro Agolli — satirat që thonë të vërtetën'?",
+            "answer": "Dritëro Agolli, shkrimtari më i dashur shqiptar. Satirat dhe poezitë që ende bëjnë me qeshur dhe me menduar."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

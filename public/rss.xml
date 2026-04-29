@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 11:11:52 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Fan Noli — poeti dhe politikani</title>
@@ -13,6 +13,14 @@
       <description>Fan Noli ishte poet, klerik dhe kryeministër. Jeta e njeriut që bashkoi artin me luftën për drejtësi sociale.</description>
       <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fan-noli-poeti</guid>
+      <category>Letërsi &amp; Poezi</category>
+    </item>
+    <item>
+      <title>Dritëro Agolli — satirat që thonë të vërtetën</title>
+      <link>https://www.femradd.com/artikull/dritero-agolli-satirat</link>
+      <description>Dritëro Agolli, shkrimtari më i dashur shqiptar. Satirat dhe poezitë që ende bëjnë me qeshur dhe me menduar.</description>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/dritero-agolli-satirat</guid>
       <category>Letërsi &amp; Poezi</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 07 Mar 2025 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/mira-murati-dua-lipa-e-rita-ora-grate-shqiptare-qe-po-pushtojne-boten</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Nita Latifi — Biografia, karriera dhe jeta</title>
-      <link>https://www.femradd.com/artikull/nita-latifi</link>
-      <description>Nita Latifi, këngetare e njohur dhe një interpretuese e madhe e muzikës live. Ajo ka mbaruar shkollën e mesme “Sami Frashëri” në Prishtinë dhe është...</description>
-      <pubDate>Wed, 16 Oct 2024 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/nita-latifi</guid>
-      <category>Të Ndryshme</category>
     </item>
   </channel>
 </rss>
