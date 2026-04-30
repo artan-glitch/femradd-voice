@@ -7039,6 +7039,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "460",
+    "slug": "migjeni-brezi-humbur",
+    "title": "Migjeni — zëri i brezit të humbur",
+    "excerpt": "Migjeni shkroi pak por la shenjë të përhershme. Poeti që vdiq i ri por jetoi përgjithmonë përmes vargjeve.",
+    "image": "/images/articles/migjeni-brezi-humbur.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-04-30",
+    "modifiedAt": "2026-04-30",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Migjeni — zëri i brezit të humbur'?",
+            "answer": "Migjeni shkroi pak por la shenjë të përhershme. Poeti që vdiq i ri por jetoi përgjithmonë përmes vargjeve."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
