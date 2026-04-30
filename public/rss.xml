@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:31:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:12:01 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Migjeni — zëri i brezit të humbur</title>
@@ -13,6 +13,14 @@
       <description>Migjeni shkroi pak por la shenjë të përhershme. Poeti që vdiq i ri por jetoi përgjithmonë përmes vargjeve.</description>
       <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/migjeni-brezi-humbur</guid>
+      <category>Letërsi &amp; Poezi</category>
+    </item>
+    <item>
+      <title>Mimoza Ahmeti — femra moderne në poezi</title>
+      <link>https://www.femradd.com/artikull/mimoza-ahmeti-femra</link>
+      <description>Mimoza Ahmeti është poetja bashkëkohore shqiptare më e vlerësuar. Vargjet që shprehin botën e gruas moderne.</description>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/mimoza-ahmeti-femra</guid>
       <category>Letërsi &amp; Poezi</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 03 Apr 2025 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/takime-ne-tirane</guid>
       <category>Dashuri &amp; Takime</category>
-    </item>
-    <item>
-      <title>Fjalët më të bukura shqipe: Udhëtim në pasurinë e shqipes</title>
-      <link>https://www.femradd.com/artikull/fjalet-me-te-bukura-shqipe-udhetim-ne-pasurine</link>
-      <description>A e dini cilat janë fjalët më të bukura shqipe? Gjuha shqipe është një nga më të lashtat dhe më të pasurat në botë. Ajo ka një thesaurus të pafund...</description>
-      <pubDate>Thu, 03 Apr 2025 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/fjalet-me-te-bukura-shqipe-udhetim-ne-pasurine</guid>
-      <category>Letërsi &amp; Poezi</category>
     </item>
   </channel>
 </rss>

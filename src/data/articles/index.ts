@@ -7066,6 +7066,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "461",
+    "slug": "mimoza-ahmeti-femra",
+    "title": "Mimoza Ahmeti — femra moderne në poezi",
+    "excerpt": "Mimoza Ahmeti është poetja bashkëkohore shqiptare më e vlerësuar. Vargjet që shprehin botën e gruas moderne.",
+    "image": "/images/articles/mimoza-ahmeti-femra.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-04-30",
+    "modifiedAt": "2026-04-30",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Mimoza Ahmeti — femra moderne në poezi'?",
+            "answer": "Mimoza Ahmeti është poetja bashkëkohore shqiptare më e vlerësuar. Vargjet që shprehin botën e gruas moderne."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
