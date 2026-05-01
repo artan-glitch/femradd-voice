@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 01 May 2026 09:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:49:55 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Fjalët e urta — urtësia e gjyshërve</title>
@@ -13,6 +13,14 @@
       <description>Fjalët e urta shqiptare mbajnë urtësinë e brezave. Kuptimi i thellë prapa shprehjeve popullore më të njohura.</description>
       <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fjalet-e-urta-urtesia</guid>
+      <category>Letërsi &amp; Poezi</category>
+    </item>
+    <item>
+      <title>Poezi për nënën — vargjet më prekëse</title>
+      <link>https://www.femradd.com/artikull/poezi-per-nenen</link>
+      <description>Poezi shqipe për nënën — vargjet më të bukura që poetët shqiptarë i kanë kushtuar gruas më të rëndësishme.</description>
+      <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/poezi-per-nenen</guid>
       <category>Letërsi &amp; Poezi</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/perrallat-shqiptare-mesime</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Çka do të thotë të jesh introvert? Ja shpjegimi i thjeshtë</title>
-      <link>https://www.femradd.com/artikull/cka-do-te-thote-te-jesh-introvert-shpjegimi</link>
-      <description>A e di se çfarë do të thotë të jesh introvert? A keni ndjerë ndonjëherë se preferoni të kaloni kohën vetëm sesa në grupe të mëdha? Apo se pas një...</description>
-      <pubDate>Fri, 04 Apr 2025 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/cka-do-te-thote-te-jesh-introvert-shpjegimi</guid>
-      <category>Zhvillim Personal</category>
     </item>
   </channel>
 </rss>

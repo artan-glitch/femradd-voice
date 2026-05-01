@@ -7120,6 +7120,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "463",
+    "slug": "poezi-per-nenen",
+    "title": "Poezi për nënën — vargjet më prekëse",
+    "excerpt": "Poezi shqipe për nënën — vargjet më të bukura që poetët shqiptarë i kanë kushtuar gruas më të rëndësishme.",
+    "image": "/images/articles/poezi-per-nenen.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-05-01",
+    "modifiedAt": "2026-05-01",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Poezi për nënën — vargjet më prekëse'?",
+            "answer": "Poezi shqipe për nënën — vargjet më të bukura që poetët shqiptarë i kanë kushtuar gruas më të rëndësishme."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
