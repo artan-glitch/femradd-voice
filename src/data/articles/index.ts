@@ -7093,6 +7093,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "462",
+    "slug": "fjalet-e-urta-urtesia",
+    "title": "Fjalët e urta — urtësia e gjyshërve",
+    "excerpt": "Fjalët e urta shqiptare mbajnë urtësinë e brezave. Kuptimi i thellë prapa shprehjeve popullore më të njohura.",
+    "image": "/images/articles/fjalet-e-urta-urtesia.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-05-01",
+    "modifiedAt": "2026-05-01",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Fjalët e urta — urtësia e gjyshërve'?",
+            "answer": "Fjalët e urta shqiptare mbajnë urtësinë e brezave. Kuptimi i thellë prapa shprehjeve popullore më të njohura."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

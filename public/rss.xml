@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:14:55 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fjalët e urta — urtësia e gjyshërve</title>
+      <link>https://www.femradd.com/artikull/fjalet-e-urta-urtesia</link>
+      <description>Fjalët e urta shqiptare mbajnë urtësinë e brezave. Kuptimi i thellë prapa shprehjeve popullore më të njohura.</description>
+      <pubDate>Fri, 01 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/fjalet-e-urta-urtesia</guid>
+      <category>Letërsi &amp; Poezi</category>
+    </item>
     <item>
       <title>Migjeni — zëri i brezit të humbur</title>
       <link>https://www.femradd.com/artikull/migjeni-brezi-humbur</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 04 Apr 2025 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/cka-do-te-thote-te-jesh-introvert-shpjegimi</guid>
       <category>Zhvillim Personal</category>
-    </item>
-    <item>
-      <title>Si të dilni në takime në Tiranë?</title>
-      <link>https://www.femradd.com/artikull/takime-ne-tirane</link>
-      <description>A keni patur shpesh takime në Tiranë? A ju ka kapluar ajo ndjesi e magjepses në një vend kaq të larmishëm? Tirana është një qytet i bukur me shumë...</description>
-      <pubDate>Thu, 03 Apr 2025 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/takime-ne-tirane</guid>
-      <category>Dashuri &amp; Takime</category>
     </item>
   </channel>
 </rss>
