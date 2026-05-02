@@ -7174,6 +7174,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "465",
+    "slug": "pse-shoqeria-presion",
+    "title": "Pse shoqëria na presion të jemi perfekte",
+    "excerpt": "Presioni shoqëror për perfeksionizëm prek veçanërisht gratë. Reflektim mbi standardet dhe pranimin e vetes.",
+    "image": "/images/articles/pse-shoqeria-presion.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-05-02",
+    "modifiedAt": "2026-05-02",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Pse shoqëria na presion të jemi perfekte'?",
+            "answer": "Presioni shoqëror për perfeksionizëm prek veçanërisht gratë. Reflektim mbi standardet dhe pranimin e vetes."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

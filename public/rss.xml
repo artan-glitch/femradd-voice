@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 02 May 2026 08:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 10:15:15 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Përrallat shqiptare — mesazhet për gratë</title>
@@ -14,6 +14,14 @@
       <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/perrallat-mesazhet</guid>
       <category>Letërsi &amp; Poezi</category>
+    </item>
+    <item>
+      <title>Pse shoqëria na presion të jemi perfekte</title>
+      <link>https://www.femradd.com/artikull/pse-shoqeria-presion</link>
+      <description>Presioni shoqëror për perfeksionizëm prek veçanërisht gratë. Reflektim mbi standardet dhe pranimin e vetes.</description>
+      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/pse-shoqeria-presion</guid>
+      <category>Zhvillim Personal</category>
     </item>
     <item>
       <title>Fjalët e urta — urtësia e gjyshërve</title>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/parfumet-per-femra</guid>
       <category>Lifestyle</category>
-    </item>
-    <item>
-      <title>Çfarë është dashuria e vërtetë? Shenjat që nuk gënjejnë</title>
-      <link>https://www.femradd.com/artikull/dashuria-e-vertete</link>
-      <description>Mësoni dallimet midis dashurisë së vërtetë dhe magjepsjes së momentit. Zbuloni 8 shenja konkrete që tregojnë dashuri autentike.</description>
-      <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/dashuria-e-vertete</guid>
-      <category>Dashuri &amp; Takime</category>
     </item>
   </channel>
 </rss>
