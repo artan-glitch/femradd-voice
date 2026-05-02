@@ -7147,6 +7147,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "464",
+    "slug": "perrallat-mesazhet",
+    "title": "Përrallat shqiptare — mesazhet për gratë",
+    "excerpt": "Përrallat popullore shqiptare mbajnë mesazhe feministe të fshehura. Mësimet që brezat e rinj duhet t'i dinë.",
+    "image": "/images/articles/perrallat-mesazhet.webp",
+    "category": "letersi",
+    "categoryLabel": "Letërsi & Poezi",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-05-02",
+    "modifiedAt": "2026-05-02",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Përrallat shqiptare — mesazhet për gratë'?",
+            "answer": "Përrallat popullore shqiptare mbajnë mesazhe feministe të fshehura. Mësimet që brezat e rinj duhet t'i dinë."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 

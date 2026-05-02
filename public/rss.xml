@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 01 May 2026 10:49:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 08:47:06 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Përrallat shqiptare — mesazhet për gratë</title>
+      <link>https://www.femradd.com/artikull/perrallat-mesazhet</link>
+      <description>Përrallat popullore shqiptare mbajnë mesazhe feministe të fshehura. Mësimet që brezat e rinj duhet t'i dinë.</description>
+      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/perrallat-mesazhet</guid>
+      <category>Letërsi &amp; Poezi</category>
+    </item>
     <item>
       <title>Fjalët e urta — urtësia e gjyshërve</title>
       <link>https://www.femradd.com/artikull/fjalet-e-urta-urtesia</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 31 Mar 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dashuria-e-vertete</guid>
       <category>Dashuri &amp; Takime</category>
-    </item>
-    <item>
-      <title>Përrallat shqiptare — mësimet e fshehura për gratë</title>
-      <link>https://www.femradd.com/artikull/perrallat-shqiptare-mesime</link>
-      <description>Zbuloni mësimet feministe të fshehura në përrallat popullore shqiptare dhe si ndikojnë ato në formimin e identitetit të grave sot.</description>
-      <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/perrallat-shqiptare-mesime</guid>
-      <category>Kuriozitete</category>
     </item>
   </channel>
 </rss>
