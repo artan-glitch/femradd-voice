@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 02 May 2026 10:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 08:59:27 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vetmi apo vetvete — zbulime në heshtje</title>
+      <link>https://www.femradd.com/artikull/vetmi-apo-vetvete</link>
+      <description>Vetmia dhe vetvëtja janë gjëra të ndryshme. Reflektim mbi forcën e heshtjes dhe zbulimin e vetes në vetmi.</description>
+      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/vetmi-apo-vetvete</guid>
+      <category>Zhvillim Personal</category>
+    </item>
     <item>
       <title>Përrallat shqiptare — mesazhet për gratë</title>
       <link>https://www.femradd.com/artikull/perrallat-mesazhet</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/si-te-ndertosh-vetbesimin</guid>
       <category>Zhvillim Personal</category>
-    </item>
-    <item>
-      <title>Parfumet më të mira për femra — guida 2026</title>
-      <link>https://www.femradd.com/artikull/parfumet-per-femra</link>
-      <description>Guida e plotë e parfumeve për femra në 2026. Mësoni si të zgjidhni aromën perfekte sipas sezonit, rastit dhe personalitetit tuaj.</description>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/parfumet-per-femra</guid>
-      <category>Lifestyle</category>
     </item>
   </channel>
 </rss>

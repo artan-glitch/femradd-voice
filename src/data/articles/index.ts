@@ -7201,6 +7201,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "466",
+    "slug": "vetmi-apo-vetvete",
+    "title": "Vetmi apo vetvete — zbulime në heshtje",
+    "excerpt": "Vetmia dhe vetvëtja janë gjëra të ndryshme. Reflektim mbi forcën e heshtjes dhe zbulimin e vetes në vetmi.",
+    "image": "/images/articles/vetmi-apo-vetvete.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 5,
+    "publishedAt": "2026-05-03",
+    "modifiedAt": "2026-05-03",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Vetmi apo vetvete — zbulime në heshtje'?",
+            "answer": "Vetmia dhe vetvëtja janë gjëra të ndryshme. Reflektim mbi forcën e heshtjes dhe zbulimin e vetes në vetmi."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
