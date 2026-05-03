@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 03 May 2026 08:59:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 10:28:59 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Vetmi apo vetvete — zbulime në heshtje</title>
@@ -13,6 +13,14 @@
       <description>Vetmia dhe vetvëtja janë gjëra të ndryshme. Reflektim mbi forcën e heshtjes dhe zbulimin e vetes në vetmi.</description>
       <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/vetmi-apo-vetvete</guid>
+      <category>Zhvillim Personal</category>
+    </item>
+    <item>
+      <title>Gjërat që dikur i përbuznim, sot i duam</title>
+      <link>https://www.femradd.com/artikull/gjerat-dikur-perbuznim</link>
+      <description>Me kalimin e viteve ndryshojmë mendim për shumë gjëra. Reflektim mbi pjekurinë dhe ndryshimin e perspektivës.</description>
+      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/gjerat-dikur-perbuznim</guid>
       <category>Zhvillim Personal</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/tradhtia-ne-dashuri</guid>
       <category>Dashuri &amp; Takime</category>
-    </item>
-    <item>
-      <title>Si ta ndërtosh vetëbesimin — udhëzues praktik</title>
-      <link>https://www.femradd.com/artikull/si-te-ndertosh-vetbesimin</link>
-      <description>Zbuloni teknika praktike për të ndërtuar vetëbesimin tuaj hap pas hapi. Ushtrime ditore dhe këshilla psikologjike për gruan moderne.</description>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/si-te-ndertosh-vetbesimin</guid>
-      <category>Zhvillim Personal</category>
     </item>
   </channel>
 </rss>

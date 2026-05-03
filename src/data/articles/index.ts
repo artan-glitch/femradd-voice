@@ -7228,6 +7228,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "467",
+    "slug": "gjerat-dikur-perbuznim",
+    "title": "Gjërat që dikur i përbuznim, sot i duam",
+    "excerpt": "Me kalimin e viteve ndryshojmë mendim për shumë gjëra. Reflektim mbi pjekurinë dhe ndryshimin e perspektivës.",
+    "image": "/images/articles/gjerat-dikur-perbuznim.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 5,
+    "publishedAt": "2026-05-03",
+    "modifiedAt": "2026-05-03",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Gjërat që dikur i përbuznim, sot i duam'?",
+            "answer": "Me kalimin e viteve ndryshojmë mendim për shumë gjëra. Reflektim mbi pjekurinë dhe ndryshimin e perspektivës."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
