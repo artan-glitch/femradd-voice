@@ -7255,6 +7255,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "468",
+    "slug": "grate-qe-themi-jo",
+    "title": "Gratë që themi 'jo' — zgjedhje e guximshme",
+    "excerpt": "Të thuash jo si grua në shoqërinë shqiptare kërkon guxim. Reflektim mbi gratë që vendosin kufij për veten.",
+    "image": "/images/articles/grate-qe-themi-jo.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "arta-berisha",
+    "readingTime": 5,
+    "publishedAt": "2026-05-04",
+    "modifiedAt": "2026-05-04",
+    "faqs": [
+        {
+            "question": "Çfarë trajton 'Gratë që themi 'jo' — zgjedhje e guximshme'?",
+            "answer": "Të thuash jo si grua në shoqërinë shqiptare kërkon guxim. Reflektim mbi gratë që vendosin kufij për veten."
+        },
+        {
+            "question": "Pse është i rëndësishëm?",
+            "answer": "Ndihmon lexuesit të njohin figurat e rëndësishme të kulturës shqiptare."
+        },
+        {
+            "question": "Ku mund të lexoj më shumë?",
+            "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
+        }
+    ]
 }
 ];
 
