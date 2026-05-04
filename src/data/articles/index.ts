@@ -7282,6 +7282,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Vizitoni FemraDD.com për biografi dhe histori frymëzuese shqiptare."
         }
     ]
+},
+  {
+    "id": "469",
+    "slug": "kuptimi-i-ores-11-11",
+    "title": "Kuptimi i orës 11:11 — shenjat e universit",
+    "excerpt": "Pse e shihni vazhdimisht orën 11:11? Zbuloni kuptimin shpirtëror, simbolikën dhe mesazhin që universi mund të jetë duke ju dërguar pikërisht tani.",
+    "image": "/images/articles/kuptimi-i-ores-11-11.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-05-04",
+    "modifiedAt": "2026-05-04",
+    "faqs": [
+        {
+            "question": "Pse e shoh vazhdimisht orën 11:11?",
+            "answer": "Sipas besimeve shpirtërore, 11:11 është një shenjë sinkroniciteti. Disa e interpretojnë si moment ku universi tërheq vëmendjen tuaj drejt mendimeve aktuale ose drejt një rruge të re jete."
+        },
+        {
+            "question": "A duhet të bëj një dëshirë kur shoh 11:11?",
+            "answer": "Tradita popullore thotë po. Shumë njerëz besojnë se kjo është një 'dritare e hapur' e universit, ku mendimet dhe dëshirat tuaja kanë fuqi më të madhe se zakonisht."
+        },
+        {
+            "question": "A ka kuptim psikologjik shfaqja e shpeshtë e 11:11?",
+            "answer": "Po. Psikologjia e shpjegon me 'iluzionin e frekuencës' — kur i kushtoni rëndësi diçkaje, truri fillon ta vërejë më shpesh, edhe pse statistikisht ndodh njësoj sa më parë."
+        }
+    ]
 }
 ];
 

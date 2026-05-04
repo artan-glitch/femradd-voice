@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 04 May 2026 09:33:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:20:32 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Gratë që themi 'jo' — zgjedhje e guximshme</title>
@@ -14,6 +14,14 @@
       <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/grate-qe-themi-jo</guid>
       <category>Zhvillim Personal</category>
+    </item>
+    <item>
+      <title>Kuptimi i orës 11:11 — shenjat e universit</title>
+      <link>https://www.femradd.com/artikull/kuptimi-i-ores-11-11</link>
+      <description>Pse e shihni vazhdimisht orën 11:11? Zbuloni kuptimin shpirtëror, simbolikën dhe mesazhin që universi mund të jetë duke ju dërguar pikërisht tani.</description>
+      <pubDate>Mon, 04 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/kuptimi-i-ores-11-11</guid>
+      <category>Kuriozitete</category>
     </item>
     <item>
       <title>Vetmi apo vetvete — zbulime në heshtje</title>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/mesazhe-dashurie-te-bukura</guid>
       <category>Dashuri &amp; Takime</category>
-    </item>
-    <item>
-      <title>Mitet shqiptare — figurat femërore që sfiduan perënditë</title>
-      <link>https://www.femradd.com/artikull/mitet-shqiptare-femra</link>
-      <description>Zbuloni figurat mitologjike femërore shqiptare si Zana, Ora dhe tjera që sfiduan perënditë me fuqinë dhe mençurinë e tyre.</description>
-      <pubDate>Sat, 04 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/mitet-shqiptare-femra</guid>
-      <category>Kuriozitete</category>
     </item>
   </channel>
 </rss>
