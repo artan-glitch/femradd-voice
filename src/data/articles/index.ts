@@ -7336,6 +7336,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Sepse pikërisht atëherë kërkojmë kuptim. Universi (ose mendja jonë) na kujton se vështirësia është pjesë e procesit të ndërtimit, jo e shkatërrimit."
         }
     ]
+},
+  {
+    "id": "471",
+    "slug": "endrra-me-gjarperinj",
+    "title": "Të ëndërrosh gjarpërinj — kuptimi psikologjik",
+    "excerpt": "Pse ëndërrojmë gjarpërinj? Zbulo kuptimin psikologjik, simbolikën e thellë dhe arsyet pse kjo ëndërr është një nga më të zakonshmet tek gratë.",
+    "image": "/images/articles/endrra-me-gjarperinj.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 7,
+    "publishedAt": "2026-05-05",
+    "modifiedAt": "2026-05-05",
+    "faqs": [
+        {
+            "question": "Çfarë kuptimi ka të ëndërrosh një gjarpër?",
+            "answer": "Në psikologji, gjarpri simbolizon transformim, frikë të shtypur ose dikë në jetën tënde që ndien si kërcënim. Shpesh tregon ndryshim të thellë emocional."
+        },
+        {
+            "question": "A është ëndërr e keqe të shohësh gjarpërinj?",
+            "answer": "Jo domosdoshmërisht. Megjithëse zgjon ankth, gjarpri është gjithashtu simbol i shërimit, mençurisë dhe rilindjes — siç ai ndërron lëkurën."
+        },
+        {
+            "question": "Pse gratë ëndërrojnë më shumë gjarpërinj?",
+            "answer": "Studimet tregojnë se gratë janë më të prirura të raportojnë ëndrra me kafshë dhe me ngjyresa emocionale. Gjarpri shpesh lidhet me dinamikat e besimit dhe sigurisë."
+        }
+    ]
 }
 ];
 

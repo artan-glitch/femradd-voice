@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 05 May 2026 09:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:57:20 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Kuptimi i orës 22:22 — mesazhi shpirtëror</title>
@@ -13,6 +13,14 @@
       <description>Çfarë do të thotë kur sheh shpesh orën 22:22? Zbulo simbolikën, mesazhin shpirtëror dhe arsyen pse ky numër konsiderohet shenjë e rëndësishme.</description>
       <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/kuptimi-i-ores-22-22</guid>
+      <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Të ëndërrosh gjarpërinj — kuptimi psikologjik</title>
+      <link>https://www.femradd.com/artikull/endrra-me-gjarperinj</link>
+      <description>Pse ëndërrojmë gjarpërinj? Zbulo kuptimin psikologjik, simbolikën e thellë dhe arsyet pse kjo ëndërr është një nga më të zakonshmet tek gratë.</description>
+      <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/endrra-me-gjarperinj</guid>
       <category>Kuriozitete</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/si-te-jesh-e-lumtur</guid>
       <category>Zhvillim Personal</category>
-    </item>
-    <item>
-      <title>Modele flokësh në trend — frymëzim për çdo sezon</title>
-      <link>https://www.femradd.com/artikull/modele-flokesh-2026</link>
-      <description>Zbuloni modelet e flokëve më në trend për 2026. Ide frymëzuese për flokë të shkurtra, mesatare dhe të gjata, për çdo sezon.</description>
-      <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/modele-flokesh-2026</guid>
-      <category>Lifestyle</category>
     </item>
   </channel>
 </rss>
