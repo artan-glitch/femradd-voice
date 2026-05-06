@@ -7363,6 +7363,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Studimet tregojnë se gratë janë më të prirura të raportojnë ëndrra me kafshë dhe me ngjyresa emocionale. Gjarpri shpesh lidhet me dinamikat e besimit dhe sigurisë."
         }
     ]
+},
+  {
+    "id": "472",
+    "slug": "endrra-me-ex",
+    "title": "Të ëndërrosh ish-të dashurin — pse na mundon",
+    "excerpt": "Pse na vjen ish-i në ëndërr edhe vite pas ndarjes? Zbulo arsyet psikologjike, kuptimin e thellë dhe çfarë po të thotë vërtet mendja jote.",
+    "image": "/images/articles/endrra-me-ex.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-05-06",
+    "modifiedAt": "2026-05-06",
+    "faqs": [
+        {
+            "question": "Pse e ëndërroj ende ish-in pas vitesh?",
+            "answer": "Sepse mendja jote ka mbyllur kapitullin, por jo gjithmonë emocionalisht. Ëndrra shpesh tregon një mesim ose ndjenjë që mbeti e papërpunuar, jo dëshirë për kthim."
+        },
+        {
+            "question": "A do të thotë që ende e dua?",
+            "answer": "Jo domosdoshmërisht. Ëndrrat me ish të dashur shpesh kanë të bëjnë me identitetin tonë në atë periudhë, jo me personin. Mund të jetë nostalgji për veten që ishe."
+        },
+        {
+            "question": "Çfarë duhet të bëj kur këto ëndrra më mundojnë?",
+            "answer": "Mos i shtyp. Shkruaji, fol për to me një mike, ose me një terapist. Sa më shumë i pranon, aq më shpejt mendja heq dorë nga përsëritja e tyre."
+        }
+    ]
 }
 ];
 

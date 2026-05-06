@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 05 May 2026 10:57:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 09:38:49 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Të ëndërrosh ish-të dashurin — pse na mundon</title>
+      <link>https://www.femradd.com/artikull/endrra-me-ex</link>
+      <description>Pse na vjen ish-i në ëndërr edhe vite pas ndarjes? Zbulo arsyet psikologjike, kuptimin e thellë dhe çfarë po të thotë vërtet mendja jote.</description>
+      <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/endrra-me-ex</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Kuptimi i orës 22:22 — mesazhi shpirtëror</title>
       <link>https://www.femradd.com/artikull/kuptimi-i-ores-22-22</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fabula-te-shkurtra</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Si të jesh e lumtur — 12 zakone të thjeshta ditore</title>
-      <link>https://www.femradd.com/artikull/si-te-jesh-e-lumtur</link>
-      <description>Zbuloni 12 zakone të thjeshta ditore të bazuara në shkencë që rrisin lumturinë tuaj. Këshilla praktike për një jetë më të kënaqshme.</description>
-      <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/si-te-jesh-e-lumtur</guid>
-      <category>Zhvillim Personal</category>
     </item>
   </channel>
 </rss>
