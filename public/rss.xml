@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 06 May 2026 09:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:24:11 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Të ëndërrosh ish-të dashurin — pse na mundon</title>
@@ -13,6 +13,14 @@
       <description>Pse na vjen ish-i në ëndërr edhe vite pas ndarjes? Zbulo arsyet psikologjike, kuptimin e thellë dhe çfarë po të thotë vërtet mendja jote.</description>
       <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/endrra-me-ex</guid>
+      <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>Të ëndërrosh dasmën — simbolika dhe kuptimi</title>
+      <link>https://www.femradd.com/artikull/endrra-me-dasme</link>
+      <description>Çfarë do të thotë të ëndërrosh një dasmë? Zbulo simbolikën e thellë, kuptimin emocional dhe pse kjo ëndërr nuk lidhet gjithmonë me martesë.</description>
+      <pubDate>Wed, 06 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/endrra-me-dasme</guid>
       <category>Kuriozitete</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dhurata-te-personalizuara</guid>
       <category>Lifestyle</category>
-    </item>
-    <item>
-      <title>Fabula të shkurtra me mësime të mëdha për jetën</title>
-      <link>https://www.femradd.com/artikull/fabula-te-shkurtra</link>
-      <description>Lexoni 6 fabula të shkurtra me mësime të mëdha për jetën. Tregime të urta që na mësojnë për durimin, guximin dhe mençurinë.</description>
-      <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/fabula-te-shkurtra</guid>
-      <category>Kuriozitete</category>
     </item>
   </channel>
 </rss>

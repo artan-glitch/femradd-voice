@@ -7390,6 +7390,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Mos i shtyp. Shkruaji, fol për to me një mike, ose me një terapist. Sa më shumë i pranon, aq më shpejt mendja heq dorë nga përsëritja e tyre."
         }
     ]
+},
+  {
+    "id": "473",
+    "slug": "endrra-me-dasme",
+    "title": "Të ëndërrosh dasmën — simbolika dhe kuptimi",
+    "excerpt": "Çfarë do të thotë të ëndërrosh një dasmë? Zbulo simbolikën e thellë, kuptimin emocional dhe pse kjo ëndërr nuk lidhet gjithmonë me martesë.",
+    "image": "/images/articles/endrra-me-dasme.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-05-06",
+    "modifiedAt": "2026-05-06",
+    "faqs": [
+        {
+            "question": "A do të thotë që do të martohem nëse ëndërroj dasmë?",
+            "answer": "Jo. Ëndrrat me dasma rrallë janë parashikim. Më shpesh ato simbolizojnë një bashkim të brendshëm — dy pjesë të vetes që po vijnë në harmoni."
+        },
+        {
+            "question": "Çfarë do të thotë të ëndërrosh dasmën e dikujt tjetër?",
+            "answer": "Mund të tregojë krahasim, ndjenja për ardhmen tënde, ose thjesht përpunim emocional pas një ngjarje në jetën reale të personit që ëndërrove."
+        },
+        {
+            "question": "A është e keqe të ëndërrosh që dasma shkon keq?",
+            "answer": "Jo. Tregon vetëm pasiguri, frikë ndaj angazhimit, ose stres aktual. Mendja shfaq frikën në një formë simbolike që ne mund ta përballojmë."
+        }
+    ]
 }
 ];
 
