@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 07 May 2026 09:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:23:22 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Të ëndërrosh unazën — kuptimi sipas kontekstit</title>
@@ -14,6 +14,14 @@
       <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/endrra-me-unaze</guid>
       <category>Kuriozitete</category>
+    </item>
+    <item>
+      <title>50 pyetje interesante për të dashurin tënd</title>
+      <link>https://www.femradd.com/artikull/pyetje-per-te-dashurin</link>
+      <description>Lista me 50 pyetje të zgjedhura për të njohur më thellë të dashurin tënd. Pyetje që krijojnë afërsi, hapin biseda të reja dhe zbulojnë gjithçka.</description>
+      <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/pyetje-per-te-dashurin</guid>
+      <category>Dashuri &amp; Takime</category>
     </item>
     <item>
       <title>Të ëndërrosh ish-të dashurin — pse na mundon</title>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/stres-dhe-ankthi</guid>
       <category>Zhvillim Personal</category>
-    </item>
-    <item>
-      <title>7 poete shqiptare që ndryshuan letërsinë</title>
-      <link>https://www.femradd.com/artikull/poetat-shqiptare-femra</link>
-      <description>Njohuni me 7 poete shqiptare të shquara që lanë gjurmë në letërsinë shqipe. Historitë dhe kontributi i grave që ndryshuan poezinë.</description>
-      <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/poetat-shqiptare-femra</guid>
-      <category>Gratë Shqiptare</category>
     </item>
   </channel>
 </rss>

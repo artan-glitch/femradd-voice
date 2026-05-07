@@ -7444,6 +7444,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po. Tregon pranim, dashuri ose njohje që po vjen drejt teje. Mund të jetë edhe simbol i një cilësie të re që po fillon ta zotërosh."
         }
     ]
+},
+  {
+    "id": "475",
+    "slug": "pyetje-per-te-dashurin",
+    "title": "50 pyetje interesante për të dashurin tënd",
+    "excerpt": "Lista me 50 pyetje të zgjedhura për të njohur më thellë të dashurin tënd. Pyetje që krijojnë afërsi, hapin biseda të reja dhe zbulojnë gjithçka.",
+    "image": "/images/articles/pyetje-per-te-dashurin.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-05-07",
+    "modifiedAt": "2026-05-07",
+    "faqs": [
+        {
+            "question": "Pse janë të rëndësishme pyetjet e thella në një lidhje?",
+            "answer": "Sepse afërsia emocionale ndërtohet përmes kuptimit, jo vetëm përmes kohës së kaluar bashkë. Pyetjet e duhura zbulojnë anë që përditshmëria nuk i tregon."
+        },
+        {
+            "question": "Kur është momenti më i mirë për t'i bërë këto pyetje?",
+            "answer": "Në momente të qeta, larg shqetësimeve të ditës. Mbrëmjet, shëtitjet ose udhëtimet janë momentet ku biseda rrjedh më natyrshëm dhe pa presion."
+        },
+        {
+            "question": "A duhet t'i bëj të gjitha 50 pyetjet menjëherë?",
+            "answer": "Jo. Më mirë zgjidh disa, lëre të rrjedhë biseda, dhe vazhdoni në mbrëmje të tjera. Cilësia e bisedës është më e rëndësishme se sasia e pyetjeve."
+        }
+    ]
 }
 ];
 
