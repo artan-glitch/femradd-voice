@@ -7417,6 +7417,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Jo. Tregon vetëm pasiguri, frikë ndaj angazhimit, ose stres aktual. Mendja shfaq frikën në një formë simbolike që ne mund ta përballojmë."
         }
     ]
+},
+  {
+    "id": "474",
+    "slug": "endrra-me-unaze",
+    "title": "Të ëndërrosh unazën — kuptimi sipas kontekstit",
+    "excerpt": "Çfarë do të thotë të ëndërrosh një unazë? Mëso simbolikën, kuptimet sipas kontekstit dhe mesazhin që mendja jote po të dërgon në heshtje.",
+    "image": "/images/articles/endrra-me-unaze.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-05-07",
+    "modifiedAt": "2026-05-07",
+    "faqs": [
+        {
+            "question": "Çfarë simbolizon unaza në ëndërr?",
+            "answer": "Unaza është simbol i premtimit, i plotësisë dhe i lidhjes. Forma rrethore përfaqëson përjetësinë dhe vazhdimësinë e diçkaje që nuk ka fund."
+        },
+        {
+            "question": "Çfarë do të thotë të humbësh unazën në ëndërr?",
+            "answer": "Mund të tregojë frikë nga humbja e diçkaje të rëndësishme — një lidhje, një besim, ose një pjesë e identitetit tënd që po e ndien të paqëndrueshme."
+        },
+        {
+            "question": "A është ëndërr e mirë të marrësh unazë dhuratë?",
+            "answer": "Po. Tregon pranim, dashuri ose njohje që po vjen drejt teje. Mund të jetë edhe simbol i një cilësie të re që po fillon ta zotërosh."
+        }
+    ]
 }
 ];
 

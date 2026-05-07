@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 06 May 2026 11:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:58:44 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Të ëndërrosh unazën — kuptimi sipas kontekstit</title>
+      <link>https://www.femradd.com/artikull/endrra-me-unaze</link>
+      <description>Çfarë do të thotë të ëndërrosh një unazë? Mëso simbolikën, kuptimet sipas kontekstit dhe mesazhin që mendja jote po të dërgon në heshtje.</description>
+      <pubDate>Thu, 07 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/endrra-me-unaze</guid>
+      <category>Kuriozitete</category>
+    </item>
     <item>
       <title>Të ëndërrosh ish-të dashurin — pse na mundon</title>
       <link>https://www.femradd.com/artikull/endrra-me-ex</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 10 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/poetat-shqiptare-femra</guid>
       <category>Gratë Shqiptare</category>
-    </item>
-    <item>
-      <title>Dhurata të personalizuara — ide unike për çdo rast</title>
-      <link>https://www.femradd.com/artikull/dhurata-te-personalizuara</link>
-      <description>Zbuloni ide kreative për dhurata të personalizuara që lënë përshtypje. Dhurata unike për ditëlindje, përvjetore, festa dhe raste speciale.</description>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/dhurata-te-personalizuara</guid>
-      <category>Lifestyle</category>
     </item>
   </channel>
 </rss>
