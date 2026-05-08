@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Thu, 07 May 2026 11:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 08:52:25 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pse mashkujt heshtin kur zemërohen — shpjegimi</title>
+      <link>https://www.femradd.com/artikull/pse-mashkujt-heshtin</link>
+      <description>Pse burrat tërhiqen në heshtje në vend që të flasin? Zbulo arsyet psikologjike, dallimet emocionale dhe si ta kuptosh këtë sjellje pa u dëmtuar.</description>
+      <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/pse-mashkujt-heshtin</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
     <item>
       <title>Të ëndërrosh unazën — kuptimi sipas kontekstit</title>
       <link>https://www.femradd.com/artikull/endrra-me-unaze</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/foto-per-profil</guid>
       <category>Lifestyle</category>
-    </item>
-    <item>
-      <title>Si ta menaxhosh stresin — teknika që funksionojnë</title>
-      <link>https://www.femradd.com/artikull/stres-dhe-ankthi</link>
-      <description>Mësoni teknika efektive për menaxhimin e stresit dhe ankthit. Metoda praktike të bazuara në shkencë për qetësi mendore dhe fizike.</description>
-      <pubDate>Sat, 11 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/stres-dhe-ankthi</guid>
-      <category>Zhvillim Personal</category>
     </item>
   </channel>
 </rss>

@@ -7471,6 +7471,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Jo. Më mirë zgjidh disa, lëre të rrjedhë biseda, dhe vazhdoni në mbrëmje të tjera. Cilësia e bisedës është më e rëndësishme se sasia e pyetjeve."
         }
     ]
+},
+  {
+    "id": "476",
+    "slug": "pse-mashkujt-heshtin",
+    "title": "Pse mashkujt heshtin kur zemërohen — shpjegimi",
+    "excerpt": "Pse burrat tërhiqen në heshtje në vend që të flasin? Zbulo arsyet psikologjike, dallimet emocionale dhe si ta kuptosh këtë sjellje pa u dëmtuar.",
+    "image": "/images/articles/pse-mashkujt-heshtin.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 7,
+    "publishedAt": "2026-05-08",
+    "modifiedAt": "2026-05-08",
+    "faqs": [
+        {
+            "question": "Pse burrat heshtin në vend që të flasin kur zemërohen?",
+            "answer": "Sepse shumica janë rritur duke mësuar të kontrollojnë emocionet. Heshtja është mënyra e tyre për të shmangur thënien e diçkaje që do të pendoheshin më vonë."
+        },
+        {
+            "question": "A do të thotë heshtja se nuk më do?",
+            "answer": "Jo. Më shpesh do të thotë se ai ka frikë të dëmtojë lidhjen, jo se nuk i intereson. Heshtja është mbrojtje, jo indiferencë."
+        },
+        {
+            "question": "Si duhet të reagoj kur ai hesht?",
+            "answer": "Mos e detyro të flasë menjëherë. Jepi hapësirë, por mos u zhduk. Një frazë e qetë si 'Jam këtu kur të jesh gati' funksionon më shumë se presioni."
+        }
+    ]
 }
 ];
 
