@@ -7498,6 +7498,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Mos e detyro të flasë menjëherë. Jepi hapësirë, por mos u zhduk. Një frazë e qetë si 'Jam këtu kur të jesh gati' funksionon më shumë se presioni."
         }
     ]
+},
+  {
+    "id": "477",
+    "slug": "sa-kohe-per-te-harruar",
+    "title": "Sa kohë duhet për të harruar një dashuri",
+    "excerpt": "Sa kohë duhet vërtet për ta harruar dikë? Zbulo çfarë thotë shkenca, fazat e shërimit dhe pse harresa nuk është gjithmonë qëllimi më i mirë.",
+    "image": "/images/articles/sa-kohe-per-te-harruar.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 7,
+    "publishedAt": "2026-05-08",
+    "modifiedAt": "2026-05-08",
+    "faqs": [
+        {
+            "question": "Sa kohë vërtet duhet për ta harruar dikë?",
+            "answer": "Studimet sugjerojnë mesatarisht 6 muaj deri në 2 vjet, varësisht nga thellësia e lidhjes. Por shërimi nuk është lineare — ka ditë të mira dhe ditë të vështira."
+        },
+        {
+            "question": "A duhet ta harroj plotësisht dikë?",
+            "answer": "Jo. Qëllimi nuk është të harrosh, por të mos lëndohesh më. Kujtimet mbeten, por humbin peshën emocionale që të ndalojnë të jetosh."
+        },
+        {
+            "question": "Pse disa njerëz nuk e harrojnë kurrë lidhjen e parë?",
+            "answer": "Sepse lidhjet e para krijojnë rrugë emocionale të reja në tru. Ato nuk fshihen, por bëhen pjesë e historisë sate, jo pengesë e së ardhmes."
+        }
+    ]
 }
 ];
 

@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 08 May 2026 08:52:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:51:36 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Pse mashkujt heshtin kur zemërohen — shpjegimi</title>
@@ -13,6 +13,14 @@
       <description>Pse burrat tërhiqen në heshtje në vend që të flasin? Zbulo arsyet psikologjike, dallimet emocionale dhe si ta kuptosh këtë sjellje pa u dëmtuar.</description>
       <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/pse-mashkujt-heshtin</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
+    <item>
+      <title>Sa kohë duhet për të harruar një dashuri</title>
+      <link>https://www.femradd.com/artikull/sa-kohe-per-te-harruar</link>
+      <description>Sa kohë duhet vërtet për ta harruar dikë? Zbulo çfarë thotë shkenca, fazat e shërimit dhe pse harresa nuk është gjithmonë qëllimi më i mirë.</description>
+      <pubDate>Fri, 08 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/sa-kohe-per-te-harruar</guid>
       <category>Dashuri &amp; Takime</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fejesa-traditat</guid>
       <category>Dashuri &amp; Takime</category>
-    </item>
-    <item>
-      <title>Si ta bësh foton perfekte për profil</title>
-      <link>https://www.femradd.com/artikull/foto-per-profil</link>
-      <description>Këshilla praktike për foton perfekte të profilit. Mësoni rreth pozimit, ndriçimit, editimit dhe gabimeve që duhet shmangur.</description>
-      <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/foto-per-profil</guid>
-      <category>Lifestyle</category>
     </item>
   </channel>
 </rss>
