@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 09 May 2026 08:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 10:30:24 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Shenjat e një burri besnik — 10 tregues</title>
@@ -13,6 +13,14 @@
       <description>Si dallohet një burrë vërtet besnik? Zbulo 10 shenjat e qarta të burrit të besueshëm dhe pse intuita jote rrallë gabon për këtë.</description>
       <pubDate>Sat, 09 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/shenjat-e-nje-burri-besnik</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
+    <item>
+      <title>Pse disa njerëz nuk e thonë 'të dua'</title>
+      <link>https://www.femradd.com/artikull/pse-nuk-thone-te-dua</link>
+      <description>Pse disa njerëz nuk e shprehin dashurinë me fjalë? Zbulo arsyet psikologjike, gjuhët e ndryshme të dashurisë dhe si ta kuptosh pa fjalë.</description>
+      <pubDate>Sat, 09 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/pse-nuk-thone-te-dua</guid>
       <category>Dashuri &amp; Takime</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/komplimente-per-femra</guid>
       <category>Dashuri &amp; Takime</category>
-    </item>
-    <item>
-      <title>Natyra e qetë — vendet më paqësore në Shqipëri</title>
-      <link>https://www.femradd.com/artikull/natyra-e-qete-shqiperi</link>
-      <description>Zbuloni vendet më paqësore dhe të qeta në Shqipëri. Destinacione natyrore perfekte për t'u larguar nga stresi i jetës së përditshme.</description>
-      <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/natyra-e-qete-shqiperi</guid>
-      <category>Kuriozitete</category>
     </item>
   </channel>
 </rss>
