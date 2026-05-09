@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Fri, 08 May 2026 10:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:55:50 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shenjat e një burri besnik — 10 tregues</title>
+      <link>https://www.femradd.com/artikull/shenjat-e-nje-burri-besnik</link>
+      <description>Si dallohet një burrë vërtet besnik? Zbulo 10 shenjat e qarta të burrit të besueshëm dhe pse intuita jote rrallë gabon për këtë.</description>
+      <pubDate>Sat, 09 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/shenjat-e-nje-burri-besnik</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
     <item>
       <title>Pse mashkujt heshtin kur zemërohen — shpjegimi</title>
       <link>https://www.femradd.com/artikull/pse-mashkujt-heshtin</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/natyra-e-qete-shqiperi</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Fejesa — traditat, përgatitjet dhe këshillat</title>
-      <link>https://www.femradd.com/artikull/fejesa-traditat</link>
-      <description>Guida e plotë për fejesën shqiptare. Traditat, përgatitjet moderne, këshillat për çiftin dhe gabimet që duhet shmangur në fejesë.</description>
-      <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/fejesa-traditat</guid>
-      <category>Dashuri &amp; Takime</category>
     </item>
   </channel>
 </rss>
