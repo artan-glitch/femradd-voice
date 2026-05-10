@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sat, 09 May 2026 10:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 09:10:40 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pse femrat vuajnë më gjatë pas ndarjes</title>
+      <link>https://www.femradd.com/artikull/femrat-vuajne-pas-ndarjes</link>
+      <description>Pse gratë vuajnë më shumë pas një ndarjeje? Zbulo arsyet biologjike, psikologjike dhe shoqërore prapa kësaj dhimbjeje që zgjat më shumë se duket.</description>
+      <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/femrat-vuajne-pas-ndarjes</guid>
+      <category>Dashuri &amp; Takime</category>
+    </item>
     <item>
       <title>Shenjat e një burri besnik — 10 tregues</title>
       <link>https://www.femradd.com/artikull/shenjat-e-nje-burri-besnik</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dita-e-veres</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Si t'i bësh komplimente një gruaje — 30 ide</title>
-      <link>https://www.femradd.com/artikull/komplimente-per-femra</link>
-      <description>Mësoni artin e komplimenteve të sinqerta për gratë. 30 ide komplimentesh që prekin zemrën, nga pamja deri tek personaliteti.</description>
-      <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/komplimente-per-femra</guid>
-      <category>Dashuri &amp; Takime</category>
     </item>
   </channel>
 </rss>

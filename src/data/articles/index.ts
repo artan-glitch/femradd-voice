@@ -7579,6 +7579,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Mos e detyro. Krijoji një ambient ku ndien siguri emocionale. Falenderoje për veprimet e dashurisë që bën dhe trego se i vlerëson edhe fjalët kur vijnë."
         }
     ]
+},
+  {
+    "id": "480",
+    "slug": "femrat-vuajne-pas-ndarjes",
+    "title": "Pse femrat vuajnë më gjatë pas ndarjes",
+    "excerpt": "Pse gratë vuajnë më shumë pas një ndarjeje? Zbulo arsyet biologjike, psikologjike dhe shoqërore prapa kësaj dhimbjeje që zgjat më shumë se duket.",
+    "image": "/images/articles/femrat-vuajne-pas-ndarjes.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri & Takime",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 7,
+    "publishedAt": "2026-05-10",
+    "modifiedAt": "2026-05-10",
+    "faqs": [
+        {
+            "question": "Pse gratë vuajnë më shumë se burrat pas ndarjes?",
+            "answer": "Studimet tregojnë se gratë e përjetojnë dhimbjen më intensivisht në fillim sepse e investojnë emocionalisht më shumë, por shërohen plotësisht në fund."
+        },
+        {
+            "question": "A vuajnë burrat fare pas ndarjes?",
+            "answer": "Po, por ndryshe. Burrat shpesh ndiejnë dhimbjen më vonë, kur 'qetësia' fillon dhe nuk kanë me kë ta zëvendësojnë kohën dhe vëmendjen e dikurshme."
+        },
+        {
+            "question": "Si mund ta përballoj më mirë vuajtjen pas ndarjes?",
+            "answer": "Lëre veten të ndiesh, mos e shtyp dhimbjen. Mbështetu te shoqet, ruaj rutinat e shëndetshme dhe mos e detyro veten të jesh 'e fortë' menjëherë."
+        }
+    ]
 }
 ];
 
