@@ -7606,6 +7606,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Lëre veten të ndiesh, mos e shtyp dhimbjen. Mbështetu te shoqet, ruaj rutinat e shëndetshme dhe mos e detyro veten të jesh 'e fortë' menjëherë."
         }
     ]
+},
+  {
+    "id": "481",
+    "slug": "thenie-te-mencura-per-jeten",
+    "title": "Thënie të mençura për jetën — urtësia që mban",
+    "excerpt": "Mbi 30 thënie të mençura për jetën që zgjohin reflektim, japin forcë në momente të vështira dhe na kujtojnë se urtësia është gjithmonë e disponueshme.",
+    "image": "/images/articles/thenie-te-mencura-per-jeten.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "arta-berisha",
+    "readingTime": 6,
+    "publishedAt": "2026-05-10",
+    "modifiedAt": "2026-05-10",
+    "faqs": [
+        {
+            "question": "Pse na bëjnë mirë thëniet e mençura?",
+            "answer": "Sepse na lidhin me mendimet e dikujt që ka kaluar nëpër të njëjtat sfida. Një frazë e shkurtër mund të hapë rrugë reflektimi që një libër i tërë nuk e bën."
+        },
+        {
+            "question": "Si t'i përdor thëniet në jetën e përditshme?",
+            "answer": "Zgjidh disa që të prekin më thellë dhe shkruaji në një vend ku i sheh çdo ditë — telefon, ditar, pasqyrë. Përsëritja krijon ndryshim të vërtetë."
+        },
+        {
+            "question": "A janë thëniet vetëm fjalë të bukura pa peshë?",
+            "answer": "Jo, kur i marrim me kujdes. Thëniet janë urtësi e dëndur — fjalë të paktat që mbartin mësime të mëdha, vetëm nëse i lejojmë të depërtojnë."
+        }
+    ]
 }
 ];
 

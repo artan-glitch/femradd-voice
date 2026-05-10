@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Sun, 10 May 2026 09:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:42:17 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Pse femrat vuajnë më gjatë pas ndarjes</title>
@@ -14,6 +14,14 @@
       <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/femrat-vuajne-pas-ndarjes</guid>
       <category>Dashuri &amp; Takime</category>
+    </item>
+    <item>
+      <title>Thënie të mençura për jetën — urtësia që mban</title>
+      <link>https://www.femradd.com/artikull/thenie-te-mencura-per-jeten</link>
+      <description>Mbi 30 thënie të mençura për jetën që zgjohin reflektim, japin forcë në momente të vështira dhe na kujtojnë se urtësia është gjithmonë e disponueshme.</description>
+      <pubDate>Sun, 10 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/thenie-te-mencura-per-jeten</guid>
+      <category>Kuriozitete</category>
     </item>
     <item>
       <title>Shenjat e një burri besnik — 10 tregues</title>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/veshje-elegante</guid>
       <category>Lifestyle</category>
-    </item>
-    <item>
-      <title>Dita e Verës — historia dhe traditat shqiptare</title>
-      <link>https://www.femradd.com/artikull/dita-e-veres</link>
-      <description>Mësoni historinë dhe traditat e Ditës së Verës, festës më të vjetër shqiptare të 14 marsit. Origjina pagane dhe festimet moderne.</description>
-      <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/dita-e-veres</guid>
-      <category>Kuriozitete</category>
     </item>
   </channel>
 </rss>
