@@ -7633,6 +7633,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Jo, kur i marrim me kujdes. Thëniet janë urtësi e dëndur — fjalë të paktat që mbartin mësime të mëdha, vetëm nëse i lejojmë të depërtojnë."
         }
     ]
+},
+  {
+    "id": "482",
+    "slug": "ngjyra-e-preferuar-personalitet",
+    "title": "Çfarë thotë ngjyra e preferuar për personalitetin",
+    "excerpt": "Ngjyra që zgjedh tregon shumë për personalitetin tënd. Zbulo çfarë thonë e kuqja, blu, e gjelbra dhe ngjyrat e tjera për karakterin dhe emocionet.",
+    "image": "/images/articles/ngjyra-e-preferuar-personalitet.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-05-11",
+    "modifiedAt": "2026-05-11",
+    "faqs": [
+        {
+            "question": "A ekziston vërtet lidhje midis ngjyrës dhe personalitetit?",
+            "answer": "Po, psikologjia e ngjyrave studion gjerësisht këtë lidhje. Ngjyrat aktivizojnë emocione të caktuara dhe preferenca jonë reflekton anët e thella të karakterit."
+        },
+        {
+            "question": "A mund të ndryshojë ngjyra e preferuar me kohën?",
+            "answer": "Po, dhe është krejt normal. Sa herë që kalojmë faza të reja jete, gusti për ngjyra mund të zhvendoset — sepse edhe nevojat tona emocionale ndryshojnë."
+        },
+        {
+            "question": "Çfarë thotë nëse më pëlqejnë disa ngjyra njëherësh?",
+            "answer": "Tregon një personalitet me shumë anë dhe pasuri emocionale. Mos ke nevojë të zgjedhësh një — ngjyrat e shumta janë pasqyra e thellësisë sate."
+        }
+    ]
 }
 ];
 
