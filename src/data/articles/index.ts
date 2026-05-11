@@ -7660,6 +7660,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Tregon një personalitet me shumë anë dhe pasuri emocionale. Mos ke nevojë të zgjedhësh një — ngjyrat e shumta janë pasqyra e thellësisë sate."
         }
     ]
+},
+  {
+    "id": "483",
+    "slug": "pse-njerezit-vone",
+    "title": "Pse disa njerëz janë gjithmonë vonë — psikologjia",
+    "excerpt": "Pse disa njerëz vonohen gjithmonë? Zbulo arsyet psikologjike, çfarë thotë kjo për personalitetin dhe pse nuk është gjithmonë çështje mungesë respekti.",
+    "image": "/images/articles/pse-njerezit-vone.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 6,
+    "publishedAt": "2026-05-11",
+    "modifiedAt": "2026-05-11",
+    "faqs": [
+        {
+            "question": "Pse disa njerëz vonohen gjithmonë?",
+            "answer": "Studimet tregojnë se vonimi kronik shpesh ka rrënjë në mënyrën si truri perceptojnë kohën, jo në mungesë respekti për të tjerët si shpesh interpretohet."
+        },
+        {
+            "question": "A është vonimi kronik shenjë e mungesës së respektit?",
+            "answer": "Jo gjithmonë. Shpesh është një kombinim i optimizmit të tepruar, perfeksionizmit dhe vështirësisë në vlerësimin e kohës që duhet për detyra."
+        },
+        {
+            "question": "A mund të ndryshojë një person që vonohet gjithmonë?",
+            "answer": "Po, me vetëdije dhe strategji të vogla. Por kërkon kohë dhe punë me veten. Shumica e njerëzve mund të mësojnë të jenë në kohë me përsiatje praktike."
+        }
+    ]
 }
 ];
 
