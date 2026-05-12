@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 11 May 2026 12:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:02:18 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sa zgjat zemërata mesatare dhe çfarë thotë</title>
+      <link>https://www.femradd.com/artikull/sa-zgjat-zemerata</link>
+      <description>Sa kohë vërtet zgjat një zemërim? Zbulo çfarë thotë shkenca, pse disa njerëz mbajnë mëri për muaj dhe çfarë tregon kjo për botën tonë të brendshme.</description>
+      <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/sa-zgjat-zemerata</guid>
+      <category>Zhvillim Personal</category>
+    </item>
     <item>
       <title>Çfarë thotë ngjyra e preferuar për personalitetin</title>
       <link>https://www.femradd.com/artikull/ngjyra-e-preferuar-personalitet</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/perralla-per-femije</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Dedikime dashurie — fjalët më të bukura për partnerin</title>
-      <link>https://www.femradd.com/artikull/dedikim-dashurie</link>
-      <description>Koleksion me dedikime dashurie të bukura në shqip. Fjalë romantike, poezi të shkurtra dhe dedikim që prekin zemrën e partnerit.</description>
-      <pubDate>Fri, 17 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/dedikim-dashurie</guid>
-      <category>Dashuri &amp; Takime</category>
     </item>
   </channel>
 </rss>

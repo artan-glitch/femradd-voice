@@ -7687,6 +7687,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po, me vetëdije dhe strategji të vogla. Por kërkon kohë dhe punë me veten. Shumica e njerëzve mund të mësojnë të jenë në kohë me përsiatje praktike."
         }
     ]
+},
+  {
+    "id": "484",
+    "slug": "sa-zgjat-zemerata",
+    "title": "Sa zgjat zemërata mesatare dhe çfarë thotë",
+    "excerpt": "Sa kohë vërtet zgjat një zemërim? Zbulo çfarë thotë shkenca, pse disa njerëz mbajnë mëri për muaj dhe çfarë tregon kjo për botën tonë të brendshme.",
+    "image": "/images/articles/sa-zgjat-zemerata.webp",
+    "category": "personale",
+    "categoryLabel": "Zhvillim Personal",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-05-12",
+    "modifiedAt": "2026-05-12",
+    "faqs": [
+        {
+            "question": "Sa zgjat mesatarisht një reagim zemërimi?",
+            "answer": "Studimet tregojnë se reagimi fizik i zemërimit zgjat vetëm rreth 90 sekonda. Çfarë vjen pas kësaj është mendimi ynë që e mban të gjallë emocionin."
+        },
+        {
+            "question": "Pse disa njerëz mbajnë mëri për muaj?",
+            "answer": "Mëria e gjatë shpesh nuk ka të bëjë me ngjarjen, por me kuptimin që i japim. Tregon se diçka brenda nesh ende nuk është shëruar dhe kërkon vëmendje."
+        },
+        {
+            "question": "Si mund të menaxhoj më mirë zemërimin tim?",
+            "answer": "Lëre 90 sekondat e para të kalojnë para se të reagosh. Pranoje emocionin pa e gjykuar. Pyet veten çfarë po të thotë vërtet, jo vetëm me kë je e zemëruar."
+        }
+    ]
 }
 ];
 
