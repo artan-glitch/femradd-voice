@@ -7714,6 +7714,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Lëre 90 sekondat e para të kalojnë para se të reagosh. Pranoje emocionin pa e gjykuar. Pyet veten çfarë po të thotë vërtet, jo vetëm me kë je e zemëruar."
         }
     ]
+},
+  {
+    "id": "485",
+    "slug": "pse-grate-qajne-me-shume",
+    "title": "Pse gratë qajnë më shumë se burrat",
+    "excerpt": "Pse gratë qajnë më shpesh? Zbulo arsyet biologjike, hormonale dhe shoqërore prapa kësaj dukurie të zakonshme që meriton kuptim më të thellë.",
+    "image": "/images/articles/pse-grate-qajne-me-shume.webp",
+    "category": "kuriozitete",
+    "categoryLabel": "Kuriozitete",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-05-12",
+    "modifiedAt": "2026-05-12",
+    "faqs": [
+        {
+            "question": "Pse gratë qajnë më shumë se burrat?",
+            "answer": "Përgjigjja kombinon faktorë biologjikë, hormonalë dhe edukimit shoqëror. Hormonet e prolaktinës dhe shoqëria që lejon shprehjen luajnë rol të rëndësishëm."
+        },
+        {
+            "question": "A është e shëndetshme të qash shpesh?",
+            "answer": "Po, qarja është një mekanizëm natyror i pastrimit emocional. Ajo lëshon hormone stresi nga trupi dhe ndihmon në rivendosjen e ekuilibrit emocional."
+        },
+        {
+            "question": "Si t'i kuptoj qarjet e mia që duken pa shkak?",
+            "answer": "Shpesh nuk janë pa shkak — janë vetëm pa shkak të dukshëm. Trupi nxjerr emocione të grumbulluara. Lëre të rrjedhin pa gjykim, ato kanë mesazh."
+        }
+    ]
 }
 ];
 
