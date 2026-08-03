@@ -123,7 +123,7 @@ export default function Index() {
             {/* Text column */}
             <div className="flex-1 min-w-0">
               <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
-                Mirë se vini në FemraDD
+                Mirë se vini në Femra<span className="text-primary">DD</span>
               </h2>
               <p className="text-lg text-foreground leading-relaxed mb-4">
                 FemraDD është revista online e parë kushtuar grave të reja shqiptare. Çdo ditë sjellim artikuj origjinalë për kulturën, dashurinë, stilin e jetesës, argëtimin dhe zhvillimin personal.
