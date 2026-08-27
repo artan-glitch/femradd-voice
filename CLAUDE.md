@@ -110,5 +110,5 @@ When publishing a new article, ALWAYS follow these steps:
 - **Domain:** www.femradd.com (DNS on Hostpoint, A record → 76.76.21.21)
 - **Build:** `npm run build` → generates static HTML with SEO meta injection
 - **Pre-render:** `scripts/inject-meta.mjs` injects per-page title, canonical, OG tags, description, and article body HTML into static files
-- **Analytics:** Google Analytics (GA4), Plausible, Microsoft Clarity, Google Search Console verified
+- **Analytics:** Google Analytics (GA4), Microsoft Clarity, Google Search Console verified
 - **Health Score:** Ahrefs 100/100 — do NOT break this
