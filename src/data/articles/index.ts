@@ -7795,6 +7795,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Jo. Dashuria me shikim të parë është tërheqje. Shpirti binjak është një njohje që thellohet me kohën, jo një shkëndijë e menjëhershme."
         }
     ]
+},
+  {
+    "id": "488",
+    "slug": "marrdhenie-ne-distance",
+    "title": "Marrëdhëniet në distancë — si të funksionojnë",
+    "excerpt": "Mijëra çifte shqiptare jetojnë në distancë — mes Prishtinës, Tiranës dhe diasporës. Ja si mund të qëndrojnë të vërteta dhe të forta.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 8,
+    "publishedAt": "2026-10-19",
+    "modifiedAt": "2026-10-19",
+    "faqs": [
+        {
+            "question": "Sa zgjasin mesatarisht marrëdhëniet në distancë?",
+            "answer": "Studimet tregojnë se afërsisht 58% e marrëdhënieve në distancë mbijetojnë nëse ka një datë konkrete për t'u bashkuar fizikisht në të ardhmen."
+        },
+        {
+            "question": "A duhet të kemi thirrje video çdo ditë?",
+            "answer": "Jo detyrimisht. Rëndësi ka cilësia, jo frekuenca. Një bisedë e thellë dy herë në javë vlen më shumë se dhjetë thirrje të lodhshme."
+        },
+        {
+            "question": "Si të ruaj intimitetin kur jemi larg?",
+            "answer": "Ndani detaje të vogla të ditës, dërgoni letra zanore, bëni plane konkrete për takimin tjetër dhe mbani një ritual të përbashkët — një film, një libër."
+        }
+    ]
 }
 ];
 

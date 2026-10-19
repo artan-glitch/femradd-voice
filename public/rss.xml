@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:34:02 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Dashuria pas 30-tave — pse është ndryshe</title>
@@ -21,6 +21,14 @@
       <description>Shpirti binjak nuk është mit romantik — është një njohje e thellë. Ja shenjat që tregojnë se dikush është vërtet pjesa jote tjetër.</description>
       <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/shpirti-binjak-shenjat</guid>
+      <category>Dashuri</category>
+    </item>
+    <item>
+      <title>Marrëdhëniet në distancë — si të funksionojnë</title>
+      <link>https://www.femradd.com/artikull/marrdhenie-ne-distance</link>
+      <description>Mijëra çifte shqiptare jetojnë në distancë — mes Prishtinës, Tiranës dhe diasporës. Ja si mund të qëndrojnë të vërteta dhe të forta.</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/marrdhenie-ne-distance</guid>
       <category>Dashuri</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Zbuloni fabulat shqiptare të lashta me mësime të përjetshme për gruan moderne. Tregime alegorike me kafshë që mësojnë vlera universale.</description>
       <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/fabula-shqiptare</guid>
-      <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Dasma shqiptare — ritualet që na lidhin</title>
-      <link>https://www.femradd.com/artikull/dasma-tradicionale-shqiptare</link>
-      <description>Zbuloni ritualet e dasmes tradicionale shqiptare që ruajnë lidhjen me të kaluarën. Nga nata e kanës deri te valli i nuses.</description>
-      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/dasma-tradicionale-shqiptare</guid>
       <category>Kuriozitete</category>
     </item>
   </channel>
