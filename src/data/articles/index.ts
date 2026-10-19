@@ -7741,6 +7741,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Shpesh nuk janë pa shkak — janë vetëm pa shkak të dukshëm. Trupi nxjerr emocione të grumbulluara. Lëre të rrjedhin pa gjykim, ato kanë mesazh."
         }
     ]
+},
+  {
+    "id": "486",
+    "slug": "dashuria-pas-30-tave",
+    "title": "Dashuria pas 30-tave — pse është ndryshe",
+    "excerpt": "Dashuria pas 30-tave vjen me qartësi, kërkesa dhe pjekuri që nuk i kishim në të njëzetat. Ja pse ndryshon dhe pse është më e vërtetë.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-10-19",
+    "modifiedAt": "2026-10-19",
+    "faqs": [
+        {
+            "question": "A është më e vështirë të gjesh dashurinë pas 30-tave?",
+            "answer": "Jo më e vështirë, por më selektive. Standardet janë më të qarta dhe duron më pak kompromise që të lëndojnë."
+        },
+        {
+            "question": "Pse marrëdhëniet në të 30-tat zgjasin më shumë?",
+            "answer": "Sepse të dyja palët janë më të vetëdijshme për atë që duan, komunikojnë më hapur dhe nuk hyjnë në lidhje për të mbushur boshllëqe."
+        },
+        {
+            "question": "A ndryshojnë prioritetet në dashuri pas 30-tave?",
+            "answer": "Po. Fokusi zhvendoset nga pasioni spontan te qëndrueshmëria emocionale, respekti dhe projektet e përbashkëta jetësore."
+        }
+    ]
 }
 ];
 

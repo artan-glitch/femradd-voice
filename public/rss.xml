@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 12 May 2026 11:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:48:47 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dashuria pas 30-tave — pse është ndryshe</title>
+      <link>https://www.femradd.com/artikull/dashuria-pas-30-tave</link>
+      <description>Dashuria pas 30-tave vjen me qartësi, kërkesa dhe pjekuri që nuk i kishim në të njëzetat. Ja pse ndryshon dhe pse është më e vërtetë.</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/dashuria-pas-30-tave</guid>
+      <category>Dashuri</category>
+    </item>
     <item>
       <title>Sa zgjat zemërata mesatare dhe çfarë thotë</title>
       <link>https://www.femradd.com/artikull/sa-zgjat-zemerata</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/diaspora-shqiptare-grate</guid>
       <category>Gratë Shqiptare</category>
-    </item>
-    <item>
-      <title>Fjalët e urta shqiptare — urtësia e gjyshërve</title>
-      <link>https://www.femradd.com/artikull/fjale-te-urta-shqip</link>
-      <description>Zbuloni fjalët e urta shqiptare më domethënëse dhe kuptimin e tyre. Urtësia popullore e stërgjyshërve për gruan e sotme.</description>
-      <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/fjale-te-urta-shqip</guid>
-      <category>Kuriozitete</category>
     </item>
   </channel>
 </rss>
