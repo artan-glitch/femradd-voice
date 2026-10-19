@@ -7768,6 +7768,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po. Fokusi zhvendoset nga pasioni spontan te qëndrueshmëria emocionale, respekti dhe projektet e përbashkëta jetësore."
         }
     ]
+},
+  {
+    "id": "487",
+    "slug": "shpirti-binjak-shenjat",
+    "title": "Si të kuptosh që dikush është shpirti yt binjak",
+    "excerpt": "Shpirti binjak nuk është mit romantik — është një njohje e thellë. Ja shenjat që tregojnë se dikush është vërtet pjesa jote tjetër.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 8,
+    "publishedAt": "2026-10-19",
+    "modifiedAt": "2026-10-19",
+    "faqs": [
+        {
+            "question": "A ekziston vërtet koncepti i shpirtit binjak?",
+            "answer": "Psikologjia e quan ‘lidhje e sigurt’ — një ndjesi njohjeje të thellë që ndodh kur dy njerëz kanë sisteme emocionale të përputhshme dhe pjekuri të ngjashme."
+        },
+        {
+            "question": "A mund të ketë dikush më shumë se një shpirt binjak?",
+            "answer": "Po. Në faza të ndryshme të jetës mund të takosh njerëz që ndihen si ‘shtëpi’ — secili të mëson diçka tjetër për veten."
+        },
+        {
+            "question": "A është dashuria me shikim të parë e njëjta gjë?",
+            "answer": "Jo. Dashuria me shikim të parë është tërheqje. Shpirti binjak është një njohje që thellohet me kohën, jo një shkëndijë e menjëhershme."
+        }
+    ]
 }
 ];
 

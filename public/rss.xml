@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:48:41 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Dashuria pas 30-tave — pse është ndryshe</title>
@@ -13,6 +13,14 @@
       <description>Dashuria pas 30-tave vjen me qartësi, kërkesa dhe pjekuri që nuk i kishim në të njëzetat. Ja pse ndryshon dhe pse është më e vërtetë.</description>
       <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dashuria-pas-30-tave</guid>
+      <category>Dashuri</category>
+    </item>
+    <item>
+      <title>Si të kuptosh që dikush është shpirti yt binjak</title>
+      <link>https://www.femradd.com/artikull/shpirti-binjak-shenjat</link>
+      <description>Shpirti binjak nuk është mit romantik — është një njohje e thellë. Ja shenjat që tregojnë se dikush është vërtet pjesa jote tjetër.</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/shpirti-binjak-shenjat</guid>
       <category>Dashuri</category>
     </item>
     <item>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/dasma-tradicionale-shqiptare</guid>
       <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Gratë e diasporës që po ndryshojnë botën</title>
-      <link>https://www.femradd.com/artikull/diaspora-shqiptare-grate</link>
-      <description>Njohuni me gratë shqiptare të diasporës që po arrijnë sukses ndërkombëtar. Profile frymëzuese nga biznesi, arti, shkenca dhe politika.</description>
-      <pubDate>Sat, 18 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/diaspora-shqiptare-grate</guid>
-      <category>Gratë Shqiptare</category>
     </item>
   </channel>
 </rss>
