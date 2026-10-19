@@ -1,0 +1,24 @@
+{
+  "slug": "ali-podrimja-kosova",
+  "title": "Ali Podrimja — poeti i Kosovës",
+  "description": "Ali Podrimja ishte zëri më i thellë poetik i Kosovës. Me 'Lum Lumi' na mësoi se dhimbja mund të bëhet art dhe arti mund të shërojë.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Ali Podrimja?",
+      "answer": "Një nga poetët më të mëdhenj kosovarë të shekullit XX. Vargjet e tij u bënë zëri shpirtëror i një populli dhe një përmbledhje e tij, 'Lum Lumi', shkruar për djalin e tij të vdekur, është një nga librat më prekës të letërsisë shqipe."
+    },
+    {
+      "question": "Çfarë është 'Lum Lumi'?",
+      "answer": "Një përmbledhje poezish e dedikuar djalit të tij Lumit, që ndërroi jetë në moshë të re nga leuçemia. Një libër që ndryshoi gjithmonë mënyrën si shqiptarët shkruajnë për humbjen."
+    },
+    {
+      "question": "Pse ka rëndësi sot?",
+      "answer": "Sepse Podrimja na mësoi se poezia nuk është shkëputje nga jeta — është forma më e thellë e të jetuarit të saj. Vargjet e tij ngushëllojnë kur asgjë tjetër nuk mund."
+    }
+  ]
+}

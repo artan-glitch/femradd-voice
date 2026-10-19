@@ -1,0 +1,24 @@
+{
+  "slug": "menyra-e-re-gezim",
+  "title": "Mënyra e re për të ndier gëzim të vërtetë çdo ditë",
+  "description": "Gëzimi nuk vjen nga ngjarje të mëdha, por nga vëmendja ndaj momenteve të vogla. Zbulo si të kultivosh gëzim të qëndrueshëm çdo ditë.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Pse nuk mundem të ndiej gëzim edhe kur gjithçka është në rregull?",
+      "answer": "Sepse truri është trajnuar të kërkojë problemet, jo kënaqësinë. Gëzimi kërkon ushtrim — vëmendja ndaj së mirës duhet të praktikohet si një muskul."
+    },
+    {
+      "question": "A është gëzimi i njëjtë me lumturinë?",
+      "answer": "Jo. Lumturia është një gjendje e madhe dhe e rrallë. Gëzimi është një ndjenjë e vogël, e përditshme, që mund të ndihet edhe në momente të vështira."
+    },
+    {
+      "question": "Si mund ta krijoj gëzimin kur kam ditë të këqija?",
+      "answer": "Edhe në ditët më të errëta ka momente të vogla të ngrohta — një filxhan çaj, një mesazh nga një mikeshë, drita e mëngjesit. Vëmendja ndaj tyre është fillimi."
+    }
+  ]
+}

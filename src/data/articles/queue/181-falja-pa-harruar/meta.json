@@ -1,0 +1,24 @@
+{
+  "slug": "falja-pa-harruar",
+  "title": "Si të falësh — pa harruar",
+  "description": "Falja nuk është harrim. Nuk është zhbërje. Është lirimi i vetes nga pesha. Si të falësh dikë që të ka lënduar — pa harruar atë që ndodhi.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "A nënkupton falja të kthehesh në marrëdhënie?",
+      "answer": "Jo. Mund ta falësh dikë dhe ta mbash në largësi. Falja është vendim i brendshëm për ty — jo detyrim ndaj personit tjetër."
+    },
+    {
+      "question": "Si të fal dikë që nuk ka kërkuar falje?",
+      "answer": "Falja nuk kërkon pendesë. Ti e bën për të lirë veten, jo për të liruar ata. Është dhuratë që i jep vetes."
+    },
+    {
+      "question": "Çfarë bëj kur dhimbja kthehet pas 'faljes'?",
+      "answer": "Falja nuk është moment — është proces. Mund të duhet ta falësh të njëjtin person shumë herë, në shumë shtresa. Është e natyrshme."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "diana-culi-gazetare",
+  "title": "Diana Çuli — gazetarja dhe shkrimtarja",
+  "description": "Diana Çuli është një nga zërat më të rëndësishëm të letërsisë dhe gazetarisë shqiptare, me një karrierë të pasur që ndikoi gjeneratat.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Diana Çuli?",
+      "answer": "Diana Çuli është shkrimtare, gazetare dhe aktiviste shqiptare, njëra nga figurat kryesore të feminizmit intelektual shqiptar."
+    },
+    {
+      "question": "Për çfarë njihet më shumë Diana Çuli?",
+      "answer": "Ajo njihet për romanet e saj të ndikuar nga realiteti shoqëror shqiptar dhe për angazhimin e saj për të drejtat e grave."
+    },
+    {
+      "question": "Çfarë ka bërë Diana Çuli për gratë shqiptare?",
+      "answer": "Përmes letërsisë, gazetarisë dhe aktivizmit, ajo ka hapur hapësira ku gratë shqiptare mund të tregojnë historitë e tyre pa frikë."
+    }
+  ]
+}

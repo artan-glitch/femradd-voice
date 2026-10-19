@@ -1,0 +1,24 @@
+{
+  "slug": "luljeta-lleshanaku-poetja",
+  "title": "Luljeta Lleshanaku — poetja ndërkombëtare",
+  "description": "Luljeta Lleshanaku është një nga poeteshat shqiptare më të njohura ndërkombëtarisht, me vargje të përkthyer në mbi 15 gjuhë të botës.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Luljeta Lleshanaku?",
+      "answer": "Luljeta Lleshanaku është poete shqiptare e njohur ndërkombëtarisht, e vlerësuar me shumë çmime letrare evropiane dhe amerikane."
+    },
+    {
+      "question": "Çfarë karakterizon poezinë e Luljetës?",
+      "answer": "Poezia e saj është e thellë, filozofike dhe e lidhur me historinë e familjes, komunizmit dhe identitetit shqiptar."
+    },
+    {
+      "question": "Pse Luljeta Lleshanaku është e rëndësishme për letërsinë shqiptare?",
+      "answer": "Ajo është një nga zërat e paktë shqiptarë që ka arritur të shfaqet në antologjitë më prestigjioze të poezisë botërore."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "fjalet-magjike-partneri",
+  "title": "Fjalët magjike që çdo partner dëshiron t'i dëgjojë",
+  "description": "Jo komplimente boshe, por fjalë që ngrohin shpirtin e burrit. Ja ato pak fjali që ndryshojnë dinamikën e çdo marrëdhënie.",
+  "image": "/images/categories/dashuri.webp",
+  "category": "dashuri",
+  "categoryLabel": "Dashuri",
+  "authorSlug": "arta-berisha",
+  "readingTime": 6,
+  "faqs": [
+    {"question": "A duken të forcuara këto fjalë nëse i themi shpesh?", "answer": "Jo, nëse janë të vërteta. Fjalët e sinqerta nuk humbasin vlerë nga përsëritja — humbasin vlerë kur bëhen formulë bosh."},
+    {"question": "A i dëgjojnë burrat shqiptarë lehtë emocionet?", "answer": "Shumë burra shqiptarë nuk janë rritur me gjuhën e emocioneve, por kjo nuk do të thotë se nuk e dëshirojnë. Shpesh janë ata që duken më të fortë që kanë më shumë nevojë për fjalë të ngrohta."},
+    {"question": "A duhet të kërkoj të njëjtat fjalë nga ai?", "answer": "Të dyja palët kanë nevojë për njohje. Nëse e jep dashurinë verbale pa marrë, kjo me kohë boshatiset. Komunikimi i hapur për nevojat verbale është pjesë e dashurisë."}
+  ]
+}

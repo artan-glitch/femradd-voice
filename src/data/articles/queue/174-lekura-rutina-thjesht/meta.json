@@ -1,0 +1,24 @@
+{
+  "slug": "lekura-rutina-thjesht",
+  "title": "Lëkura perfekte — rutina e thjeshtë ditore",
+  "description": "Rutinë e thjeshtë ditore për një lëkurë të shëndetshme dhe të ndritshme — pa produkte të shtrenjta dhe pa humbje kohe. Hapat që funksionojnë vërtet.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A duhet të përdor krem dielli edhe në dimër?",
+      "answer": "Po, patjetër. Rrezet UV depërtojnë përmes reve dhe xhamave, prandaj SPF-ja është e domosdoshme çdo ditë të vitit, jo vetëm në verë."
+    },
+    {
+      "question": "Sa herë në ditë duhet të laj fytyrën?",
+      "answer": "Dy herë mjaftojnë — në mëngjes dhe në mbrëmje. Larja e tepërt heq vajin natyral dhe e thahet lëkurën."
+    },
+    {
+      "question": "A janë produktet e shtrenjta më efektive?",
+      "answer": "Jo gjithmonë. Përbërësit aktivë si niacinamidi, acidi hialuronik ose retinoli funksionojnë njësoj edhe në formulat e lira."
+    }
+  ]
+}

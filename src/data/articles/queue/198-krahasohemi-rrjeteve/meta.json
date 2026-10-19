@@ -1,0 +1,24 @@
+{
+  "slug": "krahasohemi-rrjeteve",
+  "title": "Pse krahasohemi me të tjerat në rrjetet sociale",
+  "description": "Instagrami të lë pa frymë? Zbulo pse krahasimi është një kurth psikologjik dhe si ta mbrosh veten pa dalë nga bota digjitale.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A duhet të fshij rrjetet sociale për t'u ndier më mirë?",
+      "answer": "Jo domosdoshmërisht. Problemi nuk është platforma, por si e përdor. Pastrimi i profileve që ndjek dhe kufizimi i kohës mund të jenë zgjidhje më të qëndrueshme."
+    },
+    {
+      "question": "Pse ndihem keq edhe kur e di se postimet janë të redaktuara?",
+      "answer": "Sepse truri reagon ndaj imazheve pavarësisht logjikës. Edhe nëse e di që është filtër, truri regjistron 'ajo është më e bukur' dhe kjo të dëmton."
+    },
+    {
+      "question": "Si ta ndaj krahasimin nga frymëzimi?",
+      "answer": "Frymëzimi të jep energji dhe dëshirë për të bërë diçka. Krahasimi të lë bosh dhe të bën të ndihesh e pamjaftueshme. Ndjenja e vërtetë tregon ndryshimin."
+    }
+  ]
+}

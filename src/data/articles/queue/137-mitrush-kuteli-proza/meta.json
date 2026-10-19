@@ -1,0 +1,24 @@
+{
+  "slug": "mitrush-kuteli-proza",
+  "title": "Mitrush Kuteli — mjeshtri i prozës së shkurtër",
+  "description": "Mitrush Kuteli e ktheu tregimin shqiptar në art të vërtetë. Një mjeshtër që dinte si pakkush ta kapte shpirtin e njerëzve të thjeshtë.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Mitrush Kuteli?",
+      "answer": "Mitrush Kuteli, me emrin e vërtetë Dhimitër Pashko, ishte prozatori shqiptar që transformoi tregimin e shkurtër në veprën më të lëvruar të kohës së tij. Shkrimtar, përkthyes dhe mbledhës i tregimeve të moçme."
+    },
+    {
+      "question": "Cila është vepra e tij më e njohur?",
+      "answer": "'Netë shqiptare', 'Ago Jakupi' dhe sidomos 'Tregime të moçme shqiptare' — ku ai riktheu mitet dhe përrallat e vjetra në një gjuhë letrare moderne."
+    },
+    {
+      "question": "Pse ka rëndësi sot?",
+      "answer": "Sepse na kujton që tregimi i madh mund të lindë nga një ngjarje e vogël në fshat. Kuteli na mësoi të dëgjojmë zërat e thjeshtë dhe të kuptojmë universalen në lokalen."
+    }
+  ]
+}

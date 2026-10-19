@@ -1,0 +1,24 @@
+{
+  "slug": "besa-kokedhima-jazz",
+  "title": "Besa Kokëdhima — zëri shqiptar në jazz",
+  "description": "Besa Kokëdhima është këngëtarja shqiptare që ka ndërtuar një karrierë ndërkombëtare në jazz dhe muzikën world, duke lidhur Tiranën me Nju Jorkun.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "arta-berisha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Kush është Besa Kokëdhima?",
+      "answer": "Besa Kokëdhima është këngëtare shqiptare me karrierë ndërkombëtare, e njohur për stilin e saj që kombinon jazz, soul dhe muzikën tradicionale shqiptare."
+    },
+    {
+      "question": "Ku ka performuar Besa Kokëdhima?",
+      "answer": "Ajo ka performuar në skena të njohura në Nju Jork, në festivale ndërkombëtare dhe në bashkëpunime me artistë botërorë."
+    },
+    {
+      "question": "Çfarë e bën unike muzikën e Besa Kokëdhimës?",
+      "answer": "Përzierja e elementeve tradicionale shqiptare me jazz dhe muzikë botërore krijon një zë dallues që nuk ngjan me asnjë tjetër."
+    }
+  ]
+}

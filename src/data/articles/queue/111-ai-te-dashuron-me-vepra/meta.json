@@ -1,0 +1,15 @@
+{
+  "slug": "ai-te-dashuron-me-vepra",
+  "title": "Si të kuptosh që ai të dashuron me vepra",
+  "description": "Fjalët janë të lehta, veprat janë provat. Ja shenjat konkrete që tregojnë se një burrë të dashuron me të vërtetë, pa dramë.",
+  "image": "/images/categories/dashuri.webp",
+  "category": "dashuri",
+  "categoryLabel": "Dashuri",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {"question": "A ka burra që nuk shprehen me fjalë por të duan vërtet?", "answer": "Po, janë shumë. Në kulturën shqiptare veçanërisht, breza të tërë burrash u mësuan që ‘të duash’ do të thotë të siguroje — jo të deklaroje."},
+    {"question": "Pse veprat janë më të besueshme se fjalët?", "answer": "Sepse fjalët nuk kërkojnë sakrificë. Veprat kërkojnë kohë, mendim dhe prioritizim — asnjë prej të cilave nuk mund të falsifikohet gjatë."},
+    {"question": "A duhet të kem të dyja — fjalë dhe vepra?", "answer": "Idealisht po. Por nëse duhet të zgjedhësh, zgjidh gjithmonë veprat. Një burrë që thotë ‘të dua’ dhe harron ditëlindjen, nuk të do."}
+  ]
+}

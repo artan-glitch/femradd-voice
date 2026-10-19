@@ -1,0 +1,24 @@
+{
+  "slug": "burime-sheruese-shqiperia",
+  "title": "Burimet shëruese të Shqipërisë — mitet dhe shkenca",
+  "description": "Nga Llixhat e Elbasanit te uji i Tyrbes, burimet shëruese shqiptare bartin histori, mite dhe përfitime të vërteta. Zbulo gjithçka në një udhëzues të plotë.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Cilat janë burimet më të njohura shëruese në Shqipëri?",
+      "answer": "Më të njohurat janë Llixhat e Elbasanit, uji termal i Peshkopisë, burimi i Benjës në Përmet, Llixhat e Leskovikut dhe Llixhat e Postenanit, të vlerësuara për vetitë terapeutike."
+    },
+    {
+      "question": "A kanë vërtet efekte shëruese ujërat termale shqiptare?",
+      "answer": "Studimet tregojnë se ujërat sulfur-mineralë ndihmojnë në sëmundjet reumatike, në lëkurë dhe në frymëmarrje. Megjithatë, duhet gjithmonë konsultim me mjek para kurave."
+    },
+    {
+      "question": "Pse burimet shqiptare janë rrethuar me legjenda?",
+      "answer": "Në kulturën shqiptare, uji ka pasur gjithmonë vlerë shpirtërore. Besohet se shëron, pastron dhe lidh atë që pi me shpirtrat e paraardhësve."
+    }
+  ]
+}

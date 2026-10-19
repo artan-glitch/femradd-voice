@@ -1,0 +1,24 @@
+{
+  "slug": "luiza-gega-maratonistja",
+  "title": "Luiza Gega — maratonistja që theu rekorde",
+  "description": "Luiza Gega është atletja shqiptare që ndryshoi historinë e sportit, duke sjellë medalje dhe krenari për Shqipërinë në arenat ndërkombëtare.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Luiza Gega?",
+      "answer": "Luiza Gega është atletja shqiptare e specializuar në vrapimet me pengesa dhe maratonë, një nga figurat më të suksesshme të sportit shqiptar."
+    },
+    {
+      "question": "Çfarë arritjesh ka Luiza Gega?",
+      "answer": "Ajo ka fituar medalje në Kampionatin Evropian të Atletikës dhe ka përfaqësuar Shqipërinë në Lojërat Olimpike disa herë."
+    },
+    {
+      "question": "Pse Luiza Gega është frymëzim për vajzat shqiptare?",
+      "answer": "Përmes disiplinës dhe qëndrueshmërisë, ajo tregon se vajzat shqiptare mund të arrijnë majat edhe në fusha ku pak kush beson."
+    }
+  ]
+}

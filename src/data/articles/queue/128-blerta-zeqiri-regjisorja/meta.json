@@ -1,0 +1,24 @@
+{
+  "slug": "blerta-zeqiri-regjisorja",
+  "title": "Blerta Zeqiri — regjisorja që shkëlqeu botërisht",
+  "description": "Blerta Zeqiri është regjisorja kosovare që ka fituar çmime ndërkombëtare dhe ka ndryshuar imazhin e kinemasë shqiptare në botë.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Blerta Zeqiri?",
+      "answer": "Blerta Zeqiri është regjisore dhe skenariste kosovare, një nga figurat më të shquara të kinemasë së re shqiptare."
+    },
+    {
+      "question": "Çfarë çmimesh ka fituar Blerta Zeqiri?",
+      "answer": "Ajo ka fituar çmimin Sundance për Filmin më të Mirë në kategorinë e dramës së huaj, mes të tjerave."
+    },
+    {
+      "question": "Pse filmat e Blertës janë të rëndësishëm?",
+      "answer": "Filmat e saj trajtojnë tema të vështira si lufta, trauma dhe identiteti, duke dhënë zë përvojave të grave kosovare."
+    }
+  ]
+}

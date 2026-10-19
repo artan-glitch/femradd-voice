@@ -1,0 +1,24 @@
+{
+  "slug": "zakonet-grave-suksesshme",
+  "title": "Zakonet e grave të suksesshme shqiptare",
+  "description": "Pas çdo gruaje që ka arritur diçka, qëndrojnë zakone të qëndrueshme. Mëso çfarë bëjnë ndryshe në jetën e përditshme.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "A kanë nevojë gratë shqiptare për modele të ndryshme suksesi nga Perëndimi?",
+      "answer": "Po. Konteksti ynë është ndryshe — presionet familjare, pritjet kulturore, dhe burimet janë të ndryshme. Suksesi te ne shpesh përfshin ruajtjen e lidhjeve familjare ndërsa ndërtohet jeta profesionale."
+    },
+    {
+      "question": "A duhet të zgjohem herët për të qenë e suksesshme?",
+      "answer": "Jo detyrimisht. E rëndësishme është që të kesh një orë në ditë që është vetëm e jotja — qoftë në mëngjes, në pasdite ose në mbrëmje. Rutina që funksionon për tipin tënd biologjik është më e mirë se ajo që kopjon nga të tjerët."
+    },
+    {
+      "question": "Si të fillosh të ndërtosh zakone të reja kur je gjithmonë e lodhur?",
+      "answer": "Fillo me një zakon të vogël që zgjat dy minuta. Pi një gotë ujë në mëngjes. Shkruaj një fjali në fund të ditës. Lodhja zbret kur zakonet e reja japin rezultate — paradoksalisht, kjo kërkon pak energji në fillim."
+    }
+  ]
+}

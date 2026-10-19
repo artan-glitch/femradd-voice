@@ -1,0 +1,24 @@
+{
+  "slug": "elvira-dones-italia",
+  "title": "Elvira Dones — zëri i grave shqiptare në Itali",
+  "description": "Elvira Dones është shkrimtarja dhe producentja shqiptare që sjell në art historitë e grave emigrante, viktimave të trafikimit dhe diasporës.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Elvira Dones?",
+      "answer": "Elvira Dones është shkrimtare dhe producente shqiptare që jeton mes Zvicrës dhe Shteteve të Bashkuara, autore e disa romaneve të përkthyer në shumë gjuhë."
+    },
+    {
+      "question": "Çfarë tematikash prek Elvira Dones?",
+      "answer": "Ajo shkruan për gratë shqiptare, emigracionin, trafikimin e qenieve njerëzore, dhe luftën për identitet në diasporë."
+    },
+    {
+      "question": "Cili është romani më i njohur i Elvira Dones?",
+      "answer": "Një nga veprat e saj më të njohura është 'Vergine giurata' (Virgjëresha e betuar), e kthyer edhe në film."
+    }
+  ]
+}

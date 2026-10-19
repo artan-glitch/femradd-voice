@@ -1,0 +1,24 @@
+{
+  "slug": "elena-gjika-dora-distria",
+  "title": "Elena Gjika (Dora d'Istria) — princesha-shkrimtare",
+  "description": "Elena Gjika, e njohur si Dora d'Istria, ishte princesha shqiptare që shkroi në pesë gjuhë dhe mbrojti të drejtat e grave kur Evropa ende heshtte.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Kush ishte Dora d'Istria?",
+      "answer": "Pseudonimi letrar i Elena Gjikës — princeshë me origjinë shqiptare, shkrimtare, eseiste dhe një nga zërat e parë feministë në Evropën e shekullit XIX. Shkroi në frëngjisht, italisht, gjermanisht, greqisht e rumanisht."
+    },
+    {
+      "question": "Pse ka rëndësi për gratë shqiptare sot?",
+      "answer": "Sepse në një kohë kur gruaja evropiane rrallë lejohej të botonte, ajo shkroi libra ndërkombëtarë për Lindjen, për gratë, për lirinë. Dëshmoi se të jesh shqiptare dhe grua intelektuale ishte e mundur që para 150 vjetësh."
+    },
+    {
+      "question": "Cila është vepra e saj më e njohur?",
+      "answer": "'Les femmes en Orient' ('Gratë në Lindje') dhe 'La Suisse allemande' janë dy veprat që i dhanë famë ndërkombëtare. Shkrimet e saj për gratë lexohen ende si dokumente paraprijëse të feminizmit."
+    }
+  ]
+}

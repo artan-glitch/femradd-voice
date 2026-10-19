@@ -1,0 +1,24 @@
+{
+  "slug": "haki-stermilli-brezit",
+  "title": "Haki Stërmilli — zëri i brezit kombëtar",
+  "description": "Haki Stërmilli shkroi 'Sikur t'isha djalë' — romanin e parë feminist shqiptar. Zëri i tij ende flet për liritë që ende i presim.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Kush ishte Haki Stërmilli?",
+      "answer": "Shkrimtar, veprimtar politik dhe atdhetar shqiptar nga Dibra. Autor i romanit 'Sikur t'isha djalë' — kryeveprës së tij, që trajton situatën e gruas shqiptare para Luftës së Dytë Botërore."
+    },
+    {
+      "question": "Çfarë është 'Sikur t'isha djalë'?",
+      "answer": "Një roman në formë ditari, shkruar në vetën e parë, ku një vajzë e re shqiptare rrëfen pamundësinë e saj për të jetuar lirshëm për shkak të traditave patriarkale. Një nga veprat e para feministe në letërsinë shqipe."
+    },
+    {
+      "question": "Pse është ende relevant?",
+      "answer": "Sepse pyetjet që shtron libri — për lirinë e vajzës, për të drejtën e saj për arsim dhe zgjedhje — nuk janë ende të zgjidhura në të gjitha realitetet shqiptare. Është libër që ende duhet lexuar."
+    }
+  ]
+}

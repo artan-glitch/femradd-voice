@@ -1,0 +1,24 @@
+{
+  "slug": "tatuazhet-personalitet",
+  "title": "Çfarë thonë tatuazhet për personalitetin",
+  "description": "Tatuazhet nuk janë thjesht vizatime mbi lëkurë. Zbulo çfarë tregojnë vendi, simboli dhe madhësia për personalitetin dhe historinë tënde të brendshme.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A tregon vendi i tatuazhit personalitetin?",
+      "answer": "Po, vendi ku zgjedh të vendosësh një tatuazh — i dukshëm apo i fshehur, i vogël apo i madh — tregon shumë për mënyrën se si lidhesh me botën dhe me vetveten."
+    },
+    {
+      "question": "Çfarë kuptimi ka një tatuazh i vogël?",
+      "answer": "Tatuazhet e vogla shpesh shënojnë intimitet dhe një marrëdhënie të brendshme me simbolin, më shumë se një pohim publik të tij."
+    },
+    {
+      "question": "A kanë tatuazhet lidhje me shpirtin?",
+      "answer": "Në shumë kultura, duke përfshirë ato ballkanike, tatuazhet janë shenja mbrojtëse ose kujtim i betimit. Lidhja mes trupit dhe shpirtit është gjithmonë aty."
+    }
+  ]
+}

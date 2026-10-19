@@ -1,0 +1,24 @@
+{
+  "slug": "rrobat-pune-stili",
+  "title": "Rrobat e punës — stili profesional për gra",
+  "description": "Si të ndërtosh një garderobë profesionale që ndihet si ti — elegante, e rehatshme dhe pa stres çdo mëngjes. Këshilla praktike pa klishe korporative.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A duhet të vesh gjithmonë kostum në zyrë?",
+      "answer": "Jo. Shumica e vendeve të punës sot pranojnë stilin smart casual. Një pantallonë e qeprës së mirë dhe një bluzë cilësore duken po aq profesionale."
+    },
+    {
+      "question": "Sa copa më duhen për një garderobë pune?",
+      "answer": "Rreth 10-15 copa cilësore që kombinohen mes tyre krijojnë dhjetëra kombinime. Cilësia mbi sasinë."
+    },
+    {
+      "question": "Çfarë ngjyrash duhet të zgjedh?",
+      "answer": "Fillo me ngjyra neutrale si navy, bezhë, e zezë dhe gri. Pastaj shto një ose dy ngjyra që të pasqyrojnë ty — vjollcë, jeshile ose terakotë."
+    }
+  ]
+}

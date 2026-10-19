@@ -1,0 +1,24 @@
+{
+  "slug": "dashuria-pa-thenie",
+  "title": "Dashuria pa thënie — gjuha e vërtetë e zemrës",
+  "description": "Dashuria më e thellë rrallë thuhet me fjalë. Si të njohësh dashurinë kur ajo flet me vepra të vogla, me heshtje, me kujdes të padukshëm.",
+  "image": "/images/categories/dashuri.webp",
+  "category": "dashuri",
+  "categoryLabel": "Dashuri & Takime",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A është problem nëse partneri nuk thotë \"të dua\" shpesh?",
+      "answer": "Jo domosdoshmërisht. Shumë burra, veçanërisht në kulturën shqiptare, janë rritur të shprehen me vepra më shumë se me fjalë. Rëndësi ka nëse veprimet e tij tregojnë kujdes të qëndrueshëm."
+    },
+    {
+      "question": "Si të dallosh dashurinë e heshtur nga indiferenca?",
+      "answer": "Dashuria e heshtur ka vëmendje — ai mban mend detaje të vogla, parandalon nevojat e tua, kujdeset për ty pa të kërkuar. Indiferenca mungon atje — s'ka vëmendje, s'ka kujdes, s'ka prani."
+    },
+    {
+      "question": "A duhet të kërkoj më shumë fjalë nga partneri?",
+      "answer": "Po, nëse ti ke nevojë për fjalë. Nevojat e tua janë legjitime. Thuaj: \"Më pëlqen kur më thua se më do, do të doja ta dëgjoja më shpesh.\" Jo si kërkesë — por si ndarje."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "elvana-gjata-mbreteresha",
+  "title": "Elvana Gjata — mbretëresha e muzikës shqiptare",
+  "description": "Nga rrugët e Tiranës deri në skenat ndërkombëtare, Elvana Gjata ndërtoi një mbretëri muzikore që i dha zë brezit të ri shqiptar.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kur filloi karriera e Elvana Gjatës?",
+      "answer": "Elvana filloi muzikën që në adoleshencë, duke marrë pjesë në festivale e konkurse në Shqipëri që nga fundi i viteve 1990. Karriera e saj profesionale u konsolidua në vitet 2000."
+    },
+    {
+      "question": "A ka përfaqësuar Elvana Shqipërinë në Eurovision?",
+      "answer": "Po, Elvana Gjata përfaqësoi Shqipërinë në Eurovision 2023 me këngën 'Duje', duke e sjellë emrin e saj në skenën më të madhe muzikore të Evropës."
+    },
+    {
+      "question": "Pse quhet mbretëresha e muzikës shqiptare?",
+      "answer": "Titulli vjen jo nga një organizatë zyrtare, por nga publiku dhe media. Numri i hiteve të saj, shitjet, ndikimi te brezi i ri dhe prania ndërkombëtare e kanë bërë figurë qendrore në muzikën moderne shqiptare."
+    }
+  ]
+}

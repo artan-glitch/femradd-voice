@@ -1,0 +1,24 @@
+{
+  "slug": "ndryshosh-mendim",
+  "title": "Si të ndryshosh mendim pa humbur veten tënde",
+  "description": "Ndryshimi i mendimit nuk është dobësi — është maturi. Mëso si të ndryshosh pozicion pa u ndier tradhtare ndaj vetes.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "A është ndryshimi i mendimit shenjë dobësie?",
+      "answer": "Jo. Është shenjë e një mendje të gjallë. Dobësi është të qëndrosh me një mendim vetëm sepse ke frikë nga gjykimi i të tjerëve."
+    },
+    {
+      "question": "Si të komunikoj ndryshimin tim pa u justifikuar vazhdimisht?",
+      "answer": "Thuaj thjesht: 'Kam menduar më thellë dhe kam arritur në një përfundim tjetër.' Nuk duhet të kërkosh falje për rritjen tënde."
+    },
+    {
+      "question": "Çfarë nëse njerëzit që i dua më akuzojnë për mospërputhje?",
+      "answer": "Mospërputhje është të jesh ndryshe nga vlerat e tua. Ndryshimi i mendimit është përputhje më e thellë me të vërtetën tënde të re."
+    }
+  ]
+}

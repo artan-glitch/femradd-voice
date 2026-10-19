@@ -1,0 +1,24 @@
+{
+  "slug": "miqte-si-i-zgjedhim",
+  "title": "Miqtë — si i zgjedhim dhe pse na ndryshojnë ne",
+  "description": "Miqtë e vërtetë nuk vijnë rastësisht — ne i tërheqim. Zbulo si zgjedhja e miqësive të mira ndryshon kush bëhesh si grua.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A duhet të largohem nga miqësi që më bëjnë keq?",
+      "answer": "Po, por me butësi. Jo çdo largim duhet të jetë dramatik — mund të zbehet thjesht duke mos e ushqyer. Shëndeti yt emocional është prioritet."
+    },
+    {
+      "question": "Pse pas 30 vjeç është kaq e vështirë të bësh miqësi të reja?",
+      "answer": "Sepse struktura jonë shoqërore ndryshon — mungojnë kontekstet natyrore si shkolla ose universiteti. Duhen iniciativë dhe durim për të ndërtuar lidhje të reja."
+    },
+    {
+      "question": "A ekziston mikesha ideale?",
+      "answer": "Jo. Çdo mikeshë mbush një nevojë tjetër — një për të qeshur, një për të qarë, një për t'u frymëzuar. Mos prit gjithçka nga një person."
+    }
+  ]
+}

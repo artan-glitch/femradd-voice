@@ -1,0 +1,24 @@
+{
+  "slug": "nora-istrefi-shkelqimi",
+  "title": "Nora Istrefi — shkëlqimi që u shua herët",
+  "description": "Nora Istrefi la pas një trashëgimi muzikore që prek kujtesën e një brezi të tërë. Historia e një artistje që u nda tepër shpejt.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Nga ishte Nora Istrefi?",
+      "answer": "Nora Istrefi lindi dhe u rrit në Prishtinë, Kosovë. Vinte nga një familje muzikore — babai Nezir Istrefi ishte këngëtar i njohur, dhe motra e saj Era Istrefi është gjithashtu artiste."
+    },
+    {
+      "question": "Kur u nda nga jeta Nora Istrefi?",
+      "answer": "Nora Istrefi u nda nga jeta në korrik të vitit 2023 pas një lufte të gjatë me sëmundjen. Humbja e saj u mor me pikëllim të madh në të gjitha trevat shqiptare."
+    },
+    {
+      "question": "Cili ishte stili i saj muzikor?",
+      "answer": "Nora Istrefi këndonte në stilin pop dhe pop-folk, me pasuri emocionale që dallonte zërin e saj nga shumë bashkëkohëse të saj. Këngët e saj mbeten pjesë e kujtesës muzikore kosovare."
+    }
+  ]
+}

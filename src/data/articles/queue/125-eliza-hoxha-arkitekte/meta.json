@@ -1,0 +1,24 @@
+{
+  "slug": "eliza-hoxha-arkitekte",
+  "title": "Eliza Hoxha — nga arkitektja te politikania",
+  "description": "Eliza Hoxha është arkitektja, muzikantja dhe politikania kosovare që ka ndërtuar një urë mes artit dhe shërbimit publik në Kosovë.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Eliza Hoxha?",
+      "answer": "Eliza Hoxha është arkitekte, pedagoge, muzikante dhe politikane kosovare, e njohur për angazhimin për të drejtat e grave dhe mbrojtjen e trashëgimisë kulturore."
+    },
+    {
+      "question": "Në cilat fusha ka punuar Eliza Hoxha?",
+      "answer": "Ajo ka ndikuar në arkitekturë, muzikë, akademi dhe politikë, duke bërë emrin e saj të njohur në të gjitha këto hapësira në Kosovë."
+    },
+    {
+      "question": "Çfarë përfaqëson Eliza Hoxha për gratë shqiptare?",
+      "answer": "Ajo është një shembull se si një grua mund të kombinojë krijimtarinë me shërbimin publik dhe të ketë ndikim real në shoqëri."
+    }
+  ]
+}

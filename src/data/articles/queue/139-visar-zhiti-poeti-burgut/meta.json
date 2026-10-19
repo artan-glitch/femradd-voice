@@ -1,0 +1,24 @@
+{
+  "slug": "visar-zhiti-poeti-burgut",
+  "title": "Visar Zhiti — poeti i burgut",
+  "description": "Visar Zhiti e kaloi rininë në burgjet e diktaturës, por nuk ndaloi së shkruari. Vargjet e tij janë dëshmi që shpirti nuk burgoset.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Pse quhet 'poeti i burgut'?",
+      "answer": "Sepse pjesën më të madhe të rinisë e kaloi në burgjet e diktaturës komuniste — i dënuar për poezi që pushteti i quajti të rrezikshme. Vargjet më të njohura të tij lindën pikërisht brenda mureve të burgut."
+    },
+    {
+      "question": "Cila është vepra e tij më e njohur?",
+      "answer": "'Mbijetesa', 'Hedh një kafkë te këmbët tuaja', 'Rrugët e ferrit' dhe 'Librat e burgut' janë vepra që dokumentojnë përvojën e tij dhe forcën shpirtërore njerëzore."
+    },
+    {
+      "question": "Pse ka rëndësi sot?",
+      "answer": "Sepse na kujton se liria e fjalës nuk është e dhuruar — është fituar me gjak. Dhe sepse na mëson se poezia mund të mbijetojë dhe në kushtet më çnjerëzore."
+    }
+  ]
+}

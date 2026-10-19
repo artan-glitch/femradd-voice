@@ -1,0 +1,24 @@
+{
+  "slug": "hobe-krijuese-paqe",
+  "title": "Hobe krijuese që sjellin paqe",
+  "description": "Nga qëndisja te qeramika, nga pikturimi te shkrimi — hobe që qetësojnë mendjen e lodhur dhe sjellin kuptim në të përditshmen e nxituar.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A duhet të jem e talentuar për një hobi krijues?",
+      "answer": "Jo. Hobi nuk kërkon talent — kërkon vetëm vëmendje. Vlera e tij është në praktikë, jo në rezultat."
+    },
+    {
+      "question": "Sa kohë në javë duhet t'i kushtoj?",
+      "answer": "Edhe tridhjetë minuta në javë bëjnë ndryshim. Vazhdimësia është më e rëndësishme se sasia."
+    },
+    {
+      "question": "A ia vlen të investoj në materiale të mira?",
+      "answer": "Jo në fillim. Fillo me materiale bazë. Pas tre muajsh — nëse hobi ngjitet — invest në cilësi."
+    }
+  ]
+}

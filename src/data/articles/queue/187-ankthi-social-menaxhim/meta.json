@@ -1,0 +1,24 @@
+{
+  "slug": "ankthi-social-menaxhim",
+  "title": "Si të menaxhosh ankthin social",
+  "description": "Ankthi social nuk është karakter — është reagim i trurit që mund të ndryshojë. Mëso teknikat që funksionojnë në jetën reale.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A është e njëjtë turpshmëria me ankthin social?",
+      "answer": "Jo. Turpshmëria është tipar karakteri që nuk të pengon të funksionosh. Ankthi social të pengon — shmang situata, humbet mundësi, dhe truri yt reagon fizikisht me rrahje zemre dhe djersitje edhe para ngjarjeve të vogla."
+    },
+    {
+      "question": "A funksionon vërtet ekspozimi gradual?",
+      "answer": "Po. Truri mëson që një situatë nuk është e rrezikshme vetëm kur e provon. Çdo herë që përballesh me pak frikë dhe mbijeton, ankthi dobësohet. Është shkencë e vërtetuar, jo motivim."
+    },
+    {
+      "question": "A duhet të marr medikamente për ankthin social?",
+      "answer": "Varet nga shkalla. Rastet e lehta zgjidhen me terapi dhe teknika praktike. Rastet më të rënda ndonjëherë kërkojnë mbështetje medikamentoze. Një psikiatër të ndihmon të kuptosh se ku je, pa paragjykime."
+    }
+  ]
+}

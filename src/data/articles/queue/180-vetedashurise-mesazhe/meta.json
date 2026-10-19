@@ -1,0 +1,24 @@
+{
+  "slug": "vetedashurise-mesazhe",
+  "title": "Mesazhet e vetëdashurisë — për ditë të vështira",
+  "description": "Fjalë që duhen thënë vetes kur bota të godet, kur zemra lodhet, kur dyshon për çdo gjë. Mesazhe të vërteta vetëdashurie — jo klishe nga postera.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A është egoizëm vetëdashuria?",
+      "answer": "Jo. Vetëdashuria është themeli. Nuk mund t'i japësh të tjerëve atë që nuk e ke vetë. Një grua që e do veten, do më mirë edhe fëmijët, burrin, miqtë."
+    },
+    {
+      "question": "Si të filloj të dua veten kur ndiej vetëm turp?",
+      "answer": "Fillo të flasësh me veten si do flisje me motrën. Një fjali në ditë. Jo pajtim i menjëhershëm — vetëm pak më shumë butësi se dje."
+    },
+    {
+      "question": "A funksionojnë vërtet afirmacionet?",
+      "answer": "Po, por jo klishetë e Instagramit. Afirmacionet që pasqyrojnë të vërteta të vogla për ty janë ato që ndryshojnë dialogun e brendshëm."
+    }
+  ]
+}

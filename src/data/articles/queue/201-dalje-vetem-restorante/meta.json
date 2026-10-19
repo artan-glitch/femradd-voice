@@ -1,0 +1,24 @@
+{
+  "slug": "dalje-vetem-restorante",
+  "title": "Të dilësh vetëm — arti i të qëndruarit me veten",
+  "description": "Të dilësh vetëm nuk është shenjë vetmie, por liri. Zbulo si të shijosh kohën me veten dhe pse kjo ndryshon jetën tënde.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A duken të çuditshme gratë që dalin vetëm?",
+      "answer": "Jo. Dukja është vetëm në kokën tonë. Ngrënia vetëm, shëtitja vetëm, filmi vetëm — janë gjithnjë e më të pranuara dhe janë shenjë autonomie, jo vetmie."
+    },
+    {
+      "question": "Si të filloj të dal vetëm nëse ndihem e sikletur?",
+      "answer": "Fillo me gjëra të vogla — një kafene në mëngjes, një shëtitje në park. Rrit gradualisht: muze, restorant, kinema. Shikletja vjen nga pritshmëritë e të tjerëve, jo nga ty."
+    },
+    {
+      "question": "A është ndryshe nga vetmia?",
+      "answer": "Krejt ndryshe. Vetmia është dhimbja për mungesën e lidhjeve. Qëndrimi me veten është zgjedhje e vetëdijshme për kënaqësi me shoqërinë tënde."
+    }
+  ]
+}

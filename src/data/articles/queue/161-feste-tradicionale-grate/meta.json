@@ -1,0 +1,24 @@
+{
+  "slug": "feste-tradicionale-grate",
+  "title": "Festat tradicionale të grave shqiptare",
+  "description": "Dita e Verës, Shëngjergji, Dita e Nënës — zbulo festat tradicionale ku gratë shqiptare kanë qenë në qendër të ritualeve dhe gëzimit kolektiv.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Cila është festa më e vjetër shqiptare?",
+      "answer": "Dita e Verës, që festohet më 14 mars, është një nga festat më të lashta pagane shqiptare, e trashëguar nga kohët ilire dhe e lidhur me ringjalljen e natyrës."
+    },
+    {
+      "question": "Si festohej Shëngjergji në traditën shqiptare?",
+      "answer": "Shëngjergji, më 6 maj, ishte festë e pastrimit dhe shëndetit. Gratë zgjoheshin para agimit për të marrë ujin e parë, që besohej shërues, dhe mblidhnin bimë mjekësore."
+    },
+    {
+      "question": "A kishin gratë shqiptare festa vetëm për vete?",
+      "answer": "Po, kishte rituale kolektive që bëheshin vetëm nga gratë — nga këngët e dasmës deri te takimet për të tjerrë lëshin, që shërbenin edhe si hapësira shoqërore gruaje-grua."
+    }
+  ]
+}

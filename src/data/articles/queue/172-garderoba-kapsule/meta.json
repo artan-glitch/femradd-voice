@@ -1,0 +1,24 @@
+{
+  "slug": "garderoba-kapsule",
+  "title": "Krijimi i garderobës kapsulë — udhëzuesi",
+  "description": "Si të ndërtosh një garderobë me pak copa të zgjedhura mirë që shkojnë me njëra-tjetrën — filozofia 'capsule wardrobe' për gratë moderne.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Sa copa duhet të ketë një garderobë kapsulë?",
+      "answer": "Numri klasik është 30-40 copa për çdo stinë, duke përfshirë këpucë dhe këmbësh. Por numri i vërtetë varet nga stili yt — rëndësi ka kombinueshmëria, jo sasia."
+    },
+    {
+      "question": "A duhet të heq të gjitha rrobat e tjera?",
+      "answer": "Jo menjëherë. Fillo duke ndarë rrobat që i vesh dhe ato që nuk i vesh. Jep ato që nuk kanë qenë në përdorim prej një viti — ato s'kthehen në përdorim."
+    },
+    {
+      "question": "A funksionon garderoba kapsulë për gratë shqiptare?",
+      "answer": "Absolutisht. Shqipëria ka katër stinë të qarta, kështu që një kapsulë e ndarë sipas stinës funksionon shumë mirë. Përparësi ka kualiteti ndaj sasisë."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "burnout-te-grate",
+  "title": "Burnout te gratë — shenjat dhe zgjidhja",
+  "description": "Burnout te gratë shqiptare është realitet i heshtur. Mëso shenjat që nuk duhet injoruar dhe hapat konkretë për të marrë veten mbrapsht.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Si dallohet burnout nga lodhja e zakonshme?",
+      "answer": "Lodhja e zakonshme largohet pas një pushimi të mirë. Burnout mbetet edhe pas javës së pushimit — vazhdon të ndihesh e boshatisur, cinike dhe pa motivim kur kthehesh në rutinë."
+    },
+    {
+      "question": "A mund të dalësh nga burnout pa ndryshuar punën?",
+      "answer": "Po, por kërkon rikonfigurim të kufijve, delegim real në shtëpi dhe lirimin e besimit se duhesh të jesh e gjitha për të gjithë. Ndonjëherë ndryshimi i brendshëm është më i rëndësishëm se ai i jashtmi."
+    },
+    {
+      "question": "A ndikon burnout te marrëdhëniet familjare?",
+      "answer": "Shumë. Kur rezervoari yt është bosh, bëhesh e irrituar me fëmijët, e largët me partnerin dhe fajësuese me veten. Rikuperimi fillon kur kuptohet se kujdesi për ty është kujdes për ta."
+    }
+  ]
+}

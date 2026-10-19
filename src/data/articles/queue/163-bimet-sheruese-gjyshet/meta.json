@@ -1,0 +1,24 @@
+{
+  "slug": "bimet-sheruese-gjyshet",
+  "title": "Bimët shëruese shqiptare — nga gjyshet",
+  "description": "Çaji i malit, trumza, sherebela — zbulo bimët shëruese shqiptare që gjyshet tona përdornin dhe çfarë thotë shkenca sot për to.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Cila është bima më e dashur shqiptare për çaj?",
+      "answer": "Çaji i malit (Sideritis raeseri), i njohur edhe si çaji i Luleshqerrës, është bima më e vlerësuar — rritet në Alpet shqiptare dhe ka veti antioksiduese e qetësuese."
+    },
+    {
+      "question": "A kanë bazë shkencore ilaçet e gjysheve?",
+      "answer": "Shumë nga bimët tradicionale shqiptare janë studiuar dhe konfirmuar nga shkenca moderne — trumza kundër inflamacionit, sherebela për dhimbje fyti, mëndra për tretje."
+    },
+    {
+      "question": "Si duhet të përdoren bimët shëruese në mënyrë të sigurt?",
+      "answer": "Këshillohet të përdoren si plotësues, jo si zëvendësues të mjekimit. Shtatzënat dhe personat me sëmundje kronike duhet të konsultohen gjithmonë me mjek para përdorimit."
+    }
+  ]
+}

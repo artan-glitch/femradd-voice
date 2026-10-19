@@ -1,0 +1,24 @@
+{
+  "slug": "majlinda-kelmendi-ari",
+  "title": "Majlinda Kelmendi — ari olimpik i Kosovës",
+  "description": "Në Rio 2016, Majlinda Kelmendi i dha Kosovës medaljen e parë olimpike. Historia e një vajze nga Peja që ndryshoi fatet sportive të një kombi.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Çfarë arriti Majlinda Kelmendi në Rio 2016?",
+      "answer": "Majlinda Kelmendi fitoi medaljen e artë në xhudo, kategoria 52 kg, në Lojërat Olimpike të Rio 2016. Kjo ishte medalja e parë olimpike në historinë e Republikës së Kosovës si shtet i pavarur."
+    },
+    {
+      "question": "Nga vjen Majlinda?",
+      "answer": "Majlinda Kelmendi lindi dhe u rrit në Pejë, Kosovë. Ajo filloi me xhudon që në fëmijëri dhe u stërvit në kushte shpesh të vështira, duke e ndërtuar karrierën e saj hap pas hapi."
+    },
+    {
+      "question": "A ka arritur edhe tituj të tjerë ndërkombëtarë?",
+      "answer": "Po, Majlinda është kampione botërore disa herë dhe kampione evropiane. Edhe para Rio-s, ajo kishte qenë një nga xhudokat më të suksesshme në botë në kategorinë e saj."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "naim-frasheri-profeti",
+  "title": "Naim Frashëri — profeti i Rilindjes Kombëtare",
+  "description": "Naim Frashëri nuk ishte vetëm poet — ishte profeti që i dha gjuhës shqipe shpirt. Pse zëri i tij ende frymon te çdo grua shqiptare.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Pse quhet Naim Frashëri 'profeti i Rilindjes'?",
+      "answer": "Sepse me vargjet e tij, në një kohë kur shqipja nuk kishte as alfabet të njësuar, ai i dha kombit një gjuhë letrare, një mall për atdheun dhe një besim se shqiptarët meritonin një të ardhme të tyren."
+    },
+    {
+      "question": "Cila është vepra më e njohur e Naim Frashërit?",
+      "answer": "'Bagëti e Bujqësia' është ndoshta vepra që e bëri më të dashur te populli — një himn për tokën, blegtorinë dhe jetën e thjeshtë shqiptare. Por 'Historia e Skënderbeut' dhe 'Qerbelaja' tregojnë thellësinë e tij shpirtërore."
+    },
+    {
+      "question": "Çfarë mund të marrë një grua shqiptare moderne nga poezia e Naim Frashërit?",
+      "answer": "Një mësim thelbësor: dashuria për rrënjët nuk është kthim mbrapsht — është forcë për të ecur përpara. Naimi na mësoi se të jesh shqiptare është një trashëgimi, jo një peshë."
+    }
+  ]
+}

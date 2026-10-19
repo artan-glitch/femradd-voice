@@ -1,0 +1,24 @@
+{
+  "slug": "ushqimi-mengjesit-dite",
+  "title": "Ushqimi i mëngjesit që ndryshon ditën",
+  "description": "Pse mëngjesi është vakti më i rëndësishëm dhe çfarë duhet të përmbajë për të ndryshuar nivelin tënd të energjisë në të gjithë ditën.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "A duhet të ha vërtet mëngjes?",
+      "answer": "Jo të gjithë. Nëse praktikon agjërim ndërmjetës dhe ndihesh mirë, mos e detyro veten. Por nëse mëngjesi funksionon për ty, bëje një të mirë — jo thjesht kafe dhe një biskotë."
+    },
+    {
+      "question": "Cili është mëngjesi më i mirë për energji të qëndrueshme?",
+      "answer": "Një kombinim i proteinës, yndyrës së shëndetshme dhe karbohidrateve komplekse. Veza, avokado dhe bukë integrale është formula klasike që funksionon."
+    },
+    {
+      "question": "A është e shëndetshme kafeja e mëngjesit?",
+      "answer": "Po, por jo me stomak bosh. Hajke diçka pak para ose gjatë kafesë — kafeja në stomak bosh rrit kortizolin dhe sjell lodhje pas 2 orësh."
+    }
+  ]
+}

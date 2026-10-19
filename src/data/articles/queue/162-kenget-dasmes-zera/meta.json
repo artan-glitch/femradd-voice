@@ -1,0 +1,24 @@
+{
+  "slug": "kenget-dasmes-zera",
+  "title": "Këngët e dasmës — zërat e paharruar",
+  "description": "Nga 'Na kajke moj nuse' deri te vallet polifonike jugore, zbulo botën e këngëve të dasmës shqiptare dhe emocionet që bartin brez pas brezi.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Cilat janë këngët më të njohura të dasmës shqiptare?",
+      "answer": "Këngët më të njohura përfshijnë 'Nuses i erdhi dita', 'Dil ne penxhere o nuse', 'Çel moj trëndafile', dhe repertorin polifonik jugor që shoqëron rrugëtimin e nuses."
+    },
+    {
+      "question": "Pse këngët e dasmës së nuses janë shpesh të trishtuara?",
+      "answer": "Në traditën shqiptare, dita e dasmës shënon largimin e nuses nga shtëpia atërore. Këngët trishtuese kremtojnë kalimin dhe shprehin dhimbjen e ndarjes nga familja."
+    },
+    {
+      "question": "A këndonin gratë dhe burrat së bashku në dasma?",
+      "answer": "Në traditën tradicionale, repertori ndahej: gratë kishin këngët e tyre për nusen dhe përgatitjen, burrat kishin këngët për dhëndrin dhe trimërinë. Vetëm në fund takoheshin në valle."
+    }
+  ]
+}

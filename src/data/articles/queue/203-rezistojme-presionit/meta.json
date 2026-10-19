@@ -1,0 +1,24 @@
+{
+  "slug": "rezistojme-presionit",
+  "title": "Çfarë ndodh kur rezistojmë presionit social",
+  "description": "Rezistenca ndaj presionit social kërkon kurajë, por sjell lirinë e vërtetë. Zbulo çfarë fiton kur zgjedh të jetosh sipas vlerave të tua.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "A duhet të rezistoj çdo pritshmërie të familjes?",
+      "answer": "Jo çdo pritshmëri është presion. Dallo mes dëshirës së tyre nga dashuria dhe kontrollit nga frika. Rezisto vetëm atë që shkel vlerat e tua themelore."
+    },
+    {
+      "question": "Çfarë nëse familja më refuzon për vendimet e mia?",
+      "answer": "Dhimbshme, por e kalueshme. Shumë gra kanë kaluar një periudhë distance që më vonë është kthyer në respekt. Qëndrueshmëria me butësi është arma më e fortë."
+    },
+    {
+      "question": "Si të di nëse është presion social apo kujdes i vërtetë?",
+      "answer": "Kujdesi i vërtetë pyet çfarë dëshiron ti. Presioni të thotë çfarë duhet të dëshirosh. Pyeti thjesht veten: a më dëgjojnë apo më diktojnë?"
+    }
+  ]
+}

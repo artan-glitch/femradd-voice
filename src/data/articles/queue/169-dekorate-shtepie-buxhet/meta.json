@@ -1,0 +1,24 @@
+{
+  "slug": "dekorate-shtepie-buxhet",
+  "title": "Dekoratë shtëpie me buxhet të vogël",
+  "description": "Si të ndryshosh pamjen e shtëpisë pa shpenzuar shumë — idetë, trendet dhe zgjedhjet e vogla që bëjnë dallimin e madh.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "arta-berisha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Si të filloj dekorimin e shtëpisë me buxhet të vogël?",
+      "answer": "Fillo me gjërat që ke tashmë — ri-rendit mobiliet, ndrysho tekstilet dhe shto bimë. Më pas, investimi i parë duhet të jetë ndriçimi dhe tekstiliet si jastëkë dhe perde."
+    },
+    {
+      "question": "Cilat janë ngjyrat më trendy për shtëpi në 2026?",
+      "answer": "Nuanca natyrale — tokë e thatë, krem i ngrohtë, jeshile sage dhe terrakota e butë. Të gjitha nga paleta e natyrës, jo e teknologjisë."
+    },
+    {
+      "question": "Çfarë nuk duhet të blej për dekorim?",
+      "answer": "Shmang gjërat 'trendy' që dalin modë shpejt. Investo në bazat kualitative — një jastëk të mirë, një bimë të vërtetë — dhe shmang dekorin e lirë plastik."
+    }
+  ]
+}

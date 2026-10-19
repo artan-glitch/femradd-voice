@@ -1,0 +1,24 @@
+{
+  "slug": "horoskopi-shqiptar-lindja",
+  "title": "Horoskopi shqiptar sipas datës së lindjes",
+  "description": "Zbulo se çfarë tregon tradita shqiptare për ty sipas muajit të lindjes — simbole, bimë mbrojtëse dhe karaktere për çdo stinë.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "A ekziston një horoskop tradicional shqiptar?",
+      "answer": "Shqipëria nuk ka një horoskop zyrtar si ai kinez apo perëndimor, por tradita popullore lidh çdo muaj me bimë mbrojtëse, simbole dhe karaktere të caktuara."
+    },
+    {
+      "question": "Si lidhet data e lindjes me karakterin në kulturën shqiptare?",
+      "answer": "Besimi popullor thotë se stina e lindjes ndikon tek natyra e njeriut — fëmijët e dimrit janë të qetë dhe të fortë, të verës janë zjarr e pasion."
+    },
+    {
+      "question": "Çfarë është 'bima mbrojtëse' në traditën shqiptare?",
+      "answer": "Çdo muaj ka një bimë që besohet se mbron atë që lind në atë kohë — bazilika, bliri, trëndafili dhe gjethet e dafinës janë ndër më të njohurat."
+    }
+  ]
+}

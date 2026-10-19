@@ -1,0 +1,24 @@
+{
+  "slug": "paqja-pas-ndarjes",
+  "title": "Si të gjesh paqen pas një ndarjeje të dhimbshme",
+  "description": "Ndarja të ka thyer? Zbulo si të kalosh dhimbjen me butësi dhe të rikthesh paqen tek vetja, hap pas hapi, pa nxitim.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Sa kohë duhet për të kaluar një ndarje?",
+      "answer": "Nuk ka formulë. Varet nga thellësia e lidhjes dhe nga mënyra si e përpunon. Mesatarisht duhen 6 muaj deri 2 vjet për të ndier qetësi të vërtetë, por nuk duhet të nxitosh."
+    },
+    {
+      "question": "A duhet të kontaktoj ish-partnerin për të marrë mbyllje?",
+      "answer": "Mbyllja më e mirë vjen nga brenda, jo nga biseda me të. Shpesh kontakti i rihap plagën. Mbyllja është vendim yti për të ecur përpara, pavarësisht nga ai."
+    },
+    {
+      "question": "Pse ndihem fajtore që po përmirësohem?",
+      "answer": "Sepse shumë gra mendojnë se dhimbja është shenjë e dashurisë së vërtetë. Nuk është. Shërimi nuk mohon atë që ishte — thjesht e nderon duke ecur përpara."
+    }
+  ]
+}

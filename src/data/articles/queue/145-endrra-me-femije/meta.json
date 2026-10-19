@@ -1,0 +1,24 @@
+{
+  "slug": "endrra-me-femije",
+  "title": "Të ëndërrosh fëmijë — lajme të reja në ardhje",
+  "description": "Kuptimi i ëndrrave me fëmijë në folklorin shqiptar dhe psikologji — nga shtatzënia simbolike te lajmet e papritura që po të afrohen në jetë.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "arta-berisha",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "A do të thotë shtatzëni kur ëndërron fëmijë?",
+      "answer": "Jo gjithmonë. Fëmija në ëndërr simbolizon një fillim të ri — një ide, projekt, marrëdhënie ose fazë jete. Ndonjëherë ka lidhje me shtatzëni, por më shpesh me rilindje personale."
+    },
+    {
+      "question": "Çfarë kuptimi ka të ëndërrosh një fëmijë që qan?",
+      "answer": "Fëmija që qan në ëndërr shpesh pasqyron një pjesë të fëmijërisë tënde që ndihet e papërkujdesur. Është një thirrje për të dëgjuar nevojat e tua emocionale të fshehura."
+    },
+    {
+      "question": "Pse ëndërroj fëmijën tim si foshnjë përsëri?",
+      "answer": "Ëndrrat ku fëmija yt rikthehet në moshë të vogël tregojnë dëshirë për të mbrojtur, nostalgji ose ndoshta një shqetësim të fshehur për të ardhmen e tij. Është emocion i natyrshëm nëne."
+    }
+  ]
+}

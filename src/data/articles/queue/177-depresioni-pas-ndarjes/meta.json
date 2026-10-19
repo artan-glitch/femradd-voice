@@ -1,0 +1,24 @@
+{
+  "slug": "depresioni-pas-ndarjes",
+  "title": "Si ta kapërcesh depresionin pas një ndarjeje",
+  "description": "Pas një ndarjeje, dhimbja është e vërtetë. Si të kalosh ditët e para, si të ndërtosh veten përsëri — hap pas hapi, pa shpejtim, pa shtirje.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Sa kohë duhet për të kaluar një ndarje?",
+      "answer": "Nuk ka afat universal. Studimet sugjerojnë 3-6 muaj për shumicën, por lidhjet e gjata mund të kërkojnë më shumë. Çdo udhëtim është personal."
+    },
+    {
+      "question": "A duhet të kërkoj ndihmë profesionale?",
+      "answer": "Nëse pas disa javësh ndjen vazhdimisht pavlefshmëri, nuk fle, nuk ha, ose ke mendime të dëmshme — po. Terapia nuk është shenjë dobësie, është kujdes."
+    },
+    {
+      "question": "A duhet të qëndroj në kontakt me ish-in?",
+      "answer": "Në fillim — jo. Hapësira është kushti i parë për shërim. Kontakti i hershëm e rinovon dhimbjen çdo javë."
+    }
+  ]
+}

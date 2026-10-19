@@ -1,0 +1,24 @@
+{
+  "slug": "kufijte-me-familjen",
+  "title": "Si të vendosësh kufij shëndetshëm me familjen",
+  "description": "Të themi jo pa fajësi, të mbrojmë hapësirën tonë pa humbur lidhjet — kufij me nënën, me vjehrrën, me kushërirat. Pa dramë, me qartësi dhe respekt.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "A konsiderohet mungesë respekti të themi jo prindërve?",
+      "answer": "Jo. Respekti nuk kërkon nënshtrim. Një jo i qetë dhe i qartë, me shpjegim të shkurtër, është përfaqësim i shëndetshëm — jo kundërshtim."
+    },
+    {
+      "question": "Si të vendos kufij me vjehrrën pa bërë zënkë me burrin?",
+      "answer": "Fol me burrin paraprakisht. Përcaktoni rregullat së bashku. Kur mesazhi vjen prej të dyve, nuk duket si sulm — duket si vendim i çiftit."
+    },
+    {
+      "question": "Çfarë bëj kur familja nuk respekton kufijtë?",
+      "answer": "Përsërit kufirin me të njëjtat fjalë — pa i shpjeguar përsëri. Pastaj zbato pasojën e paralajmëruar. Fjalët pa veprime nuk janë kufij."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "legjendat-maleve-shqiptare",
+  "title": "Legjendat e lashta të maleve shqiptare",
+  "description": "Nga Rozafa deri te zanat e maleve të veriut, zbulo legjendat që kanë rritur breza gra shqiptare dhe mesazhet e tyre të fshehura.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Rozafa në legjendën shqiptare?",
+      "answer": "Rozafa ishte gruaja e re që, sipas legjendës, u mur në themelet e kalasë së Shkodrës për t'i dhënë qëndrueshmëri. Simbolizon sakrificën dhe forcën e amësisë në kulturën shqiptare."
+    },
+    {
+      "question": "Çfarë janë zanat në mitologjinë shqiptare?",
+      "answer": "Zanat janë qenie mitologjike femërore që besohet të jetojnë në malet shqiptare. Përfaqësojnë fuqinë e natyrës, mbrojtjen dhe lidhjen me botën shpirtërore."
+    },
+    {
+      "question": "Pse malet janë kaq të rëndësishme në legjendat shqiptare?",
+      "answer": "Malet kanë qenë vendi i strehimit, i betimit dhe i mbrojtjes së identitetit shqiptar për shekuj. Në to kanë lindur legjendat që rrëfejnë vlerat e popullit."
+    }
+  ]
+}

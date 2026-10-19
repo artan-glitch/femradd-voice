@@ -1,0 +1,24 @@
+{
+  "slug": "veteperkujdesja-nevoje",
+  "title": "Vetëpërkujdesja — jo luks, por nevojë",
+  "description": "Vetëpërkujdesja nuk është banjë me shkumë dhe maska për fytyrën. Është mënyrë jetese që shpëton gratë nga shkatërrimi i heshtur.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Si të kesh kohë për vetëpërkujdesje kur ke fëmijë dhe punë?",
+      "answer": "Fillo me pesëmbëdhjetë minuta në ditë dhe mbaji të pacenueshme. Vetëpërkujdesja nuk kërkon spa — kërkon vendim të qëndrueshëm. Zgjohu më herët nëse është e vetmja orë e qetë e ditës."
+    },
+    {
+      "question": "A është egoiste të mendosh për veten para familjes?",
+      "answer": "Jo. Të kujdesesh për veten do të thotë të kesh energji për t'u kujdesur mirë për të tjerët. Nëna e lodhur, nervoze dhe e boshatisur dëmton familjen më shumë se nëna që ka marrë kohë për vete."
+    },
+    {
+      "question": "Nga ku të filloj nëse nuk kam asnjë praktikë vetëpërkujdesjeje?",
+      "answer": "Nga trupi. Fli siç duhet, pi ujë, lëviz dhjetë minuta në ditë. Këto janë baza. Pastaj shto gjërat që të ushqejnë shpirtin — një libër, muzikë, kafe me një mikeshë pa fajësi."
+    }
+  ]
+}

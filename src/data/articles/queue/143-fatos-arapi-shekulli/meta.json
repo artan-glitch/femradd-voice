@@ -1,0 +1,24 @@
+{
+  "slug": "fatos-arapi-shekulli",
+  "title": "Fatos Arapi — poezia e dashurisë dhe kohës",
+  "description": "Fatos Arapi këndoi dashurinë dhe kohën me butësi që pak kanë arritur. Vargjet e tij janë ende shoqëri për çdo zemër shqiptare.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Fatos Arapi?",
+      "answer": "Një nga poetët më delikatë shqiptarë të shekullit XX. Nga Vlora, autor i vargjeve lirike për dashurinë, kohën, humbjen dhe mallin. Përkthyes dhe profesor gjithashtu."
+    },
+    {
+      "question": "Pse është i veçantë?",
+      "answer": "Në epokën e realizmit socialist, Arapi arriti të ruante një lirizëm të pastër, intim, që nuk u gjunjëzua para presionit politik. Shkroi për dashurinë kur të tjerët shkruanin për klasat."
+    },
+    {
+      "question": "Cilat janë veprat e tij kryesore?",
+      "answer": "'Shtigje poetike', 'Poema dhe vjersha', 'Më jep një emër', dhe përmbledhjet e dekadave të fundit si 'Dritë hëne mbi gjunjët e tu' — ku lirizmi mbetet i freskët deri në fund."
+    }
+  ]
+}

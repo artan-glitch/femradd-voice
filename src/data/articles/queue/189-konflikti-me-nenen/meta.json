@@ -1,0 +1,24 @@
+{
+  "slug": "konflikti-me-nenen",
+  "title": "Konflikti me nënën — si ta tejkalosh",
+  "description": "Lidhja me nënën është më e thella dhe më e vështira. Mëso si të ndërtosh distancën e duhur pa i humbur të dyja.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "A duhet të shkëputem plotësisht nga nëna nëse marrëdhënia është e dhimbshme?",
+      "answer": "Shkëputja totale është zgjidhje e fundit, jo e parë. Shpesh distanca e matur — kontakt më pak i shpeshtë, kufij të qartë — mjafton. Shkëputja e plotë ka vendin e saj kur ka dëmtim serioz që nuk ndalet."
+    },
+    {
+      "question": "Pse nëna ime nuk e pranon që ka gabuar?",
+      "answer": "Shumë nëna nga brezat e vjetër s'kanë mësuar të njohin gabimin si forcë. Ta pranosh gabimin kërkon një vetëdije që ndoshta ajo kurrë nuk ka pasur mundësi ta zhvillojë. Shërimi yt nuk varet nga njohja e saj."
+    },
+    {
+      "question": "Si të qëndroj e qetë kur më kritikon?",
+      "answer": "Mos u mundo të fitosh debatin. Thuaj një frazë të shkurtër — 'Të kuptoj' ose 'Mendoj ndryshe' — dhe ndrysho temën. Fitorja nuk është që ajo të pranojë; fitorja është që ti të dalësh nga biseda e paprekur."
+    }
+  ]
+}

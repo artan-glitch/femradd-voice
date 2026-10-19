@@ -1,0 +1,24 @@
+{
+  "slug": "rritja-bimeve-brenda",
+  "title": "Rritja e bimëve brenda shtëpisë — udhëzuesi",
+  "description": "Bimët më të lehta për t'u mbajtur gjallë brenda shtëpisë, ku t'i vendosësh dhe pse çdo shqiptare duhet të ketë të paktën tri.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 6,
+  "faqs": [
+    {
+      "question": "Cila është bima më e lehtë për fillestar?",
+      "answer": "Sansevieria (gjuha e vjehrrës) është e pamposhtur — toleron harresën, dritën e dobët dhe nuk ka nevojë për shumë ujë. Nëse nuk mbijeton kjo, është koha të mendosh për lule plastike."
+    },
+    {
+      "question": "Sa shpesh duhet të ujis bimët e brendshme?",
+      "answer": "Rregulli i artë: shumica preferojnë të thaten pak midis ujitjeve. Fut gishtin 2 cm në tokë — nëse është ende i lagësht, prit. Gabimi më i madh është ujitja e tepërt, jo e pakët."
+    },
+    {
+      "question": "A pastrojnë bimët vërtet ajrin e shtëpisë?",
+      "answer": "Po, por efekti është modest në një shtëpi reale. Megjithatë, ato përmirësojnë lagështinë, qetësojnë mendjen dhe ndryshojnë ndjesinë e një hapësire — kjo është vlera e vërtetë."
+    }
+  ]
+}

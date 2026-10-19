@@ -1,0 +1,24 @@
+{
+  "slug": "endrra-me-zjarr",
+  "title": "Të ëndërrosh zjarr — pasion apo rrezik",
+  "description": "Kuptimi i ëndrrave me zjarr — nga pasioni i papërmbajtur te paralajmërimi i rrezikut. Interpretime psikologjike dhe folklorike për gratë shqiptare.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Çfarë do të thotë kur ëndërron shtëpinë tënde në zjarr?",
+      "answer": "Shtëpia në zjarr simbolizon ndryshime të mëdha emocionale ose familjare — ndonjëherë fund i një faze, ndonjëherë zemërim i shtypur që kërkon shprehje. Rrallë ka lidhje me rrezik fizik."
+    },
+    {
+      "question": "A është zjarri në ëndërr shenjë e mirë?",
+      "answer": "Varet nga konteksti. Zjarri i kontrolluar (si vatra) është shenjë pastrimi, pasioni dhe transformimi. Zjarri shkatërrues ndjell shqetësim emocional ose ndryshime të paparashikuara."
+    },
+    {
+      "question": "Pse ëndërroj se po flakëroj apo digjem?",
+      "answer": "Të digjesh në ëndërr shpesh pasqyron ndjesinë e djegies në jetën reale — stres të tepërt, zemërim të pazgjidhur, ose një pasion që të ka pushtuar aq fort sa të djeg nga brenda."
+    }
+  ]
+}

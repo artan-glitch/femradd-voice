@@ -1,0 +1,24 @@
+{
+  "slug": "kujtime-trupi-sheron",
+  "title": "Kujtimet traumatike — si trupi i shëron vetë",
+  "description": "Trupi mban çdo kujtim që mendja e harron. Mëso si trupi fillon shërimin e traumës edhe pa fjalë dhe çfarë mund të bësh ti.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "A mund të shërohet trauma pa terapi?",
+      "answer": "Trauma e lehtë mund të përmirësohet me vetë-kujdes, por për traumë të thellë rekomandohet mbështetja profesionale. Trupi përgjigjet shumë mirë ndaj trajtimeve si EMDR, terapia somatike dhe joga trauma-informuar."
+    },
+    {
+      "question": "Pse ndihem keq edhe pa shkak të dukshëm?",
+      "answer": "Sepse trupi mban kujtime që mendja i ka harruar. Një aromë, një zë ose një situatë mund të aktivizojnë përgjigjen e traumës edhe pa kujtim të ndërgjegjshëm."
+    },
+    {
+      "question": "Sa kohë zgjat shërimi i një traume?",
+      "answer": "Nuk ka afat universal. Disa gra ndihen më mirë brenda muajsh, të tjerat kërkojnë vite. Shërimi nuk është vijë e drejtë — është proces me ngritje dhe rënie."
+    }
+  ]
+}

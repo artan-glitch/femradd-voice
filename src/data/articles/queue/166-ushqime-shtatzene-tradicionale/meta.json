@@ -1,0 +1,24 @@
+{
+  "slug": "ushqime-shtatzene-tradicionale",
+  "title": "Ushqime tradicionale shqiptare për shtatzënat",
+  "description": "Si i ushqenin shqiptarët shtatzënat — kuzhina e vjetër, besimet popullore dhe pse ato receta ende këshillohen nga nënat sot.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Pse shtatzënat shqiptare hanin shumë mjaltë tradicionalisht?",
+      "answer": "Mjalti besohej se jep forcë, qetëson stomakun dhe mbron fëmijën. Ai konsiderohej 'ushqimi i engjëjve' — i pastër, energjik dhe mbrojtës."
+    },
+    {
+      "question": "A këshillohen ende këto ushqime tradicionale sot?",
+      "answer": "Shumë prej tyre po — hithrat, qumështi i freskët, gjella me spinaq dhe mjalti janë ende të rekomanduara, por gjithmonë konsultohu me mjekun para se të ndryshosh dietën."
+    },
+    {
+      "question": "Çfarë nuk hanin shtatzënat sipas traditës shqiptare?",
+      "answer": "Shmangeshin ushqimet shumë të kripura, erëzat e forta dhe mishi i gjahut. Besohej se këto mund të ndikonin tek karakteri i fëmijës."
+    }
+  ]
+}

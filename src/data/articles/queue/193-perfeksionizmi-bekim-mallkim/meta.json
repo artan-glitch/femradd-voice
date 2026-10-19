@@ -1,0 +1,24 @@
+{
+  "slug": "perfeksionizmi-bekim-mallkim",
+  "title": "Perfeksionizmi — bekim apo mallkim",
+  "description": "Perfeksionizmi te gratë fshihet si virtyt. Mëso dallimin midis përsosmërisë së shëndetshme dhe asaj që shkatërron brenda.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 8,
+  "faqs": [
+    {
+      "question": "Si të dalloj perfeksionizmin e shëndetshëm nga ai që më shkatërron?",
+      "answer": "Perfeksionizmi i shëndetshëm të jep gëzim pas një pune të mirë. Ai që shkatërron nuk të lë kurrë të kënaqur — gjithmonë shikon atë që munguar, kurrë atë që bëre."
+    },
+    {
+      "question": "A kam lindur me perfeksionizëm apo e kam mësuar?",
+      "answer": "Shumica e perfeksionizmit mësohet në fëmijëri — nga prindër që tregonin dashurinë kur arrije, nga mësues që kërkonin notën dhjetë. Nëse e ke mësuar, mund edhe ta çmësosh. Është proces, por i mundshëm."
+    },
+    {
+      "question": "Si të lë detyra të papërfunduara pa u ndier faj?",
+      "answer": "Fillo me diferencimin midis 'mjaftueshëm' dhe 'perfekt'. Shumica e gjërave në jetë kërkojnë 'mjaftueshëm'. Mjafton e mirë është fjalë e fuqishme — kurse 'perfekt' është shpesh pengesë e maskuar."
+    }
+  ]
+}

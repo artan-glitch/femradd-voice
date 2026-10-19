@@ -1,0 +1,24 @@
+{
+  "slug": "ndre-mjeda-shkoder",
+  "title": "Ndre Mjeda — poeti i Shkodrës së lashtë",
+  "description": "Ndre Mjeda e lartësoi gjuhën shqipe në pastërtinë klasike dhe këndoi për Shkodrën si pakkush tjetër. Pse zëri i tij ende rrezaton.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Ndre Mjeda?",
+      "answer": "Poet, prift jezuit dhe gjuhëtar shqiptar nga Shkodra. Një nga figurat kryesore të letërsisë shqipe në fundshekullin XIX dhe fillimshekullin XX — themeltar i poezisë klasike shqiptare."
+    },
+    {
+      "question": "Cilat janë veprat e tij kryesore?",
+      "answer": "'Juvenilia', poema 'Lissus' dhe 'Scodra' janë veprat që i dhanë vendin ndër klasikët. Shquhet për vargun e punuar dhe gjuhën e pastër shqipe-gege."
+    },
+    {
+      "question": "Pse ka rëndësi sot?",
+      "answer": "Mjedja mbron idenë se bukuria formale ka vlerë — që një varg i mirë punohet si një juvelir punon një unazë. Në epokën e shpejtësisë, ai na mëson durimin e artit."
+    }
+  ]
+}

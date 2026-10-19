@@ -1,0 +1,24 @@
+{
+  "slug": "takimi-i-pare-cfare-pres",
+  "title": "Takimi i parë — çfarë të presësh dhe çfarë jo",
+  "description": "Takimi i parë nuk është test. Është bisedë. Si ta kthesh pritshmërinë në kuriozitet dhe të dalësh me informacion të vërtetë për të.",
+  "image": "/images/categories/dashuri.webp",
+  "category": "dashuri",
+  "categoryLabel": "Dashuri & Takime",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Sa duhet të zgjasë takimi i parë?",
+      "answer": "Mes një dhe dy orësh. Mjaft për të pasur një bisedë të vërtetë, pak sa të lesh dëshirë për një takim të dytë. Takimet e gjata të para shpesh të djegin energjinë."
+    },
+    {
+      "question": "A duhet të pres që ai të paguajë?",
+      "answer": "Nuk ka rregull të vetëm. Shumë burra në kulturën shqiptare e marrin si gjest kortezie. Mënyra më e natyrshme: nxirr portofolin — nëse ai e ndalon me respekt, mirë; nëse e ndan, s'është problem."
+    },
+    {
+      "question": "Çfarë nëse nuk ndjej \"shkëndijë\" në takimin e parë?",
+      "answer": "Mos e refuzo menjëherë. Shkëndija e menjëhershme shpesh është tërheqje kimike, jo njohje. Shumë marrëdhënie të forta kanë nisur nga takime të qeta. Jep një shans të dytë nëse ai të respekton."
+    }
+  ]
+}

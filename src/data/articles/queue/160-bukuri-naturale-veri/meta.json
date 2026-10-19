@@ -1,0 +1,24 @@
+{
+  "slug": "bukuri-naturale-veri",
+  "title": "Bukuritë naturale të Shqipërisë veriore",
+  "description": "Nga Thethi deri te Valbona dhe Komani, zbulo bukuritë e natyrës veriore shqiptare — udhëzues frymëzues për gra që duan të takojnë malet.",
+  "image": "/images/categories/kuriozitete.webp",
+  "category": "kuriozitete",
+  "categoryLabel": "Kuriozitete",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Cilat janë destinacionet më të bukura në veri të Shqipërisë?",
+      "answer": "Më të njohurat janë Thethi, Valbona, Liqeni i Komanit, Qafa e Valbonës, Lugina e Shalës dhe fshati Lëpushë. Secili ka karakteristikat e tij unike natyrore."
+    },
+    {
+      "question": "A është veriu i Shqipërisë i sigurt për gratë që udhëtojnë vetëm?",
+      "answer": "Po, veriu i Shqipërisë konsiderohet shumë i sigurt dhe mikpritës. Gratë udhëtare vetëm raportojnë përvojë pozitive, veçanërisht në guesthouse-et familjare."
+    },
+    {
+      "question": "Kur është koha më e mirë për të vizituar Alpet Shqiptare?",
+      "answer": "Nga fundi i majit deri në fillim të tetorit është periudha më e mirë. Gusht është muaji me klimën më të qëndrueshme për trekking dhe hikes të gjata."
+    }
+  ]
+}

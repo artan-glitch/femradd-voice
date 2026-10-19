@@ -1,0 +1,24 @@
+{
+  "slug": "dalesh-nga-rutina",
+  "title": "Si të dalësh nga rutina — kreativiteti si shpëtim",
+  "description": "Rutina të ka marrë ngadalë ngjyrat? Zbulo si kreativiteti i vogël i përditshëm të kthen shpirtin dhe energjinë e humbur.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Pse rutina na lodh edhe kur gjithçka duket mirë?",
+      "answer": "Sepse truri ynë ka nevojë për risi për të prodhuar dopaminë. Kur çdo ditë përsëritet njësoj, mendja hyn në një gjendje gjysmë-gjumi që ngjan me lodhje emocionale."
+    },
+    {
+      "question": "A duhet të jem artiste për të qenë krijuese?",
+      "answer": "Jo. Kreativiteti nuk është profesion — është një mënyrë për t'u lidhur me botën. Mund të jesh krijuese kur gatuan, kur shkruan një letër, kur zgjedh një rrugë të re për në punë."
+    },
+    {
+      "question": "Sa kohë duhet për të dalë nga rutina?",
+      "answer": "Mjaftojnë 15 minuta në ditë për një gjest të ri. Ndryshimi nuk vjen nga vendime të mëdha, por nga mikro-zgjedhje që rikthejnë kuriozitetin."
+    }
+  ]
+}

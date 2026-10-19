@@ -1,0 +1,24 @@
+{
+  "slug": "genta-ismajli-popja",
+  "title": "Genta Ismajli — pop-ja shqiptare moderne",
+  "description": "Me zërin dhe prezencën e saj skenike, Genta Ismajli ka ndërtuar një karrierë që definoi pop-in shqiptar në dy dekadat e fundit.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Nga vjen Genta Ismajli?",
+      "answer": "Genta Ismajli vjen nga Kosova dhe nisi karrierën e saj muzikore në skenën kosovare. Ndër vite ajo është bërë figurë e njohur në të gjitha trevat shqiptare."
+    },
+    {
+      "question": "Si fillon një karrierë e tillë?",
+      "answer": "Genta nisi karrierën në muzikë që në adoleshencë, duke marrë pjesë në festivale dhe konkurse. Puna e saj e qëndrueshme me kalimin e viteve e vendosi atë mes figurave kryesore të pop-it shqiptar."
+    },
+    {
+      "question": "Çfarë e dallon atë nga artistet e tjera?",
+      "answer": "Genta Ismajli ka një kombinim të rrallë: zë të fortë teknik, prezencë karizmatike në skenë dhe aftësi për të zgjedhur këngë që mbeten në kujtesën e publikut. Këto cilësi e kanë bërë një nga më të kërkuarat."
+    }
+  ]
+}

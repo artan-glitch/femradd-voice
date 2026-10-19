@@ -1,0 +1,24 @@
+{
+  "slug": "esad-mekuli-themeluesi",
+  "title": "Esad Mekuli — themeluesi i letërsisë moderne",
+  "description": "Esad Mekuli i hodhi themelet e letërsisë moderne shqipe në Kosovë. Zëri i tij hapi rrugën për një komb të tërë.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Esad Mekuli?",
+      "answer": "Poeti dhe themelues i letërsisë moderne shqipe në Kosovë. Themelues i revistës 'Jeta e re' — platformë vitale për të gjithë shkrimtarët shqiptarë të pas-luftës në Jugosllavi."
+    },
+    {
+      "question": "Pse quhet 'themelues'?",
+      "answer": "Sepse pa punën e tij, letërsia shqipe në Kosovë nuk do të kishte pasur as infrastrukturën institucionale, as autoritetin estetik që i mundësoi gjithë brezat që erdhën pas."
+    },
+    {
+      "question": "Cilat janë veprat e tij kryesore?",
+      "answer": "'Për ty', 'Dita e re', 'Rini si zjarr' janë përmbledhjet që shënuan modernizimin e poezisë shqipe në Kosovë. Ai ishte gjithashtu veprimtar kulturor dhe përkthyes."
+    }
+  ]
+}

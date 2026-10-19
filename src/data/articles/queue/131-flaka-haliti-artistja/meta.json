@@ -1,0 +1,24 @@
+{
+  "slug": "flaka-haliti-artistja",
+  "title": "Flaka Haliti — artistja konceptuale shqiptare",
+  "description": "Flaka Haliti është artistja kosovare që ka ngritur arten konceptual në skena ndërkombëtare dhe përfaqësoi Kosovën në Bienalen e Venecias.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush është Flaka Haliti?",
+      "answer": "Flaka Haliti është artiste konceptuale kosovare, një nga figurat më të njohura të artit bashkëkohor shqiptar në skenat ndërkombëtare."
+    },
+    {
+      "question": "Çfarë lloj arti bën Flaka Haliti?",
+      "answer": "Ajo punon me instalacione, foto, video dhe art konceptual që trajtojnë identitetin, kufijtë, luftën dhe migrimin."
+    },
+    {
+      "question": "Ku ka ekspozuar Flaka Haliti?",
+      "answer": "Veprat e saj janë ekspozuar në Bienalen e Venecias, në galeri të njohura evropiane dhe në muze bashkëkohor."
+    }
+  ]
+}

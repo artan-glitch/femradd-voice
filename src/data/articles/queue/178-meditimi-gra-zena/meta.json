@@ -1,0 +1,24 @@
+{
+  "slug": "meditimi-gra-zena",
+  "title": "Teknikat e meditimit për gra të zëna",
+  "description": "Meditim pa jastëk, pa dyzet minuta, pa aplikacione të komplikuara. Teknika të vërteta për gra që nuk kanë kohë — por kanë nevojë për qetësi.",
+  "image": "/images/categories/personale.webp",
+  "category": "personale",
+  "categoryLabel": "Zhvillim Personal",
+  "authorSlug": "arta-berisha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Sa minuta në ditë mjaftojnë për meditim?",
+      "answer": "Edhe pesë minuta kanë efekt të matshëm. Studimet tregojnë ulje stresi te personat që meditojnë vetëm 10 minuta në ditë për tetë javë radhazi."
+    },
+    {
+      "question": "A duhet të mos mendoj asgjë gjatë meditimit?",
+      "answer": "Jo. Mendimet do vijnë — kjo është e natyrshme. Meditimi nuk është mungesa e mendimeve, është vëzhgimi i tyre pa u lidhur me to."
+    },
+    {
+      "question": "A funksionon meditimi kur je e zemëruar ose e stresuar?",
+      "answer": "Posaçërisht atëherë. Katër frymëmarrje të ngadalta aktivizojnë sistemin nervor parasimpatik dhe ulin kortizolin brenda minutash."
+    }
+  ]
+}

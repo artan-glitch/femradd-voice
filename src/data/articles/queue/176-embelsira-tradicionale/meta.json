@@ -1,0 +1,24 @@
+{
+  "slug": "embelsira-tradicionale",
+  "title": "Ëmbëlsirat tradicionale shqiptare që nuk dalin mode",
+  "description": "Nga bakllavaja te revanija — ëmbëlsirat shqiptare që kanë kaluar brez pas brezi dhe mbeten shija jonë e preferuar. Receta dhe kujtime të ëmbla.",
+  "image": "/images/categories/lifestyle.webp",
+  "category": "lifestyle",
+  "categoryLabel": "Lifestyle",
+  "authorSlug": "elira-hoxha",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Cila është ëmbëlsira më e vjetër shqiptare?",
+      "answer": "Bakllavaja ka origjinë osmane, por versioni shqiptar i saj është përshtatur ndër shekuj dhe përbën pjesë thelbësore të festave tona që prej qindra vjetësh."
+    },
+    {
+      "question": "A mund të bëj revani pa përvojë?",
+      "answer": "Po. Revani është ndoshta ëmbëlsira më e thjeshtë tradicionale — pak përbërës, një tepsi, dhe shurup. Edhe fillestarja mund ta bëjë në provën e parë."
+    },
+    {
+      "question": "Pse ëmbëlsirat shqiptare janë kaq të ëmbla?",
+      "answer": "Shurupi i rëndë ishte mënyra tradicionale për ruajtje. Sot mund ta zvogëlosh sheqerin pa prishur shijen origjinale."
+    }
+  ]
+}

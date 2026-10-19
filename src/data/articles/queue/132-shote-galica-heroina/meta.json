@@ -1,0 +1,24 @@
+{
+  "slug": "shote-galica-heroina",
+  "title": "Shote Galica — heroina e luftës shqiptare",
+  "description": "Shote Galica është një nga figurat më legjendare të grave shqiptare, luftëtarja e kaçakëve që u bë simbol i rezistencës dhe dinjitetit.",
+  "image": "/images/categories/grate-shqiptare.webp",
+  "category": "grate-shqiptare",
+  "categoryLabel": "Gratë Shqiptare",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Shote Galica?",
+      "answer": "Shote Galica ishte luftëtare shqiptare e Lëvizjes Kaçake në fillim të shekullit XX, e njohur për trimërinë e saj si gruaja që luftoi krah për krah me burrat."
+    },
+    {
+      "question": "Kur jetoi Shote Galica?",
+      "answer": "Shote Galica jetoi në fund të shekullit XIX dhe fillim të shekullit XX, duke marrë pjesë në rezistencën kundër okupatorit serb."
+    },
+    {
+      "question": "Pse Shote Galica është simbol për gratë shqiptare?",
+      "answer": "Ajo është një simbol se gratë shqiptare kanë marrë pjesë aktive në historinë e vendit, jo vetëm si mbështetëse por si luftëtare dhe udhëheqëse."
+    }
+  ]
+}

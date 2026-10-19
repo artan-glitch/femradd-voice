@@ -1,0 +1,24 @@
+{
+  "slug": "lasgush-poradeci-heshtja",
+  "title": "Lasgush Poradeci — poeti i heshtjes së thellë",
+  "description": "Lasgush Poradeci e ktheu heshtjen në art dhe liqenin e Pogradecit në univers. Pse vargjet e tij ende na mësojnë të dëgjojmë veten.",
+  "image": "/images/categories/letersi.webp",
+  "category": "letersi",
+  "categoryLabel": "Letërsi",
+  "authorSlug": "drenushe-krasniqi",
+  "readingTime": 7,
+  "faqs": [
+    {
+      "question": "Kush ishte Lasgush Poradeci?",
+      "answer": "Një nga poetët më origjinalë shqiptarë të shekullit XX — mistik, i heshtur, i lidhur me liqenin e Pogradecit si me një shpirt binjak. Vepra e tij u shkel nga diktatura, por mbijetoi sepse ishte shumë e thellë për t'u fshirë."
+    },
+    {
+      "question": "Pse quhej 'poeti i heshtjes'?",
+      "answer": "Pjesën më të madhe të jetës ai jetoi larg zhurmës, pa botuar, pa u shfaqur. Heshtja për të nuk ishte mungesë zëri — ishte një formë e thellë e të dëgjuarit të botës."
+    },
+    {
+      "question": "Cilat janë veprat e tij kryesore?",
+      "answer": "'Vallja e yjeve' dhe 'Ylli i zemrës' janë dy përmbledhjet që e bënë të pavdekshëm. Një poezi e tij e shkurtër peshon sa një roman i tërë."
+    }
+  ]
+}
