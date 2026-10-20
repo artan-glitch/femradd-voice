@@ -5,8 +5,16 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:49:44 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xhelozia në dashuri — ndjenjë apo problem</title>
+      <link>https://www.femradd.com/artikull/xhelozia-ndjenje-apo-problem</link>
+      <description>Xhelozia është njerëzore, por nuk është kurrë shenjë dashurie. Ja kur bëhet alarm i shëndetshëm dhe kur kthehet në kontroll të dëmshëm.</description>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/xhelozia-ndjenje-apo-problem</guid>
+      <category>Dashuri</category>
+    </item>
     <item>
       <title>Dashuria pas 30-tave — pse është ndryshe</title>
       <link>https://www.femradd.com/artikull/dashuria-pas-30-tave</link>
@@ -397,14 +405,6 @@
       <description>Kostumi kombëtar shqiptar mbart simbole të thella identiteti. Zbuloni historinë e veshjeve tradicionale dhe kuptimin e motifeve.</description>
       <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/kostumi-kombetar-simbolet</guid>
-      <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Fabula shqiptare — urtësia e lashtë për gruan moderne</title>
-      <link>https://www.femradd.com/artikull/fabula-shqiptare</link>
-      <description>Zbuloni fabulat shqiptare të lashta me mësime të përjetshme për gruan moderne. Tregime alegorike me kafshë që mësojnë vlera universale.</description>
-      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/fabula-shqiptare</guid>
       <category>Kuriozitete</category>
     </item>
   </channel>

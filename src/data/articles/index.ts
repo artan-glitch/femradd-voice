@@ -7822,6 +7822,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Ndani detaje të vogla të ditës, dërgoni letra zanore, bëni plane konkrete për takimin tjetër dhe mbani një ritual të përbashkët — një film, një libër."
         }
     ]
+},
+  {
+    "id": "489",
+    "slug": "xhelozia-ndjenje-apo-problem",
+    "title": "Xhelozia në dashuri — ndjenjë apo problem",
+    "excerpt": "Xhelozia është njerëzore, por nuk është kurrë shenjë dashurie. Ja kur bëhet alarm i shëndetshëm dhe kur kthehet në kontroll të dëmshëm.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-10-20",
+    "modifiedAt": "2026-10-20",
+    "faqs": [
+        {
+            "question": "A është e vërtetë që xhelozia tregon se dikush të do?",
+            "answer": "Jo. Xhelozia tregon pasiguri personale ose rrezik real në marrëdhënie — asnjërën nga këto nuk duhet ta ngatërrosh me dashuri."
+        },
+        {
+            "question": "Si ta dalloj xhelozinë e shëndetshme nga ajo toksike?",
+            "answer": "E shëndetshme të fton në bisedë dhe kalon. E toksike kërkon kontroll — telefon, miqësi, orare — dhe nuk shuhet kurrë vetëm."
+        },
+        {
+            "question": "A mund të kurohet xhelozia?",
+            "answer": "Po. Me vetëdije, terapi dhe punë mbi plagët e vjetra emocionale, xhelozia patologjike mund të zbutet dhe të zëvendësohet me besim."
+        }
+    ]
 }
 ];
 
