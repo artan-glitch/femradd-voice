@@ -7849,6 +7849,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Po. Me vetëdije, terapi dhe punë mbi plagët e vjetra emocionale, xhelozia patologjike mund të zbutet dhe të zëvendësohet me besim."
         }
     ]
+},
+  {
+    "id": "490",
+    "slug": "martesat-e-dyta-zgjasin",
+    "title": "Pse martesat e dyta zgjasin më shumë",
+    "excerpt": "Statistikat flasin: martesat e dyta kanë shanse më të mëdha për të zgjatur. Ja arsyet psikologjike dhe shoqërore pse pjekuria fiton gjithmonë.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "elira-hoxha",
+    "readingTime": 7,
+    "publishedAt": "2026-10-20",
+    "modifiedAt": "2026-10-20",
+    "faqs": [
+        {
+            "question": "A është e vërtetë që martesat e dyta zgjasin më shumë?",
+            "answer": "Statistikat tregojnë rezultate të përziera, por kërkimet nga Pew Research tregojnë se gratë e divorcuara që rimartohen pas 40-s kanë stabilitet më të lartë emocional në marrëdhënie."
+        },
+        {
+            "question": "A ka turp të martohesh për të dytën herë në Shqipëri?",
+            "answer": "Stigma po zbehet. Brezat e rinj shqiptarë e shohin divorcin dhe rimartesën si zgjedhje të përgjegjshme, jo dështim."
+        },
+        {
+            "question": "Çfarë duhet mësuar nga martesa e parë?",
+            "answer": "Jo kush ka pasur ‘faj’ — por si i trajtove konfliktet, mbylljet dhe nevojat e tua të pazëshme. Këto janë mësimet që bëjnë martesën e dytë ndryshe."
+        }
+    ]
 }
 ];
 

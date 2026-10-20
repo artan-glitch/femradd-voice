@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:49:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:24:49 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Xhelozia në dashuri — ndjenjë apo problem</title>
@@ -13,6 +13,14 @@
       <description>Xhelozia është njerëzore, por nuk është kurrë shenjë dashurie. Ja kur bëhet alarm i shëndetshëm dhe kur kthehet në kontroll të dëmshëm.</description>
       <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/xhelozia-ndjenje-apo-problem</guid>
+      <category>Dashuri</category>
+    </item>
+    <item>
+      <title>Pse martesat e dyta zgjasin më shumë</title>
+      <link>https://www.femradd.com/artikull/martesat-e-dyta-zgjasin</link>
+      <description>Statistikat flasin: martesat e dyta kanë shanse më të mëdha për të zgjatur. Ja arsyet psikologjike dhe shoqërore pse pjekuria fiton gjithmonë.</description>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/martesat-e-dyta-zgjasin</guid>
       <category>Dashuri</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Besa është vlera më e shenjtë e kulturës shqiptare. Zbuloni historinë, kuptimin dhe rëndësinë e besës në shoqërinë moderne.</description>
       <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/besa-shqiptare-kodi</guid>
-      <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Kostumi kombëtar — simbolet e identitetit</title>
-      <link>https://www.femradd.com/artikull/kostumi-kombetar-simbolet</link>
-      <description>Kostumi kombëtar shqiptar mbart simbole të thella identiteti. Zbuloni historinë e veshjeve tradicionale dhe kuptimin e motifeve.</description>
-      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/kostumi-kombetar-simbolet</guid>
       <category>Kuriozitete</category>
     </item>
   </channel>
