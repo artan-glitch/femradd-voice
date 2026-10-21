@@ -7903,6 +7903,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Është bërë më i cekët. Mesazhet në Instagram nuk kanë kontaktin e syve, timingun dhe heshtjen që bëjnë flirtimin e vërtetë kaq të fuqishëm."
         }
     ]
+},
+  {
+    "id": "492",
+    "slug": "dashuria-e-pare-pse-nuk-harrohet",
+    "title": "Dashuria e parë — pse nuk harrohet kurrë",
+    "excerpt": "Dashuria e parë lë gjurmë në tru dhe në identitet. Ja shkenca dhe psikologjia pas asaj emocioni që nuk fshihet asnjëherë plotësisht.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "arta-berisha",
+    "readingTime": 7,
+    "publishedAt": "2026-10-21",
+    "modifiedAt": "2026-10-21",
+    "faqs": [
+        {
+            "question": "Pse dashuria e parë lë kaq shumë gjurmë?",
+            "answer": "Sepse ndodh në një fazë kur truri po formohet ende, dhe përvoja e parë emocionale krijon një ‘model’ që ndikon marrëdhëniet e mëvonshme."
+        },
+        {
+            "question": "A duhet të kthehem te dashuria e parë?",
+            "answer": "Pyetja më e saktë është: a ka ndryshuar dikush prej jush me kohën, apo po kërkoni vetëm nostalgjinë? Nostalgjia nuk është marrëdhënie."
+        },
+        {
+            "question": "A është normale të ëndërrosh dashurinë e parë pas vitesh?",
+            "answer": "Po. Truri rikthen imazhe të forta emocionale si një mënyrë përpunimi, veçanërisht në fazat e tranzicionit ose stresit emocional."
+        }
+    ]
 }
 ];
 

@@ -5,7 +5,7 @@
     <link>https://www.femradd.com</link>
     <description>Revista online për gratë e reja shqiptare. Kulturë, dashuri, lifestyle dhe argëtim — frymëzim çdo ditë.</description>
     <language>sq</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:34:06 GMT</lastBuildDate>
     <atom:link href="https://www.femradd.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Flirtimi — arti i humbur që duhet rikthyer</title>
@@ -13,6 +13,14 @@
       <description>Në epokën e emoji-ve dhe swipe-ve, flirtimi i vërtetë është bërë luks. Ja pse është ende një nga armët më të fuqishme të femërores.</description>
       <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/flirtimi-arti-i-humbur</guid>
+      <category>Dashuri</category>
+    </item>
+    <item>
+      <title>Dashuria e parë — pse nuk harrohet kurrë</title>
+      <link>https://www.femradd.com/artikull/dashuria-e-pare-pse-nuk-harrohet</link>
+      <description>Dashuria e parë lë gjurmë në tru dhe në identitet. Ja shkenca dhe psikologjia pas asaj emocioni që nuk fshihet asnjëherë plotësisht.</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.femradd.com/artikull/dashuria-e-pare-pse-nuk-harrohet</guid>
       <category>Dashuri</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <description>Zbuloni figurat femërore të mitologjisë shqiptare — nga Zana e Malit te Ora. Gra të fuqishme që ruanin natyrën dhe fatin e njeriut.</description>
       <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
       <guid>https://www.femradd.com/artikull/mitologjia-shqiptare-gra</guid>
-      <category>Kuriozitete</category>
-    </item>
-    <item>
-      <title>Simbolet e shqiponjës — historia e stemës</title>
-      <link>https://www.femradd.com/artikull/simbolet-e-shqiponjes</link>
-      <description>Shqiponja me dy koka është simboli më i njohur shqiptar. Zbuloni historinë e stemës, nga Skënderbeu deri te flamuri modern.</description>
-      <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://www.femradd.com/artikull/simbolet-e-shqiponjes</guid>
       <category>Kuriozitete</category>
     </item>
   </channel>
