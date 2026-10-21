@@ -7876,6 +7876,33 @@ const _rawArticles: ArticleMeta[] = [
             "answer": "Jo kush ka pasur ‘faj’ — por si i trajtove konfliktet, mbylljet dhe nevojat e tua të pazëshme. Këto janë mësimet që bëjnë martesën e dytë ndryshe."
         }
     ]
+},
+  {
+    "id": "491",
+    "slug": "flirtimi-arti-i-humbur",
+    "title": "Flirtimi — arti i humbur që duhet rikthyer",
+    "excerpt": "Në epokën e emoji-ve dhe swipe-ve, flirtimi i vërtetë është bërë luks. Ja pse është ende një nga armët më të fuqishme të femërores.",
+    "image": "/images/categories/dashuri.webp",
+    "category": "dashuri",
+    "categoryLabel": "Dashuri",
+    "authorSlug": "drenushe-krasniqi",
+    "readingTime": 6,
+    "publishedAt": "2026-10-21",
+    "modifiedAt": "2026-10-21",
+    "faqs": [
+        {
+            "question": "A është flirtimi i papërshtatshëm për një grua moderne?",
+            "answer": "Përkundrazi. Flirtimi është shprehje e sigurisë dhe pranisë, jo nënshtrim. Është një artë e lojës, jo e varësisë."
+        },
+        {
+            "question": "Si të flirtosh pa dukur e dëshpëruar?",
+            "answer": "Mbaj gjithmonë jetën tënde si prioritet. Flirtimi funksionon kur buron nga plotësia, jo nga uria për vëmendje."
+        },
+        {
+            "question": "A ka ndryshuar flirtimi me teknologjinë?",
+            "answer": "Është bërë më i cekët. Mesazhet në Instagram nuk kanë kontaktin e syve, timingun dhe heshtjen që bëjnë flirtimin e vërtetë kaq të fuqishëm."
+        }
+    ]
 }
 ];
 
